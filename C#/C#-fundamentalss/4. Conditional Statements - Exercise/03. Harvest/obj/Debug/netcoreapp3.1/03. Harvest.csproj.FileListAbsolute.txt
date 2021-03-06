@@ -1,0 +1,10 @@
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\03. Harvest\bin\Debug\netcoreapp3.1\03. Harvest.exe
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\03. Harvest\bin\Debug\netcoreapp3.1\03. Harvest.deps.json
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\03. Harvest\bin\Debug\netcoreapp3.1\03. Harvest.runtimeconfig.json
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\03. Harvest\bin\Debug\netcoreapp3.1\03. Harvest.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\03. Harvest\bin\Debug\netcoreapp3.1\03. Harvest.dll
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\03. Harvest\bin\Debug\netcoreapp3.1\03. Harvest.pdb
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\03. Harvest\obj\Debug\netcoreapp3.1\03. Harvest.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\03. Harvest\obj\Debug\netcoreapp3.1\03. Harvest.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\03. Harvest\obj\Debug\netcoreapp3.1\03. Harvest.dll
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\03. Harvest\obj\Debug\netcoreapp3.1\03. Harvest.pdb

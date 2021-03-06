@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.exe
+C:\Users\Goshicha\source\repos\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.deps.json
+C:\Users\Goshicha\source\repos\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.dll
+C:\Users\Goshicha\source\repos\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.pdb
+C:\Users\Goshicha\source\repos\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.dll
+C:\Users\Goshicha\source\repos\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.pdb

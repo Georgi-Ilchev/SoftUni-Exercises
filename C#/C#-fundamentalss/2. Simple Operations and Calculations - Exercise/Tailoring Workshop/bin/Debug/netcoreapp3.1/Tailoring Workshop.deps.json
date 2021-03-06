@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Tailoring Workshop/1.0.0": {
+        "runtime": {
+          "Tailoring Workshop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tailoring Workshop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "13. Nikulden’s Charity/1.0.0": {
+        "runtime": {
+          "13. Nikulden’s Charity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "13. Nikulden’s Charity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

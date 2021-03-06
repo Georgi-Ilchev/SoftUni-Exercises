@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\Loops - Exercise\03. Odd or Even Position\bin\Debug\netcoreapp3.1\03. Odd or Even Position.exe
+C:\Users\Goshicha\source\repos\Loops - Exercise\03. Odd or Even Position\bin\Debug\netcoreapp3.1\03. Odd or Even Position.deps.json
+C:\Users\Goshicha\source\repos\Loops - Exercise\03. Odd or Even Position\bin\Debug\netcoreapp3.1\03. Odd or Even Position.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Loops - Exercise\03. Odd or Even Position\bin\Debug\netcoreapp3.1\03. Odd or Even Position.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Loops - Exercise\03. Odd or Even Position\bin\Debug\netcoreapp3.1\03. Odd or Even Position.dll
+C:\Users\Goshicha\source\repos\Loops - Exercise\03. Odd or Even Position\bin\Debug\netcoreapp3.1\03. Odd or Even Position.pdb
+C:\Users\Goshicha\source\repos\Loops - Exercise\03. Odd or Even Position\obj\Debug\netcoreapp3.1\03. Odd or Even Position.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\Loops - Exercise\03. Odd or Even Position\obj\Debug\netcoreapp3.1\03. Odd or Even Position.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Loops - Exercise\03. Odd or Even Position\obj\Debug\netcoreapp3.1\03. Odd or Even Position.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Loops - Exercise\03. Odd or Even Position\obj\Debug\netcoreapp3.1\03. Odd or Even Position.dll
+C:\Users\Goshicha\source\repos\Loops - Exercise\03. Odd or Even Position\obj\Debug\netcoreapp3.1\03. Odd or Even Position.pdb

@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\Problem 13. Experience Gaining\bin\Debug\netcoreapp3.1\Problem13. Experience Gaining.exe
+C:\Users\Goshicha\source\repos\Problem 13. Experience Gaining\bin\Debug\netcoreapp3.1\Problem13. Experience Gaining.deps.json
+C:\Users\Goshicha\source\repos\Problem 13. Experience Gaining\bin\Debug\netcoreapp3.1\Problem13. Experience Gaining.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Problem 13. Experience Gaining\bin\Debug\netcoreapp3.1\Problem13. Experience Gaining.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Problem 13. Experience Gaining\bin\Debug\netcoreapp3.1\Problem13. Experience Gaining.dll
+C:\Users\Goshicha\source\repos\Problem 13. Experience Gaining\bin\Debug\netcoreapp3.1\Problem13. Experience Gaining.pdb
+C:\Users\Goshicha\source\repos\Problem 13. Experience Gaining\obj\Debug\netcoreapp3.1\Problem13. Experience Gaining.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\Problem 13. Experience Gaining\obj\Debug\netcoreapp3.1\Problem13. Experience Gaining.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Problem 13. Experience Gaining\obj\Debug\netcoreapp3.1\Problem13. Experience Gaining.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Problem 13. Experience Gaining\obj\Debug\netcoreapp3.1\Problem13. Experience Gaining.dll
+C:\Users\Goshicha\source\repos\Problem 13. Experience Gaining\obj\Debug\netcoreapp3.1\Problem13. Experience Gaining.pdb

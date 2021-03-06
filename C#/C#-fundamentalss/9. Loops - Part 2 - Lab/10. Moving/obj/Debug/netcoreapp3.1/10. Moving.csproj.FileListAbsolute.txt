@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\9. Loops - Part 2 - Lab\10. Moving\bin\Debug\netcoreapp3.1\10. Moving.exe
+C:\Users\Goshicha\source\repos\9. Loops - Part 2 - Lab\10. Moving\bin\Debug\netcoreapp3.1\10. Moving.deps.json
+C:\Users\Goshicha\source\repos\9. Loops - Part 2 - Lab\10. Moving\bin\Debug\netcoreapp3.1\10. Moving.runtimeconfig.json
+C:\Users\Goshicha\source\repos\9. Loops - Part 2 - Lab\10. Moving\bin\Debug\netcoreapp3.1\10. Moving.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\9. Loops - Part 2 - Lab\10. Moving\bin\Debug\netcoreapp3.1\10. Moving.dll
+C:\Users\Goshicha\source\repos\9. Loops - Part 2 - Lab\10. Moving\bin\Debug\netcoreapp3.1\10. Moving.pdb
+C:\Users\Goshicha\source\repos\9. Loops - Part 2 - Lab\10. Moving\obj\Debug\netcoreapp3.1\10. Moving.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\9. Loops - Part 2 - Lab\10. Moving\obj\Debug\netcoreapp3.1\10. Moving.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\9. Loops - Part 2 - Lab\10. Moving\obj\Debug\netcoreapp3.1\10. Moving.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\9. Loops - Part 2 - Lab\10. Moving\obj\Debug\netcoreapp3.1\10. Moving.dll
+C:\Users\Goshicha\source\repos\9. Loops - Part 2 - Lab\10. Moving\obj\Debug\netcoreapp3.1\10. Moving.pdb

@@ -1,0 +1,10 @@
+C:\Users\Goshicha\source\repos\02. Mirror Words\bin\Debug\netcoreapp3.1\02. Mirror Words.exe
+C:\Users\Goshicha\source\repos\02. Mirror Words\bin\Debug\netcoreapp3.1\02. Mirror Words.deps.json
+C:\Users\Goshicha\source\repos\02. Mirror Words\bin\Debug\netcoreapp3.1\02. Mirror Words.runtimeconfig.json
+C:\Users\Goshicha\source\repos\02. Mirror Words\bin\Debug\netcoreapp3.1\02. Mirror Words.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\02. Mirror Words\bin\Debug\netcoreapp3.1\02. Mirror Words.dll
+C:\Users\Goshicha\source\repos\02. Mirror Words\bin\Debug\netcoreapp3.1\02. Mirror Words.pdb
+C:\Users\Goshicha\source\repos\02. Mirror Words\obj\Debug\netcoreapp3.1\02. Mirror Words.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\02. Mirror Words\obj\Debug\netcoreapp3.1\02. Mirror Words.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\02. Mirror Words\obj\Debug\netcoreapp3.1\02. Mirror Words.dll
+C:\Users\Goshicha\source\repos\02. Mirror Words\obj\Debug\netcoreapp3.1\02. Mirror Words.pdb

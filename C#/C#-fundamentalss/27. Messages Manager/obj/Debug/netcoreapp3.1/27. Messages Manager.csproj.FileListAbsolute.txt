@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\27. Messages Manager\bin\Debug\netcoreapp3.1\27. Messages Manager.exe
+C:\Users\Goshicha\source\repos\27. Messages Manager\bin\Debug\netcoreapp3.1\27. Messages Manager.deps.json
+C:\Users\Goshicha\source\repos\27. Messages Manager\bin\Debug\netcoreapp3.1\27. Messages Manager.runtimeconfig.json
+C:\Users\Goshicha\source\repos\27. Messages Manager\bin\Debug\netcoreapp3.1\27. Messages Manager.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\27. Messages Manager\bin\Debug\netcoreapp3.1\27. Messages Manager.dll
+C:\Users\Goshicha\source\repos\27. Messages Manager\bin\Debug\netcoreapp3.1\27. Messages Manager.pdb
+C:\Users\Goshicha\source\repos\27. Messages Manager\obj\Debug\netcoreapp3.1\27. Messages Manager.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\27. Messages Manager\obj\Debug\netcoreapp3.1\27. Messages Manager.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\27. Messages Manager\obj\Debug\netcoreapp3.1\27. Messages Manager.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\27. Messages Manager\obj\Debug\netcoreapp3.1\27. Messages Manager.dll
+C:\Users\Goshicha\source\repos\27. Messages Manager\obj\Debug\netcoreapp3.1\27. Messages Manager.pdb

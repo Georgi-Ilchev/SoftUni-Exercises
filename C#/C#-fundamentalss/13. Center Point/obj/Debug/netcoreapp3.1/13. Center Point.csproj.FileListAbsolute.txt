@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\13. Center Point\bin\Debug\netcoreapp3.1\13. Center Point.exe
+C:\Users\Goshicha\source\repos\13. Center Point\bin\Debug\netcoreapp3.1\13. Center Point.deps.json
+C:\Users\Goshicha\source\repos\13. Center Point\bin\Debug\netcoreapp3.1\13. Center Point.runtimeconfig.json
+C:\Users\Goshicha\source\repos\13. Center Point\bin\Debug\netcoreapp3.1\13. Center Point.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\13. Center Point\bin\Debug\netcoreapp3.1\13. Center Point.dll
+C:\Users\Goshicha\source\repos\13. Center Point\bin\Debug\netcoreapp3.1\13. Center Point.pdb
+C:\Users\Goshicha\source\repos\13. Center Point\obj\Debug\netcoreapp3.1\13. Center Point.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\13. Center Point\obj\Debug\netcoreapp3.1\13. Center Point.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\13. Center Point\obj\Debug\netcoreapp3.1\13. Center Point.dll
+C:\Users\Goshicha\source\repos\13. Center Point\obj\Debug\netcoreapp3.1\13. Center Point.pdb
+C:\Users\Goshicha\source\repos\13. Center Point\obj\Debug\netcoreapp3.1\13. Center Point.csprojAssemblyReference.cache

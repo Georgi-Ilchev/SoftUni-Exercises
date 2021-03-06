@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\05. Nested Conditional Statements\bin\Debug\netcoreapp3.1\05. Nested Conditional Statements.exe
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\05. Nested Conditional Statements\bin\Debug\netcoreapp3.1\05. Nested Conditional Statements.deps.json
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\05. Nested Conditional Statements\bin\Debug\netcoreapp3.1\05. Nested Conditional Statements.runtimeconfig.json
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\05. Nested Conditional Statements\bin\Debug\netcoreapp3.1\05. Nested Conditional Statements.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\05. Nested Conditional Statements\bin\Debug\netcoreapp3.1\05. Nested Conditional Statements.dll
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\05. Nested Conditional Statements\bin\Debug\netcoreapp3.1\05. Nested Conditional Statements.pdb
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\05. Nested Conditional Statements\obj\Debug\netcoreapp3.1\05. Nested Conditional Statements.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\05. Nested Conditional Statements\obj\Debug\netcoreapp3.1\05. Nested Conditional Statements.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\05. Nested Conditional Statements\obj\Debug\netcoreapp3.1\05. Nested Conditional Statements.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\05. Nested Conditional Statements\obj\Debug\netcoreapp3.1\05. Nested Conditional Statements.dll
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\05. Nested Conditional Statements\obj\Debug\netcoreapp3.1\05. Nested Conditional Statements.pdb

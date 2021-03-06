@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\Methods\bin\Debug\netcoreapp3.1\Methods.exe
+C:\Users\Goshicha\source\repos\Methods\bin\Debug\netcoreapp3.1\Methods.deps.json
+C:\Users\Goshicha\source\repos\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Methods\bin\Debug\netcoreapp3.1\Methods.dll
+C:\Users\Goshicha\source\repos\Methods\bin\Debug\netcoreapp3.1\Methods.pdb
+C:\Users\Goshicha\source\repos\Methods\obj\Debug\netcoreapp3.1\Methods.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Methods\obj\Debug\netcoreapp3.1\Methods.dll
+C:\Users\Goshicha\source\repos\Methods\obj\Debug\netcoreapp3.1\Methods.pdb

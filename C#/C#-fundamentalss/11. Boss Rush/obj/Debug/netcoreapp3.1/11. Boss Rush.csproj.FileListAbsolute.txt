@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\11. Boss Rush\bin\Debug\netcoreapp3.1\11. Boss Rush.exe
+C:\Users\Goshicha\source\repos\11. Boss Rush\bin\Debug\netcoreapp3.1\11. Boss Rush.deps.json
+C:\Users\Goshicha\source\repos\11. Boss Rush\bin\Debug\netcoreapp3.1\11. Boss Rush.runtimeconfig.json
+C:\Users\Goshicha\source\repos\11. Boss Rush\bin\Debug\netcoreapp3.1\11. Boss Rush.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\11. Boss Rush\bin\Debug\netcoreapp3.1\11. Boss Rush.dll
+C:\Users\Goshicha\source\repos\11. Boss Rush\bin\Debug\netcoreapp3.1\11. Boss Rush.pdb
+C:\Users\Goshicha\source\repos\11. Boss Rush\obj\Debug\netcoreapp3.1\11. Boss Rush.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\11. Boss Rush\obj\Debug\netcoreapp3.1\11. Boss Rush.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\11. Boss Rush\obj\Debug\netcoreapp3.1\11. Boss Rush.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\11. Boss Rush\obj\Debug\netcoreapp3.1\11. Boss Rush.dll
+C:\Users\Goshicha\source\repos\11. Boss Rush\obj\Debug\netcoreapp3.1\11. Boss Rush.pdb

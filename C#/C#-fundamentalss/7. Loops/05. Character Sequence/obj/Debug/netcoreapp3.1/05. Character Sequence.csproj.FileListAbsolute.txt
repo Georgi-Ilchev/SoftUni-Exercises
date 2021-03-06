@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\7. Loops\05. Character Sequence\bin\Debug\netcoreapp3.1\05. Character Sequence.exe
+C:\Users\Goshicha\source\repos\7. Loops\05. Character Sequence\bin\Debug\netcoreapp3.1\05. Character Sequence.deps.json
+C:\Users\Goshicha\source\repos\7. Loops\05. Character Sequence\bin\Debug\netcoreapp3.1\05. Character Sequence.runtimeconfig.json
+C:\Users\Goshicha\source\repos\7. Loops\05. Character Sequence\bin\Debug\netcoreapp3.1\05. Character Sequence.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\7. Loops\05. Character Sequence\bin\Debug\netcoreapp3.1\05. Character Sequence.dll
+C:\Users\Goshicha\source\repos\7. Loops\05. Character Sequence\bin\Debug\netcoreapp3.1\05. Character Sequence.pdb
+C:\Users\Goshicha\source\repos\7. Loops\05. Character Sequence\obj\Debug\netcoreapp3.1\05. Character Sequence.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\7. Loops\05. Character Sequence\obj\Debug\netcoreapp3.1\05. Character Sequence.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\7. Loops\05. Character Sequence\obj\Debug\netcoreapp3.1\05. Character Sequence.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\7. Loops\05. Character Sequence\obj\Debug\netcoreapp3.1\05. Character Sequence.dll
+C:\Users\Goshicha\source\repos\7. Loops\05. Character Sequence\obj\Debug\netcoreapp3.1\05. Character Sequence.pdb

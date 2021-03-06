@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\11. Speed Racing\bin\Debug\netcoreapp3.1\11. Speed Racing.exe
+C:\Users\Goshicha\source\repos\11. Speed Racing\bin\Debug\netcoreapp3.1\11. Speed Racing.deps.json
+C:\Users\Goshicha\source\repos\11. Speed Racing\bin\Debug\netcoreapp3.1\11. Speed Racing.runtimeconfig.json
+C:\Users\Goshicha\source\repos\11. Speed Racing\bin\Debug\netcoreapp3.1\11. Speed Racing.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\11. Speed Racing\bin\Debug\netcoreapp3.1\11. Speed Racing.dll
+C:\Users\Goshicha\source\repos\11. Speed Racing\bin\Debug\netcoreapp3.1\11. Speed Racing.pdb
+C:\Users\Goshicha\source\repos\11. Speed Racing\obj\Debug\netcoreapp3.1\11. Speed Racing.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\11. Speed Racing\obj\Debug\netcoreapp3.1\11. Speed Racing.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\11. Speed Racing\obj\Debug\netcoreapp3.1\11. Speed Racing.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\11. Speed Racing\obj\Debug\netcoreapp3.1\11. Speed Racing.dll
+C:\Users\Goshicha\source\repos\11. Speed Racing\obj\Debug\netcoreapp3.1\11. Speed Racing.pdb

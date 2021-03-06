@@ -1,0 +1,10 @@
+C:\Users\Goshicha\source\repos\exercise 5\bin\Debug\netcoreapp3.1\exercise 5.exe
+C:\Users\Goshicha\source\repos\exercise 5\bin\Debug\netcoreapp3.1\exercise 5.deps.json
+C:\Users\Goshicha\source\repos\exercise 5\bin\Debug\netcoreapp3.1\exercise 5.runtimeconfig.json
+C:\Users\Goshicha\source\repos\exercise 5\bin\Debug\netcoreapp3.1\exercise 5.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\exercise 5\bin\Debug\netcoreapp3.1\exercise 5.dll
+C:\Users\Goshicha\source\repos\exercise 5\bin\Debug\netcoreapp3.1\exercise 5.pdb
+C:\Users\Goshicha\source\repos\exercise 5\obj\Debug\netcoreapp3.1\exercise 5.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\exercise 5\obj\Debug\netcoreapp3.1\exercise 5.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\exercise 5\obj\Debug\netcoreapp3.1\exercise 5.dll
+C:\Users\Goshicha\source\repos\exercise 5\obj\Debug\netcoreapp3.1\exercise 5.pdb

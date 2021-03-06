@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Training Lab\bin\Debug\netcoreapp3.1\Training Lab.exe
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Training Lab\bin\Debug\netcoreapp3.1\Training Lab.deps.json
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Training Lab\bin\Debug\netcoreapp3.1\Training Lab.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Training Lab\bin\Debug\netcoreapp3.1\Training Lab.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Training Lab\bin\Debug\netcoreapp3.1\Training Lab.dll
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Training Lab\bin\Debug\netcoreapp3.1\Training Lab.pdb
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Training Lab\obj\Debug\netcoreapp3.1\Training Lab.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Training Lab\obj\Debug\netcoreapp3.1\Training Lab.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Training Lab\obj\Debug\netcoreapp3.1\Training Lab.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Training Lab\obj\Debug\netcoreapp3.1\Training Lab.dll
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Training Lab\obj\Debug\netcoreapp3.1\Training Lab.pdb

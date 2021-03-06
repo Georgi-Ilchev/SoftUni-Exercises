@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.exe
+C:\Users\Goshicha\source\repos\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.deps.json
+C:\Users\Goshicha\source\repos\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.runtimeconfig.json
+C:\Users\Goshicha\source\repos\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.dll
+C:\Users\Goshicha\source\repos\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.pdb
+C:\Users\Goshicha\source\repos\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.dll
+C:\Users\Goshicha\source\repos\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.pdb
+C:\Users\Goshicha\source\repos\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\Goshicha\source\repos\SimpleSnakeWithoutWall\obj\Debug\netcoreapp3.1\SimpleSnakeWithoutWall.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\SimpleSnakeWithoutWall\obj\Debug\netcoreapp3.1\SimpleSnakeWithoutWall.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\SimpleSnakeWithoutWall\obj\Debug\netcoreapp3.1\SimpleSnakeWithoutWall.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\SimpleSnakeWithoutWall\obj\Debug\netcoreapp3.1\SimpleSnakeWithoutWall.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\SimpleSnakeWithoutWall\bin\Debug\netcoreapp3.1\SimpleSnakeWithoutWall.exe
+C:\Users\Goshicha\source\repos\SimpleSnakeWithoutWall\bin\Debug\netcoreapp3.1\SimpleSnakeWithoutWall.deps.json
+C:\Users\Goshicha\source\repos\SimpleSnakeWithoutWall\bin\Debug\netcoreapp3.1\SimpleSnakeWithoutWall.runtimeconfig.json
+C:\Users\Goshicha\source\repos\SimpleSnakeWithoutWall\bin\Debug\netcoreapp3.1\SimpleSnakeWithoutWall.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\SimpleSnakeWithoutWall\bin\Debug\netcoreapp3.1\SimpleSnakeWithoutWall.dll
+C:\Users\Goshicha\source\repos\SimpleSnakeWithoutWall\bin\Debug\netcoreapp3.1\SimpleSnakeWithoutWall.pdb
+C:\Users\Goshicha\source\repos\SimpleSnakeWithoutWall\obj\Debug\netcoreapp3.1\SimpleSnakeWithoutWall.dll
+C:\Users\Goshicha\source\repos\SimpleSnakeWithoutWall\obj\Debug\netcoreapp3.1\SimpleSnakeWithoutWall.pdb
+C:\Users\Goshicha\source\repos\SimpleSnakeWithoutWall\obj\Debug\netcoreapp3.1\SimpleSnakeWithoutWall.genruntimeconfig.cache

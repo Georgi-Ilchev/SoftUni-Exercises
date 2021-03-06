@@ -1,0 +1,10 @@
+C:\Users\Goshicha\source\repos\9. Loops - Part 2 - Lab\07. Min Number\bin\Debug\netcoreapp3.1\07. Min Number.exe
+C:\Users\Goshicha\source\repos\9. Loops - Part 2 - Lab\07. Min Number\bin\Debug\netcoreapp3.1\07. Min Number.deps.json
+C:\Users\Goshicha\source\repos\9. Loops - Part 2 - Lab\07. Min Number\bin\Debug\netcoreapp3.1\07. Min Number.runtimeconfig.json
+C:\Users\Goshicha\source\repos\9. Loops - Part 2 - Lab\07. Min Number\bin\Debug\netcoreapp3.1\07. Min Number.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\9. Loops - Part 2 - Lab\07. Min Number\bin\Debug\netcoreapp3.1\07. Min Number.dll
+C:\Users\Goshicha\source\repos\9. Loops - Part 2 - Lab\07. Min Number\bin\Debug\netcoreapp3.1\07. Min Number.pdb
+C:\Users\Goshicha\source\repos\9. Loops - Part 2 - Lab\07. Min Number\obj\Debug\netcoreapp3.1\07. Min Number.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\9. Loops - Part 2 - Lab\07. Min Number\obj\Debug\netcoreapp3.1\07. Min Number.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\9. Loops - Part 2 - Lab\07. Min Number\obj\Debug\netcoreapp3.1\07. Min Number.dll
+C:\Users\Goshicha\source\repos\9. Loops - Part 2 - Lab\07. Min Number\obj\Debug\netcoreapp3.1\07. Min Number.pdb

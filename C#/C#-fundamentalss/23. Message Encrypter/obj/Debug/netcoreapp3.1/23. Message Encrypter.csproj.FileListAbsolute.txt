@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\23. Message Encrypter\bin\Debug\netcoreapp3.1\23. Message Encrypter.exe
+C:\Users\Goshicha\source\repos\23. Message Encrypter\bin\Debug\netcoreapp3.1\23. Message Encrypter.deps.json
+C:\Users\Goshicha\source\repos\23. Message Encrypter\bin\Debug\netcoreapp3.1\23. Message Encrypter.runtimeconfig.json
+C:\Users\Goshicha\source\repos\23. Message Encrypter\bin\Debug\netcoreapp3.1\23. Message Encrypter.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\23. Message Encrypter\bin\Debug\netcoreapp3.1\23. Message Encrypter.dll
+C:\Users\Goshicha\source\repos\23. Message Encrypter\bin\Debug\netcoreapp3.1\23. Message Encrypter.pdb
+C:\Users\Goshicha\source\repos\23. Message Encrypter\obj\Debug\netcoreapp3.1\23. Message Encrypter.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\23. Message Encrypter\obj\Debug\netcoreapp3.1\23. Message Encrypter.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\23. Message Encrypter\obj\Debug\netcoreapp3.1\23. Message Encrypter.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\23. Message Encrypter\obj\Debug\netcoreapp3.1\23. Message Encrypter.dll
+C:\Users\Goshicha\source\repos\23. Message Encrypter\obj\Debug\netcoreapp3.1\23. Message Encrypter.pdb

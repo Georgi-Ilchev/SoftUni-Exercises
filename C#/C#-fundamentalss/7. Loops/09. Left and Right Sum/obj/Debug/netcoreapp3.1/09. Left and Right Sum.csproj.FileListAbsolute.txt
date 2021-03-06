@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\7. Loops\09. Left and Right Sum\bin\Debug\netcoreapp3.1\09. Left and Right Sum.exe
+C:\Users\Goshicha\source\repos\7. Loops\09. Left and Right Sum\bin\Debug\netcoreapp3.1\09. Left and Right Sum.deps.json
+C:\Users\Goshicha\source\repos\7. Loops\09. Left and Right Sum\bin\Debug\netcoreapp3.1\09. Left and Right Sum.runtimeconfig.json
+C:\Users\Goshicha\source\repos\7. Loops\09. Left and Right Sum\bin\Debug\netcoreapp3.1\09. Left and Right Sum.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\7. Loops\09. Left and Right Sum\bin\Debug\netcoreapp3.1\09. Left and Right Sum.dll
+C:\Users\Goshicha\source\repos\7. Loops\09. Left and Right Sum\bin\Debug\netcoreapp3.1\09. Left and Right Sum.pdb
+C:\Users\Goshicha\source\repos\7. Loops\09. Left and Right Sum\obj\Debug\netcoreapp3.1\09. Left and Right Sum.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\7. Loops\09. Left and Right Sum\obj\Debug\netcoreapp3.1\09. Left and Right Sum.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\7. Loops\09. Left and Right Sum\obj\Debug\netcoreapp3.1\09. Left and Right Sum.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\7. Loops\09. Left and Right Sum\obj\Debug\netcoreapp3.1\09. Left and Right Sum.dll
+C:\Users\Goshicha\source\repos\7. Loops\09. Left and Right Sum\obj\Debug\netcoreapp3.1\09. Left and Right Sum.pdb

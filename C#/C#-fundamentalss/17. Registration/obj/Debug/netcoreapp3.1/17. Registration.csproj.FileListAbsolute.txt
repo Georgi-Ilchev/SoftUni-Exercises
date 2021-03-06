@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\17. Registration\bin\Debug\netcoreapp3.1\17. Registration.exe
+C:\Users\Goshicha\source\repos\17. Registration\bin\Debug\netcoreapp3.1\17. Registration.deps.json
+C:\Users\Goshicha\source\repos\17. Registration\bin\Debug\netcoreapp3.1\17. Registration.runtimeconfig.json
+C:\Users\Goshicha\source\repos\17. Registration\bin\Debug\netcoreapp3.1\17. Registration.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\17. Registration\bin\Debug\netcoreapp3.1\17. Registration.dll
+C:\Users\Goshicha\source\repos\17. Registration\bin\Debug\netcoreapp3.1\17. Registration.pdb
+C:\Users\Goshicha\source\repos\17. Registration\obj\Debug\netcoreapp3.1\17. Registration.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\17. Registration\obj\Debug\netcoreapp3.1\17. Registration.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\17. Registration\obj\Debug\netcoreapp3.1\17. Registration.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\17. Registration\obj\Debug\netcoreapp3.1\17. Registration.dll
+C:\Users\Goshicha\source\repos\17. Registration\obj\Debug\netcoreapp3.1\17. Registration.pdb

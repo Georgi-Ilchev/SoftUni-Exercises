@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\09.2 P!rates\bin\Debug\netcoreapp3.1\09.2 P!rates.exe
+C:\Users\Goshicha\source\repos\09.2 P!rates\bin\Debug\netcoreapp3.1\09.2 P!rates.deps.json
+C:\Users\Goshicha\source\repos\09.2 P!rates\bin\Debug\netcoreapp3.1\09.2 P!rates.runtimeconfig.json
+C:\Users\Goshicha\source\repos\09.2 P!rates\bin\Debug\netcoreapp3.1\09.2 P!rates.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\09.2 P!rates\bin\Debug\netcoreapp3.1\09.2 P!rates.dll
+C:\Users\Goshicha\source\repos\09.2 P!rates\bin\Debug\netcoreapp3.1\09.2 P!rates.pdb
+C:\Users\Goshicha\source\repos\09.2 P!rates\obj\Debug\netcoreapp3.1\09.2 P!rates.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\09.2 P!rates\obj\Debug\netcoreapp3.1\09.2 P!rates.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\09.2 P!rates\obj\Debug\netcoreapp3.1\09.2 P!rates.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\09.2 P!rates\obj\Debug\netcoreapp3.1\09.2 P!rates.dll
+C:\Users\Goshicha\source\repos\09.2 P!rates\obj\Debug\netcoreapp3.1\09.2 P!rates.pdb

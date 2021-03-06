@@ -1,0 +1,13 @@
+C:\Users\Goshicha\source\repos\5. ClassBoxData\bin\Debug\netcoreapp3.1\5. ClassBoxData.exe
+C:\Users\Goshicha\source\repos\5. ClassBoxData\bin\Debug\netcoreapp3.1\5. ClassBoxData.deps.json
+C:\Users\Goshicha\source\repos\5. ClassBoxData\bin\Debug\netcoreapp3.1\5. ClassBoxData.runtimeconfig.json
+C:\Users\Goshicha\source\repos\5. ClassBoxData\bin\Debug\netcoreapp3.1\5. ClassBoxData.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\5. ClassBoxData\bin\Debug\netcoreapp3.1\5. ClassBoxData.dll
+C:\Users\Goshicha\source\repos\5. ClassBoxData\bin\Debug\netcoreapp3.1\5. ClassBoxData.pdb
+C:\Users\Goshicha\source\repos\5. ClassBoxData\obj\Debug\netcoreapp3.1\5. ClassBoxData.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\5. ClassBoxData\obj\Debug\netcoreapp3.1\5. ClassBoxData.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\5. ClassBoxData\obj\Debug\netcoreapp3.1\5. ClassBoxData.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\5. ClassBoxData\obj\Debug\netcoreapp3.1\5. ClassBoxData.dll
+C:\Users\Goshicha\source\repos\5. ClassBoxData\obj\Debug\netcoreapp3.1\5. ClassBoxData.pdb
+C:\Users\Goshicha\source\repos\5. ClassBoxData\obj\Debug\netcoreapp3.1\5. ClassBoxData.genruntimeconfig.cache
+C:\Users\Goshicha\source\repos\5. ClassBoxData\obj\Debug\netcoreapp3.1\5. ClassBoxData.csprojAssemblyReference.cache

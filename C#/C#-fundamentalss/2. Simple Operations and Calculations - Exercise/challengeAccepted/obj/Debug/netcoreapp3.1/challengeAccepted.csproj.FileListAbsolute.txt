@@ -1,0 +1,10 @@
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\challengeAccepted\bin\Debug\netcoreapp3.1\challengeAccepted.exe
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\challengeAccepted\bin\Debug\netcoreapp3.1\challengeAccepted.deps.json
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\challengeAccepted\bin\Debug\netcoreapp3.1\challengeAccepted.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\challengeAccepted\bin\Debug\netcoreapp3.1\challengeAccepted.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\challengeAccepted\bin\Debug\netcoreapp3.1\challengeAccepted.dll
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\challengeAccepted\bin\Debug\netcoreapp3.1\challengeAccepted.pdb
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\challengeAccepted\obj\Debug\netcoreapp3.1\challengeAccepted.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\challengeAccepted\obj\Debug\netcoreapp3.1\challengeAccepted.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\challengeAccepted\obj\Debug\netcoreapp3.1\challengeAccepted.dll
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\challengeAccepted\obj\Debug\netcoreapp3.1\challengeAccepted.pdb

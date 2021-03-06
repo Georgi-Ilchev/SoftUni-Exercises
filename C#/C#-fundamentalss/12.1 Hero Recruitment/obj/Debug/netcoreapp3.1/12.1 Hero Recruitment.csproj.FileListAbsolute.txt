@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\12.1 Hero Recruitment\bin\Debug\netcoreapp3.1\12.1 Hero Recruitment.exe
+C:\Users\Goshicha\source\repos\12.1 Hero Recruitment\bin\Debug\netcoreapp3.1\12.1 Hero Recruitment.deps.json
+C:\Users\Goshicha\source\repos\12.1 Hero Recruitment\bin\Debug\netcoreapp3.1\12.1 Hero Recruitment.runtimeconfig.json
+C:\Users\Goshicha\source\repos\12.1 Hero Recruitment\bin\Debug\netcoreapp3.1\12.1 Hero Recruitment.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\12.1 Hero Recruitment\bin\Debug\netcoreapp3.1\12.1 Hero Recruitment.dll
+C:\Users\Goshicha\source\repos\12.1 Hero Recruitment\bin\Debug\netcoreapp3.1\12.1 Hero Recruitment.pdb
+C:\Users\Goshicha\source\repos\12.1 Hero Recruitment\obj\Debug\netcoreapp3.1\12.1 Hero Recruitment.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\12.1 Hero Recruitment\obj\Debug\netcoreapp3.1\12.1 Hero Recruitment.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\12.1 Hero Recruitment\obj\Debug\netcoreapp3.1\12.1 Hero Recruitment.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\12.1 Hero Recruitment\obj\Debug\netcoreapp3.1\12.1 Hero Recruitment.dll
+C:\Users\Goshicha\source\repos\12.1 Hero Recruitment\obj\Debug\netcoreapp3.1\12.1 Hero Recruitment.pdb

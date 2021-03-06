@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Alcohol Market\bin\Debug\netcoreapp3.1\Alcohol Market.exe
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Alcohol Market\bin\Debug\netcoreapp3.1\Alcohol Market.deps.json
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Alcohol Market\bin\Debug\netcoreapp3.1\Alcohol Market.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Alcohol Market\bin\Debug\netcoreapp3.1\Alcohol Market.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Alcohol Market\bin\Debug\netcoreapp3.1\Alcohol Market.dll
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Alcohol Market\bin\Debug\netcoreapp3.1\Alcohol Market.pdb
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Alcohol Market\obj\Debug\netcoreapp3.1\Alcohol Market.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Alcohol Market\obj\Debug\netcoreapp3.1\Alcohol Market.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Alcohol Market\obj\Debug\netcoreapp3.1\Alcohol Market.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Alcohol Market\obj\Debug\netcoreapp3.1\Alcohol Market.dll
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Alcohol Market\obj\Debug\netcoreapp3.1\Alcohol Market.pdb

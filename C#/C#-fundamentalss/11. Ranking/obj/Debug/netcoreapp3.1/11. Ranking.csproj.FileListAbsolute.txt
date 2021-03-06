@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\11. Ranking\bin\Debug\netcoreapp3.1\11. Ranking.exe
+C:\Users\Goshicha\source\repos\11. Ranking\bin\Debug\netcoreapp3.1\11. Ranking.deps.json
+C:\Users\Goshicha\source\repos\11. Ranking\bin\Debug\netcoreapp3.1\11. Ranking.runtimeconfig.json
+C:\Users\Goshicha\source\repos\11. Ranking\bin\Debug\netcoreapp3.1\11. Ranking.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\11. Ranking\bin\Debug\netcoreapp3.1\11. Ranking.dll
+C:\Users\Goshicha\source\repos\11. Ranking\bin\Debug\netcoreapp3.1\11. Ranking.pdb
+C:\Users\Goshicha\source\repos\11. Ranking\obj\Debug\netcoreapp3.1\11. Ranking.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\11. Ranking\obj\Debug\netcoreapp3.1\11. Ranking.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\11. Ranking\obj\Debug\netcoreapp3.1\11. Ranking.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\11. Ranking\obj\Debug\netcoreapp3.1\11. Ranking.dll
+C:\Users\Goshicha\source\repos\11. Ranking\obj\Debug\netcoreapp3.1\11. Ranking.pdb

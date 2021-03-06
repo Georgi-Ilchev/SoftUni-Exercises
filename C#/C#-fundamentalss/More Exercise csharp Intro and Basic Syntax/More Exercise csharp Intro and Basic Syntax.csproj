@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>More_Exercise_csharp_Intro_and_Basic_Syntax</RootNamespace>
+  </PropertyGroup>
+
+</Project>

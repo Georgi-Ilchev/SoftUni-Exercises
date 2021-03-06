@@ -1,0 +1,10 @@
+C:\Users\Goshicha\source\repos\02. Odd Occurrences\bin\Debug\netcoreapp3.1\02. Odd Occurrences.exe
+C:\Users\Goshicha\source\repos\02. Odd Occurrences\bin\Debug\netcoreapp3.1\02. Odd Occurrences.deps.json
+C:\Users\Goshicha\source\repos\02. Odd Occurrences\bin\Debug\netcoreapp3.1\02. Odd Occurrences.runtimeconfig.json
+C:\Users\Goshicha\source\repos\02. Odd Occurrences\bin\Debug\netcoreapp3.1\02. Odd Occurrences.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\02. Odd Occurrences\bin\Debug\netcoreapp3.1\02. Odd Occurrences.dll
+C:\Users\Goshicha\source\repos\02. Odd Occurrences\bin\Debug\netcoreapp3.1\02. Odd Occurrences.pdb
+C:\Users\Goshicha\source\repos\02. Odd Occurrences\obj\Debug\netcoreapp3.1\02. Odd Occurrences.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\02. Odd Occurrences\obj\Debug\netcoreapp3.1\02. Odd Occurrences.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\02. Odd Occurrences\obj\Debug\netcoreapp3.1\02. Odd Occurrences.dll
+C:\Users\Goshicha\source\repos\02. Odd Occurrences\obj\Debug\netcoreapp3.1\02. Odd Occurrences.pdb

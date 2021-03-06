@@ -1,0 +1,10 @@
+C:\Users\Goshicha\source\repos\Examples2\Pet Shop\bin\Debug\netcoreapp3.1\Pet Shop.exe
+C:\Users\Goshicha\source\repos\Examples2\Pet Shop\bin\Debug\netcoreapp3.1\Pet Shop.deps.json
+C:\Users\Goshicha\source\repos\Examples2\Pet Shop\bin\Debug\netcoreapp3.1\Pet Shop.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Examples2\Pet Shop\bin\Debug\netcoreapp3.1\Pet Shop.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Examples2\Pet Shop\bin\Debug\netcoreapp3.1\Pet Shop.dll
+C:\Users\Goshicha\source\repos\Examples2\Pet Shop\bin\Debug\netcoreapp3.1\Pet Shop.pdb
+C:\Users\Goshicha\source\repos\Examples2\Pet Shop\obj\Debug\netcoreapp3.1\Pet Shop.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Examples2\Pet Shop\obj\Debug\netcoreapp3.1\Pet Shop.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Examples2\Pet Shop\obj\Debug\netcoreapp3.1\Pet Shop.dll
+C:\Users\Goshicha\source\repos\Examples2\Pet Shop\obj\Debug\netcoreapp3.1\Pet Shop.pdb

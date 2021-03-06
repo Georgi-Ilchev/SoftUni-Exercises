@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\7. Loops\Loops\bin\Debug\netcoreapp3.1\01. Numbers from 1 to 100.exe
+C:\Users\Goshicha\source\repos\7. Loops\Loops\bin\Debug\netcoreapp3.1\01. Numbers from 1 to 100.deps.json
+C:\Users\Goshicha\source\repos\7. Loops\Loops\bin\Debug\netcoreapp3.1\01. Numbers from 1 to 100.runtimeconfig.json
+C:\Users\Goshicha\source\repos\7. Loops\Loops\bin\Debug\netcoreapp3.1\01. Numbers from 1 to 100.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\7. Loops\Loops\bin\Debug\netcoreapp3.1\01. Numbers from 1 to 100.dll
+C:\Users\Goshicha\source\repos\7. Loops\Loops\bin\Debug\netcoreapp3.1\01. Numbers from 1 to 100.pdb
+C:\Users\Goshicha\source\repos\7. Loops\Loops\obj\Debug\netcoreapp3.1\01. Numbers from 1 to 100.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\7. Loops\Loops\obj\Debug\netcoreapp3.1\01. Numbers from 1 to 100.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\7. Loops\Loops\obj\Debug\netcoreapp3.1\01. Numbers from 1 to 100.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\7. Loops\Loops\obj\Debug\netcoreapp3.1\01. Numbers from 1 to 100.dll
+C:\Users\Goshicha\source\repos\7. Loops\Loops\obj\Debug\netcoreapp3.1\01. Numbers from 1 to 100.pdb

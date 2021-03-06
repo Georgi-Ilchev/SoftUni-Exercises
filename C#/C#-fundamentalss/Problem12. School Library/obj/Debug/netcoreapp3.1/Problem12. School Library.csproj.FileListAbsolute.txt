@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\Problem12. School Library\bin\Debug\netcoreapp3.1\Problem12. School Library.exe
+C:\Users\Goshicha\source\repos\Problem12. School Library\bin\Debug\netcoreapp3.1\Problem12. School Library.deps.json
+C:\Users\Goshicha\source\repos\Problem12. School Library\bin\Debug\netcoreapp3.1\Problem12. School Library.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Problem12. School Library\bin\Debug\netcoreapp3.1\Problem12. School Library.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Problem12. School Library\bin\Debug\netcoreapp3.1\Problem12. School Library.dll
+C:\Users\Goshicha\source\repos\Problem12. School Library\bin\Debug\netcoreapp3.1\Problem12. School Library.pdb
+C:\Users\Goshicha\source\repos\Problem12. School Library\obj\Debug\netcoreapp3.1\Problem12. School Library.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\Problem12. School Library\obj\Debug\netcoreapp3.1\Problem12. School Library.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Problem12. School Library\obj\Debug\netcoreapp3.1\Problem12. School Library.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Problem12. School Library\obj\Debug\netcoreapp3.1\Problem12. School Library.dll
+C:\Users\Goshicha\source\repos\Problem12. School Library\obj\Debug\netcoreapp3.1\Problem12. School Library.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Problem12. School Library/1.0.0": {
+        "runtime": {
+          "Problem12. School Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Problem12. School Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

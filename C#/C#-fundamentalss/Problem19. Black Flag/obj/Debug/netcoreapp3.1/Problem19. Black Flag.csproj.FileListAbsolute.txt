@@ -1,0 +1,10 @@
+C:\Users\Goshicha\source\repos\Problem19. Black Flag\bin\Debug\netcoreapp3.1\Problem19. Black Flag.exe
+C:\Users\Goshicha\source\repos\Problem19. Black Flag\bin\Debug\netcoreapp3.1\Problem19. Black Flag.deps.json
+C:\Users\Goshicha\source\repos\Problem19. Black Flag\bin\Debug\netcoreapp3.1\Problem19. Black Flag.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Problem19. Black Flag\bin\Debug\netcoreapp3.1\Problem19. Black Flag.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Problem19. Black Flag\bin\Debug\netcoreapp3.1\Problem19. Black Flag.dll
+C:\Users\Goshicha\source\repos\Problem19. Black Flag\bin\Debug\netcoreapp3.1\Problem19. Black Flag.pdb
+C:\Users\Goshicha\source\repos\Problem19. Black Flag\obj\Debug\netcoreapp3.1\Problem19. Black Flag.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Problem19. Black Flag\obj\Debug\netcoreapp3.1\Problem19. Black Flag.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Problem19. Black Flag\obj\Debug\netcoreapp3.1\Problem19. Black Flag.dll
+C:\Users\Goshicha\source\repos\Problem19. Black Flag\obj\Debug\netcoreapp3.1\Problem19. Black Flag.pdb

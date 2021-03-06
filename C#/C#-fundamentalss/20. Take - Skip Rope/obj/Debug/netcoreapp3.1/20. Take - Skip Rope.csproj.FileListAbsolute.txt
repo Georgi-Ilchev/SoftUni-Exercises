@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\20. Take - Skip Rope\bin\Debug\netcoreapp3.1\20. Take - Skip Rope.exe
+C:\Users\Goshicha\source\repos\20. Take - Skip Rope\bin\Debug\netcoreapp3.1\20. Take - Skip Rope.deps.json
+C:\Users\Goshicha\source\repos\20. Take - Skip Rope\bin\Debug\netcoreapp3.1\20. Take - Skip Rope.runtimeconfig.json
+C:\Users\Goshicha\source\repos\20. Take - Skip Rope\bin\Debug\netcoreapp3.1\20. Take - Skip Rope.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\20. Take - Skip Rope\bin\Debug\netcoreapp3.1\20. Take - Skip Rope.dll
+C:\Users\Goshicha\source\repos\20. Take - Skip Rope\bin\Debug\netcoreapp3.1\20. Take - Skip Rope.pdb
+C:\Users\Goshicha\source\repos\20. Take - Skip Rope\obj\Debug\netcoreapp3.1\20. Take - Skip Rope.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\20. Take - Skip Rope\obj\Debug\netcoreapp3.1\20. Take - Skip Rope.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\20. Take - Skip Rope\obj\Debug\netcoreapp3.1\20. Take - Skip Rope.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\20. Take - Skip Rope\obj\Debug\netcoreapp3.1\20. Take - Skip Rope.dll
+C:\Users\Goshicha\source\repos\20. Take - Skip Rope\obj\Debug\netcoreapp3.1\20. Take - Skip Rope.pdb

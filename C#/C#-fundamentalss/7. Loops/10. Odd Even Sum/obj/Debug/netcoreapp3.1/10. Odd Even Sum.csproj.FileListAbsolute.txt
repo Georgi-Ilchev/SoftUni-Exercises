@@ -1,0 +1,10 @@
+C:\Users\Goshicha\source\repos\7. Loops\10. Odd Even Sum\bin\Debug\netcoreapp3.1\10. Odd Even Sum.exe
+C:\Users\Goshicha\source\repos\7. Loops\10. Odd Even Sum\bin\Debug\netcoreapp3.1\10. Odd Even Sum.deps.json
+C:\Users\Goshicha\source\repos\7. Loops\10. Odd Even Sum\bin\Debug\netcoreapp3.1\10. Odd Even Sum.runtimeconfig.json
+C:\Users\Goshicha\source\repos\7. Loops\10. Odd Even Sum\bin\Debug\netcoreapp3.1\10. Odd Even Sum.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\7. Loops\10. Odd Even Sum\bin\Debug\netcoreapp3.1\10. Odd Even Sum.dll
+C:\Users\Goshicha\source\repos\7. Loops\10. Odd Even Sum\bin\Debug\netcoreapp3.1\10. Odd Even Sum.pdb
+C:\Users\Goshicha\source\repos\7. Loops\10. Odd Even Sum\obj\Debug\netcoreapp3.1\10. Odd Even Sum.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\7. Loops\10. Odd Even Sum\obj\Debug\netcoreapp3.1\10. Odd Even Sum.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\7. Loops\10. Odd Even Sum\obj\Debug\netcoreapp3.1\10. Odd Even Sum.dll
+C:\Users\Goshicha\source\repos\7. Loops\10. Odd Even Sum\obj\Debug\netcoreapp3.1\10. Odd Even Sum.pdb

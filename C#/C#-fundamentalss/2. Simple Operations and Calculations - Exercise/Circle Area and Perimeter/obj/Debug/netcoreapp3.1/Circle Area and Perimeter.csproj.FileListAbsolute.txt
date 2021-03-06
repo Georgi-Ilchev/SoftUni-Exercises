@@ -1,0 +1,10 @@
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Circle Area and Perimeter\bin\Debug\netcoreapp3.1\Circle Area and Perimeter.exe
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Circle Area and Perimeter\bin\Debug\netcoreapp3.1\Circle Area and Perimeter.deps.json
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Circle Area and Perimeter\bin\Debug\netcoreapp3.1\Circle Area and Perimeter.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Circle Area and Perimeter\bin\Debug\netcoreapp3.1\Circle Area and Perimeter.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Circle Area and Perimeter\bin\Debug\netcoreapp3.1\Circle Area and Perimeter.dll
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Circle Area and Perimeter\bin\Debug\netcoreapp3.1\Circle Area and Perimeter.pdb
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Circle Area and Perimeter\obj\Debug\netcoreapp3.1\Circle Area and Perimeter.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Circle Area and Perimeter\obj\Debug\netcoreapp3.1\Circle Area and Perimeter.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Circle Area and Perimeter\obj\Debug\netcoreapp3.1\Circle Area and Perimeter.dll
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Circle Area and Perimeter\obj\Debug\netcoreapp3.1\Circle Area and Perimeter.pdb

@@ -1,0 +1,10 @@
+C:\Users\Goshicha\source\repos\Problem 5. Shopping List\bin\Debug\netcoreapp3.1\Problem 5. Shopping List.exe
+C:\Users\Goshicha\source\repos\Problem 5. Shopping List\bin\Debug\netcoreapp3.1\Problem 5. Shopping List.deps.json
+C:\Users\Goshicha\source\repos\Problem 5. Shopping List\bin\Debug\netcoreapp3.1\Problem 5. Shopping List.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Problem 5. Shopping List\bin\Debug\netcoreapp3.1\Problem 5. Shopping List.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Problem 5. Shopping List\bin\Debug\netcoreapp3.1\Problem 5. Shopping List.dll
+C:\Users\Goshicha\source\repos\Problem 5. Shopping List\bin\Debug\netcoreapp3.1\Problem 5. Shopping List.pdb
+C:\Users\Goshicha\source\repos\Problem 5. Shopping List\obj\Debug\netcoreapp3.1\Problem 5. Shopping List.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Problem 5. Shopping List\obj\Debug\netcoreapp3.1\Problem 5. Shopping List.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Problem 5. Shopping List\obj\Debug\netcoreapp3.1\Problem 5. Shopping List.dll
+C:\Users\Goshicha\source\repos\Problem 5. Shopping List\obj\Debug\netcoreapp3.1\Problem 5. Shopping List.pdb

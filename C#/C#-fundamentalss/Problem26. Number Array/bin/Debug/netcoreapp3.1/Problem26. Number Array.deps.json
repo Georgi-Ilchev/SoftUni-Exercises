@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Problem26. Number Array/1.0.0": {
+        "runtime": {
+          "Problem26. Number Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Problem26. Number Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\2. Race\bin\Debug\netcoreapp3.1\2. Race.exe
+C:\Users\Goshicha\source\repos\2. Race\bin\Debug\netcoreapp3.1\2. Race.deps.json
+C:\Users\Goshicha\source\repos\2. Race\bin\Debug\netcoreapp3.1\2. Race.runtimeconfig.json
+C:\Users\Goshicha\source\repos\2. Race\bin\Debug\netcoreapp3.1\2. Race.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\2. Race\bin\Debug\netcoreapp3.1\2. Race.dll
+C:\Users\Goshicha\source\repos\2. Race\bin\Debug\netcoreapp3.1\2. Race.pdb
+C:\Users\Goshicha\source\repos\2. Race\obj\Debug\netcoreapp3.1\2. Race.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\2. Race\obj\Debug\netcoreapp3.1\2. Race.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\2. Race\obj\Debug\netcoreapp3.1\2. Race.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\2. Race\obj\Debug\netcoreapp3.1\2. Race.dll
+C:\Users\Goshicha\source\repos\2. Race\obj\Debug\netcoreapp3.1\2. Race.pdb

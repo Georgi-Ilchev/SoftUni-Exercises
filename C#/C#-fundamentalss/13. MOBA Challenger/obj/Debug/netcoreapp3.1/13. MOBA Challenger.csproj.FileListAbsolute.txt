@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\13. MOBA Challenger\bin\Debug\netcoreapp3.1\13. MOBA Challenger.exe
+C:\Users\Goshicha\source\repos\13. MOBA Challenger\bin\Debug\netcoreapp3.1\13. MOBA Challenger.deps.json
+C:\Users\Goshicha\source\repos\13. MOBA Challenger\bin\Debug\netcoreapp3.1\13. MOBA Challenger.runtimeconfig.json
+C:\Users\Goshicha\source\repos\13. MOBA Challenger\bin\Debug\netcoreapp3.1\13. MOBA Challenger.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\13. MOBA Challenger\bin\Debug\netcoreapp3.1\13. MOBA Challenger.dll
+C:\Users\Goshicha\source\repos\13. MOBA Challenger\bin\Debug\netcoreapp3.1\13. MOBA Challenger.pdb
+C:\Users\Goshicha\source\repos\13. MOBA Challenger\obj\Debug\netcoreapp3.1\13. MOBA Challenger.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\13. MOBA Challenger\obj\Debug\netcoreapp3.1\13. MOBA Challenger.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\13. MOBA Challenger\obj\Debug\netcoreapp3.1\13. MOBA Challenger.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\13. MOBA Challenger\obj\Debug\netcoreapp3.1\13. MOBA Challenger.dll
+C:\Users\Goshicha\source\repos\13. MOBA Challenger\obj\Debug\netcoreapp3.1\13. MOBA Challenger.pdb

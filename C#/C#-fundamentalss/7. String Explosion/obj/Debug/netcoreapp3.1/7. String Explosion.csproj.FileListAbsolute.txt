@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\7. String Explosion\bin\Debug\netcoreapp3.1\7. String Explosion.exe
+C:\Users\Goshicha\source\repos\7. String Explosion\bin\Debug\netcoreapp3.1\7. String Explosion.deps.json
+C:\Users\Goshicha\source\repos\7. String Explosion\bin\Debug\netcoreapp3.1\7. String Explosion.runtimeconfig.json
+C:\Users\Goshicha\source\repos\7. String Explosion\bin\Debug\netcoreapp3.1\7. String Explosion.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\7. String Explosion\bin\Debug\netcoreapp3.1\7. String Explosion.dll
+C:\Users\Goshicha\source\repos\7. String Explosion\bin\Debug\netcoreapp3.1\7. String Explosion.pdb
+C:\Users\Goshicha\source\repos\7. String Explosion\obj\Debug\netcoreapp3.1\7. String Explosion.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\7. String Explosion\obj\Debug\netcoreapp3.1\7. String Explosion.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\7. String Explosion\obj\Debug\netcoreapp3.1\7. String Explosion.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\7. String Explosion\obj\Debug\netcoreapp3.1\7. String Explosion.dll
+C:\Users\Goshicha\source\repos\7. String Explosion\obj\Debug\netcoreapp3.1\7. String Explosion.pdb

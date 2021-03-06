@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Loops - Part 2 - Lab/1.0.0": {
+        "runtime": {
+          "Loops - Part 2 - Lab.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Loops - Part 2 - Lab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

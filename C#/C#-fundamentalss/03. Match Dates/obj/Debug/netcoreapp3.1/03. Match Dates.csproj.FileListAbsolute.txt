@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\03. Match Dates\bin\Debug\netcoreapp3.1\03. Match Dates.exe
+C:\Users\Goshicha\source\repos\03. Match Dates\bin\Debug\netcoreapp3.1\03. Match Dates.deps.json
+C:\Users\Goshicha\source\repos\03. Match Dates\bin\Debug\netcoreapp3.1\03. Match Dates.runtimeconfig.json
+C:\Users\Goshicha\source\repos\03. Match Dates\bin\Debug\netcoreapp3.1\03. Match Dates.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\03. Match Dates\bin\Debug\netcoreapp3.1\03. Match Dates.dll
+C:\Users\Goshicha\source\repos\03. Match Dates\bin\Debug\netcoreapp3.1\03. Match Dates.pdb
+C:\Users\Goshicha\source\repos\03. Match Dates\obj\Debug\netcoreapp3.1\03. Match Dates.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\03. Match Dates\obj\Debug\netcoreapp3.1\03. Match Dates.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\03. Match Dates\obj\Debug\netcoreapp3.1\03. Match Dates.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\03. Match Dates\obj\Debug\netcoreapp3.1\03. Match Dates.dll
+C:\Users\Goshicha\source\repos\03. Match Dates\obj\Debug\netcoreapp3.1\03. Match Dates.pdb

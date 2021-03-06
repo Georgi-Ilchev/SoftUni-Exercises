@@ -1,0 +1,17 @@
+C:\Users\Goshicha\source\repos\SillyGame\bin\Debug\netcoreapp3.1\OOP - Workshop.exe
+C:\Users\Goshicha\source\repos\SillyGame\bin\Debug\netcoreapp3.1\SillyGame.exe
+C:\Users\Goshicha\source\repos\SillyGame\bin\Debug\netcoreapp3.1\SillyGame.deps.json
+C:\Users\Goshicha\source\repos\SillyGame\bin\Debug\netcoreapp3.1\SillyGame.runtimeconfig.json
+C:\Users\Goshicha\source\repos\SillyGame\bin\Debug\netcoreapp3.1\SillyGame.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\SillyGame\bin\Debug\netcoreapp3.1\SillyGame.dll
+C:\Users\Goshicha\source\repos\SillyGame\bin\Debug\netcoreapp3.1\SillyGame.pdb
+C:\Users\Goshicha\source\repos\SillyGame\bin\Debug\netcoreapp3.1\OOP - Workshop.dll
+C:\Users\Goshicha\source\repos\SillyGame\bin\Debug\netcoreapp3.1\OOP - Workshop.pdb
+C:\Users\Goshicha\source\repos\SillyGame\obj\Debug\netcoreapp3.1\SillyGame.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\SillyGame\obj\Debug\netcoreapp3.1\SillyGame.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\SillyGame\obj\Debug\netcoreapp3.1\SillyGame.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\SillyGame\obj\Debug\netcoreapp3.1\SillyGame.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\SillyGame\obj\Debug\netcoreapp3.1\SillyGame.csproj.CopyComplete
+C:\Users\Goshicha\source\repos\SillyGame\obj\Debug\netcoreapp3.1\SillyGame.dll
+C:\Users\Goshicha\source\repos\SillyGame\obj\Debug\netcoreapp3.1\SillyGame.pdb
+C:\Users\Goshicha\source\repos\SillyGame\obj\Debug\netcoreapp3.1\SillyGame.genruntimeconfig.cache

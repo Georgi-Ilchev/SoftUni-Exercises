@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WwuuPh0GSRGKhT0+mTU3bcaHvZgQQbZFw9zTXuqeHvzk1seTfbnn3CvIQDL9eFy44Vaj8E/82R+p3m6820Xb3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Goshicha\\source\\repos\\NetCoreDI\\NetCoreDI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Goshicha\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\Goshicha\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

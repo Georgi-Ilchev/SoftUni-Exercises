@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\25. String Manipulator - Group 1\bin\Debug\netcoreapp3.1\25. String Manipulator - 2.exe
+C:\Users\Goshicha\source\repos\25. String Manipulator - Group 1\bin\Debug\netcoreapp3.1\25. String Manipulator - 2.deps.json
+C:\Users\Goshicha\source\repos\25. String Manipulator - Group 1\bin\Debug\netcoreapp3.1\25. String Manipulator - 2.runtimeconfig.json
+C:\Users\Goshicha\source\repos\25. String Manipulator - Group 1\bin\Debug\netcoreapp3.1\25. String Manipulator - 2.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\25. String Manipulator - Group 1\bin\Debug\netcoreapp3.1\25. String Manipulator - 2.dll
+C:\Users\Goshicha\source\repos\25. String Manipulator - Group 1\bin\Debug\netcoreapp3.1\25. String Manipulator - 2.pdb
+C:\Users\Goshicha\source\repos\25. String Manipulator - Group 1\obj\Debug\netcoreapp3.1\25. String Manipulator - 2.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\25. String Manipulator - Group 1\obj\Debug\netcoreapp3.1\25. String Manipulator - 2.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\25. String Manipulator - Group 1\obj\Debug\netcoreapp3.1\25. String Manipulator - 2.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\25. String Manipulator - Group 1\obj\Debug\netcoreapp3.1\25. String Manipulator - 2.dll
+C:\Users\Goshicha\source\repos\25. String Manipulator - Group 1\obj\Debug\netcoreapp3.1\25. String Manipulator - 2.pdb

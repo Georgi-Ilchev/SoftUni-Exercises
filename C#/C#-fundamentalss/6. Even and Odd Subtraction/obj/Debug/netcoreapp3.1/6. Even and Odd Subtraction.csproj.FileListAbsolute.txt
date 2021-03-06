@@ -1,0 +1,10 @@
+C:\Users\Goshicha\source\repos\6. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\6. Even and Odd Subtraction.exe
+C:\Users\Goshicha\source\repos\6. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\6. Even and Odd Subtraction.deps.json
+C:\Users\Goshicha\source\repos\6. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\6. Even and Odd Subtraction.runtimeconfig.json
+C:\Users\Goshicha\source\repos\6. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\6. Even and Odd Subtraction.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\6. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\6. Even and Odd Subtraction.dll
+C:\Users\Goshicha\source\repos\6. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\6. Even and Odd Subtraction.pdb
+C:\Users\Goshicha\source\repos\6. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\6. Even and Odd Subtraction.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\6. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\6. Even and Odd Subtraction.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\6. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\6. Even and Odd Subtraction.dll
+C:\Users\Goshicha\source\repos\6. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\6. Even and Odd Subtraction.pdb

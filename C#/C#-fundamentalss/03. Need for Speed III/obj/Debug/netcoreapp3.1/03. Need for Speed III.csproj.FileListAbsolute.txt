@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\03. Need for Speed III\bin\Debug\netcoreapp3.1\03. Need for Speed III.exe
+C:\Users\Goshicha\source\repos\03. Need for Speed III\bin\Debug\netcoreapp3.1\03. Need for Speed III.deps.json
+C:\Users\Goshicha\source\repos\03. Need for Speed III\bin\Debug\netcoreapp3.1\03. Need for Speed III.runtimeconfig.json
+C:\Users\Goshicha\source\repos\03. Need for Speed III\bin\Debug\netcoreapp3.1\03. Need for Speed III.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\03. Need for Speed III\bin\Debug\netcoreapp3.1\03. Need for Speed III.dll
+C:\Users\Goshicha\source\repos\03. Need for Speed III\bin\Debug\netcoreapp3.1\03. Need for Speed III.pdb
+C:\Users\Goshicha\source\repos\03. Need for Speed III\obj\Debug\netcoreapp3.1\03. Need for Speed III.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\03. Need for Speed III\obj\Debug\netcoreapp3.1\03. Need for Speed III.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\03. Need for Speed III\obj\Debug\netcoreapp3.1\03. Need for Speed III.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\03. Need for Speed III\obj\Debug\netcoreapp3.1\03. Need for Speed III.dll
+C:\Users\Goshicha\source\repos\03. Need for Speed III\obj\Debug\netcoreapp3.1\03. Need for Speed III.pdb

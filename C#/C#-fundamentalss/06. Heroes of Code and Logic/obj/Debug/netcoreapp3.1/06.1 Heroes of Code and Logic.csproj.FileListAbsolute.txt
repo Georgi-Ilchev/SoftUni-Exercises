@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\06. Heroes of Code and Logic\bin\Debug\netcoreapp3.1\06.1 Heroes of Code and Logic.exe
+C:\Users\Goshicha\source\repos\06. Heroes of Code and Logic\bin\Debug\netcoreapp3.1\06.1 Heroes of Code and Logic.deps.json
+C:\Users\Goshicha\source\repos\06. Heroes of Code and Logic\bin\Debug\netcoreapp3.1\06.1 Heroes of Code and Logic.runtimeconfig.json
+C:\Users\Goshicha\source\repos\06. Heroes of Code and Logic\bin\Debug\netcoreapp3.1\06.1 Heroes of Code and Logic.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\06. Heroes of Code and Logic\bin\Debug\netcoreapp3.1\06.1 Heroes of Code and Logic.dll
+C:\Users\Goshicha\source\repos\06. Heroes of Code and Logic\bin\Debug\netcoreapp3.1\06.1 Heroes of Code and Logic.pdb
+C:\Users\Goshicha\source\repos\06. Heroes of Code and Logic\obj\Debug\netcoreapp3.1\06.1 Heroes of Code and Logic.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\06. Heroes of Code and Logic\obj\Debug\netcoreapp3.1\06.1 Heroes of Code and Logic.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\06. Heroes of Code and Logic\obj\Debug\netcoreapp3.1\06.1 Heroes of Code and Logic.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\06. Heroes of Code and Logic\obj\Debug\netcoreapp3.1\06.1 Heroes of Code and Logic.dll
+C:\Users\Goshicha\source\repos\06. Heroes of Code and Logic\obj\Debug\netcoreapp3.1\06.1 Heroes of Code and Logic.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Nested Loops - Lab/1.0.0": {
+        "runtime": {
+          "Nested Loops - Lab.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Nested Loops - Lab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\08. Triangle of Numbers\bin\Debug\netcoreapp3.1\08. Triangle of Numbers.exe
+C:\Users\Goshicha\source\repos\08. Triangle of Numbers\bin\Debug\netcoreapp3.1\08. Triangle of Numbers.deps.json
+C:\Users\Goshicha\source\repos\08. Triangle of Numbers\bin\Debug\netcoreapp3.1\08. Triangle of Numbers.runtimeconfig.json
+C:\Users\Goshicha\source\repos\08. Triangle of Numbers\bin\Debug\netcoreapp3.1\08. Triangle of Numbers.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\08. Triangle of Numbers\bin\Debug\netcoreapp3.1\08. Triangle of Numbers.dll
+C:\Users\Goshicha\source\repos\08. Triangle of Numbers\bin\Debug\netcoreapp3.1\08. Triangle of Numbers.pdb
+C:\Users\Goshicha\source\repos\08. Triangle of Numbers\obj\Debug\netcoreapp3.1\08. Triangle of Numbers.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\08. Triangle of Numbers\obj\Debug\netcoreapp3.1\08. Triangle of Numbers.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\08. Triangle of Numbers\obj\Debug\netcoreapp3.1\08. Triangle of Numbers.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\08. Triangle of Numbers\obj\Debug\netcoreapp3.1\08. Triangle of Numbers.dll
+C:\Users\Goshicha\source\repos\08. Triangle of Numbers\obj\Debug\netcoreapp3.1\08. Triangle of Numbers.pdb

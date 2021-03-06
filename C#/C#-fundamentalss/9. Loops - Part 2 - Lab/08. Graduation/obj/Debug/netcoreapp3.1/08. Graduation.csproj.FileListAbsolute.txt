@@ -1,0 +1,10 @@
+C:\Users\Goshicha\source\repos\9. Loops - Part 2 - Lab\08. Graduation\bin\Debug\netcoreapp3.1\08. Graduation.exe
+C:\Users\Goshicha\source\repos\9. Loops - Part 2 - Lab\08. Graduation\bin\Debug\netcoreapp3.1\08. Graduation.deps.json
+C:\Users\Goshicha\source\repos\9. Loops - Part 2 - Lab\08. Graduation\bin\Debug\netcoreapp3.1\08. Graduation.runtimeconfig.json
+C:\Users\Goshicha\source\repos\9. Loops - Part 2 - Lab\08. Graduation\bin\Debug\netcoreapp3.1\08. Graduation.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\9. Loops - Part 2 - Lab\08. Graduation\bin\Debug\netcoreapp3.1\08. Graduation.dll
+C:\Users\Goshicha\source\repos\9. Loops - Part 2 - Lab\08. Graduation\bin\Debug\netcoreapp3.1\08. Graduation.pdb
+C:\Users\Goshicha\source\repos\9. Loops - Part 2 - Lab\08. Graduation\obj\Debug\netcoreapp3.1\08. Graduation.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\9. Loops - Part 2 - Lab\08. Graduation\obj\Debug\netcoreapp3.1\08. Graduation.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\9. Loops - Part 2 - Lab\08. Graduation\obj\Debug\netcoreapp3.1\08. Graduation.dll
+C:\Users\Goshicha\source\repos\9. Loops - Part 2 - Lab\08. Graduation\obj\Debug\netcoreapp3.1\08. Graduation.pdb

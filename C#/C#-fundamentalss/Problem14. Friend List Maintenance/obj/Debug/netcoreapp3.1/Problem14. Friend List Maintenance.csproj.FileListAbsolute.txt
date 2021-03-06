@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\Problem14. Friend List Maintenance\bin\Debug\netcoreapp3.1\Problem14. Friend List Maintenance.exe
+C:\Users\Goshicha\source\repos\Problem14. Friend List Maintenance\bin\Debug\netcoreapp3.1\Problem14. Friend List Maintenance.deps.json
+C:\Users\Goshicha\source\repos\Problem14. Friend List Maintenance\bin\Debug\netcoreapp3.1\Problem14. Friend List Maintenance.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Problem14. Friend List Maintenance\bin\Debug\netcoreapp3.1\Problem14. Friend List Maintenance.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Problem14. Friend List Maintenance\bin\Debug\netcoreapp3.1\Problem14. Friend List Maintenance.dll
+C:\Users\Goshicha\source\repos\Problem14. Friend List Maintenance\bin\Debug\netcoreapp3.1\Problem14. Friend List Maintenance.pdb
+C:\Users\Goshicha\source\repos\Problem14. Friend List Maintenance\obj\Debug\netcoreapp3.1\Problem14. Friend List Maintenance.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\Problem14. Friend List Maintenance\obj\Debug\netcoreapp3.1\Problem14. Friend List Maintenance.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Problem14. Friend List Maintenance\obj\Debug\netcoreapp3.1\Problem14. Friend List Maintenance.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Problem14. Friend List Maintenance\obj\Debug\netcoreapp3.1\Problem14. Friend List Maintenance.dll
+C:\Users\Goshicha\source\repos\Problem14. Friend List Maintenance\obj\Debug\netcoreapp3.1\Problem14. Friend List Maintenance.pdb

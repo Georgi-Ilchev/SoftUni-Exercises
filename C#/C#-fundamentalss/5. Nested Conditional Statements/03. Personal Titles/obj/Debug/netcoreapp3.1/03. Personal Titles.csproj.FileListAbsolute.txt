@@ -1,0 +1,10 @@
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\03. Personal Titles\bin\Debug\netcoreapp3.1\03. Personal Titles.exe
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\03. Personal Titles\bin\Debug\netcoreapp3.1\03. Personal Titles.deps.json
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\03. Personal Titles\bin\Debug\netcoreapp3.1\03. Personal Titles.runtimeconfig.json
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\03. Personal Titles\bin\Debug\netcoreapp3.1\03. Personal Titles.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\03. Personal Titles\bin\Debug\netcoreapp3.1\03. Personal Titles.dll
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\03. Personal Titles\bin\Debug\netcoreapp3.1\03. Personal Titles.pdb
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\03. Personal Titles\obj\Debug\netcoreapp3.1\03. Personal Titles.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\03. Personal Titles\obj\Debug\netcoreapp3.1\03. Personal Titles.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\03. Personal Titles\obj\Debug\netcoreapp3.1\03. Personal Titles.dll
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\03. Personal Titles\obj\Debug\netcoreapp3.1\03. Personal Titles.pdb

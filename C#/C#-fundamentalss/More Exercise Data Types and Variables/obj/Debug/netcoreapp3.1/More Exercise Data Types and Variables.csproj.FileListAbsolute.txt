@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\More Exercise Data Types and Variables\bin\Debug\netcoreapp3.1\More Exercise Data Types and Variables.exe
+C:\Users\Goshicha\source\repos\More Exercise Data Types and Variables\bin\Debug\netcoreapp3.1\More Exercise Data Types and Variables.deps.json
+C:\Users\Goshicha\source\repos\More Exercise Data Types and Variables\bin\Debug\netcoreapp3.1\More Exercise Data Types and Variables.runtimeconfig.json
+C:\Users\Goshicha\source\repos\More Exercise Data Types and Variables\bin\Debug\netcoreapp3.1\More Exercise Data Types and Variables.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\More Exercise Data Types and Variables\bin\Debug\netcoreapp3.1\More Exercise Data Types and Variables.dll
+C:\Users\Goshicha\source\repos\More Exercise Data Types and Variables\bin\Debug\netcoreapp3.1\More Exercise Data Types and Variables.pdb
+C:\Users\Goshicha\source\repos\More Exercise Data Types and Variables\obj\Debug\netcoreapp3.1\More Exercise Data Types and Variables.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\More Exercise Data Types and Variables\obj\Debug\netcoreapp3.1\More Exercise Data Types and Variables.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\More Exercise Data Types and Variables\obj\Debug\netcoreapp3.1\More Exercise Data Types and Variables.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\More Exercise Data Types and Variables\obj\Debug\netcoreapp3.1\More Exercise Data Types and Variables.dll
+C:\Users\Goshicha\source\repos\More Exercise Data Types and Variables\obj\Debug\netcoreapp3.1\More Exercise Data Types and Variables.pdb

@@ -1,0 +1,13 @@
+C:\Users\Goshicha\source\repos\Exam-16August2020\bin\Debug\netcoreapp3.1\Exam-16August2020.exe
+C:\Users\Goshicha\source\repos\Exam-16August2020\bin\Debug\netcoreapp3.1\Exam-16August2020.deps.json
+C:\Users\Goshicha\source\repos\Exam-16August2020\bin\Debug\netcoreapp3.1\Exam-16August2020.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Exam-16August2020\bin\Debug\netcoreapp3.1\Exam-16August2020.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Exam-16August2020\bin\Debug\netcoreapp3.1\Exam-16August2020.dll
+C:\Users\Goshicha\source\repos\Exam-16August2020\bin\Debug\netcoreapp3.1\Exam-16August2020.pdb
+C:\Users\Goshicha\source\repos\Exam-16August2020\obj\Debug\netcoreapp3.1\Exam-16August2020.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\Exam-16August2020\obj\Debug\netcoreapp3.1\Exam-16August2020.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Exam-16August2020\obj\Debug\netcoreapp3.1\Exam-16August2020.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Exam-16August2020\obj\Debug\netcoreapp3.1\Exam-16August2020.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\Exam-16August2020\obj\Debug\netcoreapp3.1\Exam-16August2020.dll
+C:\Users\Goshicha\source\repos\Exam-16August2020\obj\Debug\netcoreapp3.1\Exam-16August2020.pdb
+C:\Users\Goshicha\source\repos\Exam-16August2020\obj\Debug\netcoreapp3.1\Exam-16August2020.genruntimeconfig.cache

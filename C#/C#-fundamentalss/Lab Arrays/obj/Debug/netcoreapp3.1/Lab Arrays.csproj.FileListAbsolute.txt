@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\Lab Arrays\bin\Debug\netcoreapp3.1\Lab Arrays.exe
+C:\Users\Goshicha\source\repos\Lab Arrays\bin\Debug\netcoreapp3.1\Lab Arrays.deps.json
+C:\Users\Goshicha\source\repos\Lab Arrays\bin\Debug\netcoreapp3.1\Lab Arrays.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Lab Arrays\bin\Debug\netcoreapp3.1\Lab Arrays.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Lab Arrays\bin\Debug\netcoreapp3.1\Lab Arrays.dll
+C:\Users\Goshicha\source\repos\Lab Arrays\bin\Debug\netcoreapp3.1\Lab Arrays.pdb
+C:\Users\Goshicha\source\repos\Lab Arrays\obj\Debug\netcoreapp3.1\Lab Arrays.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\Lab Arrays\obj\Debug\netcoreapp3.1\Lab Arrays.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Lab Arrays\obj\Debug\netcoreapp3.1\Lab Arrays.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Lab Arrays\obj\Debug\netcoreapp3.1\Lab Arrays.dll
+C:\Users\Goshicha\source\repos\Lab Arrays\obj\Debug\netcoreapp3.1\Lab Arrays.pdb

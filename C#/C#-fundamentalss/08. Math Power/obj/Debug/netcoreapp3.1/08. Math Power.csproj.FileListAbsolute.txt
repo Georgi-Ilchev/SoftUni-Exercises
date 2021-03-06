@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\08. Math Power\bin\Debug\netcoreapp3.1\08. Math Power.exe
+C:\Users\Goshicha\source\repos\08. Math Power\bin\Debug\netcoreapp3.1\08. Math Power.deps.json
+C:\Users\Goshicha\source\repos\08. Math Power\bin\Debug\netcoreapp3.1\08. Math Power.runtimeconfig.json
+C:\Users\Goshicha\source\repos\08. Math Power\bin\Debug\netcoreapp3.1\08. Math Power.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\08. Math Power\bin\Debug\netcoreapp3.1\08. Math Power.dll
+C:\Users\Goshicha\source\repos\08. Math Power\bin\Debug\netcoreapp3.1\08. Math Power.pdb
+C:\Users\Goshicha\source\repos\08. Math Power\obj\Debug\netcoreapp3.1\08. Math Power.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\08. Math Power\obj\Debug\netcoreapp3.1\08. Math Power.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\08. Math Power\obj\Debug\netcoreapp3.1\08. Math Power.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\08. Math Power\obj\Debug\netcoreapp3.1\08. Math Power.dll
+C:\Users\Goshicha\source\repos\08. Math Power\obj\Debug\netcoreapp3.1\08. Math Power.pdb

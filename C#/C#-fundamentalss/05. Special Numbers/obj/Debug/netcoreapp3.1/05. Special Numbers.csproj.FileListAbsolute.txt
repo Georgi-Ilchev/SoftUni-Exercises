@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.exe
+C:\Users\Goshicha\source\repos\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.deps.json
+C:\Users\Goshicha\source\repos\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.runtimeconfig.json
+C:\Users\Goshicha\source\repos\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.dll
+C:\Users\Goshicha\source\repos\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.pdb
+C:\Users\Goshicha\source\repos\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.dll
+C:\Users\Goshicha\source\repos\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.pdb

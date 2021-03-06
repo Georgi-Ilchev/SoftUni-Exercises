@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\28. Concert\bin\Debug\netcoreapp3.1\28. Concert.exe
+C:\Users\Goshicha\source\repos\28. Concert\bin\Debug\netcoreapp3.1\28. Concert.deps.json
+C:\Users\Goshicha\source\repos\28. Concert\bin\Debug\netcoreapp3.1\28. Concert.runtimeconfig.json
+C:\Users\Goshicha\source\repos\28. Concert\bin\Debug\netcoreapp3.1\28. Concert.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\28. Concert\bin\Debug\netcoreapp3.1\28. Concert.dll
+C:\Users\Goshicha\source\repos\28. Concert\bin\Debug\netcoreapp3.1\28. Concert.pdb
+C:\Users\Goshicha\source\repos\28. Concert\obj\Debug\netcoreapp3.1\28. Concert.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\28. Concert\obj\Debug\netcoreapp3.1\28. Concert.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\28. Concert\obj\Debug\netcoreapp3.1\28. Concert.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\28. Concert\obj\Debug\netcoreapp3.1\28. Concert.dll
+C:\Users\Goshicha\source\repos\28. Concert\obj\Debug\netcoreapp3.1\28. Concert.pdb

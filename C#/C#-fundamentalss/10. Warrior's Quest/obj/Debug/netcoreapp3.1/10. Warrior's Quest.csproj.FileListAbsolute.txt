@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\10. Warrior's Quest\bin\Debug\netcoreapp3.1\10. Warrior's Quest.exe
+C:\Users\Goshicha\source\repos\10. Warrior's Quest\bin\Debug\netcoreapp3.1\10. Warrior's Quest.deps.json
+C:\Users\Goshicha\source\repos\10. Warrior's Quest\bin\Debug\netcoreapp3.1\10. Warrior's Quest.runtimeconfig.json
+C:\Users\Goshicha\source\repos\10. Warrior's Quest\bin\Debug\netcoreapp3.1\10. Warrior's Quest.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\10. Warrior's Quest\bin\Debug\netcoreapp3.1\10. Warrior's Quest.dll
+C:\Users\Goshicha\source\repos\10. Warrior's Quest\bin\Debug\netcoreapp3.1\10. Warrior's Quest.pdb
+C:\Users\Goshicha\source\repos\10. Warrior's Quest\obj\Debug\netcoreapp3.1\10. Warrior's Quest.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\10. Warrior's Quest\obj\Debug\netcoreapp3.1\10. Warrior's Quest.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\10. Warrior's Quest\obj\Debug\netcoreapp3.1\10. Warrior's Quest.dll
+C:\Users\Goshicha\source\repos\10. Warrior's Quest\obj\Debug\netcoreapp3.1\10. Warrior's Quest.pdb
+C:\Users\Goshicha\source\repos\10. Warrior's Quest\obj\Debug\netcoreapp3.1\10. Warrior's Quest.csprojAssemblyReference.cache

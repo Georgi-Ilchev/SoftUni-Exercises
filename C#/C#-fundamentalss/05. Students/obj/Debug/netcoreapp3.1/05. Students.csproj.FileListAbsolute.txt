@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\05. Students\bin\Debug\netcoreapp3.1\05. Students.exe
+C:\Users\Goshicha\source\repos\05. Students\bin\Debug\netcoreapp3.1\05. Students.deps.json
+C:\Users\Goshicha\source\repos\05. Students\bin\Debug\netcoreapp3.1\05. Students.runtimeconfig.json
+C:\Users\Goshicha\source\repos\05. Students\bin\Debug\netcoreapp3.1\05. Students.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\05. Students\bin\Debug\netcoreapp3.1\05. Students.dll
+C:\Users\Goshicha\source\repos\05. Students\bin\Debug\netcoreapp3.1\05. Students.pdb
+C:\Users\Goshicha\source\repos\05. Students\obj\Debug\netcoreapp3.1\05. Students.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\05. Students\obj\Debug\netcoreapp3.1\05. Students.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\05. Students\obj\Debug\netcoreapp3.1\05. Students.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\05. Students\obj\Debug\netcoreapp3.1\05. Students.dll
+C:\Users\Goshicha\source\repos\05. Students\obj\Debug\netcoreapp3.1\05. Students.pdb

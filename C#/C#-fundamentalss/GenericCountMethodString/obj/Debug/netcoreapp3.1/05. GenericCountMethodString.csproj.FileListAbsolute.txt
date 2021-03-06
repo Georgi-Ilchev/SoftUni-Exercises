@@ -1,0 +1,13 @@
+C:\Users\Goshicha\source\repos\GenericCountMethodString\bin\Debug\netcoreapp3.1\05. GenericCountMethodString.exe
+C:\Users\Goshicha\source\repos\GenericCountMethodString\bin\Debug\netcoreapp3.1\05. GenericCountMethodString.deps.json
+C:\Users\Goshicha\source\repos\GenericCountMethodString\bin\Debug\netcoreapp3.1\05. GenericCountMethodString.runtimeconfig.json
+C:\Users\Goshicha\source\repos\GenericCountMethodString\bin\Debug\netcoreapp3.1\05. GenericCountMethodString.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\GenericCountMethodString\bin\Debug\netcoreapp3.1\05. GenericCountMethodString.dll
+C:\Users\Goshicha\source\repos\GenericCountMethodString\bin\Debug\netcoreapp3.1\05. GenericCountMethodString.pdb
+C:\Users\Goshicha\source\repos\GenericCountMethodString\obj\Debug\netcoreapp3.1\05. GenericCountMethodString.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\GenericCountMethodString\obj\Debug\netcoreapp3.1\05. GenericCountMethodString.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\GenericCountMethodString\obj\Debug\netcoreapp3.1\05. GenericCountMethodString.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\GenericCountMethodString\obj\Debug\netcoreapp3.1\05. GenericCountMethodString.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\GenericCountMethodString\obj\Debug\netcoreapp3.1\05. GenericCountMethodString.dll
+C:\Users\Goshicha\source\repos\GenericCountMethodString\obj\Debug\netcoreapp3.1\05. GenericCountMethodString.pdb
+C:\Users\Goshicha\source\repos\GenericCountMethodString\obj\Debug\netcoreapp3.1\05. GenericCountMethodString.genruntimeconfig.cache

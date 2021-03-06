@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\13. Cards Game\bin\Debug\netcoreapp3.1\13. Cards Game.exe
+C:\Users\Goshicha\source\repos\13. Cards Game\bin\Debug\netcoreapp3.1\13. Cards Game.deps.json
+C:\Users\Goshicha\source\repos\13. Cards Game\bin\Debug\netcoreapp3.1\13. Cards Game.runtimeconfig.json
+C:\Users\Goshicha\source\repos\13. Cards Game\bin\Debug\netcoreapp3.1\13. Cards Game.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\13. Cards Game\bin\Debug\netcoreapp3.1\13. Cards Game.dll
+C:\Users\Goshicha\source\repos\13. Cards Game\bin\Debug\netcoreapp3.1\13. Cards Game.pdb
+C:\Users\Goshicha\source\repos\13. Cards Game\obj\Debug\netcoreapp3.1\13. Cards Game.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\13. Cards Game\obj\Debug\netcoreapp3.1\13. Cards Game.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\13. Cards Game\obj\Debug\netcoreapp3.1\13. Cards Game.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\13. Cards Game\obj\Debug\netcoreapp3.1\13. Cards Game.dll
+C:\Users\Goshicha\source\repos\13. Cards Game\obj\Debug\netcoreapp3.1\13. Cards Game.pdb

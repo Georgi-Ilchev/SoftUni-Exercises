@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\24.1 Battle Manager\bin\Debug\netcoreapp3.1\24.1 Battle Manager.exe
+C:\Users\Goshicha\source\repos\24.1 Battle Manager\bin\Debug\netcoreapp3.1\24.1 Battle Manager.deps.json
+C:\Users\Goshicha\source\repos\24.1 Battle Manager\bin\Debug\netcoreapp3.1\24.1 Battle Manager.runtimeconfig.json
+C:\Users\Goshicha\source\repos\24.1 Battle Manager\bin\Debug\netcoreapp3.1\24.1 Battle Manager.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\24.1 Battle Manager\bin\Debug\netcoreapp3.1\24.1 Battle Manager.dll
+C:\Users\Goshicha\source\repos\24.1 Battle Manager\bin\Debug\netcoreapp3.1\24.1 Battle Manager.pdb
+C:\Users\Goshicha\source\repos\24.1 Battle Manager\obj\Debug\netcoreapp3.1\24.1 Battle Manager.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\24.1 Battle Manager\obj\Debug\netcoreapp3.1\24.1 Battle Manager.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\24.1 Battle Manager\obj\Debug\netcoreapp3.1\24.1 Battle Manager.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\24.1 Battle Manager\obj\Debug\netcoreapp3.1\24.1 Battle Manager.dll
+C:\Users\Goshicha\source\repos\24.1 Battle Manager\obj\Debug\netcoreapp3.1\24.1 Battle Manager.pdb

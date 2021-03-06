@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\07. Letters Combinations\bin\Debug\netcoreapp3.1\07. Letters Combinations.exe
+C:\Users\Goshicha\source\repos\07. Letters Combinations\bin\Debug\netcoreapp3.1\07. Letters Combinations.deps.json
+C:\Users\Goshicha\source\repos\07. Letters Combinations\bin\Debug\netcoreapp3.1\07. Letters Combinations.runtimeconfig.json
+C:\Users\Goshicha\source\repos\07. Letters Combinations\bin\Debug\netcoreapp3.1\07. Letters Combinations.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\07. Letters Combinations\bin\Debug\netcoreapp3.1\07. Letters Combinations.dll
+C:\Users\Goshicha\source\repos\07. Letters Combinations\bin\Debug\netcoreapp3.1\07. Letters Combinations.pdb
+C:\Users\Goshicha\source\repos\07. Letters Combinations\obj\Debug\netcoreapp3.1\07. Letters Combinations.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\07. Letters Combinations\obj\Debug\netcoreapp3.1\07. Letters Combinations.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\07. Letters Combinations\obj\Debug\netcoreapp3.1\07. Letters Combinations.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\07. Letters Combinations\obj\Debug\netcoreapp3.1\07. Letters Combinations.dll
+C:\Users\Goshicha\source\repos\07. Letters Combinations\obj\Debug\netcoreapp3.1\07. Letters Combinations.pdb

@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\07. Activation Keys\bin\Debug\netcoreapp3.1\07. Activation Keys.exe
+C:\Users\Goshicha\source\repos\07. Activation Keys\bin\Debug\netcoreapp3.1\07. Activation Keys.deps.json
+C:\Users\Goshicha\source\repos\07. Activation Keys\bin\Debug\netcoreapp3.1\07. Activation Keys.runtimeconfig.json
+C:\Users\Goshicha\source\repos\07. Activation Keys\bin\Debug\netcoreapp3.1\07. Activation Keys.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\07. Activation Keys\bin\Debug\netcoreapp3.1\07. Activation Keys.dll
+C:\Users\Goshicha\source\repos\07. Activation Keys\bin\Debug\netcoreapp3.1\07. Activation Keys.pdb
+C:\Users\Goshicha\source\repos\07. Activation Keys\obj\Debug\netcoreapp3.1\07. Activation Keys.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\07. Activation Keys\obj\Debug\netcoreapp3.1\07. Activation Keys.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\07. Activation Keys\obj\Debug\netcoreapp3.1\07. Activation Keys.dll
+C:\Users\Goshicha\source\repos\07. Activation Keys\obj\Debug\netcoreapp3.1\07. Activation Keys.pdb
+C:\Users\Goshicha\source\repos\07. Activation Keys\obj\Debug\netcoreapp3.1\07. Activation Keys.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\18.1 Inbox Manager\bin\Debug\netcoreapp3.1\18.1 Inbox Manager.exe
+C:\Users\Goshicha\source\repos\18.1 Inbox Manager\bin\Debug\netcoreapp3.1\18.1 Inbox Manager.deps.json
+C:\Users\Goshicha\source\repos\18.1 Inbox Manager\bin\Debug\netcoreapp3.1\18.1 Inbox Manager.runtimeconfig.json
+C:\Users\Goshicha\source\repos\18.1 Inbox Manager\bin\Debug\netcoreapp3.1\18.1 Inbox Manager.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\18.1 Inbox Manager\bin\Debug\netcoreapp3.1\18.1 Inbox Manager.dll
+C:\Users\Goshicha\source\repos\18.1 Inbox Manager\bin\Debug\netcoreapp3.1\18.1 Inbox Manager.pdb
+C:\Users\Goshicha\source\repos\18.1 Inbox Manager\obj\Debug\netcoreapp3.1\18.1 Inbox Manager.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\18.1 Inbox Manager\obj\Debug\netcoreapp3.1\18.1 Inbox Manager.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\18.1 Inbox Manager\obj\Debug\netcoreapp3.1\18.1 Inbox Manager.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\18.1 Inbox Manager\obj\Debug\netcoreapp3.1\18.1 Inbox Manager.dll
+C:\Users\Goshicha\source\repos\18.1 Inbox Manager\obj\Debug\netcoreapp3.1\18.1 Inbox Manager.pdb

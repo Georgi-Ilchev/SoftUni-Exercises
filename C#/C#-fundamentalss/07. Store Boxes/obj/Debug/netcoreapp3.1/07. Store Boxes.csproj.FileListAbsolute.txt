@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\07. Store Boxes\bin\Debug\netcoreapp3.1\07. Store Boxes.exe
+C:\Users\Goshicha\source\repos\07. Store Boxes\bin\Debug\netcoreapp3.1\07. Store Boxes.deps.json
+C:\Users\Goshicha\source\repos\07. Store Boxes\bin\Debug\netcoreapp3.1\07. Store Boxes.runtimeconfig.json
+C:\Users\Goshicha\source\repos\07. Store Boxes\bin\Debug\netcoreapp3.1\07. Store Boxes.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\07. Store Boxes\bin\Debug\netcoreapp3.1\07. Store Boxes.dll
+C:\Users\Goshicha\source\repos\07. Store Boxes\bin\Debug\netcoreapp3.1\07. Store Boxes.pdb
+C:\Users\Goshicha\source\repos\07. Store Boxes\obj\Debug\netcoreapp3.1\07. Store Boxes.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\07. Store Boxes\obj\Debug\netcoreapp3.1\07. Store Boxes.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\07. Store Boxes\obj\Debug\netcoreapp3.1\07. Store Boxes.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\07. Store Boxes\obj\Debug\netcoreapp3.1\07. Store Boxes.dll
+C:\Users\Goshicha\source\repos\07. Store Boxes\obj\Debug\netcoreapp3.1\07. Store Boxes.pdb

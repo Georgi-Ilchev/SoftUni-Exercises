@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\2. English Name of the Last Digit\bin\Debug\netcoreapp3.1\2. English Name of the Last Digit.exe
+C:\Users\Goshicha\source\repos\2. English Name of the Last Digit\bin\Debug\netcoreapp3.1\2. English Name of the Last Digit.deps.json
+C:\Users\Goshicha\source\repos\2. English Name of the Last Digit\bin\Debug\netcoreapp3.1\2. English Name of the Last Digit.runtimeconfig.json
+C:\Users\Goshicha\source\repos\2. English Name of the Last Digit\bin\Debug\netcoreapp3.1\2. English Name of the Last Digit.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\2. English Name of the Last Digit\bin\Debug\netcoreapp3.1\2. English Name of the Last Digit.dll
+C:\Users\Goshicha\source\repos\2. English Name of the Last Digit\bin\Debug\netcoreapp3.1\2. English Name of the Last Digit.pdb
+C:\Users\Goshicha\source\repos\2. English Name of the Last Digit\obj\Debug\netcoreapp3.1\2. English Name of the Last Digit.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\2. English Name of the Last Digit\obj\Debug\netcoreapp3.1\2. English Name of the Last Digit.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\2. English Name of the Last Digit\obj\Debug\netcoreapp3.1\2. English Name of the Last Digit.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\2. English Name of the Last Digit\obj\Debug\netcoreapp3.1\2. English Name of the Last Digit.dll
+C:\Users\Goshicha\source\repos\2. English Name of the Last Digit\obj\Debug\netcoreapp3.1\2. English Name of the Last Digit.pdb

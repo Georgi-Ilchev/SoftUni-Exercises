@@ -1,0 +1,10 @@
+C:\Users\Goshicha\source\repos\7. Loops\02. Numbers Nto1\bin\Debug\netcoreapp3.1\02. Numbers Nto1.exe
+C:\Users\Goshicha\source\repos\7. Loops\02. Numbers Nto1\bin\Debug\netcoreapp3.1\02. Numbers Nto1.deps.json
+C:\Users\Goshicha\source\repos\7. Loops\02. Numbers Nto1\bin\Debug\netcoreapp3.1\02. Numbers Nto1.runtimeconfig.json
+C:\Users\Goshicha\source\repos\7. Loops\02. Numbers Nto1\bin\Debug\netcoreapp3.1\02. Numbers Nto1.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\7. Loops\02. Numbers Nto1\bin\Debug\netcoreapp3.1\02. Numbers Nto1.dll
+C:\Users\Goshicha\source\repos\7. Loops\02. Numbers Nto1\bin\Debug\netcoreapp3.1\02. Numbers Nto1.pdb
+C:\Users\Goshicha\source\repos\7. Loops\02. Numbers Nto1\obj\Debug\netcoreapp3.1\02. Numbers Nto1.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\7. Loops\02. Numbers Nto1\obj\Debug\netcoreapp3.1\02. Numbers Nto1.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\7. Loops\02. Numbers Nto1\obj\Debug\netcoreapp3.1\02. Numbers Nto1.dll
+C:\Users\Goshicha\source\repos\7. Loops\02. Numbers Nto1\obj\Debug\netcoreapp3.1\02. Numbers Nto1.pdb

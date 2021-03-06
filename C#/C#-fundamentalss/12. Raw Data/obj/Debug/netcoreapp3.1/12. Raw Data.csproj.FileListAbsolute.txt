@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\12. Raw Data\bin\Debug\netcoreapp3.1\12. Raw Data.exe
+C:\Users\Goshicha\source\repos\12. Raw Data\bin\Debug\netcoreapp3.1\12. Raw Data.deps.json
+C:\Users\Goshicha\source\repos\12. Raw Data\bin\Debug\netcoreapp3.1\12. Raw Data.runtimeconfig.json
+C:\Users\Goshicha\source\repos\12. Raw Data\bin\Debug\netcoreapp3.1\12. Raw Data.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\12. Raw Data\bin\Debug\netcoreapp3.1\12. Raw Data.dll
+C:\Users\Goshicha\source\repos\12. Raw Data\bin\Debug\netcoreapp3.1\12. Raw Data.pdb
+C:\Users\Goshicha\source\repos\12. Raw Data\obj\Debug\netcoreapp3.1\12. Raw Data.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\12. Raw Data\obj\Debug\netcoreapp3.1\12. Raw Data.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\12. Raw Data\obj\Debug\netcoreapp3.1\12. Raw Data.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\12. Raw Data\obj\Debug\netcoreapp3.1\12. Raw Data.dll
+C:\Users\Goshicha\source\repos\12. Raw Data\obj\Debug\netcoreapp3.1\12. Raw Data.pdb

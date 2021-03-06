@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\04. New House\bin\Debug\netcoreapp3.1\04. New House.exe
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\04. New House\bin\Debug\netcoreapp3.1\04. New House.deps.json
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\04. New House\bin\Debug\netcoreapp3.1\04. New House.runtimeconfig.json
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\04. New House\bin\Debug\netcoreapp3.1\04. New House.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\04. New House\bin\Debug\netcoreapp3.1\04. New House.dll
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\04. New House\bin\Debug\netcoreapp3.1\04. New House.pdb
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\04. New House\obj\Debug\netcoreapp3.1\04. New House.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\04. New House\obj\Debug\netcoreapp3.1\04. New House.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\04. New House\obj\Debug\netcoreapp3.1\04. New House.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\04. New House\obj\Debug\netcoreapp3.1\04. New House.dll
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\04. New House\obj\Debug\netcoreapp3.1\04. New House.pdb

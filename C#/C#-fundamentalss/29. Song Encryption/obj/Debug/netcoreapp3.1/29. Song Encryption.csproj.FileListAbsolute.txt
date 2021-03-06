@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\29. Song Encryption\bin\Debug\netcoreapp3.1\29. Song Encryption.exe
+C:\Users\Goshicha\source\repos\29. Song Encryption\bin\Debug\netcoreapp3.1\29. Song Encryption.deps.json
+C:\Users\Goshicha\source\repos\29. Song Encryption\bin\Debug\netcoreapp3.1\29. Song Encryption.runtimeconfig.json
+C:\Users\Goshicha\source\repos\29. Song Encryption\bin\Debug\netcoreapp3.1\29. Song Encryption.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\29. Song Encryption\bin\Debug\netcoreapp3.1\29. Song Encryption.dll
+C:\Users\Goshicha\source\repos\29. Song Encryption\bin\Debug\netcoreapp3.1\29. Song Encryption.pdb
+C:\Users\Goshicha\source\repos\29. Song Encryption\obj\Debug\netcoreapp3.1\29. Song Encryption.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\29. Song Encryption\obj\Debug\netcoreapp3.1\29. Song Encryption.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\29. Song Encryption\obj\Debug\netcoreapp3.1\29. Song Encryption.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\29. Song Encryption\obj\Debug\netcoreapp3.1\29. Song Encryption.dll
+C:\Users\Goshicha\source\repos\29. Song Encryption\obj\Debug\netcoreapp3.1\29. Song Encryption.pdb

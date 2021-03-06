@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\Problem26. Number Array\bin\Debug\netcoreapp3.1\Problem26. Number Array.exe
+C:\Users\Goshicha\source\repos\Problem26. Number Array\bin\Debug\netcoreapp3.1\Problem26. Number Array.deps.json
+C:\Users\Goshicha\source\repos\Problem26. Number Array\bin\Debug\netcoreapp3.1\Problem26. Number Array.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Problem26. Number Array\bin\Debug\netcoreapp3.1\Problem26. Number Array.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Problem26. Number Array\bin\Debug\netcoreapp3.1\Problem26. Number Array.dll
+C:\Users\Goshicha\source\repos\Problem26. Number Array\bin\Debug\netcoreapp3.1\Problem26. Number Array.pdb
+C:\Users\Goshicha\source\repos\Problem26. Number Array\obj\Debug\netcoreapp3.1\Problem26. Number Array.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\Problem26. Number Array\obj\Debug\netcoreapp3.1\Problem26. Number Array.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Problem26. Number Array\obj\Debug\netcoreapp3.1\Problem26. Number Array.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Problem26. Number Array\obj\Debug\netcoreapp3.1\Problem26. Number Array.dll
+C:\Users\Goshicha\source\repos\Problem26. Number Array\obj\Debug\netcoreapp3.1\Problem26. Number Array.pdb

@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\Problem23. Tasks Planner\bin\Debug\netcoreapp3.1\Problem23. Tasks Planner.exe
+C:\Users\Goshicha\source\repos\Problem23. Tasks Planner\bin\Debug\netcoreapp3.1\Problem23. Tasks Planner.deps.json
+C:\Users\Goshicha\source\repos\Problem23. Tasks Planner\bin\Debug\netcoreapp3.1\Problem23. Tasks Planner.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Problem23. Tasks Planner\bin\Debug\netcoreapp3.1\Problem23. Tasks Planner.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Problem23. Tasks Planner\bin\Debug\netcoreapp3.1\Problem23. Tasks Planner.dll
+C:\Users\Goshicha\source\repos\Problem23. Tasks Planner\bin\Debug\netcoreapp3.1\Problem23. Tasks Planner.pdb
+C:\Users\Goshicha\source\repos\Problem23. Tasks Planner\obj\Debug\netcoreapp3.1\Problem23. Tasks Planner.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\Problem23. Tasks Planner\obj\Debug\netcoreapp3.1\Problem23. Tasks Planner.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Problem23. Tasks Planner\obj\Debug\netcoreapp3.1\Problem23. Tasks Planner.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Problem23. Tasks Planner\obj\Debug\netcoreapp3.1\Problem23. Tasks Planner.dll
+C:\Users\Goshicha\source\repos\Problem23. Tasks Planner\obj\Debug\netcoreapp3.1\Problem23. Tasks Planner.pdb

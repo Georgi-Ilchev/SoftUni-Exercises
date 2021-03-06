@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\09. Greater of Two Values\bin\Debug\netcoreapp3.1\09. Greater of Two Values.exe
+C:\Users\Goshicha\source\repos\09. Greater of Two Values\bin\Debug\netcoreapp3.1\09. Greater of Two Values.deps.json
+C:\Users\Goshicha\source\repos\09. Greater of Two Values\bin\Debug\netcoreapp3.1\09. Greater of Two Values.runtimeconfig.json
+C:\Users\Goshicha\source\repos\09. Greater of Two Values\bin\Debug\netcoreapp3.1\09. Greater of Two Values.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\09. Greater of Two Values\bin\Debug\netcoreapp3.1\09. Greater of Two Values.dll
+C:\Users\Goshicha\source\repos\09. Greater of Two Values\bin\Debug\netcoreapp3.1\09. Greater of Two Values.pdb
+C:\Users\Goshicha\source\repos\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09. Greater of Two Values.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09. Greater of Two Values.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09. Greater of Two Values.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09. Greater of Two Values.dll
+C:\Users\Goshicha\source\repos\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09. Greater of Two Values.pdb

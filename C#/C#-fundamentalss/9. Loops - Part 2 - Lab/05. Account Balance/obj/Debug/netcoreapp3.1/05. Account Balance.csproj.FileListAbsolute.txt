@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\9. Loops - Part 2 - Lab\05. Account Balance\bin\Debug\netcoreapp3.1\05. Account Balance.exe
+C:\Users\Goshicha\source\repos\9. Loops - Part 2 - Lab\05. Account Balance\bin\Debug\netcoreapp3.1\05. Account Balance.deps.json
+C:\Users\Goshicha\source\repos\9. Loops - Part 2 - Lab\05. Account Balance\bin\Debug\netcoreapp3.1\05. Account Balance.runtimeconfig.json
+C:\Users\Goshicha\source\repos\9. Loops - Part 2 - Lab\05. Account Balance\bin\Debug\netcoreapp3.1\05. Account Balance.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\9. Loops - Part 2 - Lab\05. Account Balance\bin\Debug\netcoreapp3.1\05. Account Balance.dll
+C:\Users\Goshicha\source\repos\9. Loops - Part 2 - Lab\05. Account Balance\bin\Debug\netcoreapp3.1\05. Account Balance.pdb
+C:\Users\Goshicha\source\repos\9. Loops - Part 2 - Lab\05. Account Balance\obj\Debug\netcoreapp3.1\05. Account Balance.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\9. Loops - Part 2 - Lab\05. Account Balance\obj\Debug\netcoreapp3.1\05. Account Balance.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\9. Loops - Part 2 - Lab\05. Account Balance\obj\Debug\netcoreapp3.1\05. Account Balance.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\9. Loops - Part 2 - Lab\05. Account Balance\obj\Debug\netcoreapp3.1\05. Account Balance.dll
+C:\Users\Goshicha\source\repos\9. Loops - Part 2 - Lab\05. Account Balance\obj\Debug\netcoreapp3.1\05. Account Balance.pdb

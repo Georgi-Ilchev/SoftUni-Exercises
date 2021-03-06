@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\14. Longer Line\bin\Debug\netcoreapp3.1\14. Longer Line.exe
+C:\Users\Goshicha\source\repos\14. Longer Line\bin\Debug\netcoreapp3.1\14. Longer Line.deps.json
+C:\Users\Goshicha\source\repos\14. Longer Line\bin\Debug\netcoreapp3.1\14. Longer Line.runtimeconfig.json
+C:\Users\Goshicha\source\repos\14. Longer Line\bin\Debug\netcoreapp3.1\14. Longer Line.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\14. Longer Line\bin\Debug\netcoreapp3.1\14. Longer Line.dll
+C:\Users\Goshicha\source\repos\14. Longer Line\bin\Debug\netcoreapp3.1\14. Longer Line.pdb
+C:\Users\Goshicha\source\repos\14. Longer Line\obj\Debug\netcoreapp3.1\14. Longer Line.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\14. Longer Line\obj\Debug\netcoreapp3.1\14. Longer Line.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\14. Longer Line\obj\Debug\netcoreapp3.1\14. Longer Line.dll
+C:\Users\Goshicha\source\repos\14. Longer Line\obj\Debug\netcoreapp3.1\14. Longer Line.pdb
+C:\Users\Goshicha\source\repos\14. Longer Line\obj\Debug\netcoreapp3.1\14. Longer Line.csprojAssemblyReference.cache

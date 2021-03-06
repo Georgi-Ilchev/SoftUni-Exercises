@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\8. Post Office\bin\Debug\netcoreapp3.1\8. Post Office.exe
+C:\Users\Goshicha\source\repos\8. Post Office\bin\Debug\netcoreapp3.1\8. Post Office.deps.json
+C:\Users\Goshicha\source\repos\8. Post Office\bin\Debug\netcoreapp3.1\8. Post Office.runtimeconfig.json
+C:\Users\Goshicha\source\repos\8. Post Office\bin\Debug\netcoreapp3.1\8. Post Office.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\8. Post Office\bin\Debug\netcoreapp3.1\8. Post Office.dll
+C:\Users\Goshicha\source\repos\8. Post Office\bin\Debug\netcoreapp3.1\8. Post Office.pdb
+C:\Users\Goshicha\source\repos\8. Post Office\obj\Debug\netcoreapp3.1\8. Post Office.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\8. Post Office\obj\Debug\netcoreapp3.1\8. Post Office.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\8. Post Office\obj\Debug\netcoreapp3.1\8. Post Office.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\8. Post Office\obj\Debug\netcoreapp3.1\8. Post Office.dll
+C:\Users\Goshicha\source\repos\8. Post Office\obj\Debug\netcoreapp3.1\8. Post Office.pdb

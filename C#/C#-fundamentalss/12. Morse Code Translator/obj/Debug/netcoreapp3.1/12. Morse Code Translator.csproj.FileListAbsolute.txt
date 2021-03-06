@@ -1,0 +1,10 @@
+C:\Users\Goshicha\source\repos\12. Morse Code Translator\bin\Debug\netcoreapp3.1\12. Morse Code Translator.exe
+C:\Users\Goshicha\source\repos\12. Morse Code Translator\bin\Debug\netcoreapp3.1\12. Morse Code Translator.deps.json
+C:\Users\Goshicha\source\repos\12. Morse Code Translator\bin\Debug\netcoreapp3.1\12. Morse Code Translator.runtimeconfig.json
+C:\Users\Goshicha\source\repos\12. Morse Code Translator\bin\Debug\netcoreapp3.1\12. Morse Code Translator.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\12. Morse Code Translator\bin\Debug\netcoreapp3.1\12. Morse Code Translator.dll
+C:\Users\Goshicha\source\repos\12. Morse Code Translator\bin\Debug\netcoreapp3.1\12. Morse Code Translator.pdb
+C:\Users\Goshicha\source\repos\12. Morse Code Translator\obj\Debug\netcoreapp3.1\12. Morse Code Translator.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\12. Morse Code Translator\obj\Debug\netcoreapp3.1\12. Morse Code Translator.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\12. Morse Code Translator\obj\Debug\netcoreapp3.1\12. Morse Code Translator.dll
+C:\Users\Goshicha\source\repos\12. Morse Code Translator\obj\Debug\netcoreapp3.1\12. Morse Code Translator.pdb

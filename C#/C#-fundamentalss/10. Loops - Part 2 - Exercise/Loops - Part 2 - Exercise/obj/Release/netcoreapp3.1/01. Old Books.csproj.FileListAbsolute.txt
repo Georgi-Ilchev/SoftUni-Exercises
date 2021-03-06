@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\10. Loops - Part 2 - Exercise\Loops - Part 2 - Exercise\bin\Release\netcoreapp3.1\01. Old Books.exe
+C:\Users\Goshicha\source\repos\10. Loops - Part 2 - Exercise\Loops - Part 2 - Exercise\bin\Release\netcoreapp3.1\01. Old Books.deps.json
+C:\Users\Goshicha\source\repos\10. Loops - Part 2 - Exercise\Loops - Part 2 - Exercise\bin\Release\netcoreapp3.1\01. Old Books.runtimeconfig.json
+C:\Users\Goshicha\source\repos\10. Loops - Part 2 - Exercise\Loops - Part 2 - Exercise\bin\Release\netcoreapp3.1\01. Old Books.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\10. Loops - Part 2 - Exercise\Loops - Part 2 - Exercise\bin\Release\netcoreapp3.1\01. Old Books.dll
+C:\Users\Goshicha\source\repos\10. Loops - Part 2 - Exercise\Loops - Part 2 - Exercise\bin\Release\netcoreapp3.1\01. Old Books.pdb
+C:\Users\Goshicha\source\repos\10. Loops - Part 2 - Exercise\Loops - Part 2 - Exercise\obj\Release\netcoreapp3.1\01. Old Books.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\10. Loops - Part 2 - Exercise\Loops - Part 2 - Exercise\obj\Release\netcoreapp3.1\01. Old Books.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\10. Loops - Part 2 - Exercise\Loops - Part 2 - Exercise\obj\Release\netcoreapp3.1\01. Old Books.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\10. Loops - Part 2 - Exercise\Loops - Part 2 - Exercise\obj\Release\netcoreapp3.1\01. Old Books.dll
+C:\Users\Goshicha\source\repos\10. Loops - Part 2 - Exercise\Loops - Part 2 - Exercise\obj\Release\netcoreapp3.1\01. Old Books.pdb

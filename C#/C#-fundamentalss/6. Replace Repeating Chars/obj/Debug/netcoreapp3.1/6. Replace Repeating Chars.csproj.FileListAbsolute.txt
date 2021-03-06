@@ -1,0 +1,10 @@
+C:\Users\Goshicha\source\repos\6. Replace Repeating Chars\bin\Debug\netcoreapp3.1\6. Replace Repeating Chars.exe
+C:\Users\Goshicha\source\repos\6. Replace Repeating Chars\bin\Debug\netcoreapp3.1\6. Replace Repeating Chars.deps.json
+C:\Users\Goshicha\source\repos\6. Replace Repeating Chars\bin\Debug\netcoreapp3.1\6. Replace Repeating Chars.runtimeconfig.json
+C:\Users\Goshicha\source\repos\6. Replace Repeating Chars\bin\Debug\netcoreapp3.1\6. Replace Repeating Chars.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\6. Replace Repeating Chars\bin\Debug\netcoreapp3.1\6. Replace Repeating Chars.dll
+C:\Users\Goshicha\source\repos\6. Replace Repeating Chars\bin\Debug\netcoreapp3.1\6. Replace Repeating Chars.pdb
+C:\Users\Goshicha\source\repos\6. Replace Repeating Chars\obj\Debug\netcoreapp3.1\6. Replace Repeating Chars.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\6. Replace Repeating Chars\obj\Debug\netcoreapp3.1\6. Replace Repeating Chars.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\6. Replace Repeating Chars\obj\Debug\netcoreapp3.1\6. Replace Repeating Chars.dll
+C:\Users\Goshicha\source\repos\6. Replace Repeating Chars\obj\Debug\netcoreapp3.1\6. Replace Repeating Chars.pdb

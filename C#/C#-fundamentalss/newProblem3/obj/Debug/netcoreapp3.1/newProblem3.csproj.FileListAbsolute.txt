@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\newProblem3\bin\Debug\netcoreapp3.1\newProblem3.exe
+C:\Users\Goshicha\source\repos\newProblem3\bin\Debug\netcoreapp3.1\newProblem3.deps.json
+C:\Users\Goshicha\source\repos\newProblem3\bin\Debug\netcoreapp3.1\newProblem3.runtimeconfig.json
+C:\Users\Goshicha\source\repos\newProblem3\bin\Debug\netcoreapp3.1\newProblem3.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\newProblem3\bin\Debug\netcoreapp3.1\newProblem3.dll
+C:\Users\Goshicha\source\repos\newProblem3\bin\Debug\netcoreapp3.1\newProblem3.pdb
+C:\Users\Goshicha\source\repos\newProblem3\obj\Debug\netcoreapp3.1\newProblem3.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\newProblem3\obj\Debug\netcoreapp3.1\newProblem3.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\newProblem3\obj\Debug\netcoreapp3.1\newProblem3.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\newProblem3\obj\Debug\netcoreapp3.1\newProblem3.dll
+C:\Users\Goshicha\source\repos\newProblem3\obj\Debug\netcoreapp3.1\newProblem3.pdb

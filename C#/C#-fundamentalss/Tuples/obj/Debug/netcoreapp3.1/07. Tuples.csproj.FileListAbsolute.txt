@@ -1,0 +1,13 @@
+C:\Users\Goshicha\source\repos\Tuples\bin\Debug\netcoreapp3.1\07. Tuples.exe
+C:\Users\Goshicha\source\repos\Tuples\bin\Debug\netcoreapp3.1\07. Tuples.deps.json
+C:\Users\Goshicha\source\repos\Tuples\bin\Debug\netcoreapp3.1\07. Tuples.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Tuples\bin\Debug\netcoreapp3.1\07. Tuples.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Tuples\bin\Debug\netcoreapp3.1\07. Tuples.dll
+C:\Users\Goshicha\source\repos\Tuples\bin\Debug\netcoreapp3.1\07. Tuples.pdb
+C:\Users\Goshicha\source\repos\Tuples\obj\Debug\netcoreapp3.1\07. Tuples.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\Tuples\obj\Debug\netcoreapp3.1\07. Tuples.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Tuples\obj\Debug\netcoreapp3.1\07. Tuples.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Tuples\obj\Debug\netcoreapp3.1\07. Tuples.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\Tuples\obj\Debug\netcoreapp3.1\07. Tuples.dll
+C:\Users\Goshicha\source\repos\Tuples\obj\Debug\netcoreapp3.1\07. Tuples.pdb
+C:\Users\Goshicha\source\repos\Tuples\obj\Debug\netcoreapp3.1\07. Tuples.genruntimeconfig.cache

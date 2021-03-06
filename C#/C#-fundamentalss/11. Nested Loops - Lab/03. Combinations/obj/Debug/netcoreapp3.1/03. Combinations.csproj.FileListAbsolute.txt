@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\Nested Loops - Lab\03. Combinations\bin\Debug\netcoreapp3.1\03. Combinations.exe
+C:\Users\Goshicha\source\repos\Nested Loops - Lab\03. Combinations\bin\Debug\netcoreapp3.1\03. Combinations.deps.json
+C:\Users\Goshicha\source\repos\Nested Loops - Lab\03. Combinations\bin\Debug\netcoreapp3.1\03. Combinations.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Nested Loops - Lab\03. Combinations\bin\Debug\netcoreapp3.1\03. Combinations.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Nested Loops - Lab\03. Combinations\bin\Debug\netcoreapp3.1\03. Combinations.dll
+C:\Users\Goshicha\source\repos\Nested Loops - Lab\03. Combinations\bin\Debug\netcoreapp3.1\03. Combinations.pdb
+C:\Users\Goshicha\source\repos\Nested Loops - Lab\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\Nested Loops - Lab\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Nested Loops - Lab\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Nested Loops - Lab\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.dll
+C:\Users\Goshicha\source\repos\Nested Loops - Lab\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.pdb

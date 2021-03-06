@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\Nested Conditional Statements - exercise\bin\Debug\netcoreapp3.1\01. Point on Rectangle Border.exe
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\Nested Conditional Statements - exercise\bin\Debug\netcoreapp3.1\01. Point on Rectangle Border.deps.json
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\Nested Conditional Statements - exercise\bin\Debug\netcoreapp3.1\01. Point on Rectangle Border.runtimeconfig.json
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\Nested Conditional Statements - exercise\bin\Debug\netcoreapp3.1\01. Point on Rectangle Border.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\Nested Conditional Statements - exercise\bin\Debug\netcoreapp3.1\01. Point on Rectangle Border.dll
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\Nested Conditional Statements - exercise\bin\Debug\netcoreapp3.1\01. Point on Rectangle Border.pdb
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\Nested Conditional Statements - exercise\obj\Debug\netcoreapp3.1\01. Point on Rectangle Border.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\Nested Conditional Statements - exercise\obj\Debug\netcoreapp3.1\01. Point on Rectangle Border.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\Nested Conditional Statements - exercise\obj\Debug\netcoreapp3.1\01. Point on Rectangle Border.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\Nested Conditional Statements - exercise\obj\Debug\netcoreapp3.1\01. Point on Rectangle Border.dll
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\Nested Conditional Statements - exercise\obj\Debug\netcoreapp3.1\01. Point on Rectangle Border.pdb

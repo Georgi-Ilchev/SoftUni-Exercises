@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\13. Nikulden’s Charity\bin\Debug\netcoreapp3.1\13. Nikulden’s Charity.exe
+C:\Users\Goshicha\source\repos\13. Nikulden’s Charity\bin\Debug\netcoreapp3.1\13. Nikulden’s Charity.deps.json
+C:\Users\Goshicha\source\repos\13. Nikulden’s Charity\bin\Debug\netcoreapp3.1\13. Nikulden’s Charity.runtimeconfig.json
+C:\Users\Goshicha\source\repos\13. Nikulden’s Charity\bin\Debug\netcoreapp3.1\13. Nikulden’s Charity.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\13. Nikulden’s Charity\bin\Debug\netcoreapp3.1\13. Nikulden’s Charity.dll
+C:\Users\Goshicha\source\repos\13. Nikulden’s Charity\bin\Debug\netcoreapp3.1\13. Nikulden’s Charity.pdb
+C:\Users\Goshicha\source\repos\13. Nikulden’s Charity\obj\Debug\netcoreapp3.1\13. Nikulden’s Charity.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\13. Nikulden’s Charity\obj\Debug\netcoreapp3.1\13. Nikulden’s Charity.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\13. Nikulden’s Charity\obj\Debug\netcoreapp3.1\13. Nikulden’s Charity.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\13. Nikulden’s Charity\obj\Debug\netcoreapp3.1\13. Nikulden’s Charity.dll
+C:\Users\Goshicha\source\repos\13. Nikulden’s Charity\obj\Debug\netcoreapp3.1\13. Nikulden’s Charity.pdb

@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\13. Holidays Between Two Dates\bin\Debug\netcoreapp3.1\13. Holidays Between Two Dates.exe
+C:\Users\Goshicha\source\repos\13. Holidays Between Two Dates\bin\Debug\netcoreapp3.1\13. Holidays Between Two Dates.deps.json
+C:\Users\Goshicha\source\repos\13. Holidays Between Two Dates\bin\Debug\netcoreapp3.1\13. Holidays Between Two Dates.runtimeconfig.json
+C:\Users\Goshicha\source\repos\13. Holidays Between Two Dates\bin\Debug\netcoreapp3.1\13. Holidays Between Two Dates.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\13. Holidays Between Two Dates\bin\Debug\netcoreapp3.1\13. Holidays Between Two Dates.dll
+C:\Users\Goshicha\source\repos\13. Holidays Between Two Dates\bin\Debug\netcoreapp3.1\13. Holidays Between Two Dates.pdb
+C:\Users\Goshicha\source\repos\13. Holidays Between Two Dates\obj\Debug\netcoreapp3.1\13. Holidays Between Two Dates.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\13. Holidays Between Two Dates\obj\Debug\netcoreapp3.1\13. Holidays Between Two Dates.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\13. Holidays Between Two Dates\obj\Debug\netcoreapp3.1\13. Holidays Between Two Dates.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\13. Holidays Between Two Dates\obj\Debug\netcoreapp3.1\13. Holidays Between Two Dates.dll
+C:\Users\Goshicha\source\repos\13. Holidays Between Two Dates\obj\Debug\netcoreapp3.1\13. Holidays Between Two Dates.pdb

@@ -1,0 +1,10 @@
+C:\Users\Goshicha\source\repos\16. Multiplication Sign\bin\Debug\netcoreapp3.1\16. Multiplication Sign.exe
+C:\Users\Goshicha\source\repos\16. Multiplication Sign\bin\Debug\netcoreapp3.1\16. Multiplication Sign.deps.json
+C:\Users\Goshicha\source\repos\16. Multiplication Sign\bin\Debug\netcoreapp3.1\16. Multiplication Sign.runtimeconfig.json
+C:\Users\Goshicha\source\repos\16. Multiplication Sign\bin\Debug\netcoreapp3.1\16. Multiplication Sign.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\16. Multiplication Sign\bin\Debug\netcoreapp3.1\16. Multiplication Sign.dll
+C:\Users\Goshicha\source\repos\16. Multiplication Sign\bin\Debug\netcoreapp3.1\16. Multiplication Sign.pdb
+C:\Users\Goshicha\source\repos\16. Multiplication Sign\obj\Debug\netcoreapp3.1\16. Multiplication Sign.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\16. Multiplication Sign\obj\Debug\netcoreapp3.1\16. Multiplication Sign.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\16. Multiplication Sign\obj\Debug\netcoreapp3.1\16. Multiplication Sign.dll
+C:\Users\Goshicha\source\repos\16. Multiplication Sign\obj\Debug\netcoreapp3.1\16. Multiplication Sign.pdb

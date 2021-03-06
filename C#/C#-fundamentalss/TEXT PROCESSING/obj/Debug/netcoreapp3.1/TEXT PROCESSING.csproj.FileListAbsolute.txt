@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\TEXT PROCESSING\bin\Debug\netcoreapp3.1\TEXT PROCESSING.exe
+C:\Users\Goshicha\source\repos\TEXT PROCESSING\bin\Debug\netcoreapp3.1\TEXT PROCESSING.deps.json
+C:\Users\Goshicha\source\repos\TEXT PROCESSING\bin\Debug\netcoreapp3.1\TEXT PROCESSING.runtimeconfig.json
+C:\Users\Goshicha\source\repos\TEXT PROCESSING\bin\Debug\netcoreapp3.1\TEXT PROCESSING.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\TEXT PROCESSING\bin\Debug\netcoreapp3.1\TEXT PROCESSING.dll
+C:\Users\Goshicha\source\repos\TEXT PROCESSING\bin\Debug\netcoreapp3.1\TEXT PROCESSING.pdb
+C:\Users\Goshicha\source\repos\TEXT PROCESSING\obj\Debug\netcoreapp3.1\TEXT PROCESSING.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\TEXT PROCESSING\obj\Debug\netcoreapp3.1\TEXT PROCESSING.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\TEXT PROCESSING\obj\Debug\netcoreapp3.1\TEXT PROCESSING.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\TEXT PROCESSING\obj\Debug\netcoreapp3.1\TEXT PROCESSING.dll
+C:\Users\Goshicha\source\repos\TEXT PROCESSING\obj\Debug\netcoreapp3.1\TEXT PROCESSING.pdb

@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Simple Operations and Calculations - Exercise\bin\Debug\netcoreapp3.1\Simple Operations and Calculations - Exercise.exe
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Simple Operations and Calculations - Exercise\bin\Debug\netcoreapp3.1\Simple Operations and Calculations - Exercise.deps.json
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Simple Operations and Calculations - Exercise\bin\Debug\netcoreapp3.1\Simple Operations and Calculations - Exercise.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Simple Operations and Calculations - Exercise\bin\Debug\netcoreapp3.1\Simple Operations and Calculations - Exercise.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Simple Operations and Calculations - Exercise\bin\Debug\netcoreapp3.1\Simple Operations and Calculations - Exercise.dll
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Simple Operations and Calculations - Exercise\bin\Debug\netcoreapp3.1\Simple Operations and Calculations - Exercise.pdb
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Simple Operations and Calculations - Exercise\obj\Debug\netcoreapp3.1\Simple Operations and Calculations - Exercise.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Simple Operations and Calculations - Exercise\obj\Debug\netcoreapp3.1\Simple Operations and Calculations - Exercise.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Simple Operations and Calculations - Exercise\obj\Debug\netcoreapp3.1\Simple Operations and Calculations - Exercise.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Simple Operations and Calculations - Exercise\obj\Debug\netcoreapp3.1\Simple Operations and Calculations - Exercise.dll
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Simple Operations and Calculations - Exercise\obj\Debug\netcoreapp3.1\Simple Operations and Calculations - Exercise.pdb

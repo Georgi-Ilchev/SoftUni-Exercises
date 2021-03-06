@@ -1,0 +1,10 @@
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\05. Firm\bin\Debug\netcoreapp3.1\05. Firm.exe
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\05. Firm\bin\Debug\netcoreapp3.1\05. Firm.deps.json
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\05. Firm\bin\Debug\netcoreapp3.1\05. Firm.runtimeconfig.json
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\05. Firm\bin\Debug\netcoreapp3.1\05. Firm.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\05. Firm\bin\Debug\netcoreapp3.1\05. Firm.dll
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\05. Firm\bin\Debug\netcoreapp3.1\05. Firm.pdb
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\05. Firm\obj\Debug\netcoreapp3.1\05. Firm.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\05. Firm\obj\Debug\netcoreapp3.1\05. Firm.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\05. Firm\obj\Debug\netcoreapp3.1\05. Firm.dll
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\05. Firm\obj\Debug\netcoreapp3.1\05. Firm.pdb

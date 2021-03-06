@@ -1,0 +1,10 @@
+C:\Users\Goshicha\source\repos\16. Email Validator\bin\Debug\netcoreapp3.1\16. Email Validator.exe
+C:\Users\Goshicha\source\repos\16. Email Validator\bin\Debug\netcoreapp3.1\16. Email Validator.deps.json
+C:\Users\Goshicha\source\repos\16. Email Validator\bin\Debug\netcoreapp3.1\16. Email Validator.runtimeconfig.json
+C:\Users\Goshicha\source\repos\16. Email Validator\bin\Debug\netcoreapp3.1\16. Email Validator.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\16. Email Validator\bin\Debug\netcoreapp3.1\16. Email Validator.dll
+C:\Users\Goshicha\source\repos\16. Email Validator\bin\Debug\netcoreapp3.1\16. Email Validator.pdb
+C:\Users\Goshicha\source\repos\16. Email Validator\obj\Debug\netcoreapp3.1\16. Email Validator.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\16. Email Validator\obj\Debug\netcoreapp3.1\16. Email Validator.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\16. Email Validator\obj\Debug\netcoreapp3.1\16. Email Validator.dll
+C:\Users\Goshicha\source\repos\16. Email Validator\obj\Debug\netcoreapp3.1\16. Email Validator.pdb

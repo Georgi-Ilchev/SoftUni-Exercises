@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\Examples2\Yard Greening\bin\Debug\netcoreapp3.1\Yard Greening.exe
+C:\Users\Goshicha\source\repos\Examples2\Yard Greening\bin\Debug\netcoreapp3.1\Yard Greening.deps.json
+C:\Users\Goshicha\source\repos\Examples2\Yard Greening\bin\Debug\netcoreapp3.1\Yard Greening.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Examples2\Yard Greening\bin\Debug\netcoreapp3.1\Yard Greening.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Examples2\Yard Greening\bin\Debug\netcoreapp3.1\Yard Greening.dll
+C:\Users\Goshicha\source\repos\Examples2\Yard Greening\bin\Debug\netcoreapp3.1\Yard Greening.pdb
+C:\Users\Goshicha\source\repos\Examples2\Yard Greening\obj\Debug\netcoreapp3.1\Yard Greening.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\Examples2\Yard Greening\obj\Debug\netcoreapp3.1\Yard Greening.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Examples2\Yard Greening\obj\Debug\netcoreapp3.1\Yard Greening.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Examples2\Yard Greening\obj\Debug\netcoreapp3.1\Yard Greening.dll
+C:\Users\Goshicha\source\repos\Examples2\Yard Greening\obj\Debug\netcoreapp3.1\Yard Greening.pdb

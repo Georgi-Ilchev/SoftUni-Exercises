@@ -1,0 +1,10 @@
+C:\Users\Goshicha\source\repos\Conditional Statements - Exercise\Godzilla vs. Kong\bin\Debug\netcoreapp3.1\Godzilla vs. Kong.exe
+C:\Users\Goshicha\source\repos\Conditional Statements - Exercise\Godzilla vs. Kong\bin\Debug\netcoreapp3.1\Godzilla vs. Kong.deps.json
+C:\Users\Goshicha\source\repos\Conditional Statements - Exercise\Godzilla vs. Kong\bin\Debug\netcoreapp3.1\Godzilla vs. Kong.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Conditional Statements - Exercise\Godzilla vs. Kong\bin\Debug\netcoreapp3.1\Godzilla vs. Kong.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Conditional Statements - Exercise\Godzilla vs. Kong\bin\Debug\netcoreapp3.1\Godzilla vs. Kong.dll
+C:\Users\Goshicha\source\repos\Conditional Statements - Exercise\Godzilla vs. Kong\bin\Debug\netcoreapp3.1\Godzilla vs. Kong.pdb
+C:\Users\Goshicha\source\repos\Conditional Statements - Exercise\Godzilla vs. Kong\obj\Debug\netcoreapp3.1\Godzilla vs. Kong.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Conditional Statements - Exercise\Godzilla vs. Kong\obj\Debug\netcoreapp3.1\Godzilla vs. Kong.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Conditional Statements - Exercise\Godzilla vs. Kong\obj\Debug\netcoreapp3.1\Godzilla vs. Kong.dll
+C:\Users\Goshicha\source\repos\Conditional Statements - Exercise\Godzilla vs. Kong\obj\Debug\netcoreapp3.1\Godzilla vs. Kong.pdb

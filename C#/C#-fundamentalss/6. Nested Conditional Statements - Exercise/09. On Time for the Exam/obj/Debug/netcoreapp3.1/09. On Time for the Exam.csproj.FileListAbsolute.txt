@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\09. On Time for the Exam\bin\Debug\netcoreapp3.1\09. On Time for the Exam.exe
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\09. On Time for the Exam\bin\Debug\netcoreapp3.1\09. On Time for the Exam.deps.json
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\09. On Time for the Exam\bin\Debug\netcoreapp3.1\09. On Time for the Exam.runtimeconfig.json
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\09. On Time for the Exam\bin\Debug\netcoreapp3.1\09. On Time for the Exam.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\09. On Time for the Exam\bin\Debug\netcoreapp3.1\09. On Time for the Exam.dll
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\09. On Time for the Exam\bin\Debug\netcoreapp3.1\09. On Time for the Exam.pdb
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\09. On Time for the Exam\obj\Debug\netcoreapp3.1\09. On Time for the Exam.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\09. On Time for the Exam\obj\Debug\netcoreapp3.1\09. On Time for the Exam.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\09. On Time for the Exam\obj\Debug\netcoreapp3.1\09. On Time for the Exam.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\09. On Time for the Exam\obj\Debug\netcoreapp3.1\09. On Time for the Exam.dll
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\09. On Time for the Exam\obj\Debug\netcoreapp3.1\09. On Time for the Exam.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Problem 4. National Court/1.0.0": {
+        "runtime": {
+          "Problem 4. National Court.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Problem 4. National Court/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

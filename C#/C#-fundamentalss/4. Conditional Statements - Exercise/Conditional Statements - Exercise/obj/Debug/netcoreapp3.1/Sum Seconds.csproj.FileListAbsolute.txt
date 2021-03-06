@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\Conditional Statements - Exercise\Conditional Statements - Exercise\bin\Debug\netcoreapp3.1\Sum Seconds.exe
+C:\Users\Goshicha\source\repos\Conditional Statements - Exercise\Conditional Statements - Exercise\bin\Debug\netcoreapp3.1\Sum Seconds.deps.json
+C:\Users\Goshicha\source\repos\Conditional Statements - Exercise\Conditional Statements - Exercise\bin\Debug\netcoreapp3.1\Sum Seconds.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Conditional Statements - Exercise\Conditional Statements - Exercise\bin\Debug\netcoreapp3.1\Sum Seconds.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Conditional Statements - Exercise\Conditional Statements - Exercise\bin\Debug\netcoreapp3.1\Sum Seconds.dll
+C:\Users\Goshicha\source\repos\Conditional Statements - Exercise\Conditional Statements - Exercise\bin\Debug\netcoreapp3.1\Sum Seconds.pdb
+C:\Users\Goshicha\source\repos\Conditional Statements - Exercise\Conditional Statements - Exercise\obj\Debug\netcoreapp3.1\Sum Seconds.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\Conditional Statements - Exercise\Conditional Statements - Exercise\obj\Debug\netcoreapp3.1\Sum Seconds.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Conditional Statements - Exercise\Conditional Statements - Exercise\obj\Debug\netcoreapp3.1\Sum Seconds.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Conditional Statements - Exercise\Conditional Statements - Exercise\obj\Debug\netcoreapp3.1\Sum Seconds.dll
+C:\Users\Goshicha\source\repos\Conditional Statements - Exercise\Conditional Statements - Exercise\obj\Debug\netcoreapp3.1\Sum Seconds.pdb

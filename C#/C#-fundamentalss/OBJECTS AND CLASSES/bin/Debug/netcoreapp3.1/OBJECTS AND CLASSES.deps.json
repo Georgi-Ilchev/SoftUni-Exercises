@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OBJECTS AND CLASSES/1.0.0": {
+        "runtime": {
+          "OBJECTS AND CLASSES.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OBJECTS AND CLASSES/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

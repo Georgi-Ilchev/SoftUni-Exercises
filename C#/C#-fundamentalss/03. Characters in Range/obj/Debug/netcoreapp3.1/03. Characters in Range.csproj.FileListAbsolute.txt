@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\03. Characters in Range\bin\Debug\netcoreapp3.1\03. Characters in Range.exe
+C:\Users\Goshicha\source\repos\03. Characters in Range\bin\Debug\netcoreapp3.1\03. Characters in Range.deps.json
+C:\Users\Goshicha\source\repos\03. Characters in Range\bin\Debug\netcoreapp3.1\03. Characters in Range.runtimeconfig.json
+C:\Users\Goshicha\source\repos\03. Characters in Range\bin\Debug\netcoreapp3.1\03. Characters in Range.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\03. Characters in Range\bin\Debug\netcoreapp3.1\03. Characters in Range.dll
+C:\Users\Goshicha\source\repos\03. Characters in Range\bin\Debug\netcoreapp3.1\03. Characters in Range.pdb
+C:\Users\Goshicha\source\repos\03. Characters in Range\obj\Debug\netcoreapp3.1\03. Characters in Range.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\03. Characters in Range\obj\Debug\netcoreapp3.1\03. Characters in Range.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\03. Characters in Range\obj\Debug\netcoreapp3.1\03. Characters in Range.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\03. Characters in Range\obj\Debug\netcoreapp3.1\03. Characters in Range.dll
+C:\Users\Goshicha\source\repos\03. Characters in Range\obj\Debug\netcoreapp3.1\03. Characters in Range.pdb

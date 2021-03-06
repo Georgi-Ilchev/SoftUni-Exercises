@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\03. Summer Outfit\bin\Debug\netcoreapp3.1\03. Summer Outfit.exe
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\03. Summer Outfit\bin\Debug\netcoreapp3.1\03. Summer Outfit.deps.json
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\03. Summer Outfit\bin\Debug\netcoreapp3.1\03. Summer Outfit.runtimeconfig.json
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\03. Summer Outfit\bin\Debug\netcoreapp3.1\03. Summer Outfit.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\03. Summer Outfit\bin\Debug\netcoreapp3.1\03. Summer Outfit.dll
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\03. Summer Outfit\bin\Debug\netcoreapp3.1\03. Summer Outfit.pdb
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\03. Summer Outfit\obj\Debug\netcoreapp3.1\03. Summer Outfit.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\03. Summer Outfit\obj\Debug\netcoreapp3.1\03. Summer Outfit.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\03. Summer Outfit\obj\Debug\netcoreapp3.1\03. Summer Outfit.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\03. Summer Outfit\obj\Debug\netcoreapp3.1\03. Summer Outfit.dll
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\03. Summer Outfit\obj\Debug\netcoreapp3.1\03. Summer Outfit.pdb

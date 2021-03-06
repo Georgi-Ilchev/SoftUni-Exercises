@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.exe
+C:\Users\Goshicha\source\repos\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.deps.json
+C:\Users\Goshicha\source\repos\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.runtimeconfig.json
+C:\Users\Goshicha\source\repos\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.dll
+C:\Users\Goshicha\source\repos\02. Common Elements\bin\Debug\netcoreapp3.1\02. Common Elements.pdb
+C:\Users\Goshicha\source\repos\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.dll
+C:\Users\Goshicha\source\repos\02. Common Elements\obj\Debug\netcoreapp3.1\02. Common Elements.pdb

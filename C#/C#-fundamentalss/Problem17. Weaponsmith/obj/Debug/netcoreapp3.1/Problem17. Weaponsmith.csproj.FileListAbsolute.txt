@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\Problem17. Weaponsmith\bin\Debug\netcoreapp3.1\Problem17. Weaponsmith.exe
+C:\Users\Goshicha\source\repos\Problem17. Weaponsmith\bin\Debug\netcoreapp3.1\Problem17. Weaponsmith.deps.json
+C:\Users\Goshicha\source\repos\Problem17. Weaponsmith\bin\Debug\netcoreapp3.1\Problem17. Weaponsmith.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Problem17. Weaponsmith\bin\Debug\netcoreapp3.1\Problem17. Weaponsmith.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Problem17. Weaponsmith\bin\Debug\netcoreapp3.1\Problem17. Weaponsmith.dll
+C:\Users\Goshicha\source\repos\Problem17. Weaponsmith\bin\Debug\netcoreapp3.1\Problem17. Weaponsmith.pdb
+C:\Users\Goshicha\source\repos\Problem17. Weaponsmith\obj\Debug\netcoreapp3.1\Problem17. Weaponsmith.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\Problem17. Weaponsmith\obj\Debug\netcoreapp3.1\Problem17. Weaponsmith.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Problem17. Weaponsmith\obj\Debug\netcoreapp3.1\Problem17. Weaponsmith.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Problem17. Weaponsmith\obj\Debug\netcoreapp3.1\Problem17. Weaponsmith.dll
+C:\Users\Goshicha\source\repos\Problem17. Weaponsmith\obj\Debug\netcoreapp3.1\Problem17. Weaponsmith.pdb

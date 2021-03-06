@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\5. Multiply Big Number\bin\Debug\netcoreapp3.1\5. Multiply Big Number.exe
+C:\Users\Goshicha\source\repos\5. Multiply Big Number\bin\Debug\netcoreapp3.1\5. Multiply Big Number.deps.json
+C:\Users\Goshicha\source\repos\5. Multiply Big Number\bin\Debug\netcoreapp3.1\5. Multiply Big Number.runtimeconfig.json
+C:\Users\Goshicha\source\repos\5. Multiply Big Number\bin\Debug\netcoreapp3.1\5. Multiply Big Number.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\5. Multiply Big Number\bin\Debug\netcoreapp3.1\5. Multiply Big Number.dll
+C:\Users\Goshicha\source\repos\5. Multiply Big Number\bin\Debug\netcoreapp3.1\5. Multiply Big Number.pdb
+C:\Users\Goshicha\source\repos\5. Multiply Big Number\obj\Debug\netcoreapp3.1\5. Multiply Big Number.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\5. Multiply Big Number\obj\Debug\netcoreapp3.1\5. Multiply Big Number.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\5. Multiply Big Number\obj\Debug\netcoreapp3.1\5. Multiply Big Number.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\5. Multiply Big Number\obj\Debug\netcoreapp3.1\5. Multiply Big Number.dll
+C:\Users\Goshicha\source\repos\5. Multiply Big Number\obj\Debug\netcoreapp3.1\5. Multiply Big Number.pdb

@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\Exercise-Basic Syntax, Conditional Statementsand Loops\bin\Debug\netcoreapp3.1\Exercise-Basic Syntax, Conditional Statementsand Loops.exe
+C:\Users\Goshicha\source\repos\Exercise-Basic Syntax, Conditional Statementsand Loops\bin\Debug\netcoreapp3.1\Exercise-Basic Syntax, Conditional Statementsand Loops.deps.json
+C:\Users\Goshicha\source\repos\Exercise-Basic Syntax, Conditional Statementsand Loops\bin\Debug\netcoreapp3.1\Exercise-Basic Syntax, Conditional Statementsand Loops.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Exercise-Basic Syntax, Conditional Statementsand Loops\bin\Debug\netcoreapp3.1\Exercise-Basic Syntax, Conditional Statementsand Loops.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Exercise-Basic Syntax, Conditional Statementsand Loops\bin\Debug\netcoreapp3.1\Exercise-Basic Syntax, Conditional Statementsand Loops.dll
+C:\Users\Goshicha\source\repos\Exercise-Basic Syntax, Conditional Statementsand Loops\bin\Debug\netcoreapp3.1\Exercise-Basic Syntax, Conditional Statementsand Loops.pdb
+C:\Users\Goshicha\source\repos\Exercise-Basic Syntax, Conditional Statementsand Loops\obj\Debug\netcoreapp3.1\Exercise-Basic Syntax, Conditional Statementsand Loops.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\Exercise-Basic Syntax, Conditional Statementsand Loops\obj\Debug\netcoreapp3.1\Exercise-Basic Syntax, Conditional Statementsand Loops.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Exercise-Basic Syntax, Conditional Statementsand Loops\obj\Debug\netcoreapp3.1\Exercise-Basic Syntax, Conditional Statementsand Loops.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Exercise-Basic Syntax, Conditional Statementsand Loops\obj\Debug\netcoreapp3.1\Exercise-Basic Syntax, Conditional Statementsand Loops.dll
+C:\Users\Goshicha\source\repos\Exercise-Basic Syntax, Conditional Statementsand Loops\obj\Debug\netcoreapp3.1\Exercise-Basic Syntax, Conditional Statementsand Loops.pdb

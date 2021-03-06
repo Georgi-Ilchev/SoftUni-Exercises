@@ -1,0 +1,10 @@
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Vegetable Market\bin\Debug\netcoreapp3.1\Vegetable Market.exe
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Vegetable Market\bin\Debug\netcoreapp3.1\Vegetable Market.deps.json
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Vegetable Market\bin\Debug\netcoreapp3.1\Vegetable Market.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Vegetable Market\bin\Debug\netcoreapp3.1\Vegetable Market.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Vegetable Market\bin\Debug\netcoreapp3.1\Vegetable Market.dll
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Vegetable Market\bin\Debug\netcoreapp3.1\Vegetable Market.pdb
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Vegetable Market\obj\Debug\netcoreapp3.1\Vegetable Market.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Vegetable Market\obj\Debug\netcoreapp3.1\Vegetable Market.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Vegetable Market\obj\Debug\netcoreapp3.1\Vegetable Market.dll
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Vegetable Market\obj\Debug\netcoreapp3.1\Vegetable Market.pdb

@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\09. Trade Commissions\bin\Debug\netcoreapp3.1\09. Trade Commissions.exe
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\09. Trade Commissions\bin\Debug\netcoreapp3.1\09. Trade Commissions.deps.json
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\09. Trade Commissions\bin\Debug\netcoreapp3.1\09. Trade Commissions.runtimeconfig.json
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\09. Trade Commissions\bin\Debug\netcoreapp3.1\09. Trade Commissions.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\09. Trade Commissions\bin\Debug\netcoreapp3.1\09. Trade Commissions.dll
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\09. Trade Commissions\bin\Debug\netcoreapp3.1\09. Trade Commissions.pdb
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\09. Trade Commissions\obj\Debug\netcoreapp3.1\09. Trade Commissions.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\09. Trade Commissions\obj\Debug\netcoreapp3.1\09. Trade Commissions.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\09. Trade Commissions\obj\Debug\netcoreapp3.1\09. Trade Commissions.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\09. Trade Commissions\obj\Debug\netcoreapp3.1\09. Trade Commissions.dll
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\09. Trade Commissions\obj\Debug\netcoreapp3.1\09. Trade Commissions.pdb

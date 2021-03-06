@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\More Exercise csharp Intro and Basic Syntax\bin\Debug\netcoreapp3.1\More Exercise csharp Intro and Basic Syntax.exe
+C:\Users\Goshicha\source\repos\More Exercise csharp Intro and Basic Syntax\bin\Debug\netcoreapp3.1\More Exercise csharp Intro and Basic Syntax.deps.json
+C:\Users\Goshicha\source\repos\More Exercise csharp Intro and Basic Syntax\bin\Debug\netcoreapp3.1\More Exercise csharp Intro and Basic Syntax.runtimeconfig.json
+C:\Users\Goshicha\source\repos\More Exercise csharp Intro and Basic Syntax\bin\Debug\netcoreapp3.1\More Exercise csharp Intro and Basic Syntax.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\More Exercise csharp Intro and Basic Syntax\bin\Debug\netcoreapp3.1\More Exercise csharp Intro and Basic Syntax.dll
+C:\Users\Goshicha\source\repos\More Exercise csharp Intro and Basic Syntax\bin\Debug\netcoreapp3.1\More Exercise csharp Intro and Basic Syntax.pdb
+C:\Users\Goshicha\source\repos\More Exercise csharp Intro and Basic Syntax\obj\Debug\netcoreapp3.1\More Exercise csharp Intro and Basic Syntax.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\More Exercise csharp Intro and Basic Syntax\obj\Debug\netcoreapp3.1\More Exercise csharp Intro and Basic Syntax.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\More Exercise csharp Intro and Basic Syntax\obj\Debug\netcoreapp3.1\More Exercise csharp Intro and Basic Syntax.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\More Exercise csharp Intro and Basic Syntax\obj\Debug\netcoreapp3.1\More Exercise csharp Intro and Basic Syntax.dll
+C:\Users\Goshicha\source\repos\More Exercise csharp Intro and Basic Syntax\obj\Debug\netcoreapp3.1\More Exercise csharp Intro and Basic Syntax.pdb

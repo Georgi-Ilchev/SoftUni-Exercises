@@ -1,0 +1,10 @@
+C:\Users\Goshicha\source\repos\11. Math operations\bin\Debug\netcoreapp3.1\11. Math operations.exe
+C:\Users\Goshicha\source\repos\11. Math operations\bin\Debug\netcoreapp3.1\11. Math operations.deps.json
+C:\Users\Goshicha\source\repos\11. Math operations\bin\Debug\netcoreapp3.1\11. Math operations.runtimeconfig.json
+C:\Users\Goshicha\source\repos\11. Math operations\bin\Debug\netcoreapp3.1\11. Math operations.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\11. Math operations\bin\Debug\netcoreapp3.1\11. Math operations.dll
+C:\Users\Goshicha\source\repos\11. Math operations\bin\Debug\netcoreapp3.1\11. Math operations.pdb
+C:\Users\Goshicha\source\repos\11. Math operations\obj\Debug\netcoreapp3.1\11. Math operations.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\11. Math operations\obj\Debug\netcoreapp3.1\11. Math operations.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\11. Math operations\obj\Debug\netcoreapp3.1\11. Math operations.dll
+C:\Users\Goshicha\source\repos\11. Math operations\obj\Debug\netcoreapp3.1\11. Math operations.pdb

@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\Examples2\Concatenate Data\bin\Debug\netcoreapp3.1\Concatenate Data.exe
+C:\Users\Goshicha\source\repos\Examples2\Concatenate Data\bin\Debug\netcoreapp3.1\Concatenate Data.deps.json
+C:\Users\Goshicha\source\repos\Examples2\Concatenate Data\bin\Debug\netcoreapp3.1\Concatenate Data.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Examples2\Concatenate Data\bin\Debug\netcoreapp3.1\Concatenate Data.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Examples2\Concatenate Data\bin\Debug\netcoreapp3.1\Concatenate Data.dll
+C:\Users\Goshicha\source\repos\Examples2\Concatenate Data\bin\Debug\netcoreapp3.1\Concatenate Data.pdb
+C:\Users\Goshicha\source\repos\Examples2\Concatenate Data\obj\Debug\netcoreapp3.1\Concatenate Data.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\Examples2\Concatenate Data\obj\Debug\netcoreapp3.1\Concatenate Data.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Examples2\Concatenate Data\obj\Debug\netcoreapp3.1\Concatenate Data.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Examples2\Concatenate Data\obj\Debug\netcoreapp3.1\Concatenate Data.dll
+C:\Users\Goshicha\source\repos\Examples2\Concatenate Data\obj\Debug\netcoreapp3.1\Concatenate Data.pdb

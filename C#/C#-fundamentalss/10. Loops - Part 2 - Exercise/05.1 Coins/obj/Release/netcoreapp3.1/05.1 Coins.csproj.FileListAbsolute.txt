@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\10. Loops - Part 2 - Exercise\05.1 Coins\bin\Release\netcoreapp3.1\05.1 Coins.exe
+C:\Users\Goshicha\source\repos\10. Loops - Part 2 - Exercise\05.1 Coins\bin\Release\netcoreapp3.1\05.1 Coins.deps.json
+C:\Users\Goshicha\source\repos\10. Loops - Part 2 - Exercise\05.1 Coins\bin\Release\netcoreapp3.1\05.1 Coins.runtimeconfig.json
+C:\Users\Goshicha\source\repos\10. Loops - Part 2 - Exercise\05.1 Coins\bin\Release\netcoreapp3.1\05.1 Coins.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\10. Loops - Part 2 - Exercise\05.1 Coins\bin\Release\netcoreapp3.1\05.1 Coins.dll
+C:\Users\Goshicha\source\repos\10. Loops - Part 2 - Exercise\05.1 Coins\bin\Release\netcoreapp3.1\05.1 Coins.pdb
+C:\Users\Goshicha\source\repos\10. Loops - Part 2 - Exercise\05.1 Coins\obj\Release\netcoreapp3.1\05.1 Coins.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\10. Loops - Part 2 - Exercise\05.1 Coins\obj\Release\netcoreapp3.1\05.1 Coins.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\10. Loops - Part 2 - Exercise\05.1 Coins\obj\Release\netcoreapp3.1\05.1 Coins.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\10. Loops - Part 2 - Exercise\05.1 Coins\obj\Release\netcoreapp3.1\05.1 Coins.dll
+C:\Users\Goshicha\source\repos\10. Loops - Part 2 - Exercise\05.1 Coins\obj\Release\netcoreapp3.1\05.1 Coins.pdb

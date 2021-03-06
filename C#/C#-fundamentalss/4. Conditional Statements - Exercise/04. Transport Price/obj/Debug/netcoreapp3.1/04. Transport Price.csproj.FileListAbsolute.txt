@@ -1,0 +1,10 @@
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\04. Transport Price\bin\Debug\netcoreapp3.1\04. Transport Price.exe
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\04. Transport Price\bin\Debug\netcoreapp3.1\04. Transport Price.deps.json
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\04. Transport Price\bin\Debug\netcoreapp3.1\04. Transport Price.runtimeconfig.json
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\04. Transport Price\bin\Debug\netcoreapp3.1\04. Transport Price.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\04. Transport Price\bin\Debug\netcoreapp3.1\04. Transport Price.dll
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\04. Transport Price\bin\Debug\netcoreapp3.1\04. Transport Price.pdb
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\04. Transport Price\obj\Debug\netcoreapp3.1\04. Transport Price.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\04. Transport Price\obj\Debug\netcoreapp3.1\04. Transport Price.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\04. Transport Price\obj\Debug\netcoreapp3.1\04. Transport Price.dll
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\04. Transport Price\obj\Debug\netcoreapp3.1\04. Transport Price.pdb

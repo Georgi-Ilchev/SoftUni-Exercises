@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\7. Loops\03. Numbers 1toN with 3 Step\bin\Debug\netcoreapp3.1\03. Numbers 1toN with 3 Step.exe
+C:\Users\Goshicha\source\repos\7. Loops\03. Numbers 1toN with 3 Step\bin\Debug\netcoreapp3.1\03. Numbers 1toN with 3 Step.deps.json
+C:\Users\Goshicha\source\repos\7. Loops\03. Numbers 1toN with 3 Step\bin\Debug\netcoreapp3.1\03. Numbers 1toN with 3 Step.runtimeconfig.json
+C:\Users\Goshicha\source\repos\7. Loops\03. Numbers 1toN with 3 Step\bin\Debug\netcoreapp3.1\03. Numbers 1toN with 3 Step.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\7. Loops\03. Numbers 1toN with 3 Step\bin\Debug\netcoreapp3.1\03. Numbers 1toN with 3 Step.dll
+C:\Users\Goshicha\source\repos\7. Loops\03. Numbers 1toN with 3 Step\bin\Debug\netcoreapp3.1\03. Numbers 1toN with 3 Step.pdb
+C:\Users\Goshicha\source\repos\7. Loops\03. Numbers 1toN with 3 Step\obj\Debug\netcoreapp3.1\03. Numbers 1toN with 3 Step.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\7. Loops\03. Numbers 1toN with 3 Step\obj\Debug\netcoreapp3.1\03. Numbers 1toN with 3 Step.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\7. Loops\03. Numbers 1toN with 3 Step\obj\Debug\netcoreapp3.1\03. Numbers 1toN with 3 Step.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\7. Loops\03. Numbers 1toN with 3 Step\obj\Debug\netcoreapp3.1\03. Numbers 1toN with 3 Step.dll
+C:\Users\Goshicha\source\repos\7. Loops\03. Numbers 1toN with 3 Step\obj\Debug\netcoreapp3.1\03. Numbers 1toN with 3 Step.pdb

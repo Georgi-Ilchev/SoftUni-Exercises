@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\06. Pets\bin\Debug\netcoreapp3.1\06. Pets.exe
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\06. Pets\bin\Debug\netcoreapp3.1\06. Pets.deps.json
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\06. Pets\bin\Debug\netcoreapp3.1\06. Pets.runtimeconfig.json
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\06. Pets\bin\Debug\netcoreapp3.1\06. Pets.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\06. Pets\bin\Debug\netcoreapp3.1\06. Pets.dll
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\06. Pets\bin\Debug\netcoreapp3.1\06. Pets.pdb
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\06. Pets\obj\Debug\netcoreapp3.1\06. Pets.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\06. Pets\obj\Debug\netcoreapp3.1\06. Pets.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\06. Pets\obj\Debug\netcoreapp3.1\06. Pets.dll
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\06. Pets\obj\Debug\netcoreapp3.1\06. Pets.pdb
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\06. Pets\obj\Debug\netcoreapp3.1\06. Pets.csprojAssemblyReference.cache

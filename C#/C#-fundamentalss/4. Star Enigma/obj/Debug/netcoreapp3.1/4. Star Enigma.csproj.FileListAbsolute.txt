@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\4. Star Enigma\bin\Debug\netcoreapp3.1\4. Star Enigma.exe
+C:\Users\Goshicha\source\repos\4. Star Enigma\bin\Debug\netcoreapp3.1\4. Star Enigma.deps.json
+C:\Users\Goshicha\source\repos\4. Star Enigma\bin\Debug\netcoreapp3.1\4. Star Enigma.runtimeconfig.json
+C:\Users\Goshicha\source\repos\4. Star Enigma\bin\Debug\netcoreapp3.1\4. Star Enigma.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\4. Star Enigma\bin\Debug\netcoreapp3.1\4. Star Enigma.dll
+C:\Users\Goshicha\source\repos\4. Star Enigma\bin\Debug\netcoreapp3.1\4. Star Enigma.pdb
+C:\Users\Goshicha\source\repos\4. Star Enigma\obj\Debug\netcoreapp3.1\4. Star Enigma.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\4. Star Enigma\obj\Debug\netcoreapp3.1\4. Star Enigma.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\4. Star Enigma\obj\Debug\netcoreapp3.1\4. Star Enigma.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\4. Star Enigma\obj\Debug\netcoreapp3.1\4. Star Enigma.dll
+C:\Users\Goshicha\source\repos\4. Star Enigma\obj\Debug\netcoreapp3.1\4. Star Enigma.pdb

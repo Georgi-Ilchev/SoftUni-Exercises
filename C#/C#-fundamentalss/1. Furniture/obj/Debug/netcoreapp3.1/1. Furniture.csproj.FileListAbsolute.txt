@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\1. Furniture\bin\Debug\netcoreapp3.1\1. Furniture.exe
+C:\Users\Goshicha\source\repos\1. Furniture\bin\Debug\netcoreapp3.1\1. Furniture.deps.json
+C:\Users\Goshicha\source\repos\1. Furniture\bin\Debug\netcoreapp3.1\1. Furniture.runtimeconfig.json
+C:\Users\Goshicha\source\repos\1. Furniture\bin\Debug\netcoreapp3.1\1. Furniture.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\1. Furniture\bin\Debug\netcoreapp3.1\1. Furniture.dll
+C:\Users\Goshicha\source\repos\1. Furniture\bin\Debug\netcoreapp3.1\1. Furniture.pdb
+C:\Users\Goshicha\source\repos\1. Furniture\obj\Debug\netcoreapp3.1\1. Furniture.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\1. Furniture\obj\Debug\netcoreapp3.1\1. Furniture.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\1. Furniture\obj\Debug\netcoreapp3.1\1. Furniture.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\1. Furniture\obj\Debug\netcoreapp3.1\1. Furniture.dll
+C:\Users\Goshicha\source\repos\1. Furniture\obj\Debug\netcoreapp3.1\1. Furniture.pdb

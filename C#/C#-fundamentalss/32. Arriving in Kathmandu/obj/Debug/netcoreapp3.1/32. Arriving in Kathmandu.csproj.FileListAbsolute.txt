@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\32. Arriving in Kathmandu\bin\Debug\netcoreapp3.1\32. Arriving in Kathmandu.exe
+C:\Users\Goshicha\source\repos\32. Arriving in Kathmandu\bin\Debug\netcoreapp3.1\32. Arriving in Kathmandu.deps.json
+C:\Users\Goshicha\source\repos\32. Arriving in Kathmandu\bin\Debug\netcoreapp3.1\32. Arriving in Kathmandu.runtimeconfig.json
+C:\Users\Goshicha\source\repos\32. Arriving in Kathmandu\bin\Debug\netcoreapp3.1\32. Arriving in Kathmandu.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\32. Arriving in Kathmandu\bin\Debug\netcoreapp3.1\32. Arriving in Kathmandu.dll
+C:\Users\Goshicha\source\repos\32. Arriving in Kathmandu\bin\Debug\netcoreapp3.1\32. Arriving in Kathmandu.pdb
+C:\Users\Goshicha\source\repos\32. Arriving in Kathmandu\obj\Debug\netcoreapp3.1\32. Arriving in Kathmandu.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\32. Arriving in Kathmandu\obj\Debug\netcoreapp3.1\32. Arriving in Kathmandu.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\32. Arriving in Kathmandu\obj\Debug\netcoreapp3.1\32. Arriving in Kathmandu.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\32. Arriving in Kathmandu\obj\Debug\netcoreapp3.1\32. Arriving in Kathmandu.dll
+C:\Users\Goshicha\source\repos\32. Arriving in Kathmandu\obj\Debug\netcoreapp3.1\32. Arriving in Kathmandu.pdb

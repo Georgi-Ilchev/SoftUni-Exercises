@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\12. Data Types\bin\Debug\netcoreapp3.1\12. Data Types.exe
+C:\Users\Goshicha\source\repos\12. Data Types\bin\Debug\netcoreapp3.1\12. Data Types.deps.json
+C:\Users\Goshicha\source\repos\12. Data Types\bin\Debug\netcoreapp3.1\12. Data Types.runtimeconfig.json
+C:\Users\Goshicha\source\repos\12. Data Types\bin\Debug\netcoreapp3.1\12. Data Types.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\12. Data Types\bin\Debug\netcoreapp3.1\12. Data Types.dll
+C:\Users\Goshicha\source\repos\12. Data Types\bin\Debug\netcoreapp3.1\12. Data Types.pdb
+C:\Users\Goshicha\source\repos\12. Data Types\obj\Debug\netcoreapp3.1\12. Data Types.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\12. Data Types\obj\Debug\netcoreapp3.1\12. Data Types.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\12. Data Types\obj\Debug\netcoreapp3.1\12. Data Types.dll
+C:\Users\Goshicha\source\repos\12. Data Types\obj\Debug\netcoreapp3.1\12. Data Types.pdb
+C:\Users\Goshicha\source\repos\12. Data Types\obj\Debug\netcoreapp3.1\12. Data Types.csprojAssemblyReference.cache

@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SillyGame/1.0.0": {
+        "runtime": {
+          "SillyGame.dll": {}
+        }
+      },
+      "OOP - Workshop/1.0.0": {
+        "runtime": {
+          "OOP - Workshop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SillyGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OOP - Workshop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

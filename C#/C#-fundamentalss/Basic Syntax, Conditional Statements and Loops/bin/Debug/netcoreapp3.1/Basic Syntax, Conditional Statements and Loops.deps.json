@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Basic Syntax, Conditional Statements and Loops/1.0.0": {
+        "runtime": {
+          "Basic Syntax, Conditional Statements and Loops.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Basic Syntax, Conditional Statements and Loops/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

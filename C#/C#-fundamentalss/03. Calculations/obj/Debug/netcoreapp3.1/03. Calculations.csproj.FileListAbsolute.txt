@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\03. Calculations\bin\Debug\netcoreapp3.1\03. Calculations.exe
+C:\Users\Goshicha\source\repos\03. Calculations\bin\Debug\netcoreapp3.1\03. Calculations.deps.json
+C:\Users\Goshicha\source\repos\03. Calculations\bin\Debug\netcoreapp3.1\03. Calculations.runtimeconfig.json
+C:\Users\Goshicha\source\repos\03. Calculations\bin\Debug\netcoreapp3.1\03. Calculations.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\03. Calculations\bin\Debug\netcoreapp3.1\03. Calculations.dll
+C:\Users\Goshicha\source\repos\03. Calculations\bin\Debug\netcoreapp3.1\03. Calculations.pdb
+C:\Users\Goshicha\source\repos\03. Calculations\obj\Debug\netcoreapp3.1\03. Calculations.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\03. Calculations\obj\Debug\netcoreapp3.1\03. Calculations.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\03. Calculations\obj\Debug\netcoreapp3.1\03. Calculations.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\03. Calculations\obj\Debug\netcoreapp3.1\03. Calculations.dll
+C:\Users\Goshicha\source\repos\03. Calculations\obj\Debug\netcoreapp3.1\03. Calculations.pdb

@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\Conditional Statements - Exercise\Time + 15 Minutes\bin\Debug\netcoreapp3.1\Time + 15 Minutes.exe
+C:\Users\Goshicha\source\repos\Conditional Statements - Exercise\Time + 15 Minutes\bin\Debug\netcoreapp3.1\Time + 15 Minutes.deps.json
+C:\Users\Goshicha\source\repos\Conditional Statements - Exercise\Time + 15 Minutes\bin\Debug\netcoreapp3.1\Time + 15 Minutes.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Conditional Statements - Exercise\Time + 15 Minutes\bin\Debug\netcoreapp3.1\Time + 15 Minutes.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Conditional Statements - Exercise\Time + 15 Minutes\bin\Debug\netcoreapp3.1\Time + 15 Minutes.dll
+C:\Users\Goshicha\source\repos\Conditional Statements - Exercise\Time + 15 Minutes\bin\Debug\netcoreapp3.1\Time + 15 Minutes.pdb
+C:\Users\Goshicha\source\repos\Conditional Statements - Exercise\Time + 15 Minutes\obj\Debug\netcoreapp3.1\Time + 15 Minutes.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Conditional Statements - Exercise\Time + 15 Minutes\obj\Debug\netcoreapp3.1\Time + 15 Minutes.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Conditional Statements - Exercise\Time + 15 Minutes\obj\Debug\netcoreapp3.1\Time + 15 Minutes.dll
+C:\Users\Goshicha\source\repos\Conditional Statements - Exercise\Time + 15 Minutes\obj\Debug\netcoreapp3.1\Time + 15 Minutes.pdb
+C:\Users\Goshicha\source\repos\Conditional Statements - Exercise\Time + 15 Minutes\obj\Debug\netcoreapp3.1\Time + 15 Minutes.csprojAssemblyReference.cache

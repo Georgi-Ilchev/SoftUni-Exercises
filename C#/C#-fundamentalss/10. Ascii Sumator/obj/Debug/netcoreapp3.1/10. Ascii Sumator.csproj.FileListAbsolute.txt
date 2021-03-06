@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\10. Ascii Sumator\bin\Debug\netcoreapp3.1\10. Ascii Sumator.exe
+C:\Users\Goshicha\source\repos\10. Ascii Sumator\bin\Debug\netcoreapp3.1\10. Ascii Sumator.deps.json
+C:\Users\Goshicha\source\repos\10. Ascii Sumator\bin\Debug\netcoreapp3.1\10. Ascii Sumator.runtimeconfig.json
+C:\Users\Goshicha\source\repos\10. Ascii Sumator\bin\Debug\netcoreapp3.1\10. Ascii Sumator.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\10. Ascii Sumator\bin\Debug\netcoreapp3.1\10. Ascii Sumator.dll
+C:\Users\Goshicha\source\repos\10. Ascii Sumator\bin\Debug\netcoreapp3.1\10. Ascii Sumator.pdb
+C:\Users\Goshicha\source\repos\10. Ascii Sumator\obj\Debug\netcoreapp3.1\10. Ascii Sumator.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\10. Ascii Sumator\obj\Debug\netcoreapp3.1\10. Ascii Sumator.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\10. Ascii Sumator\obj\Debug\netcoreapp3.1\10. Ascii Sumator.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\10. Ascii Sumator\obj\Debug\netcoreapp3.1\10. Ascii Sumator.dll
+C:\Users\Goshicha\source\repos\10. Ascii Sumator\obj\Debug\netcoreapp3.1\10. Ascii Sumator.pdb

@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\Conditional Statements - Exercise\Metric Converter\bin\Debug\netcoreapp3.1\Metric Converter.exe
+C:\Users\Goshicha\source\repos\Conditional Statements - Exercise\Metric Converter\bin\Debug\netcoreapp3.1\Metric Converter.deps.json
+C:\Users\Goshicha\source\repos\Conditional Statements - Exercise\Metric Converter\bin\Debug\netcoreapp3.1\Metric Converter.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Conditional Statements - Exercise\Metric Converter\bin\Debug\netcoreapp3.1\Metric Converter.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Conditional Statements - Exercise\Metric Converter\bin\Debug\netcoreapp3.1\Metric Converter.dll
+C:\Users\Goshicha\source\repos\Conditional Statements - Exercise\Metric Converter\bin\Debug\netcoreapp3.1\Metric Converter.pdb
+C:\Users\Goshicha\source\repos\Conditional Statements - Exercise\Metric Converter\obj\Debug\netcoreapp3.1\Metric Converter.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\Conditional Statements - Exercise\Metric Converter\obj\Debug\netcoreapp3.1\Metric Converter.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Conditional Statements - Exercise\Metric Converter\obj\Debug\netcoreapp3.1\Metric Converter.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Conditional Statements - Exercise\Metric Converter\obj\Debug\netcoreapp3.1\Metric Converter.dll
+C:\Users\Goshicha\source\repos\Conditional Statements - Exercise\Metric Converter\obj\Debug\netcoreapp3.1\Metric Converter.pdb

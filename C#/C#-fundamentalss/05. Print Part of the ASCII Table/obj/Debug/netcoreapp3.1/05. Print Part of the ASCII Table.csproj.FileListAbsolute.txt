@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\05. Print Part of the ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part of the ASCII Table.exe
+C:\Users\Goshicha\source\repos\05. Print Part of the ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part of the ASCII Table.deps.json
+C:\Users\Goshicha\source\repos\05. Print Part of the ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part of the ASCII Table.runtimeconfig.json
+C:\Users\Goshicha\source\repos\05. Print Part of the ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part of the ASCII Table.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\05. Print Part of the ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part of the ASCII Table.dll
+C:\Users\Goshicha\source\repos\05. Print Part of the ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part of the ASCII Table.pdb
+C:\Users\Goshicha\source\repos\05. Print Part of the ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part of the ASCII Table.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\05. Print Part of the ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part of the ASCII Table.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\05. Print Part of the ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part of the ASCII Table.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\05. Print Part of the ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part of the ASCII Table.dll
+C:\Users\Goshicha\source\repos\05. Print Part of the ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part of the ASCII Table.pdb

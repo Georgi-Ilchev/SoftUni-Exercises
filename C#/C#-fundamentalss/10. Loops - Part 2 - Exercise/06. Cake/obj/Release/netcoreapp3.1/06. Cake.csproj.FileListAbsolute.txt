@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\10. Loops - Part 2 - Exercise\06. Cake\bin\Release\netcoreapp3.1\06. Cake.exe
+C:\Users\Goshicha\source\repos\10. Loops - Part 2 - Exercise\06. Cake\bin\Release\netcoreapp3.1\06. Cake.deps.json
+C:\Users\Goshicha\source\repos\10. Loops - Part 2 - Exercise\06. Cake\bin\Release\netcoreapp3.1\06. Cake.runtimeconfig.json
+C:\Users\Goshicha\source\repos\10. Loops - Part 2 - Exercise\06. Cake\bin\Release\netcoreapp3.1\06. Cake.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\10. Loops - Part 2 - Exercise\06. Cake\bin\Release\netcoreapp3.1\06. Cake.dll
+C:\Users\Goshicha\source\repos\10. Loops - Part 2 - Exercise\06. Cake\bin\Release\netcoreapp3.1\06. Cake.pdb
+C:\Users\Goshicha\source\repos\10. Loops - Part 2 - Exercise\06. Cake\obj\Release\netcoreapp3.1\06. Cake.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\10. Loops - Part 2 - Exercise\06. Cake\obj\Release\netcoreapp3.1\06. Cake.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\10. Loops - Part 2 - Exercise\06. Cake\obj\Release\netcoreapp3.1\06. Cake.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\10. Loops - Part 2 - Exercise\06. Cake\obj\Release\netcoreapp3.1\06. Cake.dll
+C:\Users\Goshicha\source\repos\10. Loops - Part 2 - Exercise\06. Cake\obj\Release\netcoreapp3.1\06. Cake.pdb

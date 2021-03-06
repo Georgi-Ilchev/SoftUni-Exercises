@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\13. Shopping Spree\bin\Debug\netcoreapp3.1\13. Shopping Spree.exe
+C:\Users\Goshicha\source\repos\13. Shopping Spree\bin\Debug\netcoreapp3.1\13. Shopping Spree.deps.json
+C:\Users\Goshicha\source\repos\13. Shopping Spree\bin\Debug\netcoreapp3.1\13. Shopping Spree.runtimeconfig.json
+C:\Users\Goshicha\source\repos\13. Shopping Spree\bin\Debug\netcoreapp3.1\13. Shopping Spree.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\13. Shopping Spree\bin\Debug\netcoreapp3.1\13. Shopping Spree.dll
+C:\Users\Goshicha\source\repos\13. Shopping Spree\bin\Debug\netcoreapp3.1\13. Shopping Spree.pdb
+C:\Users\Goshicha\source\repos\13. Shopping Spree\obj\Debug\netcoreapp3.1\13. Shopping Spree.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\13. Shopping Spree\obj\Debug\netcoreapp3.1\13. Shopping Spree.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\13. Shopping Spree\obj\Debug\netcoreapp3.1\13. Shopping Spree.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\13. Shopping Spree\obj\Debug\netcoreapp3.1\13. Shopping Spree.dll
+C:\Users\Goshicha\source\repos\13. Shopping Spree\obj\Debug\netcoreapp3.1\13. Shopping Spree.pdb

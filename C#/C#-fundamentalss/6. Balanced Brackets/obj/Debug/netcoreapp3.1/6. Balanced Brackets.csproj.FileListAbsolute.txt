@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\6. Balanced Brackets\bin\Debug\netcoreapp3.1\6. Balanced Brackets.exe
+C:\Users\Goshicha\source\repos\6. Balanced Brackets\bin\Debug\netcoreapp3.1\6. Balanced Brackets.deps.json
+C:\Users\Goshicha\source\repos\6. Balanced Brackets\bin\Debug\netcoreapp3.1\6. Balanced Brackets.runtimeconfig.json
+C:\Users\Goshicha\source\repos\6. Balanced Brackets\bin\Debug\netcoreapp3.1\6. Balanced Brackets.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\6. Balanced Brackets\bin\Debug\netcoreapp3.1\6. Balanced Brackets.dll
+C:\Users\Goshicha\source\repos\6. Balanced Brackets\bin\Debug\netcoreapp3.1\6. Balanced Brackets.pdb
+C:\Users\Goshicha\source\repos\6. Balanced Brackets\obj\Debug\netcoreapp3.1\6. Balanced Brackets.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\6. Balanced Brackets\obj\Debug\netcoreapp3.1\6. Balanced Brackets.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\6. Balanced Brackets\obj\Debug\netcoreapp3.1\6. Balanced Brackets.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\6. Balanced Brackets\obj\Debug\netcoreapp3.1\6. Balanced Brackets.dll
+C:\Users\Goshicha\source\repos\6. Balanced Brackets\obj\Debug\netcoreapp3.1\6. Balanced Brackets.pdb

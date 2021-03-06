@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\Final Exam Preparation\bin\Debug\netcoreapp3.1\Final Exam Preparation.exe
+C:\Users\Goshicha\source\repos\Final Exam Preparation\bin\Debug\netcoreapp3.1\Final Exam Preparation.deps.json
+C:\Users\Goshicha\source\repos\Final Exam Preparation\bin\Debug\netcoreapp3.1\Final Exam Preparation.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Final Exam Preparation\bin\Debug\netcoreapp3.1\Final Exam Preparation.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Final Exam Preparation\bin\Debug\netcoreapp3.1\Final Exam Preparation.dll
+C:\Users\Goshicha\source\repos\Final Exam Preparation\bin\Debug\netcoreapp3.1\Final Exam Preparation.pdb
+C:\Users\Goshicha\source\repos\Final Exam Preparation\obj\Debug\netcoreapp3.1\Final Exam Preparation.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\Final Exam Preparation\obj\Debug\netcoreapp3.1\Final Exam Preparation.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Final Exam Preparation\obj\Debug\netcoreapp3.1\Final Exam Preparation.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Final Exam Preparation\obj\Debug\netcoreapp3.1\Final Exam Preparation.dll
+C:\Users\Goshicha\source\repos\Final Exam Preparation\obj\Debug\netcoreapp3.1\Final Exam Preparation.pdb

@@ -1,0 +1,10 @@
+C:\Users\Goshicha\source\repos\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.exe
+C:\Users\Goshicha\source\repos\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.deps.json
+C:\Users\Goshicha\source\repos\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.runtimeconfig.json
+C:\Users\Goshicha\source\repos\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.dll
+C:\Users\Goshicha\source\repos\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.pdb
+C:\Users\Goshicha\source\repos\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.dll
+C:\Users\Goshicha\source\repos\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.pdb

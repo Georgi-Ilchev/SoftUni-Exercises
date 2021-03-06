@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\Conditional Statements\Area of Figures\bin\Debug\netcoreapp3.1\Area of Figures.exe
+C:\Users\Goshicha\source\repos\Conditional Statements\Area of Figures\bin\Debug\netcoreapp3.1\Area of Figures.deps.json
+C:\Users\Goshicha\source\repos\Conditional Statements\Area of Figures\bin\Debug\netcoreapp3.1\Area of Figures.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Conditional Statements\Area of Figures\bin\Debug\netcoreapp3.1\Area of Figures.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Conditional Statements\Area of Figures\bin\Debug\netcoreapp3.1\Area of Figures.dll
+C:\Users\Goshicha\source\repos\Conditional Statements\Area of Figures\bin\Debug\netcoreapp3.1\Area of Figures.pdb
+C:\Users\Goshicha\source\repos\Conditional Statements\Area of Figures\obj\Debug\netcoreapp3.1\Area of Figures.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\Conditional Statements\Area of Figures\obj\Debug\netcoreapp3.1\Area of Figures.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Conditional Statements\Area of Figures\obj\Debug\netcoreapp3.1\Area of Figures.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Conditional Statements\Area of Figures\obj\Debug\netcoreapp3.1\Area of Figures.dll
+C:\Users\Goshicha\source\repos\Conditional Statements\Area of Figures\obj\Debug\netcoreapp3.1\Area of Figures.pdb

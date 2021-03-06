@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\05. Darts Tournament\bin\Debug\netcoreapp3.1\05. Darts Tournament.exe
+C:\Users\Goshicha\source\repos\05. Darts Tournament\bin\Debug\netcoreapp3.1\05. Darts Tournament.deps.json
+C:\Users\Goshicha\source\repos\05. Darts Tournament\bin\Debug\netcoreapp3.1\05. Darts Tournament.runtimeconfig.json
+C:\Users\Goshicha\source\repos\05. Darts Tournament\bin\Debug\netcoreapp3.1\05. Darts Tournament.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\05. Darts Tournament\bin\Debug\netcoreapp3.1\05. Darts Tournament.dll
+C:\Users\Goshicha\source\repos\05. Darts Tournament\bin\Debug\netcoreapp3.1\05. Darts Tournament.pdb
+C:\Users\Goshicha\source\repos\05. Darts Tournament\obj\Debug\netcoreapp3.1\05. Darts Tournament.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\05. Darts Tournament\obj\Debug\netcoreapp3.1\05. Darts Tournament.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\05. Darts Tournament\obj\Debug\netcoreapp3.1\05. Darts Tournament.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\05. Darts Tournament\obj\Debug\netcoreapp3.1\05. Darts Tournament.dll
+C:\Users\Goshicha\source\repos\05. Darts Tournament\obj\Debug\netcoreapp3.1\05. Darts Tournament.pdb

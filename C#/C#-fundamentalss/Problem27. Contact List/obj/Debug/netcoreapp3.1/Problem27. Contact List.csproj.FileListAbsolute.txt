@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\Problem27. Contact List\bin\Debug\netcoreapp3.1\Problem27. Contact List.exe
+C:\Users\Goshicha\source\repos\Problem27. Contact List\bin\Debug\netcoreapp3.1\Problem27. Contact List.deps.json
+C:\Users\Goshicha\source\repos\Problem27. Contact List\bin\Debug\netcoreapp3.1\Problem27. Contact List.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Problem27. Contact List\bin\Debug\netcoreapp3.1\Problem27. Contact List.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Problem27. Contact List\bin\Debug\netcoreapp3.1\Problem27. Contact List.dll
+C:\Users\Goshicha\source\repos\Problem27. Contact List\bin\Debug\netcoreapp3.1\Problem27. Contact List.pdb
+C:\Users\Goshicha\source\repos\Problem27. Contact List\obj\Debug\netcoreapp3.1\Problem27. Contact List.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\Problem27. Contact List\obj\Debug\netcoreapp3.1\Problem27. Contact List.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Problem27. Contact List\obj\Debug\netcoreapp3.1\Problem27. Contact List.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Problem27. Contact List\obj\Debug\netcoreapp3.1\Problem27. Contact List.dll
+C:\Users\Goshicha\source\repos\Problem27. Contact List\obj\Debug\netcoreapp3.1\Problem27. Contact List.pdb

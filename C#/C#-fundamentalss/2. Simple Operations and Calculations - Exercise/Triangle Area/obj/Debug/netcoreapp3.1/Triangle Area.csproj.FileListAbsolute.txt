@@ -1,0 +1,10 @@
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Triangle Area\bin\Debug\netcoreapp3.1\Triangle Area.exe
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Triangle Area\bin\Debug\netcoreapp3.1\Triangle Area.deps.json
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Triangle Area\bin\Debug\netcoreapp3.1\Triangle Area.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Triangle Area\bin\Debug\netcoreapp3.1\Triangle Area.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Triangle Area\bin\Debug\netcoreapp3.1\Triangle Area.dll
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Triangle Area\bin\Debug\netcoreapp3.1\Triangle Area.pdb
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Triangle Area\obj\Debug\netcoreapp3.1\Triangle Area.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Triangle Area\obj\Debug\netcoreapp3.1\Triangle Area.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Triangle Area\obj\Debug\netcoreapp3.1\Triangle Area.dll
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Triangle Area\obj\Debug\netcoreapp3.1\Triangle Area.pdb

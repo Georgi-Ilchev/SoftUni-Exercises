@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\Problem15. Biscuits Factory\bin\Debug\netcoreapp3.1\Problem16. Biscuits Factory.exe
+C:\Users\Goshicha\source\repos\Problem15. Biscuits Factory\bin\Debug\netcoreapp3.1\Problem16. Biscuits Factory.deps.json
+C:\Users\Goshicha\source\repos\Problem15. Biscuits Factory\bin\Debug\netcoreapp3.1\Problem16. Biscuits Factory.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Problem15. Biscuits Factory\bin\Debug\netcoreapp3.1\Problem16. Biscuits Factory.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Problem15. Biscuits Factory\bin\Debug\netcoreapp3.1\Problem16. Biscuits Factory.dll
+C:\Users\Goshicha\source\repos\Problem15. Biscuits Factory\bin\Debug\netcoreapp3.1\Problem16. Biscuits Factory.pdb
+C:\Users\Goshicha\source\repos\Problem15. Biscuits Factory\obj\Debug\netcoreapp3.1\Problem16. Biscuits Factory.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\Problem15. Biscuits Factory\obj\Debug\netcoreapp3.1\Problem16. Biscuits Factory.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Problem15. Biscuits Factory\obj\Debug\netcoreapp3.1\Problem16. Biscuits Factory.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Problem15. Biscuits Factory\obj\Debug\netcoreapp3.1\Problem16. Biscuits Factory.dll
+C:\Users\Goshicha\source\repos\Problem15. Biscuits Factory\obj\Debug\netcoreapp3.1\Problem16. Biscuits Factory.pdb

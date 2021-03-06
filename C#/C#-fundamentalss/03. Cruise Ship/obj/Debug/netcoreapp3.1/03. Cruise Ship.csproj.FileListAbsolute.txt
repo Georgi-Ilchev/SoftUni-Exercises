@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\03. Cruise Ship\bin\Debug\netcoreapp3.1\03. Cruise Ship.exe
+C:\Users\Goshicha\source\repos\03. Cruise Ship\bin\Debug\netcoreapp3.1\03. Cruise Ship.deps.json
+C:\Users\Goshicha\source\repos\03. Cruise Ship\bin\Debug\netcoreapp3.1\03. Cruise Ship.runtimeconfig.json
+C:\Users\Goshicha\source\repos\03. Cruise Ship\bin\Debug\netcoreapp3.1\03. Cruise Ship.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\03. Cruise Ship\bin\Debug\netcoreapp3.1\03. Cruise Ship.dll
+C:\Users\Goshicha\source\repos\03. Cruise Ship\bin\Debug\netcoreapp3.1\03. Cruise Ship.pdb
+C:\Users\Goshicha\source\repos\03. Cruise Ship\obj\Debug\netcoreapp3.1\03. Cruise Ship.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\03. Cruise Ship\obj\Debug\netcoreapp3.1\03. Cruise Ship.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\03. Cruise Ship\obj\Debug\netcoreapp3.1\03. Cruise Ship.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\03. Cruise Ship\obj\Debug\netcoreapp3.1\03. Cruise Ship.dll
+C:\Users\Goshicha\source\repos\03. Cruise Ship\obj\Debug\netcoreapp3.1\03. Cruise Ship.pdb

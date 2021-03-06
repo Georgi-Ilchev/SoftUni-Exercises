@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\1.1 Match Tickets\bin\Debug\netcoreapp3.1\1.1 Match Tickets.exe
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\1.1 Match Tickets\bin\Debug\netcoreapp3.1\1.1 Match Tickets.deps.json
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\1.1 Match Tickets\bin\Debug\netcoreapp3.1\1.1 Match Tickets.runtimeconfig.json
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\1.1 Match Tickets\bin\Debug\netcoreapp3.1\1.1 Match Tickets.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\1.1 Match Tickets\bin\Debug\netcoreapp3.1\1.1 Match Tickets.dll
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\1.1 Match Tickets\bin\Debug\netcoreapp3.1\1.1 Match Tickets.pdb
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\1.1 Match Tickets\obj\Debug\netcoreapp3.1\1.1 Match Tickets.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\1.1 Match Tickets\obj\Debug\netcoreapp3.1\1.1 Match Tickets.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\1.1 Match Tickets\obj\Debug\netcoreapp3.1\1.1 Match Tickets.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\1.1 Match Tickets\obj\Debug\netcoreapp3.1\1.1 Match Tickets.dll
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\1.1 Match Tickets\obj\Debug\netcoreapp3.1\1.1 Match Tickets.pdb

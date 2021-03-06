@@ -1,0 +1,10 @@
+C:\Users\Goshicha\source\repos\07. Concat Names\bin\Debug\netcoreapp3.1\07. Concat Names.exe
+C:\Users\Goshicha\source\repos\07. Concat Names\bin\Debug\netcoreapp3.1\07. Concat Names.deps.json
+C:\Users\Goshicha\source\repos\07. Concat Names\bin\Debug\netcoreapp3.1\07. Concat Names.runtimeconfig.json
+C:\Users\Goshicha\source\repos\07. Concat Names\bin\Debug\netcoreapp3.1\07. Concat Names.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\07. Concat Names\bin\Debug\netcoreapp3.1\07. Concat Names.dll
+C:\Users\Goshicha\source\repos\07. Concat Names\bin\Debug\netcoreapp3.1\07. Concat Names.pdb
+C:\Users\Goshicha\source\repos\07. Concat Names\obj\Debug\netcoreapp3.1\07. Concat Names.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\07. Concat Names\obj\Debug\netcoreapp3.1\07. Concat Names.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\07. Concat Names\obj\Debug\netcoreapp3.1\07. Concat Names.dll
+C:\Users\Goshicha\source\repos\07. Concat Names\obj\Debug\netcoreapp3.1\07. Concat Names.pdb

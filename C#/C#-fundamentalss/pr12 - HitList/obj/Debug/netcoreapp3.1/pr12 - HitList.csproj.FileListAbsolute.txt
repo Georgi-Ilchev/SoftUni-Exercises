@@ -1,0 +1,13 @@
+C:\Users\Goshicha\source\repos\pr12 - HitList\bin\Debug\netcoreapp3.1\pr12 - HitList.exe
+C:\Users\Goshicha\source\repos\pr12 - HitList\bin\Debug\netcoreapp3.1\pr12 - HitList.deps.json
+C:\Users\Goshicha\source\repos\pr12 - HitList\bin\Debug\netcoreapp3.1\pr12 - HitList.runtimeconfig.json
+C:\Users\Goshicha\source\repos\pr12 - HitList\bin\Debug\netcoreapp3.1\pr12 - HitList.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\pr12 - HitList\bin\Debug\netcoreapp3.1\pr12 - HitList.dll
+C:\Users\Goshicha\source\repos\pr12 - HitList\bin\Debug\netcoreapp3.1\pr12 - HitList.pdb
+C:\Users\Goshicha\source\repos\pr12 - HitList\obj\Debug\netcoreapp3.1\pr12 - HitList.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\pr12 - HitList\obj\Debug\netcoreapp3.1\pr12 - HitList.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\pr12 - HitList\obj\Debug\netcoreapp3.1\pr12 - HitList.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\pr12 - HitList\obj\Debug\netcoreapp3.1\pr12 - HitList.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\pr12 - HitList\obj\Debug\netcoreapp3.1\pr12 - HitList.dll
+C:\Users\Goshicha\source\repos\pr12 - HitList\obj\Debug\netcoreapp3.1\pr12 - HitList.pdb
+C:\Users\Goshicha\source\repos\pr12 - HitList\obj\Debug\netcoreapp3.1\pr12 - HitList.genruntimeconfig.cache

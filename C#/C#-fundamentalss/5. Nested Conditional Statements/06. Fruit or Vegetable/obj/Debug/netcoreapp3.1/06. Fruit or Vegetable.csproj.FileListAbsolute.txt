@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\06. Fruit or Vegetable\bin\Debug\netcoreapp3.1\06. Fruit or Vegetable.exe
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\06. Fruit or Vegetable\bin\Debug\netcoreapp3.1\06. Fruit or Vegetable.deps.json
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\06. Fruit or Vegetable\bin\Debug\netcoreapp3.1\06. Fruit or Vegetable.runtimeconfig.json
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\06. Fruit or Vegetable\bin\Debug\netcoreapp3.1\06. Fruit or Vegetable.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\06. Fruit or Vegetable\bin\Debug\netcoreapp3.1\06. Fruit or Vegetable.dll
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\06. Fruit or Vegetable\bin\Debug\netcoreapp3.1\06. Fruit or Vegetable.pdb
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\06. Fruit or Vegetable\obj\Debug\netcoreapp3.1\06. Fruit or Vegetable.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\06. Fruit or Vegetable\obj\Debug\netcoreapp3.1\06. Fruit or Vegetable.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\06. Fruit or Vegetable\obj\Debug\netcoreapp3.1\06. Fruit or Vegetable.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\06. Fruit or Vegetable\obj\Debug\netcoreapp3.1\06. Fruit or Vegetable.dll
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\06. Fruit or Vegetable\obj\Debug\netcoreapp3.1\06. Fruit or Vegetable.pdb

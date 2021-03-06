@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\Problem20. Treasure Hunt\bin\Debug\netcoreapp3.1\Problem20. Treasure Hunt.exe
+C:\Users\Goshicha\source\repos\Problem20. Treasure Hunt\bin\Debug\netcoreapp3.1\Problem20. Treasure Hunt.deps.json
+C:\Users\Goshicha\source\repos\Problem20. Treasure Hunt\bin\Debug\netcoreapp3.1\Problem20. Treasure Hunt.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Problem20. Treasure Hunt\bin\Debug\netcoreapp3.1\Problem20. Treasure Hunt.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Problem20. Treasure Hunt\bin\Debug\netcoreapp3.1\Problem20. Treasure Hunt.dll
+C:\Users\Goshicha\source\repos\Problem20. Treasure Hunt\bin\Debug\netcoreapp3.1\Problem20. Treasure Hunt.pdb
+C:\Users\Goshicha\source\repos\Problem20. Treasure Hunt\obj\Debug\netcoreapp3.1\Problem20. Treasure Hunt.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\Problem20. Treasure Hunt\obj\Debug\netcoreapp3.1\Problem20. Treasure Hunt.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Problem20. Treasure Hunt\obj\Debug\netcoreapp3.1\Problem20. Treasure Hunt.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Problem20. Treasure Hunt\obj\Debug\netcoreapp3.1\Problem20. Treasure Hunt.dll
+C:\Users\Goshicha\source\repos\Problem20. Treasure Hunt\obj\Debug\netcoreapp3.1\Problem20. Treasure Hunt.pdb

@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\19. Car Race\bin\Debug\netcoreapp3.1\19. Car Race.exe
+C:\Users\Goshicha\source\repos\19. Car Race\bin\Debug\netcoreapp3.1\19. Car Race.deps.json
+C:\Users\Goshicha\source\repos\19. Car Race\bin\Debug\netcoreapp3.1\19. Car Race.runtimeconfig.json
+C:\Users\Goshicha\source\repos\19. Car Race\bin\Debug\netcoreapp3.1\19. Car Race.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\19. Car Race\bin\Debug\netcoreapp3.1\19. Car Race.dll
+C:\Users\Goshicha\source\repos\19. Car Race\bin\Debug\netcoreapp3.1\19. Car Race.pdb
+C:\Users\Goshicha\source\repos\19. Car Race\obj\Debug\netcoreapp3.1\19. Car Race.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\19. Car Race\obj\Debug\netcoreapp3.1\19. Car Race.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\19. Car Race\obj\Debug\netcoreapp3.1\19. Car Race.dll
+C:\Users\Goshicha\source\repos\19. Car Race\obj\Debug\netcoreapp3.1\19. Car Race.pdb
+C:\Users\Goshicha\source\repos\19. Car Race\obj\Debug\netcoreapp3.1\19. Car Race.csprojAssemblyReference.cache

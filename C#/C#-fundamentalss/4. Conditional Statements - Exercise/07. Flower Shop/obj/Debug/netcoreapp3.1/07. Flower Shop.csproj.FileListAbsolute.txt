@@ -1,0 +1,10 @@
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\07. Flower Shop\bin\Debug\netcoreapp3.1\07. Flower Shop.exe
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\07. Flower Shop\bin\Debug\netcoreapp3.1\07. Flower Shop.deps.json
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\07. Flower Shop\bin\Debug\netcoreapp3.1\07. Flower Shop.runtimeconfig.json
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\07. Flower Shop\bin\Debug\netcoreapp3.1\07. Flower Shop.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\07. Flower Shop\bin\Debug\netcoreapp3.1\07. Flower Shop.dll
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\07. Flower Shop\bin\Debug\netcoreapp3.1\07. Flower Shop.pdb
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\07. Flower Shop\obj\Debug\netcoreapp3.1\07. Flower Shop.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\07. Flower Shop\obj\Debug\netcoreapp3.1\07. Flower Shop.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\07. Flower Shop\obj\Debug\netcoreapp3.1\07. Flower Shop.dll
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\07. Flower Shop\obj\Debug\netcoreapp3.1\07. Flower Shop.pdb

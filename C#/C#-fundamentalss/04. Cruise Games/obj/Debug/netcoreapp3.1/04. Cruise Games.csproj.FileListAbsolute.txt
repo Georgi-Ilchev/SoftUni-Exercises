@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\04. Cruise Games\bin\Debug\netcoreapp3.1\04. Cruise Games.exe
+C:\Users\Goshicha\source\repos\04. Cruise Games\bin\Debug\netcoreapp3.1\04. Cruise Games.deps.json
+C:\Users\Goshicha\source\repos\04. Cruise Games\bin\Debug\netcoreapp3.1\04. Cruise Games.runtimeconfig.json
+C:\Users\Goshicha\source\repos\04. Cruise Games\bin\Debug\netcoreapp3.1\04. Cruise Games.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\04. Cruise Games\bin\Debug\netcoreapp3.1\04. Cruise Games.dll
+C:\Users\Goshicha\source\repos\04. Cruise Games\bin\Debug\netcoreapp3.1\04. Cruise Games.pdb
+C:\Users\Goshicha\source\repos\04. Cruise Games\obj\Debug\netcoreapp3.1\04. Cruise Games.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\04. Cruise Games\obj\Debug\netcoreapp3.1\04. Cruise Games.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\04. Cruise Games\obj\Debug\netcoreapp3.1\04. Cruise Games.dll
+C:\Users\Goshicha\source\repos\04. Cruise Games\obj\Debug\netcoreapp3.1\04. Cruise Games.pdb
+C:\Users\Goshicha\source\repos\04. Cruise Games\obj\Debug\netcoreapp3.1\04. Cruise Games.csprojAssemblyReference.cache

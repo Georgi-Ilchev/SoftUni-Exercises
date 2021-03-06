@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\World Swimming Record\bin\Debug\netcoreapp3.1\World Swimming Record.exe
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\World Swimming Record\bin\Debug\netcoreapp3.1\World Swimming Record.deps.json
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\World Swimming Record\bin\Debug\netcoreapp3.1\World Swimming Record.runtimeconfig.json
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\World Swimming Record\bin\Debug\netcoreapp3.1\World Swimming Record.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\World Swimming Record\bin\Debug\netcoreapp3.1\World Swimming Record.dll
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\World Swimming Record\bin\Debug\netcoreapp3.1\World Swimming Record.pdb
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\World Swimming Record\obj\Debug\netcoreapp3.1\World Swimming Record.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\World Swimming Record\obj\Debug\netcoreapp3.1\World Swimming Record.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\World Swimming Record\obj\Debug\netcoreapp3.1\World Swimming Record.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\World Swimming Record\obj\Debug\netcoreapp3.1\World Swimming Record.dll
+C:\Users\Goshicha\source\repos\4. Conditional Statements - Exercise\World Swimming Record\obj\Debug\netcoreapp3.1\World Swimming Record.pdb

@@ -1,0 +1,10 @@
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Weather Forecast\bin\Debug\netcoreapp3.1\Weather Forecast.exe
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Weather Forecast\bin\Debug\netcoreapp3.1\Weather Forecast.deps.json
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Weather Forecast\bin\Debug\netcoreapp3.1\Weather Forecast.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Weather Forecast\bin\Debug\netcoreapp3.1\Weather Forecast.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Weather Forecast\bin\Debug\netcoreapp3.1\Weather Forecast.dll
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Weather Forecast\bin\Debug\netcoreapp3.1\Weather Forecast.pdb
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Weather Forecast\obj\Debug\netcoreapp3.1\Weather Forecast.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Weather Forecast\obj\Debug\netcoreapp3.1\Weather Forecast.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Weather Forecast\obj\Debug\netcoreapp3.1\Weather Forecast.dll
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Weather Forecast\obj\Debug\netcoreapp3.1\Weather Forecast.pdb

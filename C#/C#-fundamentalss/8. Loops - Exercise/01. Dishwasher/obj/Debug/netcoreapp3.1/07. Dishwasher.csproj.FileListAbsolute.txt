@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\8. Loops - Exercise\01. Dishwasher\bin\Debug\netcoreapp3.1\07. Dishwasher.exe
+C:\Users\Goshicha\source\repos\8. Loops - Exercise\01. Dishwasher\bin\Debug\netcoreapp3.1\07. Dishwasher.deps.json
+C:\Users\Goshicha\source\repos\8. Loops - Exercise\01. Dishwasher\bin\Debug\netcoreapp3.1\07. Dishwasher.runtimeconfig.json
+C:\Users\Goshicha\source\repos\8. Loops - Exercise\01. Dishwasher\bin\Debug\netcoreapp3.1\07. Dishwasher.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\8. Loops - Exercise\01. Dishwasher\bin\Debug\netcoreapp3.1\07. Dishwasher.dll
+C:\Users\Goshicha\source\repos\8. Loops - Exercise\01. Dishwasher\bin\Debug\netcoreapp3.1\07. Dishwasher.pdb
+C:\Users\Goshicha\source\repos\8. Loops - Exercise\01. Dishwasher\obj\Debug\netcoreapp3.1\07. Dishwasher.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\8. Loops - Exercise\01. Dishwasher\obj\Debug\netcoreapp3.1\07. Dishwasher.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\8. Loops - Exercise\01. Dishwasher\obj\Debug\netcoreapp3.1\07. Dishwasher.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\8. Loops - Exercise\01. Dishwasher\obj\Debug\netcoreapp3.1\07. Dishwasher.dll
+C:\Users\Goshicha\source\repos\8. Loops - Exercise\01. Dishwasher\obj\Debug\netcoreapp3.1\07. Dishwasher.pdb

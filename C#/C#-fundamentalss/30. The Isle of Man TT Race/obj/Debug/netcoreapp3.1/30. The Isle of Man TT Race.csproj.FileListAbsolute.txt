@@ -1,0 +1,10 @@
+C:\Users\Goshicha\source\repos\30. The Isle of Man TT Race\bin\Debug\netcoreapp3.1\30. The Isle of Man TT Race.exe
+C:\Users\Goshicha\source\repos\30. The Isle of Man TT Race\bin\Debug\netcoreapp3.1\30. The Isle of Man TT Race.deps.json
+C:\Users\Goshicha\source\repos\30. The Isle of Man TT Race\bin\Debug\netcoreapp3.1\30. The Isle of Man TT Race.runtimeconfig.json
+C:\Users\Goshicha\source\repos\30. The Isle of Man TT Race\bin\Debug\netcoreapp3.1\30. The Isle of Man TT Race.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\30. The Isle of Man TT Race\bin\Debug\netcoreapp3.1\30. The Isle of Man TT Race.dll
+C:\Users\Goshicha\source\repos\30. The Isle of Man TT Race\bin\Debug\netcoreapp3.1\30. The Isle of Man TT Race.pdb
+C:\Users\Goshicha\source\repos\30. The Isle of Man TT Race\obj\Debug\netcoreapp3.1\30. The Isle of Man TT Race.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\30. The Isle of Man TT Race\obj\Debug\netcoreapp3.1\30. The Isle of Man TT Race.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\30. The Isle of Man TT Race\obj\Debug\netcoreapp3.1\30. The Isle of Man TT Race.dll
+C:\Users\Goshicha\source\repos\30. The Isle of Man TT Race\obj\Debug\netcoreapp3.1\30. The Isle of Man TT Race.pdb

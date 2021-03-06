@@ -1,0 +1,10 @@
+C:\Users\Goshicha\source\repos\Problem 4. National Court\bin\Debug\netcoreapp3.1\Problem 4. National Court.exe
+C:\Users\Goshicha\source\repos\Problem 4. National Court\bin\Debug\netcoreapp3.1\Problem 4. National Court.deps.json
+C:\Users\Goshicha\source\repos\Problem 4. National Court\bin\Debug\netcoreapp3.1\Problem 4. National Court.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Problem 4. National Court\bin\Debug\netcoreapp3.1\Problem 4. National Court.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Problem 4. National Court\bin\Debug\netcoreapp3.1\Problem 4. National Court.dll
+C:\Users\Goshicha\source\repos\Problem 4. National Court\bin\Debug\netcoreapp3.1\Problem 4. National Court.pdb
+C:\Users\Goshicha\source\repos\Problem 4. National Court\obj\Debug\netcoreapp3.1\Problem 4. National Court.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Problem 4. National Court\obj\Debug\netcoreapp3.1\Problem 4. National Court.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Problem 4. National Court\obj\Debug\netcoreapp3.1\Problem 4. National Court.dll
+C:\Users\Goshicha\source\repos\Problem 4. National Court\obj\Debug\netcoreapp3.1\Problem 4. National Court.pdb

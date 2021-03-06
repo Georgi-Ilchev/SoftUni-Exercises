@@ -1,0 +1,10 @@
+C:\Users\Goshicha\source\repos\7. Loops\07. Sum Numbers\bin\Debug\netcoreapp3.1\07. Sum Numbers.exe
+C:\Users\Goshicha\source\repos\7. Loops\07. Sum Numbers\bin\Debug\netcoreapp3.1\07. Sum Numbers.deps.json
+C:\Users\Goshicha\source\repos\7. Loops\07. Sum Numbers\bin\Debug\netcoreapp3.1\07. Sum Numbers.runtimeconfig.json
+C:\Users\Goshicha\source\repos\7. Loops\07. Sum Numbers\bin\Debug\netcoreapp3.1\07. Sum Numbers.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\7. Loops\07. Sum Numbers\bin\Debug\netcoreapp3.1\07. Sum Numbers.dll
+C:\Users\Goshicha\source\repos\7. Loops\07. Sum Numbers\bin\Debug\netcoreapp3.1\07. Sum Numbers.pdb
+C:\Users\Goshicha\source\repos\7. Loops\07. Sum Numbers\obj\Debug\netcoreapp3.1\07. Sum Numbers.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\7. Loops\07. Sum Numbers\obj\Debug\netcoreapp3.1\07. Sum Numbers.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\7. Loops\07. Sum Numbers\obj\Debug\netcoreapp3.1\07. Sum Numbers.dll
+C:\Users\Goshicha\source\repos\7. Loops\07. Sum Numbers\obj\Debug\netcoreapp3.1\07. Sum Numbers.pdb

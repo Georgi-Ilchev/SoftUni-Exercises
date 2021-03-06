@@ -1,0 +1,10 @@
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Celsius to Fahrenheit\bin\Debug\netcoreapp3.1\Celsius to Fahrenheit.exe
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Celsius to Fahrenheit\bin\Debug\netcoreapp3.1\Celsius to Fahrenheit.deps.json
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Celsius to Fahrenheit\bin\Debug\netcoreapp3.1\Celsius to Fahrenheit.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Celsius to Fahrenheit\bin\Debug\netcoreapp3.1\Celsius to Fahrenheit.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Celsius to Fahrenheit\bin\Debug\netcoreapp3.1\Celsius to Fahrenheit.dll
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Celsius to Fahrenheit\bin\Debug\netcoreapp3.1\Celsius to Fahrenheit.pdb
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Celsius to Fahrenheit\obj\Debug\netcoreapp3.1\Celsius to Fahrenheit.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Celsius to Fahrenheit\obj\Debug\netcoreapp3.1\Celsius to Fahrenheit.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Celsius to Fahrenheit\obj\Debug\netcoreapp3.1\Celsius to Fahrenheit.dll
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Celsius to Fahrenheit\obj\Debug\netcoreapp3.1\Celsius to Fahrenheit.pdb

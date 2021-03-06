@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Dance Hall\bin\Debug\netcoreapp3.1\Dance Hall.exe
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Dance Hall\bin\Debug\netcoreapp3.1\Dance Hall.deps.json
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Dance Hall\bin\Debug\netcoreapp3.1\Dance Hall.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Dance Hall\bin\Debug\netcoreapp3.1\Dance Hall.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Dance Hall\bin\Debug\netcoreapp3.1\Dance Hall.dll
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Dance Hall\bin\Debug\netcoreapp3.1\Dance Hall.pdb
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Dance Hall\obj\Debug\netcoreapp3.1\Dance Hall.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Dance Hall\obj\Debug\netcoreapp3.1\Dance Hall.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Dance Hall\obj\Debug\netcoreapp3.1\Dance Hall.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Dance Hall\obj\Debug\netcoreapp3.1\Dance Hall.dll
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Dance Hall\obj\Debug\netcoreapp3.1\Dance Hall.pdb

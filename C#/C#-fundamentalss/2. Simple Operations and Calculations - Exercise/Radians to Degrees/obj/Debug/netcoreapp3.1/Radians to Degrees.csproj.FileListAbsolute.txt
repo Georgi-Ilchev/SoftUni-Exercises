@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Radians to Degrees\bin\Debug\netcoreapp3.1\Radians to Degrees.exe
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Radians to Degrees\bin\Debug\netcoreapp3.1\Radians to Degrees.deps.json
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Radians to Degrees\bin\Debug\netcoreapp3.1\Radians to Degrees.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Radians to Degrees\bin\Debug\netcoreapp3.1\Radians to Degrees.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Radians to Degrees\bin\Debug\netcoreapp3.1\Radians to Degrees.dll
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Radians to Degrees\bin\Debug\netcoreapp3.1\Radians to Degrees.pdb
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Radians to Degrees\obj\Debug\netcoreapp3.1\Radians to Degrees.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Radians to Degrees\obj\Debug\netcoreapp3.1\Radians to Degrees.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Radians to Degrees\obj\Debug\netcoreapp3.1\Radians to Degrees.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Radians to Degrees\obj\Debug\netcoreapp3.1\Radians to Degrees.dll
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Radians to Degrees\obj\Debug\netcoreapp3.1\Radians to Degrees.pdb

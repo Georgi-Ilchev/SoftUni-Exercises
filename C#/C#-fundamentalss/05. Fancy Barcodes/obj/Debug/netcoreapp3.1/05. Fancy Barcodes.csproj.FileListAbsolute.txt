@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\05. Fancy Barcodes\bin\Debug\netcoreapp3.1\05. Fancy Barcodes.exe
+C:\Users\Goshicha\source\repos\05. Fancy Barcodes\bin\Debug\netcoreapp3.1\05. Fancy Barcodes.deps.json
+C:\Users\Goshicha\source\repos\05. Fancy Barcodes\bin\Debug\netcoreapp3.1\05. Fancy Barcodes.runtimeconfig.json
+C:\Users\Goshicha\source\repos\05. Fancy Barcodes\bin\Debug\netcoreapp3.1\05. Fancy Barcodes.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\05. Fancy Barcodes\bin\Debug\netcoreapp3.1\05. Fancy Barcodes.dll
+C:\Users\Goshicha\source\repos\05. Fancy Barcodes\bin\Debug\netcoreapp3.1\05. Fancy Barcodes.pdb
+C:\Users\Goshicha\source\repos\05. Fancy Barcodes\obj\Debug\netcoreapp3.1\05. Fancy Barcodes.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\05. Fancy Barcodes\obj\Debug\netcoreapp3.1\05. Fancy Barcodes.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\05. Fancy Barcodes\obj\Debug\netcoreapp3.1\05. Fancy Barcodes.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\05. Fancy Barcodes\obj\Debug\netcoreapp3.1\05. Fancy Barcodes.dll
+C:\Users\Goshicha\source\repos\05. Fancy Barcodes\obj\Debug\netcoreapp3.1\05. Fancy Barcodes.pdb

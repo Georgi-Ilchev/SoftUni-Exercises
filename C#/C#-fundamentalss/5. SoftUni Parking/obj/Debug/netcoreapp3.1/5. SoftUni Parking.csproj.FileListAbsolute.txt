@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\5. SoftUni Parking\bin\Debug\netcoreapp3.1\5. SoftUni Parking.exe
+C:\Users\Goshicha\source\repos\5. SoftUni Parking\bin\Debug\netcoreapp3.1\5. SoftUni Parking.deps.json
+C:\Users\Goshicha\source\repos\5. SoftUni Parking\bin\Debug\netcoreapp3.1\5. SoftUni Parking.runtimeconfig.json
+C:\Users\Goshicha\source\repos\5. SoftUni Parking\bin\Debug\netcoreapp3.1\5. SoftUni Parking.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\5. SoftUni Parking\bin\Debug\netcoreapp3.1\5. SoftUni Parking.dll
+C:\Users\Goshicha\source\repos\5. SoftUni Parking\bin\Debug\netcoreapp3.1\5. SoftUni Parking.pdb
+C:\Users\Goshicha\source\repos\5. SoftUni Parking\obj\Debug\netcoreapp3.1\5. SoftUni Parking.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\5. SoftUni Parking\obj\Debug\netcoreapp3.1\5. SoftUni Parking.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\5. SoftUni Parking\obj\Debug\netcoreapp3.1\5. SoftUni Parking.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\5. SoftUni Parking\obj\Debug\netcoreapp3.1\5. SoftUni Parking.dll
+C:\Users\Goshicha\source\repos\5. SoftUni Parking\obj\Debug\netcoreapp3.1\5. SoftUni Parking.pdb

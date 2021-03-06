@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\05. Fishing Boat\bin\Debug\netcoreapp3.1\05. Fishing Boat.exe
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\05. Fishing Boat\bin\Debug\netcoreapp3.1\05. Fishing Boat.deps.json
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\05. Fishing Boat\bin\Debug\netcoreapp3.1\05. Fishing Boat.runtimeconfig.json
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\05. Fishing Boat\bin\Debug\netcoreapp3.1\05. Fishing Boat.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\05. Fishing Boat\bin\Debug\netcoreapp3.1\05. Fishing Boat.dll
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\05. Fishing Boat\bin\Debug\netcoreapp3.1\05. Fishing Boat.pdb
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\05. Fishing Boat\obj\Debug\netcoreapp3.1\05. Fishing Boat.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\05. Fishing Boat\obj\Debug\netcoreapp3.1\05. Fishing Boat.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\05. Fishing Boat\obj\Debug\netcoreapp3.1\05. Fishing Boat.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\05. Fishing Boat\obj\Debug\netcoreapp3.1\05. Fishing Boat.dll
+C:\Users\Goshicha\source\repos\6. Nested Conditional Statements - Exercise\05. Fishing Boat\obj\Debug\netcoreapp3.1\05. Fishing Boat.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Problem16. Biscuits Factory/1.0.0": {
+        "runtime": {
+          "Problem16. Biscuits Factory.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Problem16. Biscuits Factory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

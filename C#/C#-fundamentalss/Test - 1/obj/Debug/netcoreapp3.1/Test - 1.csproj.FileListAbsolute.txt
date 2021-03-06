@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\Test - 1\bin\Debug\netcoreapp3.1\Test - 1.exe
+C:\Users\Goshicha\source\repos\Test - 1\bin\Debug\netcoreapp3.1\Test - 1.deps.json
+C:\Users\Goshicha\source\repos\Test - 1\bin\Debug\netcoreapp3.1\Test - 1.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Test - 1\bin\Debug\netcoreapp3.1\Test - 1.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Test - 1\bin\Debug\netcoreapp3.1\Test - 1.dll
+C:\Users\Goshicha\source\repos\Test - 1\bin\Debug\netcoreapp3.1\Test - 1.pdb
+C:\Users\Goshicha\source\repos\Test - 1\obj\Debug\netcoreapp3.1\Test - 1.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\Test - 1\obj\Debug\netcoreapp3.1\Test - 1.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Test - 1\obj\Debug\netcoreapp3.1\Test - 1.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Test - 1\obj\Debug\netcoreapp3.1\Test - 1.dll
+C:\Users\Goshicha\source\repos\Test - 1\obj\Debug\netcoreapp3.1\Test - 1.pdb

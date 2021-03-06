@@ -1,0 +1,10 @@
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\07. Invalid Number\bin\Debug\netcoreapp3.1\07. Invalid Number.exe
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\07. Invalid Number\bin\Debug\netcoreapp3.1\07. Invalid Number.deps.json
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\07. Invalid Number\bin\Debug\netcoreapp3.1\07. Invalid Number.runtimeconfig.json
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\07. Invalid Number\bin\Debug\netcoreapp3.1\07. Invalid Number.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\07. Invalid Number\bin\Debug\netcoreapp3.1\07. Invalid Number.dll
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\07. Invalid Number\bin\Debug\netcoreapp3.1\07. Invalid Number.pdb
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\07. Invalid Number\obj\Debug\netcoreapp3.1\07. Invalid Number.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\07. Invalid Number\obj\Debug\netcoreapp3.1\07. Invalid Number.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\07. Invalid Number\obj\Debug\netcoreapp3.1\07. Invalid Number.dll
+C:\Users\Goshicha\source\repos\5. Nested Conditional Statements\07. Invalid Number\obj\Debug\netcoreapp3.1\07. Invalid Number.pdb

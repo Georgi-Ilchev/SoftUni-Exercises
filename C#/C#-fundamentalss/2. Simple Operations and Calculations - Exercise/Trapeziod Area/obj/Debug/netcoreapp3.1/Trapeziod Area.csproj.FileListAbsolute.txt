@@ -1,0 +1,10 @@
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Trapeziod Area\bin\Debug\netcoreapp3.1\Trapeziod Area.exe
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Trapeziod Area\bin\Debug\netcoreapp3.1\Trapeziod Area.deps.json
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Trapeziod Area\bin\Debug\netcoreapp3.1\Trapeziod Area.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Trapeziod Area\bin\Debug\netcoreapp3.1\Trapeziod Area.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Trapeziod Area\bin\Debug\netcoreapp3.1\Trapeziod Area.dll
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Trapeziod Area\bin\Debug\netcoreapp3.1\Trapeziod Area.pdb
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Trapeziod Area\obj\Debug\netcoreapp3.1\Trapeziod Area.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Trapeziod Area\obj\Debug\netcoreapp3.1\Trapeziod Area.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Trapeziod Area\obj\Debug\netcoreapp3.1\Trapeziod Area.dll
+C:\Users\Goshicha\source\repos\Simple Operations and Calculations - Exercise\Trapeziod Area\obj\Debug\netcoreapp3.1\Trapeziod Area.pdb

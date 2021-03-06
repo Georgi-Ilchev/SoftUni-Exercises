@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\16. Pokemon Don't Go\bin\Debug\netcoreapp3.1\16. Pokemon Don't Go.exe
+C:\Users\Goshicha\source\repos\16. Pokemon Don't Go\bin\Debug\netcoreapp3.1\16. Pokemon Don't Go.deps.json
+C:\Users\Goshicha\source\repos\16. Pokemon Don't Go\bin\Debug\netcoreapp3.1\16. Pokemon Don't Go.runtimeconfig.json
+C:\Users\Goshicha\source\repos\16. Pokemon Don't Go\bin\Debug\netcoreapp3.1\16. Pokemon Don't Go.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\16. Pokemon Don't Go\bin\Debug\netcoreapp3.1\16. Pokemon Don't Go.dll
+C:\Users\Goshicha\source\repos\16. Pokemon Don't Go\bin\Debug\netcoreapp3.1\16. Pokemon Don't Go.pdb
+C:\Users\Goshicha\source\repos\16. Pokemon Don't Go\obj\Debug\netcoreapp3.1\16. Pokemon Don't Go.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\16. Pokemon Don't Go\obj\Debug\netcoreapp3.1\16. Pokemon Don't Go.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\16. Pokemon Don't Go\obj\Debug\netcoreapp3.1\16. Pokemon Don't Go.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\16. Pokemon Don't Go\obj\Debug\netcoreapp3.1\16. Pokemon Don't Go.dll
+C:\Users\Goshicha\source\repos\16. Pokemon Don't Go\obj\Debug\netcoreapp3.1\16. Pokemon Don't Go.pdb

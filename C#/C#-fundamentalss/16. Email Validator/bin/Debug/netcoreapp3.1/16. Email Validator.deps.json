@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "16. Email Validator/1.0.0": {
+        "runtime": {
+          "16. Email Validator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "16. Email Validator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

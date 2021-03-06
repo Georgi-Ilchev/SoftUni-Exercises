@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\02. Division\bin\Debug\netcoreapp3.1\02. Division.exe
+C:\Users\Goshicha\source\repos\02. Division\bin\Debug\netcoreapp3.1\02. Division.deps.json
+C:\Users\Goshicha\source\repos\02. Division\bin\Debug\netcoreapp3.1\02. Division.runtimeconfig.json
+C:\Users\Goshicha\source\repos\02. Division\bin\Debug\netcoreapp3.1\02. Division.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\02. Division\bin\Debug\netcoreapp3.1\02. Division.dll
+C:\Users\Goshicha\source\repos\02. Division\bin\Debug\netcoreapp3.1\02. Division.pdb
+C:\Users\Goshicha\source\repos\02. Division\obj\Debug\netcoreapp3.1\02. Division.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\02. Division\obj\Debug\netcoreapp3.1\02. Division.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\02. Division\obj\Debug\netcoreapp3.1\02. Division.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\02. Division\obj\Debug\netcoreapp3.1\02. Division.dll
+C:\Users\Goshicha\source\repos\02. Division\obj\Debug\netcoreapp3.1\02. Division.pdb

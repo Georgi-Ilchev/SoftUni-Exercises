@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\15. Dragon Army\bin\Debug\netcoreapp3.1\15. Dragon Army.exe
+C:\Users\Goshicha\source\repos\15. Dragon Army\bin\Debug\netcoreapp3.1\15. Dragon Army.deps.json
+C:\Users\Goshicha\source\repos\15. Dragon Army\bin\Debug\netcoreapp3.1\15. Dragon Army.runtimeconfig.json
+C:\Users\Goshicha\source\repos\15. Dragon Army\bin\Debug\netcoreapp3.1\15. Dragon Army.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\15. Dragon Army\bin\Debug\netcoreapp3.1\15. Dragon Army.dll
+C:\Users\Goshicha\source\repos\15. Dragon Army\bin\Debug\netcoreapp3.1\15. Dragon Army.pdb
+C:\Users\Goshicha\source\repos\15. Dragon Army\obj\Debug\netcoreapp3.1\15. Dragon Army.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\15. Dragon Army\obj\Debug\netcoreapp3.1\15. Dragon Army.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\15. Dragon Army\obj\Debug\netcoreapp3.1\15. Dragon Army.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\15. Dragon Army\obj\Debug\netcoreapp3.1\15. Dragon Army.dll
+C:\Users\Goshicha\source\repos\15. Dragon Army\obj\Debug\netcoreapp3.1\15. Dragon Army.pdb

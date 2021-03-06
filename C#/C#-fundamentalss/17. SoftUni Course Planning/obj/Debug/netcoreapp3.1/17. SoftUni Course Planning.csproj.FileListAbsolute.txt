@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\17. SoftUni Course Planning\bin\Debug\netcoreapp3.1\17. SoftUni Course Planning.exe
+C:\Users\Goshicha\source\repos\17. SoftUni Course Planning\bin\Debug\netcoreapp3.1\17. SoftUni Course Planning.deps.json
+C:\Users\Goshicha\source\repos\17. SoftUni Course Planning\bin\Debug\netcoreapp3.1\17. SoftUni Course Planning.runtimeconfig.json
+C:\Users\Goshicha\source\repos\17. SoftUni Course Planning\bin\Debug\netcoreapp3.1\17. SoftUni Course Planning.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\17. SoftUni Course Planning\bin\Debug\netcoreapp3.1\17. SoftUni Course Planning.dll
+C:\Users\Goshicha\source\repos\17. SoftUni Course Planning\bin\Debug\netcoreapp3.1\17. SoftUni Course Planning.pdb
+C:\Users\Goshicha\source\repos\17. SoftUni Course Planning\obj\Debug\netcoreapp3.1\17. SoftUni Course Planning.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\17. SoftUni Course Planning\obj\Debug\netcoreapp3.1\17. SoftUni Course Planning.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\17. SoftUni Course Planning\obj\Debug\netcoreapp3.1\17. SoftUni Course Planning.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\17. SoftUni Course Planning\obj\Debug\netcoreapp3.1\17. SoftUni Course Planning.dll
+C:\Users\Goshicha\source\repos\17. SoftUni Course Planning\obj\Debug\netcoreapp3.1\17. SoftUni Course Planning.pdb

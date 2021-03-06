@@ -1,0 +1,13 @@
+C:\Users\Goshicha\source\repos\Threeuples\bin\Debug\netcoreapp3.1\08. Threeuples.exe
+C:\Users\Goshicha\source\repos\Threeuples\bin\Debug\netcoreapp3.1\08. Threeuples.deps.json
+C:\Users\Goshicha\source\repos\Threeuples\bin\Debug\netcoreapp3.1\08. Threeuples.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Threeuples\bin\Debug\netcoreapp3.1\08. Threeuples.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Threeuples\bin\Debug\netcoreapp3.1\08. Threeuples.dll
+C:\Users\Goshicha\source\repos\Threeuples\bin\Debug\netcoreapp3.1\08. Threeuples.pdb
+C:\Users\Goshicha\source\repos\Threeuples\obj\Debug\netcoreapp3.1\08. Threeuples.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\Threeuples\obj\Debug\netcoreapp3.1\08. Threeuples.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Threeuples\obj\Debug\netcoreapp3.1\08. Threeuples.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Threeuples\obj\Debug\netcoreapp3.1\08. Threeuples.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\Threeuples\obj\Debug\netcoreapp3.1\08. Threeuples.dll
+C:\Users\Goshicha\source\repos\Threeuples\obj\Debug\netcoreapp3.1\08. Threeuples.pdb
+C:\Users\Goshicha\source\repos\Threeuples\obj\Debug\netcoreapp3.1\08. Threeuples.genruntimeconfig.cache

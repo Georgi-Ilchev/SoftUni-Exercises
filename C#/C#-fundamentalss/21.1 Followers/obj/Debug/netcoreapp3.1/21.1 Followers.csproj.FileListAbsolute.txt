@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\21.1 Followers\bin\Debug\netcoreapp3.1\21.1 Followers.exe
+C:\Users\Goshicha\source\repos\21.1 Followers\bin\Debug\netcoreapp3.1\21.1 Followers.deps.json
+C:\Users\Goshicha\source\repos\21.1 Followers\bin\Debug\netcoreapp3.1\21.1 Followers.runtimeconfig.json
+C:\Users\Goshicha\source\repos\21.1 Followers\bin\Debug\netcoreapp3.1\21.1 Followers.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\21.1 Followers\bin\Debug\netcoreapp3.1\21.1 Followers.dll
+C:\Users\Goshicha\source\repos\21.1 Followers\bin\Debug\netcoreapp3.1\21.1 Followers.pdb
+C:\Users\Goshicha\source\repos\21.1 Followers\obj\Debug\netcoreapp3.1\21.1 Followers.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\21.1 Followers\obj\Debug\netcoreapp3.1\21.1 Followers.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\21.1 Followers\obj\Debug\netcoreapp3.1\21.1 Followers.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\21.1 Followers\obj\Debug\netcoreapp3.1\21.1 Followers.dll
+C:\Users\Goshicha\source\repos\21.1 Followers\obj\Debug\netcoreapp3.1\21.1 Followers.pdb

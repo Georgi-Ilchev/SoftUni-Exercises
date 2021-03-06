@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\22. String Manipulator\bin\Debug\netcoreapp3.1\22. String Manipulator.exe
+C:\Users\Goshicha\source\repos\22. String Manipulator\bin\Debug\netcoreapp3.1\22. String Manipulator.deps.json
+C:\Users\Goshicha\source\repos\22. String Manipulator\bin\Debug\netcoreapp3.1\22. String Manipulator.runtimeconfig.json
+C:\Users\Goshicha\source\repos\22. String Manipulator\bin\Debug\netcoreapp3.1\22. String Manipulator.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\22. String Manipulator\bin\Debug\netcoreapp3.1\22. String Manipulator.dll
+C:\Users\Goshicha\source\repos\22. String Manipulator\bin\Debug\netcoreapp3.1\22. String Manipulator.pdb
+C:\Users\Goshicha\source\repos\22. String Manipulator\obj\Debug\netcoreapp3.1\22. String Manipulator.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\22. String Manipulator\obj\Debug\netcoreapp3.1\22. String Manipulator.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\22. String Manipulator\obj\Debug\netcoreapp3.1\22. String Manipulator.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\22. String Manipulator\obj\Debug\netcoreapp3.1\22. String Manipulator.dll
+C:\Users\Goshicha\source\repos\22. String Manipulator\obj\Debug\netcoreapp3.1\22. String Manipulator.pdb

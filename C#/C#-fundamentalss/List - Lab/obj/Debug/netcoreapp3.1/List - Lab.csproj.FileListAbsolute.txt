@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\List - Lab\bin\Debug\netcoreapp3.1\List - Lab.exe
+C:\Users\Goshicha\source\repos\List - Lab\bin\Debug\netcoreapp3.1\List - Lab.deps.json
+C:\Users\Goshicha\source\repos\List - Lab\bin\Debug\netcoreapp3.1\List - Lab.runtimeconfig.json
+C:\Users\Goshicha\source\repos\List - Lab\bin\Debug\netcoreapp3.1\List - Lab.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\List - Lab\bin\Debug\netcoreapp3.1\List - Lab.dll
+C:\Users\Goshicha\source\repos\List - Lab\bin\Debug\netcoreapp3.1\List - Lab.pdb
+C:\Users\Goshicha\source\repos\List - Lab\obj\Debug\netcoreapp3.1\List - Lab.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\List - Lab\obj\Debug\netcoreapp3.1\List - Lab.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\List - Lab\obj\Debug\netcoreapp3.1\List - Lab.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\List - Lab\obj\Debug\netcoreapp3.1\List - Lab.dll
+C:\Users\Goshicha\source\repos\List - Lab\obj\Debug\netcoreapp3.1\List - Lab.pdb

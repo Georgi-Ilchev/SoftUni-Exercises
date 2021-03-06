@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\Loops - Exercise\Loops - Exercise\bin\Debug\netcoreapp3.1\01. Numbers Ending in 7.exe
+C:\Users\Goshicha\source\repos\Loops - Exercise\Loops - Exercise\bin\Debug\netcoreapp3.1\01. Numbers Ending in 7.deps.json
+C:\Users\Goshicha\source\repos\Loops - Exercise\Loops - Exercise\bin\Debug\netcoreapp3.1\01. Numbers Ending in 7.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Loops - Exercise\Loops - Exercise\bin\Debug\netcoreapp3.1\01. Numbers Ending in 7.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Loops - Exercise\Loops - Exercise\bin\Debug\netcoreapp3.1\01. Numbers Ending in 7.dll
+C:\Users\Goshicha\source\repos\Loops - Exercise\Loops - Exercise\bin\Debug\netcoreapp3.1\01. Numbers Ending in 7.pdb
+C:\Users\Goshicha\source\repos\Loops - Exercise\Loops - Exercise\obj\Debug\netcoreapp3.1\01. Numbers Ending in 7.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\Loops - Exercise\Loops - Exercise\obj\Debug\netcoreapp3.1\01. Numbers Ending in 7.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Loops - Exercise\Loops - Exercise\obj\Debug\netcoreapp3.1\01. Numbers Ending in 7.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Loops - Exercise\Loops - Exercise\obj\Debug\netcoreapp3.1\01. Numbers Ending in 7.dll
+C:\Users\Goshicha\source\repos\Loops - Exercise\Loops - Exercise\obj\Debug\netcoreapp3.1\01. Numbers Ending in 7.pdb

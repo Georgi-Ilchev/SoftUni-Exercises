@@ -1,0 +1,10 @@
+C:\Users\Goshicha\source\repos\Problem25. Distance Calculator\bin\Debug\netcoreapp3.1\Problem25. Distance Calculator.exe
+C:\Users\Goshicha\source\repos\Problem25. Distance Calculator\bin\Debug\netcoreapp3.1\Problem25. Distance Calculator.deps.json
+C:\Users\Goshicha\source\repos\Problem25. Distance Calculator\bin\Debug\netcoreapp3.1\Problem25. Distance Calculator.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Problem25. Distance Calculator\bin\Debug\netcoreapp3.1\Problem25. Distance Calculator.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Problem25. Distance Calculator\bin\Debug\netcoreapp3.1\Problem25. Distance Calculator.dll
+C:\Users\Goshicha\source\repos\Problem25. Distance Calculator\bin\Debug\netcoreapp3.1\Problem25. Distance Calculator.pdb
+C:\Users\Goshicha\source\repos\Problem25. Distance Calculator\obj\Debug\netcoreapp3.1\Problem25. Distance Calculator.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Problem25. Distance Calculator\obj\Debug\netcoreapp3.1\Problem25. Distance Calculator.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Problem25. Distance Calculator\obj\Debug\netcoreapp3.1\Problem25. Distance Calculator.dll
+C:\Users\Goshicha\source\repos\Problem25. Distance Calculator\obj\Debug\netcoreapp3.1\Problem25. Distance Calculator.pdb

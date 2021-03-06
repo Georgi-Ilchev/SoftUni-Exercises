@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\14. Message Translator\bin\Debug\netcoreapp3.1\14. Message Translator.exe
+C:\Users\Goshicha\source\repos\14. Message Translator\bin\Debug\netcoreapp3.1\14. Message Translator.deps.json
+C:\Users\Goshicha\source\repos\14. Message Translator\bin\Debug\netcoreapp3.1\14. Message Translator.runtimeconfig.json
+C:\Users\Goshicha\source\repos\14. Message Translator\bin\Debug\netcoreapp3.1\14. Message Translator.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\14. Message Translator\bin\Debug\netcoreapp3.1\14. Message Translator.dll
+C:\Users\Goshicha\source\repos\14. Message Translator\bin\Debug\netcoreapp3.1\14. Message Translator.pdb
+C:\Users\Goshicha\source\repos\14. Message Translator\obj\Debug\netcoreapp3.1\14. Message Translator.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\14. Message Translator\obj\Debug\netcoreapp3.1\14. Message Translator.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\14. Message Translator\obj\Debug\netcoreapp3.1\14. Message Translator.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\14. Message Translator\obj\Debug\netcoreapp3.1\14. Message Translator.dll
+C:\Users\Goshicha\source\repos\14. Message Translator\obj\Debug\netcoreapp3.1\14. Message Translator.pdb

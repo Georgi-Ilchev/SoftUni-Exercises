@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\Problem 10. Disneyland Journey\bin\Debug\netcoreapp3.1\Problem10. Disneyland Journey.exe
+C:\Users\Goshicha\source\repos\Problem 10. Disneyland Journey\bin\Debug\netcoreapp3.1\Problem10. Disneyland Journey.deps.json
+C:\Users\Goshicha\source\repos\Problem 10. Disneyland Journey\bin\Debug\netcoreapp3.1\Problem10. Disneyland Journey.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Problem 10. Disneyland Journey\bin\Debug\netcoreapp3.1\Problem10. Disneyland Journey.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Problem 10. Disneyland Journey\bin\Debug\netcoreapp3.1\Problem10. Disneyland Journey.dll
+C:\Users\Goshicha\source\repos\Problem 10. Disneyland Journey\bin\Debug\netcoreapp3.1\Problem10. Disneyland Journey.pdb
+C:\Users\Goshicha\source\repos\Problem 10. Disneyland Journey\obj\Debug\netcoreapp3.1\Problem10. Disneyland Journey.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\Problem 10. Disneyland Journey\obj\Debug\netcoreapp3.1\Problem10. Disneyland Journey.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Problem 10. Disneyland Journey\obj\Debug\netcoreapp3.1\Problem10. Disneyland Journey.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Problem 10. Disneyland Journey\obj\Debug\netcoreapp3.1\Problem10. Disneyland Journey.dll
+C:\Users\Goshicha\source\repos\Problem 10. Disneyland Journey\obj\Debug\netcoreapp3.1\Problem10. Disneyland Journey.pdb

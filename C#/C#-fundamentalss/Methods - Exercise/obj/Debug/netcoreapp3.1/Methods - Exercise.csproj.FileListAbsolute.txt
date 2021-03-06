@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\Methods - Exercise\bin\Debug\netcoreapp3.1\Methods - Exercise.exe
+C:\Users\Goshicha\source\repos\Methods - Exercise\bin\Debug\netcoreapp3.1\Methods - Exercise.deps.json
+C:\Users\Goshicha\source\repos\Methods - Exercise\bin\Debug\netcoreapp3.1\Methods - Exercise.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Methods - Exercise\bin\Debug\netcoreapp3.1\Methods - Exercise.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Methods - Exercise\bin\Debug\netcoreapp3.1\Methods - Exercise.dll
+C:\Users\Goshicha\source\repos\Methods - Exercise\bin\Debug\netcoreapp3.1\Methods - Exercise.pdb
+C:\Users\Goshicha\source\repos\Methods - Exercise\obj\Debug\netcoreapp3.1\Methods - Exercise.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\Methods - Exercise\obj\Debug\netcoreapp3.1\Methods - Exercise.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Methods - Exercise\obj\Debug\netcoreapp3.1\Methods - Exercise.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Methods - Exercise\obj\Debug\netcoreapp3.1\Methods - Exercise.dll
+C:\Users\Goshicha\source\repos\Methods - Exercise\obj\Debug\netcoreapp3.1\Methods - Exercise.pdb

@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\exercise 3\obj\Debug\netcoreapp3.1\exercise 3.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\exercise 3\obj\Debug\netcoreapp3.1\exercise 3.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\exercise 3\obj\Debug\netcoreapp3.1\exercise 3.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\exercise 3\bin\Debug\netcoreapp3.1\exercise 3.exe
+C:\Users\Goshicha\source\repos\exercise 3\bin\Debug\netcoreapp3.1\exercise 3.deps.json
+C:\Users\Goshicha\source\repos\exercise 3\bin\Debug\netcoreapp3.1\exercise 3.runtimeconfig.json
+C:\Users\Goshicha\source\repos\exercise 3\bin\Debug\netcoreapp3.1\exercise 3.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\exercise 3\bin\Debug\netcoreapp3.1\exercise 3.dll
+C:\Users\Goshicha\source\repos\exercise 3\bin\Debug\netcoreapp3.1\exercise 3.pdb
+C:\Users\Goshicha\source\repos\exercise 3\obj\Debug\netcoreapp3.1\exercise 3.dll
+C:\Users\Goshicha\source\repos\exercise 3\obj\Debug\netcoreapp3.1\exercise 3.pdb

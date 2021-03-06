@@ -1,0 +1,10 @@
+C:\Users\Goshicha\source\repos\02. Character Multiplier\bin\Debug\netcoreapp3.1\2. Character Multiplier.exe
+C:\Users\Goshicha\source\repos\02. Character Multiplier\bin\Debug\netcoreapp3.1\2. Character Multiplier.deps.json
+C:\Users\Goshicha\source\repos\02. Character Multiplier\bin\Debug\netcoreapp3.1\2. Character Multiplier.runtimeconfig.json
+C:\Users\Goshicha\source\repos\02. Character Multiplier\bin\Debug\netcoreapp3.1\2. Character Multiplier.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\02. Character Multiplier\bin\Debug\netcoreapp3.1\2. Character Multiplier.dll
+C:\Users\Goshicha\source\repos\02. Character Multiplier\bin\Debug\netcoreapp3.1\2. Character Multiplier.pdb
+C:\Users\Goshicha\source\repos\02. Character Multiplier\obj\Debug\netcoreapp3.1\2. Character Multiplier.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\02. Character Multiplier\obj\Debug\netcoreapp3.1\2. Character Multiplier.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\02. Character Multiplier\obj\Debug\netcoreapp3.1\2. Character Multiplier.dll
+C:\Users\Goshicha\source\repos\02. Character Multiplier\obj\Debug\netcoreapp3.1\2. Character Multiplier.pdb

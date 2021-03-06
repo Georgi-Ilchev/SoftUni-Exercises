@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\Programing Basic - test\obj\Debug\netcoreapp3.1\Programing Basic - test.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\Programing Basic - test\obj\Debug\netcoreapp3.1\Programing Basic - test.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Programing Basic - test\obj\Debug\netcoreapp3.1\Programing Basic - test.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Programing Basic - test\bin\Debug\netcoreapp3.1\Programing Basic - test.exe
+C:\Users\Goshicha\source\repos\Programing Basic - test\bin\Debug\netcoreapp3.1\Programing Basic - test.deps.json
+C:\Users\Goshicha\source\repos\Programing Basic - test\bin\Debug\netcoreapp3.1\Programing Basic - test.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Programing Basic - test\bin\Debug\netcoreapp3.1\Programing Basic - test.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Programing Basic - test\bin\Debug\netcoreapp3.1\Programing Basic - test.dll
+C:\Users\Goshicha\source\repos\Programing Basic - test\bin\Debug\netcoreapp3.1\Programing Basic - test.pdb
+C:\Users\Goshicha\source\repos\Programing Basic - test\obj\Debug\netcoreapp3.1\Programing Basic - test.dll
+C:\Users\Goshicha\source\repos\Programing Basic - test\obj\Debug\netcoreapp3.1\Programing Basic - test.pdb

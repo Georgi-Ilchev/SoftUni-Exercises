@@ -1,0 +1,10 @@
+C:\Users\Goshicha\source\repos\08. Town Info\bin\Debug\netcoreapp3.1\08. Town Info.exe
+C:\Users\Goshicha\source\repos\08. Town Info\bin\Debug\netcoreapp3.1\08. Town Info.deps.json
+C:\Users\Goshicha\source\repos\08. Town Info\bin\Debug\netcoreapp3.1\08. Town Info.runtimeconfig.json
+C:\Users\Goshicha\source\repos\08. Town Info\bin\Debug\netcoreapp3.1\08. Town Info.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\08. Town Info\bin\Debug\netcoreapp3.1\08. Town Info.dll
+C:\Users\Goshicha\source\repos\08. Town Info\bin\Debug\netcoreapp3.1\08. Town Info.pdb
+C:\Users\Goshicha\source\repos\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.dll
+C:\Users\Goshicha\source\repos\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.pdb

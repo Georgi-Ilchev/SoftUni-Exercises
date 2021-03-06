@@ -1,0 +1,10 @@
+C:\Users\Goshicha\source\repos\05. Add and Subtract\bin\Debug\netcoreapp3.1\05. Add and Subtract.exe
+C:\Users\Goshicha\source\repos\05. Add and Subtract\bin\Debug\netcoreapp3.1\05. Add and Subtract.deps.json
+C:\Users\Goshicha\source\repos\05. Add and Subtract\bin\Debug\netcoreapp3.1\05. Add and Subtract.runtimeconfig.json
+C:\Users\Goshicha\source\repos\05. Add and Subtract\bin\Debug\netcoreapp3.1\05. Add and Subtract.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\05. Add and Subtract\bin\Debug\netcoreapp3.1\05. Add and Subtract.dll
+C:\Users\Goshicha\source\repos\05. Add and Subtract\bin\Debug\netcoreapp3.1\05. Add and Subtract.pdb
+C:\Users\Goshicha\source\repos\05. Add and Subtract\obj\Debug\netcoreapp3.1\05. Add and Subtract.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\05. Add and Subtract\obj\Debug\netcoreapp3.1\05. Add and Subtract.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\05. Add and Subtract\obj\Debug\netcoreapp3.1\05. Add and Subtract.dll
+C:\Users\Goshicha\source\repos\05. Add and Subtract\obj\Debug\netcoreapp3.1\05. Add and Subtract.pdb

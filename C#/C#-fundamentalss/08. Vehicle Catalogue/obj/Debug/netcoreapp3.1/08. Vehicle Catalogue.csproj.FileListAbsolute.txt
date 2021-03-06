@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\08. Vehicle Catalogue\bin\Debug\netcoreapp3.1\08. Vehicle Catalogue.exe
+C:\Users\Goshicha\source\repos\08. Vehicle Catalogue\bin\Debug\netcoreapp3.1\08. Vehicle Catalogue.deps.json
+C:\Users\Goshicha\source\repos\08. Vehicle Catalogue\bin\Debug\netcoreapp3.1\08. Vehicle Catalogue.runtimeconfig.json
+C:\Users\Goshicha\source\repos\08. Vehicle Catalogue\bin\Debug\netcoreapp3.1\08. Vehicle Catalogue.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\08. Vehicle Catalogue\bin\Debug\netcoreapp3.1\08. Vehicle Catalogue.dll
+C:\Users\Goshicha\source\repos\08. Vehicle Catalogue\bin\Debug\netcoreapp3.1\08. Vehicle Catalogue.pdb
+C:\Users\Goshicha\source\repos\08. Vehicle Catalogue\obj\Debug\netcoreapp3.1\08. Vehicle Catalogue.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\08. Vehicle Catalogue\obj\Debug\netcoreapp3.1\08. Vehicle Catalogue.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\08. Vehicle Catalogue\obj\Debug\netcoreapp3.1\08. Vehicle Catalogue.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\08. Vehicle Catalogue\obj\Debug\netcoreapp3.1\08. Vehicle Catalogue.dll
+C:\Users\Goshicha\source\repos\08. Vehicle Catalogue\obj\Debug\netcoreapp3.1\08. Vehicle Catalogue.pdb

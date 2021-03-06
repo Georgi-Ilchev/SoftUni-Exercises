@@ -1,0 +1,11 @@
+C:\Users\Goshicha\source\repos\OBJECTS AND CLASSES\bin\Debug\netcoreapp3.1\OBJECTS AND CLASSES.exe
+C:\Users\Goshicha\source\repos\OBJECTS AND CLASSES\bin\Debug\netcoreapp3.1\OBJECTS AND CLASSES.deps.json
+C:\Users\Goshicha\source\repos\OBJECTS AND CLASSES\bin\Debug\netcoreapp3.1\OBJECTS AND CLASSES.runtimeconfig.json
+C:\Users\Goshicha\source\repos\OBJECTS AND CLASSES\bin\Debug\netcoreapp3.1\OBJECTS AND CLASSES.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\OBJECTS AND CLASSES\bin\Debug\netcoreapp3.1\OBJECTS AND CLASSES.dll
+C:\Users\Goshicha\source\repos\OBJECTS AND CLASSES\bin\Debug\netcoreapp3.1\OBJECTS AND CLASSES.pdb
+C:\Users\Goshicha\source\repos\OBJECTS AND CLASSES\obj\Debug\netcoreapp3.1\OBJECTS AND CLASSES.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\OBJECTS AND CLASSES\obj\Debug\netcoreapp3.1\OBJECTS AND CLASSES.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\OBJECTS AND CLASSES\obj\Debug\netcoreapp3.1\OBJECTS AND CLASSES.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\OBJECTS AND CLASSES\obj\Debug\netcoreapp3.1\OBJECTS AND CLASSES.dll
+C:\Users\Goshicha\source\repos\OBJECTS AND CLASSES\obj\Debug\netcoreapp3.1\OBJECTS AND CLASSES.pdb

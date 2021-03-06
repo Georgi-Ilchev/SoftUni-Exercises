@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Weather Forecast - Part 2/1.0.0": {
+        "runtime": {
+          "Weather Forecast - Part 2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Weather Forecast - Part 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
