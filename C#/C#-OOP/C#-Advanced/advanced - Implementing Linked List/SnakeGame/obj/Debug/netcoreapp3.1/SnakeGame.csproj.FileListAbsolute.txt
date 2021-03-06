@@ -1,0 +1,39 @@
+C:\Users\Goshicha\source\repos\SnakeGame\bin\Debug\netcoreapp3.1\SnakeGame.exe
+C:\Users\Goshicha\source\repos\SnakeGame\bin\Debug\netcoreapp3.1\SnakeGame.deps.json
+C:\Users\Goshicha\source\repos\SnakeGame\bin\Debug\netcoreapp3.1\SnakeGame.runtimeconfig.json
+C:\Users\Goshicha\source\repos\SnakeGame\bin\Debug\netcoreapp3.1\SnakeGame.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\SnakeGame\bin\Debug\netcoreapp3.1\SnakeGame.dll
+C:\Users\Goshicha\source\repos\SnakeGame\bin\Debug\netcoreapp3.1\SnakeGame.pdb
+C:\Users\Goshicha\source\repos\SnakeGame\obj\Debug\netcoreapp3.1\SnakeGame.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\SnakeGame\obj\Debug\netcoreapp3.1\SnakeGame.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\SnakeGame\obj\Debug\netcoreapp3.1\SnakeGame.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\SnakeGame\obj\Debug\netcoreapp3.1\SnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\SnakeGame\obj\Debug\netcoreapp3.1\SnakeGame.dll
+C:\Users\Goshicha\source\repos\SnakeGame\obj\Debug\netcoreapp3.1\SnakeGame.pdb
+C:\Users\Goshicha\source\repos\SnakeGame\obj\Debug\netcoreapp3.1\SnakeGame.genruntimeconfig.cache
+D:\Snake\SnakeGame\obj\Debug\netcoreapp3.1\SnakeGame.csprojAssemblyReference.cache
+D:\Snake\SnakeGame\obj\Debug\netcoreapp3.1\SnakeGame.AssemblyInfoInputs.cache
+D:\Snake\SnakeGame\obj\Debug\netcoreapp3.1\SnakeGame.AssemblyInfo.cs
+D:\Snake\SnakeGame\obj\Debug\netcoreapp3.1\SnakeGame.csproj.CoreCompileInputs.cache
+D:\Snake\SnakeGame\obj\Debug\netcoreapp3.1\SnakeGame.dll
+D:\Snake\SnakeGame\obj\Debug\netcoreapp3.1\SnakeGame.pdb
+D:\Snake\SnakeGame\bin\Debug\netcoreapp3.1\SnakeGame.exe
+D:\Snake\SnakeGame\bin\Debug\netcoreapp3.1\SnakeGame.deps.json
+D:\Snake\SnakeGame\bin\Debug\netcoreapp3.1\SnakeGame.runtimeconfig.json
+D:\Snake\SnakeGame\bin\Debug\netcoreapp3.1\SnakeGame.runtimeconfig.dev.json
+D:\Snake\SnakeGame\bin\Debug\netcoreapp3.1\SnakeGame.dll
+D:\Snake\SnakeGame\bin\Debug\netcoreapp3.1\SnakeGame.pdb
+D:\Snake\SnakeGame\obj\Debug\netcoreapp3.1\SnakeGame.genruntimeconfig.cache
+C:\Users\Goshicha\source\repos\advanced - Implementing Linked List\Snakev3\Snake\SnakeGame\bin\Debug\netcoreapp3.1\SnakeGame.exe
+C:\Users\Goshicha\source\repos\advanced - Implementing Linked List\Snakev3\Snake\SnakeGame\bin\Debug\netcoreapp3.1\SnakeGame.deps.json
+C:\Users\Goshicha\source\repos\advanced - Implementing Linked List\Snakev3\Snake\SnakeGame\bin\Debug\netcoreapp3.1\SnakeGame.runtimeconfig.json
+C:\Users\Goshicha\source\repos\advanced - Implementing Linked List\Snakev3\Snake\SnakeGame\bin\Debug\netcoreapp3.1\SnakeGame.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\advanced - Implementing Linked List\Snakev3\Snake\SnakeGame\bin\Debug\netcoreapp3.1\SnakeGame.dll
+C:\Users\Goshicha\source\repos\advanced - Implementing Linked List\Snakev3\Snake\SnakeGame\bin\Debug\netcoreapp3.1\SnakeGame.pdb
+C:\Users\Goshicha\source\repos\advanced - Implementing Linked List\Snakev3\Snake\SnakeGame\obj\Debug\netcoreapp3.1\SnakeGame.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\advanced - Implementing Linked List\Snakev3\Snake\SnakeGame\obj\Debug\netcoreapp3.1\SnakeGame.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\advanced - Implementing Linked List\Snakev3\Snake\SnakeGame\obj\Debug\netcoreapp3.1\SnakeGame.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\advanced - Implementing Linked List\Snakev3\Snake\SnakeGame\obj\Debug\netcoreapp3.1\SnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\advanced - Implementing Linked List\Snakev3\Snake\SnakeGame\obj\Debug\netcoreapp3.1\SnakeGame.dll
+C:\Users\Goshicha\source\repos\advanced - Implementing Linked List\Snakev3\Snake\SnakeGame\obj\Debug\netcoreapp3.1\SnakeGame.pdb
+C:\Users\Goshicha\source\repos\advanced - Implementing Linked List\Snakev3\Snake\SnakeGame\obj\Debug\netcoreapp3.1\SnakeGame.genruntimeconfig.cache
