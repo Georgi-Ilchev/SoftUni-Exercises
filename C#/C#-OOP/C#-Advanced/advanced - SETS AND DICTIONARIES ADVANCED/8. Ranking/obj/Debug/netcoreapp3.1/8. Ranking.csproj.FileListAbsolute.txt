@@ -1,0 +1,13 @@
+C:\Users\Goshicha\source\repos\8. Ranking\bin\Debug\netcoreapp3.1\8. Ranking.exe
+C:\Users\Goshicha\source\repos\8. Ranking\bin\Debug\netcoreapp3.1\8. Ranking.deps.json
+C:\Users\Goshicha\source\repos\8. Ranking\bin\Debug\netcoreapp3.1\8. Ranking.runtimeconfig.json
+C:\Users\Goshicha\source\repos\8. Ranking\bin\Debug\netcoreapp3.1\8. Ranking.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\8. Ranking\bin\Debug\netcoreapp3.1\8. Ranking.dll
+C:\Users\Goshicha\source\repos\8. Ranking\bin\Debug\netcoreapp3.1\8. Ranking.pdb
+C:\Users\Goshicha\source\repos\8. Ranking\obj\Debug\netcoreapp3.1\8. Ranking.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\8. Ranking\obj\Debug\netcoreapp3.1\8. Ranking.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\8. Ranking\obj\Debug\netcoreapp3.1\8. Ranking.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\8. Ranking\obj\Debug\netcoreapp3.1\8. Ranking.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\8. Ranking\obj\Debug\netcoreapp3.1\8. Ranking.dll
+C:\Users\Goshicha\source\repos\8. Ranking\obj\Debug\netcoreapp3.1\8. Ranking.pdb
+C:\Users\Goshicha\source\repos\8. Ranking\obj\Debug\netcoreapp3.1\8. Ranking.genruntimeconfig.cache

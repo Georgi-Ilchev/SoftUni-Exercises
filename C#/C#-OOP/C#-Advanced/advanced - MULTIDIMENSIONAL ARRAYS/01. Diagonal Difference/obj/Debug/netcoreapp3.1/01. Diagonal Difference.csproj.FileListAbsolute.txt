@@ -1,0 +1,26 @@
+C:\Users\Goshicha\source\repos\01. Diagonal Difference\bin\Debug\netcoreapp3.1\01. Diagonal Difference.exe
+C:\Users\Goshicha\source\repos\01. Diagonal Difference\bin\Debug\netcoreapp3.1\01. Diagonal Difference.deps.json
+C:\Users\Goshicha\source\repos\01. Diagonal Difference\bin\Debug\netcoreapp3.1\01. Diagonal Difference.runtimeconfig.json
+C:\Users\Goshicha\source\repos\01. Diagonal Difference\bin\Debug\netcoreapp3.1\01. Diagonal Difference.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\01. Diagonal Difference\bin\Debug\netcoreapp3.1\01. Diagonal Difference.dll
+C:\Users\Goshicha\source\repos\01. Diagonal Difference\bin\Debug\netcoreapp3.1\01. Diagonal Difference.pdb
+C:\Users\Goshicha\source\repos\01. Diagonal Difference\obj\Debug\netcoreapp3.1\01. Diagonal Difference.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\01. Diagonal Difference\obj\Debug\netcoreapp3.1\01. Diagonal Difference.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\01. Diagonal Difference\obj\Debug\netcoreapp3.1\01. Diagonal Difference.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\01. Diagonal Difference\obj\Debug\netcoreapp3.1\01. Diagonal Difference.dll
+C:\Users\Goshicha\source\repos\01. Diagonal Difference\obj\Debug\netcoreapp3.1\01. Diagonal Difference.pdb
+C:\Users\Goshicha\source\repos\01. Diagonal Difference\obj\Debug\netcoreapp3.1\01. Diagonal Difference.genruntimeconfig.cache
+C:\Users\Goshicha\source\repos\01. Diagonal Difference\obj\Debug\netcoreapp3.1\01. Diagonal Difference.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\01. Diagonal Difference\bin\Debug\netcoreapp3.1\01. Diagonal Difference.exe
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\01. Diagonal Difference\bin\Debug\netcoreapp3.1\01. Diagonal Difference.deps.json
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\01. Diagonal Difference\bin\Debug\netcoreapp3.1\01. Diagonal Difference.runtimeconfig.json
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\01. Diagonal Difference\bin\Debug\netcoreapp3.1\01. Diagonal Difference.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\01. Diagonal Difference\bin\Debug\netcoreapp3.1\01. Diagonal Difference.dll
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\01. Diagonal Difference\bin\Debug\netcoreapp3.1\01. Diagonal Difference.pdb
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\01. Diagonal Difference\obj\Debug\netcoreapp3.1\01. Diagonal Difference.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\01. Diagonal Difference\obj\Debug\netcoreapp3.1\01. Diagonal Difference.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\01. Diagonal Difference\obj\Debug\netcoreapp3.1\01. Diagonal Difference.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\01. Diagonal Difference\obj\Debug\netcoreapp3.1\01. Diagonal Difference.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\01. Diagonal Difference\obj\Debug\netcoreapp3.1\01. Diagonal Difference.dll
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\01. Diagonal Difference\obj\Debug\netcoreapp3.1\01. Diagonal Difference.pdb
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\01. Diagonal Difference\obj\Debug\netcoreapp3.1\01. Diagonal Difference.genruntimeconfig.cache

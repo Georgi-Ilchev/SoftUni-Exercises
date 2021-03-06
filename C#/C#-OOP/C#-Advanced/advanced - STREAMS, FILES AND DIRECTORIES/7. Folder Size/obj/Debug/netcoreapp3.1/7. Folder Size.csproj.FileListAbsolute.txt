@@ -1,0 +1,12 @@
+C:\Users\Goshicha\source\repos\7. Folder Size\bin\Debug\netcoreapp3.1\7. Folder Size.exe
+C:\Users\Goshicha\source\repos\7. Folder Size\bin\Debug\netcoreapp3.1\7. Folder Size.deps.json
+C:\Users\Goshicha\source\repos\7. Folder Size\bin\Debug\netcoreapp3.1\7. Folder Size.runtimeconfig.json
+C:\Users\Goshicha\source\repos\7. Folder Size\bin\Debug\netcoreapp3.1\7. Folder Size.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\7. Folder Size\bin\Debug\netcoreapp3.1\7. Folder Size.dll
+C:\Users\Goshicha\source\repos\7. Folder Size\bin\Debug\netcoreapp3.1\7. Folder Size.pdb
+C:\Users\Goshicha\source\repos\7. Folder Size\obj\Debug\netcoreapp3.1\7. Folder Size.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\7. Folder Size\obj\Debug\netcoreapp3.1\7. Folder Size.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\7. Folder Size\obj\Debug\netcoreapp3.1\7. Folder Size.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\7. Folder Size\obj\Debug\netcoreapp3.1\7. Folder Size.dll
+C:\Users\Goshicha\source\repos\7. Folder Size\obj\Debug\netcoreapp3.1\7. Folder Size.pdb
+C:\Users\Goshicha\source\repos\7. Folder Size\obj\Debug\netcoreapp3.1\7. Folder Size.genruntimeconfig.cache

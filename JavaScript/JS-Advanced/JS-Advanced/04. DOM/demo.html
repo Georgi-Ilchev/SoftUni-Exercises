@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>random title</title>
+</head>
+
+<body>
+    <script>
+        let names = ['Pesho', 'Gosho', 'Dimitrichko', 'Mbape'];
+
+        let listElement = document.createElement('ul');
+
+        names.forEach(name => {
+            let liElement = document.createElement('li');
+            liElement.textContent = name;
+
+            listElement.appendChild(liElement);
+        });
+
+        document.body.appendChild(listElement);
+    </script>
+</body>
+
+</html>

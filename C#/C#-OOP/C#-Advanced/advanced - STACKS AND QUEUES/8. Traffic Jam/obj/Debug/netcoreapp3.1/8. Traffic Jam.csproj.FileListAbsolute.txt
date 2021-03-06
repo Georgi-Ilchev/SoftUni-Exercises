@@ -1,0 +1,12 @@
+C:\Users\Goshicha\source\repos\8. Traffic Jam\bin\Debug\netcoreapp3.1\8. Traffic Jam.exe
+C:\Users\Goshicha\source\repos\8. Traffic Jam\bin\Debug\netcoreapp3.1\8. Traffic Jam.deps.json
+C:\Users\Goshicha\source\repos\8. Traffic Jam\bin\Debug\netcoreapp3.1\8. Traffic Jam.runtimeconfig.json
+C:\Users\Goshicha\source\repos\8. Traffic Jam\bin\Debug\netcoreapp3.1\8. Traffic Jam.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\8. Traffic Jam\bin\Debug\netcoreapp3.1\8. Traffic Jam.dll
+C:\Users\Goshicha\source\repos\8. Traffic Jam\bin\Debug\netcoreapp3.1\8. Traffic Jam.pdb
+C:\Users\Goshicha\source\repos\8. Traffic Jam\obj\Debug\netcoreapp3.1\8. Traffic Jam.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\8. Traffic Jam\obj\Debug\netcoreapp3.1\8. Traffic Jam.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\8. Traffic Jam\obj\Debug\netcoreapp3.1\8. Traffic Jam.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\8. Traffic Jam\obj\Debug\netcoreapp3.1\8. Traffic Jam.dll
+C:\Users\Goshicha\source\repos\8. Traffic Jam\obj\Debug\netcoreapp3.1\8. Traffic Jam.pdb
+C:\Users\Goshicha\source\repos\8. Traffic Jam\obj\Debug\netcoreapp3.1\8. Traffic Jam.genruntimeconfig.cache

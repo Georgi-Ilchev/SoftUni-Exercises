@@ -1,0 +1,12 @@
+C:\Users\Goshicha\source\repos\3. Periodic Table\bin\Debug\netcoreapp3.1\3. Periodic Table.exe
+C:\Users\Goshicha\source\repos\3. Periodic Table\bin\Debug\netcoreapp3.1\3. Periodic Table.deps.json
+C:\Users\Goshicha\source\repos\3. Periodic Table\bin\Debug\netcoreapp3.1\3. Periodic Table.runtimeconfig.json
+C:\Users\Goshicha\source\repos\3. Periodic Table\bin\Debug\netcoreapp3.1\3. Periodic Table.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\3. Periodic Table\bin\Debug\netcoreapp3.1\3. Periodic Table.dll
+C:\Users\Goshicha\source\repos\3. Periodic Table\bin\Debug\netcoreapp3.1\3. Periodic Table.pdb
+C:\Users\Goshicha\source\repos\3. Periodic Table\obj\Debug\netcoreapp3.1\3. Periodic Table.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\3. Periodic Table\obj\Debug\netcoreapp3.1\3. Periodic Table.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\3. Periodic Table\obj\Debug\netcoreapp3.1\3. Periodic Table.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\3. Periodic Table\obj\Debug\netcoreapp3.1\3. Periodic Table.dll
+C:\Users\Goshicha\source\repos\3. Periodic Table\obj\Debug\netcoreapp3.1\3. Periodic Table.pdb
+C:\Users\Goshicha\source\repos\3. Periodic Table\obj\Debug\netcoreapp3.1\3. Periodic Table.genruntimeconfig.cache

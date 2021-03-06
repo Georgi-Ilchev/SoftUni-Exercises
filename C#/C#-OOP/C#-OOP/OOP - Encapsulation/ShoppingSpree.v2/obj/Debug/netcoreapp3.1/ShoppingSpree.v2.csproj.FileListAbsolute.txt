@@ -1,0 +1,13 @@
+C:\Users\Goshicha\source\repos\ShoppingSpree.v2\bin\Debug\netcoreapp3.1\ShoppingSpree.v2.exe
+C:\Users\Goshicha\source\repos\ShoppingSpree.v2\bin\Debug\netcoreapp3.1\ShoppingSpree.v2.deps.json
+C:\Users\Goshicha\source\repos\ShoppingSpree.v2\bin\Debug\netcoreapp3.1\ShoppingSpree.v2.runtimeconfig.json
+C:\Users\Goshicha\source\repos\ShoppingSpree.v2\bin\Debug\netcoreapp3.1\ShoppingSpree.v2.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\ShoppingSpree.v2\bin\Debug\netcoreapp3.1\ShoppingSpree.v2.dll
+C:\Users\Goshicha\source\repos\ShoppingSpree.v2\bin\Debug\netcoreapp3.1\ShoppingSpree.v2.pdb
+C:\Users\Goshicha\source\repos\ShoppingSpree.v2\obj\Debug\netcoreapp3.1\ShoppingSpree.v2.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\ShoppingSpree.v2\obj\Debug\netcoreapp3.1\ShoppingSpree.v2.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\ShoppingSpree.v2\obj\Debug\netcoreapp3.1\ShoppingSpree.v2.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\ShoppingSpree.v2\obj\Debug\netcoreapp3.1\ShoppingSpree.v2.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\ShoppingSpree.v2\obj\Debug\netcoreapp3.1\ShoppingSpree.v2.dll
+C:\Users\Goshicha\source\repos\ShoppingSpree.v2\obj\Debug\netcoreapp3.1\ShoppingSpree.v2.pdb
+C:\Users\Goshicha\source\repos\ShoppingSpree.v2\obj\Debug\netcoreapp3.1\ShoppingSpree.v2.genruntimeconfig.cache

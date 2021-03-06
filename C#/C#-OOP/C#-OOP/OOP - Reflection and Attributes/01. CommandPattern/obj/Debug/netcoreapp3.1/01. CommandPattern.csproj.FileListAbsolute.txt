@@ -1,0 +1,13 @@
+C:\Users\Goshicha\source\repos\OOP - Reflection and Attributes\01. CommandPattern\bin\Debug\netcoreapp3.1\01. CommandPattern.exe
+C:\Users\Goshicha\source\repos\OOP - Reflection and Attributes\01. CommandPattern\bin\Debug\netcoreapp3.1\01. CommandPattern.deps.json
+C:\Users\Goshicha\source\repos\OOP - Reflection and Attributes\01. CommandPattern\bin\Debug\netcoreapp3.1\01. CommandPattern.runtimeconfig.json
+C:\Users\Goshicha\source\repos\OOP - Reflection and Attributes\01. CommandPattern\bin\Debug\netcoreapp3.1\01. CommandPattern.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\OOP - Reflection and Attributes\01. CommandPattern\bin\Debug\netcoreapp3.1\01. CommandPattern.dll
+C:\Users\Goshicha\source\repos\OOP - Reflection and Attributes\01. CommandPattern\bin\Debug\netcoreapp3.1\01. CommandPattern.pdb
+C:\Users\Goshicha\source\repos\OOP - Reflection and Attributes\01. CommandPattern\obj\Debug\netcoreapp3.1\01. CommandPattern.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\OOP - Reflection and Attributes\01. CommandPattern\obj\Debug\netcoreapp3.1\01. CommandPattern.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\OOP - Reflection and Attributes\01. CommandPattern\obj\Debug\netcoreapp3.1\01. CommandPattern.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\OOP - Reflection and Attributes\01. CommandPattern\obj\Debug\netcoreapp3.1\01. CommandPattern.dll
+C:\Users\Goshicha\source\repos\OOP - Reflection and Attributes\01. CommandPattern\obj\Debug\netcoreapp3.1\01. CommandPattern.pdb
+C:\Users\Goshicha\source\repos\OOP - Reflection and Attributes\01. CommandPattern\obj\Debug\netcoreapp3.1\01. CommandPattern.genruntimeconfig.cache
+C:\Users\Goshicha\source\repos\OOP - Reflection and Attributes\01. CommandPattern\obj\Debug\netcoreapp3.1\01. CommandPattern.csprojAssemblyReference.cache

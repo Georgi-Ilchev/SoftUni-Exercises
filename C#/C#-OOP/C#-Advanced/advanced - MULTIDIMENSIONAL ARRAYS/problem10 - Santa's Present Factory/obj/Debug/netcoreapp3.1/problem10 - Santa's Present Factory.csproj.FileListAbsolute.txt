@@ -1,0 +1,13 @@
+C:\Users\Goshicha\source\repos\problem10 - Santa's Present Factory\bin\Debug\netcoreapp3.1\problem10 - Santa's Present Factory.exe
+C:\Users\Goshicha\source\repos\problem10 - Santa's Present Factory\bin\Debug\netcoreapp3.1\problem10 - Santa's Present Factory.deps.json
+C:\Users\Goshicha\source\repos\problem10 - Santa's Present Factory\bin\Debug\netcoreapp3.1\problem10 - Santa's Present Factory.runtimeconfig.json
+C:\Users\Goshicha\source\repos\problem10 - Santa's Present Factory\bin\Debug\netcoreapp3.1\problem10 - Santa's Present Factory.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\problem10 - Santa's Present Factory\bin\Debug\netcoreapp3.1\problem10 - Santa's Present Factory.dll
+C:\Users\Goshicha\source\repos\problem10 - Santa's Present Factory\bin\Debug\netcoreapp3.1\problem10 - Santa's Present Factory.pdb
+C:\Users\Goshicha\source\repos\problem10 - Santa's Present Factory\obj\Debug\netcoreapp3.1\problem10 - Santa's Present Factory.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\problem10 - Santa's Present Factory\obj\Debug\netcoreapp3.1\problem10 - Santa's Present Factory.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\problem10 - Santa's Present Factory\obj\Debug\netcoreapp3.1\problem10 - Santa's Present Factory.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\problem10 - Santa's Present Factory\obj\Debug\netcoreapp3.1\problem10 - Santa's Present Factory.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\problem10 - Santa's Present Factory\obj\Debug\netcoreapp3.1\problem10 - Santa's Present Factory.dll
+C:\Users\Goshicha\source\repos\problem10 - Santa's Present Factory\obj\Debug\netcoreapp3.1\problem10 - Santa's Present Factory.pdb
+C:\Users\Goshicha\source\repos\problem10 - Santa's Present Factory\obj\Debug\netcoreapp3.1\problem10 - Santa's Present Factory.genruntimeconfig.cache

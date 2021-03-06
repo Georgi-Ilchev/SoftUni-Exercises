@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "pr15 - GreedyTimes/1.0.0": {
+        "runtime": {
+          "pr15 - GreedyTimes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pr15 - GreedyTimes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

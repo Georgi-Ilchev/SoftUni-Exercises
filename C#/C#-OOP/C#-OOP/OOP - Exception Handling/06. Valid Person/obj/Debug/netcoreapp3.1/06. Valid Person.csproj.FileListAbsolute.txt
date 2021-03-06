@@ -1,0 +1,25 @@
+C:\Users\Goshicha\source\repos\06. Valid Person\bin\Debug\netcoreapp3.1\06. Valid Person.exe
+C:\Users\Goshicha\source\repos\06. Valid Person\bin\Debug\netcoreapp3.1\06. Valid Person.deps.json
+C:\Users\Goshicha\source\repos\06. Valid Person\bin\Debug\netcoreapp3.1\06. Valid Person.runtimeconfig.json
+C:\Users\Goshicha\source\repos\06. Valid Person\bin\Debug\netcoreapp3.1\06. Valid Person.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\06. Valid Person\bin\Debug\netcoreapp3.1\06. Valid Person.dll
+C:\Users\Goshicha\source\repos\06. Valid Person\bin\Debug\netcoreapp3.1\06. Valid Person.pdb
+C:\Users\Goshicha\source\repos\06. Valid Person\obj\Debug\netcoreapp3.1\06. Valid Person.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\06. Valid Person\obj\Debug\netcoreapp3.1\06. Valid Person.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\06. Valid Person\obj\Debug\netcoreapp3.1\06. Valid Person.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\06. Valid Person\obj\Debug\netcoreapp3.1\06. Valid Person.dll
+C:\Users\Goshicha\source\repos\06. Valid Person\obj\Debug\netcoreapp3.1\06. Valid Person.pdb
+C:\Users\Goshicha\source\repos\06. Valid Person\obj\Debug\netcoreapp3.1\06. Valid Person.genruntimeconfig.cache
+C:\Users\Goshicha\source\repos\OOP - Exception Handling\06. Valid Person\bin\Debug\netcoreapp3.1\06. Valid Person.exe
+C:\Users\Goshicha\source\repos\OOP - Exception Handling\06. Valid Person\bin\Debug\netcoreapp3.1\06. Valid Person.deps.json
+C:\Users\Goshicha\source\repos\OOP - Exception Handling\06. Valid Person\bin\Debug\netcoreapp3.1\06. Valid Person.runtimeconfig.json
+C:\Users\Goshicha\source\repos\OOP - Exception Handling\06. Valid Person\bin\Debug\netcoreapp3.1\06. Valid Person.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\OOP - Exception Handling\06. Valid Person\bin\Debug\netcoreapp3.1\06. Valid Person.dll
+C:\Users\Goshicha\source\repos\OOP - Exception Handling\06. Valid Person\bin\Debug\netcoreapp3.1\06. Valid Person.pdb
+C:\Users\Goshicha\source\repos\OOP - Exception Handling\06. Valid Person\obj\Debug\netcoreapp3.1\06. Valid Person.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\OOP - Exception Handling\06. Valid Person\obj\Debug\netcoreapp3.1\06. Valid Person.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\OOP - Exception Handling\06. Valid Person\obj\Debug\netcoreapp3.1\06. Valid Person.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\OOP - Exception Handling\06. Valid Person\obj\Debug\netcoreapp3.1\06. Valid Person.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\OOP - Exception Handling\06. Valid Person\obj\Debug\netcoreapp3.1\06. Valid Person.dll
+C:\Users\Goshicha\source\repos\OOP - Exception Handling\06. Valid Person\obj\Debug\netcoreapp3.1\06. Valid Person.pdb
+C:\Users\Goshicha\source\repos\OOP - Exception Handling\06. Valid Person\obj\Debug\netcoreapp3.1\06. Valid Person.genruntimeconfig.cache

@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP - Mocking and Test Driven Development", "OOP - Mocking and Test Driven Development.csproj", "{3062F510-4328-41EF-8A62-C5FA35FB90B0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FakeAxeAndDummy", "D:\Download Browser\10. CSharp-OOP-Mocking-And-Test-Driven-Development-Lab-Skeleton\FakeAxeAndDummy\FakeAxeAndDummy.csproj", "{47D1389B-7D67-4C67-9DC4-5A71406EF428}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FakeAxeAndDummy.Tests", "D:\Download Browser\10. CSharp-OOP-Mocking-And-Test-Driven-Development-Lab-Skeleton\FakeAxeAndDummy.Tests\FakeAxeAndDummy.Tests.csproj", "{78F6C44C-E683-42A8-A6C7-52857700C297}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "INStock", "D:\Download Browser\10. CSharp-OOP-Mocking-And-Test-Driven-Development-Lab-Skeleton\INStock\INStock.csproj", "{FDD898FA-B874-4528-87FE-777AE420CC4C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "INStock.Tests", "D:\Download Browser\10. CSharp-OOP-Mocking-And-Test-Driven-Development-Lab-Skeleton\INStock.Tests\INStock.Tests.csproj", "{3208FEA5-BCBA-4D5B-AC0A-192B4C10487D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FizzBuzz.Tests", "FizzBuzz.Tests\FizzBuzz.Tests.csproj", "{05BA052D-597E-41EE-A77C-57D358135489}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FizzBuzz", "FizzBuzz\FizzBuzz\FizzBuzz.csproj", "{6C0F8E22-D1F2-4D31-8310-D56E2F15513E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chainblock.Tests", "D:\Download Browser\10. CSharp-OOP-Mocking-And-Test-Driven-Development-Exercise-Skeleton\Chainblock - Skeleton\Chainblock.Tests\Chainblock.Tests.csproj", "{17CB5F3D-BAF5-4AE7-B382-C3281F836736}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chainblock", "D:\Download Browser\10. CSharp-OOP-Mocking-And-Test-Driven-Development-Exercise-Skeleton\Chainblock - Skeleton\Chainblock\Chainblock.csproj", "{6FF1A55D-2FE9-4F4C-AB8A-08EE73877C70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3062F510-4328-41EF-8A62-C5FA35FB90B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3062F510-4328-41EF-8A62-C5FA35FB90B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3062F510-4328-41EF-8A62-C5FA35FB90B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3062F510-4328-41EF-8A62-C5FA35FB90B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47D1389B-7D67-4C67-9DC4-5A71406EF428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47D1389B-7D67-4C67-9DC4-5A71406EF428}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47D1389B-7D67-4C67-9DC4-5A71406EF428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47D1389B-7D67-4C67-9DC4-5A71406EF428}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78F6C44C-E683-42A8-A6C7-52857700C297}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78F6C44C-E683-42A8-A6C7-52857700C297}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78F6C44C-E683-42A8-A6C7-52857700C297}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78F6C44C-E683-42A8-A6C7-52857700C297}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDD898FA-B874-4528-87FE-777AE420CC4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDD898FA-B874-4528-87FE-777AE420CC4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDD898FA-B874-4528-87FE-777AE420CC4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDD898FA-B874-4528-87FE-777AE420CC4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3208FEA5-BCBA-4D5B-AC0A-192B4C10487D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3208FEA5-BCBA-4D5B-AC0A-192B4C10487D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3208FEA5-BCBA-4D5B-AC0A-192B4C10487D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3208FEA5-BCBA-4D5B-AC0A-192B4C10487D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05BA052D-597E-41EE-A77C-57D358135489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05BA052D-597E-41EE-A77C-57D358135489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05BA052D-597E-41EE-A77C-57D358135489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05BA052D-597E-41EE-A77C-57D358135489}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C0F8E22-D1F2-4D31-8310-D56E2F15513E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C0F8E22-D1F2-4D31-8310-D56E2F15513E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C0F8E22-D1F2-4D31-8310-D56E2F15513E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C0F8E22-D1F2-4D31-8310-D56E2F15513E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17CB5F3D-BAF5-4AE7-B382-C3281F836736}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17CB5F3D-BAF5-4AE7-B382-C3281F836736}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17CB5F3D-BAF5-4AE7-B382-C3281F836736}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17CB5F3D-BAF5-4AE7-B382-C3281F836736}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FF1A55D-2FE9-4F4C-AB8A-08EE73877C70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FF1A55D-2FE9-4F4C-AB8A-08EE73877C70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FF1A55D-2FE9-4F4C-AB8A-08EE73877C70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FF1A55D-2FE9-4F4C-AB8A-08EE73877C70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C54A551-E4BC-46F6-92FC-C3DBF8973FE2}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "bEyjob+M4BKs/ZfK2XsOv4e30kj51bTcdwCrgQoA2gP2AS5PyjxTLYBFYQFhZHkQi0SmmNVUl9V/PCiktxJtyQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Goshicha\\source\\repos\\Entity Framework Core\\02. ORM Fundamentals\\MiniORM.App\\MiniORM.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Goshicha\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\Goshicha\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\Goshicha\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\Goshicha\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\Goshicha\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Goshicha\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'C:\\Users\\Goshicha\\source\\repos\\Entity Framework Core\\02. ORM Fundamentals\\MiniORM\\MiniORM.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "C:\\Users\\Goshicha\\source\\repos\\Entity Framework Core\\02. ORM Fundamentals\\MiniORM\\MiniORM.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+C:\Users\Goshicha\source\repos\Problem17 - Book Worm\bin\Debug\netcoreapp3.1\Problem17 - Book Worm.exe
+C:\Users\Goshicha\source\repos\Problem17 - Book Worm\bin\Debug\netcoreapp3.1\Problem17 - Book Worm.deps.json
+C:\Users\Goshicha\source\repos\Problem17 - Book Worm\bin\Debug\netcoreapp3.1\Problem17 - Book Worm.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Problem17 - Book Worm\bin\Debug\netcoreapp3.1\Problem17 - Book Worm.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Problem17 - Book Worm\bin\Debug\netcoreapp3.1\Problem17 - Book Worm.dll
+C:\Users\Goshicha\source\repos\Problem17 - Book Worm\bin\Debug\netcoreapp3.1\Problem17 - Book Worm.pdb
+C:\Users\Goshicha\source\repos\Problem17 - Book Worm\obj\Debug\netcoreapp3.1\Problem17 - Book Worm.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\Problem17 - Book Worm\obj\Debug\netcoreapp3.1\Problem17 - Book Worm.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Problem17 - Book Worm\obj\Debug\netcoreapp3.1\Problem17 - Book Worm.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Problem17 - Book Worm\obj\Debug\netcoreapp3.1\Problem17 - Book Worm.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\Problem17 - Book Worm\obj\Debug\netcoreapp3.1\Problem17 - Book Worm.dll
+C:\Users\Goshicha\source\repos\Problem17 - Book Worm\obj\Debug\netcoreapp3.1\Problem17 - Book Worm.pdb
+C:\Users\Goshicha\source\repos\Problem17 - Book Worm\obj\Debug\netcoreapp3.1\Problem17 - Book Worm.genruntimeconfig.cache

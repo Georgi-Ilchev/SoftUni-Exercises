@@ -1,0 +1,15 @@
+C:\Users\Goshicha\source\repos\Entity Framework Core\04. Entity Relations\P03_FootballBetting.Data\bin\Debug\netcoreapp3.1\P03_FootballBetting.Data.deps.json
+C:\Users\Goshicha\source\repos\Entity Framework Core\04. Entity Relations\P03_FootballBetting.Data\bin\Debug\netcoreapp3.1\P03_FootballBetting.Data.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Entity Framework Core\04. Entity Relations\P03_FootballBetting.Data\bin\Debug\netcoreapp3.1\P03_FootballBetting.Data.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Entity Framework Core\04. Entity Relations\P03_FootballBetting.Data\bin\Debug\netcoreapp3.1\P03_FootballBetting.Data.dll
+C:\Users\Goshicha\source\repos\Entity Framework Core\04. Entity Relations\P03_FootballBetting.Data\bin\Debug\netcoreapp3.1\P03_FootballBetting.Data.pdb
+C:\Users\Goshicha\source\repos\Entity Framework Core\04. Entity Relations\P03_FootballBetting.Data\bin\Debug\netcoreapp3.1\P03_FootballBetting.Models.dll
+C:\Users\Goshicha\source\repos\Entity Framework Core\04. Entity Relations\P03_FootballBetting.Data\bin\Debug\netcoreapp3.1\P03_FootballBetting.Models.pdb
+C:\Users\Goshicha\source\repos\Entity Framework Core\04. Entity Relations\P03_FootballBetting.Data\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\Entity Framework Core\04. Entity Relations\P03_FootballBetting.Data\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Entity Framework Core\04. Entity Relations\P03_FootballBetting.Data\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Entity Framework Core\04. Entity Relations\P03_FootballBetting.Data\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\Entity Framework Core\04. Entity Relations\P03_FootballBetting.Data\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.csproj.CopyComplete
+C:\Users\Goshicha\source\repos\Entity Framework Core\04. Entity Relations\P03_FootballBetting.Data\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.dll
+C:\Users\Goshicha\source\repos\Entity Framework Core\04. Entity Relations\P03_FootballBetting.Data\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.pdb
+C:\Users\Goshicha\source\repos\Entity Framework Core\04. Entity Relations\P03_FootballBetting.Data\obj\Debug\netcoreapp3.1\P03_FootballBetting.Data.genruntimeconfig.cache

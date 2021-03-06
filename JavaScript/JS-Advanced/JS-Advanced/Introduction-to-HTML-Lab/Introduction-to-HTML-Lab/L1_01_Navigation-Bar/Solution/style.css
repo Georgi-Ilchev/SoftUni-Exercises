@@ -1,0 +1,22 @@
+body{
+    font-family: "Helvetica";
+    margin: 0;
+}
+
+nav{
+    background: #234465;
+    margin: 0;
+    padding: 15px;
+    /* width: 80%;
+    margin: 0 auto; */
+}
+
+nav li{
+    padding: 0 20px;
+    display: inline-block;
+}
+
+nav li a{
+    color: white;
+    text-decoration: none;
+}

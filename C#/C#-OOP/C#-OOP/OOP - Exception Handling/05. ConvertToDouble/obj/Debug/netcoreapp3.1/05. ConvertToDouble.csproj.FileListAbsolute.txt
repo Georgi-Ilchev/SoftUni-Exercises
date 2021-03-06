@@ -1,0 +1,12 @@
+C:\Users\Goshicha\source\repos\05. ConvertToDouble\bin\Debug\netcoreapp3.1\05. ConvertToDouble.exe
+C:\Users\Goshicha\source\repos\05. ConvertToDouble\bin\Debug\netcoreapp3.1\05. ConvertToDouble.deps.json
+C:\Users\Goshicha\source\repos\05. ConvertToDouble\bin\Debug\netcoreapp3.1\05. ConvertToDouble.runtimeconfig.json
+C:\Users\Goshicha\source\repos\05. ConvertToDouble\bin\Debug\netcoreapp3.1\05. ConvertToDouble.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\05. ConvertToDouble\bin\Debug\netcoreapp3.1\05. ConvertToDouble.dll
+C:\Users\Goshicha\source\repos\05. ConvertToDouble\bin\Debug\netcoreapp3.1\05. ConvertToDouble.pdb
+C:\Users\Goshicha\source\repos\05. ConvertToDouble\obj\Debug\netcoreapp3.1\05. ConvertToDouble.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\05. ConvertToDouble\obj\Debug\netcoreapp3.1\05. ConvertToDouble.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\05. ConvertToDouble\obj\Debug\netcoreapp3.1\05. ConvertToDouble.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\05. ConvertToDouble\obj\Debug\netcoreapp3.1\05. ConvertToDouble.dll
+C:\Users\Goshicha\source\repos\05. ConvertToDouble\obj\Debug\netcoreapp3.1\05. ConvertToDouble.pdb
+C:\Users\Goshicha\source\repos\05. ConvertToDouble\obj\Debug\netcoreapp3.1\05. ConvertToDouble.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "problem11 - Present Delivery/1.0.0": {
+        "runtime": {
+          "problem11 - Present Delivery.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "problem11 - Present Delivery/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

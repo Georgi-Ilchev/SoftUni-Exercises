@@ -1,0 +1,13 @@
+C:\Users\Goshicha\source\repos\09. Miner\bin\Debug\netcoreapp3.1\09. Miner.exe
+C:\Users\Goshicha\source\repos\09. Miner\bin\Debug\netcoreapp3.1\09. Miner.deps.json
+C:\Users\Goshicha\source\repos\09. Miner\bin\Debug\netcoreapp3.1\09. Miner.runtimeconfig.json
+C:\Users\Goshicha\source\repos\09. Miner\bin\Debug\netcoreapp3.1\09. Miner.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\09. Miner\bin\Debug\netcoreapp3.1\09. Miner.dll
+C:\Users\Goshicha\source\repos\09. Miner\bin\Debug\netcoreapp3.1\09. Miner.pdb
+C:\Users\Goshicha\source\repos\09. Miner\obj\Debug\netcoreapp3.1\09. Miner.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\09. Miner\obj\Debug\netcoreapp3.1\09. Miner.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\09. Miner\obj\Debug\netcoreapp3.1\09. Miner.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\09. Miner\obj\Debug\netcoreapp3.1\09. Miner.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\09. Miner\obj\Debug\netcoreapp3.1\09. Miner.dll
+C:\Users\Goshicha\source\repos\09. Miner\obj\Debug\netcoreapp3.1\09. Miner.pdb
+C:\Users\Goshicha\source\repos\09. Miner\obj\Debug\netcoreapp3.1\09. Miner.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Goshicha\source\repos\Pr.08.CollectionHierarchy\bin\Debug\netcoreapp3.1\Pr.08.CollectionHierarchy.exe
+C:\Users\Goshicha\source\repos\Pr.08.CollectionHierarchy\bin\Debug\netcoreapp3.1\Pr.08.CollectionHierarchy.deps.json
+C:\Users\Goshicha\source\repos\Pr.08.CollectionHierarchy\bin\Debug\netcoreapp3.1\Pr.08.CollectionHierarchy.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Pr.08.CollectionHierarchy\bin\Debug\netcoreapp3.1\Pr.08.CollectionHierarchy.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Pr.08.CollectionHierarchy\bin\Debug\netcoreapp3.1\Pr.08.CollectionHierarchy.dll
+C:\Users\Goshicha\source\repos\Pr.08.CollectionHierarchy\bin\Debug\netcoreapp3.1\Pr.08.CollectionHierarchy.pdb
+C:\Users\Goshicha\source\repos\Pr.08.CollectionHierarchy\obj\Debug\netcoreapp3.1\Pr.08.CollectionHierarchy.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\Pr.08.CollectionHierarchy\obj\Debug\netcoreapp3.1\Pr.08.CollectionHierarchy.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Pr.08.CollectionHierarchy\obj\Debug\netcoreapp3.1\Pr.08.CollectionHierarchy.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Pr.08.CollectionHierarchy\obj\Debug\netcoreapp3.1\Pr.08.CollectionHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\Pr.08.CollectionHierarchy\obj\Debug\netcoreapp3.1\Pr.08.CollectionHierarchy.dll
+C:\Users\Goshicha\source\repos\Pr.08.CollectionHierarchy\obj\Debug\netcoreapp3.1\Pr.08.CollectionHierarchy.pdb
+C:\Users\Goshicha\source\repos\Pr.08.CollectionHierarchy\obj\Debug\netcoreapp3.1\Pr.08.CollectionHierarchy.genruntimeconfig.cache

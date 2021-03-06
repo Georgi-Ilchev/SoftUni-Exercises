@@ -1,0 +1,13 @@
+C:\Users\Goshicha\source\repos\2. Salary Increase\bin\Debug\netcoreapp3.1\2. Salary Increase.exe
+C:\Users\Goshicha\source\repos\2. Salary Increase\bin\Debug\netcoreapp3.1\2. Salary Increase.deps.json
+C:\Users\Goshicha\source\repos\2. Salary Increase\bin\Debug\netcoreapp3.1\2. Salary Increase.runtimeconfig.json
+C:\Users\Goshicha\source\repos\2. Salary Increase\bin\Debug\netcoreapp3.1\2. Salary Increase.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\2. Salary Increase\bin\Debug\netcoreapp3.1\2. Salary Increase.dll
+C:\Users\Goshicha\source\repos\2. Salary Increase\bin\Debug\netcoreapp3.1\2. Salary Increase.pdb
+C:\Users\Goshicha\source\repos\2. Salary Increase\obj\Debug\netcoreapp3.1\2. Salary Increase.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\2. Salary Increase\obj\Debug\netcoreapp3.1\2. Salary Increase.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\2. Salary Increase\obj\Debug\netcoreapp3.1\2. Salary Increase.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\2. Salary Increase\obj\Debug\netcoreapp3.1\2. Salary Increase.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\2. Salary Increase\obj\Debug\netcoreapp3.1\2. Salary Increase.dll
+C:\Users\Goshicha\source\repos\2. Salary Increase\obj\Debug\netcoreapp3.1\2. Salary Increase.pdb
+C:\Users\Goshicha\source\repos\2. Salary Increase\obj\Debug\netcoreapp3.1\2. Salary Increase.genruntimeconfig.cache

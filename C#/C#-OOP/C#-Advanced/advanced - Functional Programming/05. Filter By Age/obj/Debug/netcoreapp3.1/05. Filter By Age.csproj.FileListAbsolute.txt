@@ -1,0 +1,13 @@
+C:\Users\Goshicha\source\repos\05. Filter By Age\bin\Debug\netcoreapp3.1\05. Filter By Age.exe
+C:\Users\Goshicha\source\repos\05. Filter By Age\bin\Debug\netcoreapp3.1\05. Filter By Age.deps.json
+C:\Users\Goshicha\source\repos\05. Filter By Age\bin\Debug\netcoreapp3.1\05. Filter By Age.runtimeconfig.json
+C:\Users\Goshicha\source\repos\05. Filter By Age\bin\Debug\netcoreapp3.1\05. Filter By Age.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\05. Filter By Age\bin\Debug\netcoreapp3.1\05. Filter By Age.dll
+C:\Users\Goshicha\source\repos\05. Filter By Age\bin\Debug\netcoreapp3.1\05. Filter By Age.pdb
+C:\Users\Goshicha\source\repos\05. Filter By Age\obj\Debug\netcoreapp3.1\05. Filter By Age.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\05. Filter By Age\obj\Debug\netcoreapp3.1\05. Filter By Age.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\05. Filter By Age\obj\Debug\netcoreapp3.1\05. Filter By Age.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\05. Filter By Age\obj\Debug\netcoreapp3.1\05. Filter By Age.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\05. Filter By Age\obj\Debug\netcoreapp3.1\05. Filter By Age.dll
+C:\Users\Goshicha\source\repos\05. Filter By Age\obj\Debug\netcoreapp3.1\05. Filter By Age.pdb
+C:\Users\Goshicha\source\repos\05. Filter By Age\obj\Debug\netcoreapp3.1\05. Filter By Age.genruntimeconfig.cache

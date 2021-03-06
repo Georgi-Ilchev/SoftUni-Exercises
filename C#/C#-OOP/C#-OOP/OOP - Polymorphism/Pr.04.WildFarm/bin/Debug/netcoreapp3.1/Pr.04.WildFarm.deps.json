@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Pr.04.WildFarm/1.0.0": {
+        "runtime": {
+          "Pr.04.WildFarm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pr.04.WildFarm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

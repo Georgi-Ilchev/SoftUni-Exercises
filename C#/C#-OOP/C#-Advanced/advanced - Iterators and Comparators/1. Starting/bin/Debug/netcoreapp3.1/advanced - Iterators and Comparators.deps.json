@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "advanced - Iterators and Comparators/1.0.0": {
+        "runtime": {
+          "advanced - Iterators and Comparators.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "advanced - Iterators and Comparators/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\Goshicha\source\repos\problem5 - Snake\bin\Debug\netcoreapp3.1\problem05 - Snake.exe
+C:\Users\Goshicha\source\repos\problem5 - Snake\bin\Debug\netcoreapp3.1\problem05 - Snake.deps.json
+C:\Users\Goshicha\source\repos\problem5 - Snake\bin\Debug\netcoreapp3.1\problem05 - Snake.runtimeconfig.json
+C:\Users\Goshicha\source\repos\problem5 - Snake\bin\Debug\netcoreapp3.1\problem05 - Snake.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\problem5 - Snake\bin\Debug\netcoreapp3.1\problem05 - Snake.dll
+C:\Users\Goshicha\source\repos\problem5 - Snake\bin\Debug\netcoreapp3.1\problem05 - Snake.pdb
+C:\Users\Goshicha\source\repos\problem5 - Snake\obj\Debug\netcoreapp3.1\problem05 - Snake.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\problem5 - Snake\obj\Debug\netcoreapp3.1\problem05 - Snake.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\problem5 - Snake\obj\Debug\netcoreapp3.1\problem05 - Snake.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\problem5 - Snake\obj\Debug\netcoreapp3.1\problem05 - Snake.dll
+C:\Users\Goshicha\source\repos\problem5 - Snake\obj\Debug\netcoreapp3.1\problem05 - Snake.pdb
+C:\Users\Goshicha\source\repos\problem5 - Snake\obj\Debug\netcoreapp3.1\problem05 - Snake.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Goshicha\source\repos\advanced - Functional Programming\bin\Debug\netcoreapp3.1\advanced - Functional Programming.exe
+C:\Users\Goshicha\source\repos\advanced - Functional Programming\bin\Debug\netcoreapp3.1\advanced - Functional Programming.deps.json
+C:\Users\Goshicha\source\repos\advanced - Functional Programming\bin\Debug\netcoreapp3.1\advanced - Functional Programming.runtimeconfig.json
+C:\Users\Goshicha\source\repos\advanced - Functional Programming\bin\Debug\netcoreapp3.1\advanced - Functional Programming.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\advanced - Functional Programming\bin\Debug\netcoreapp3.1\advanced - Functional Programming.dll
+C:\Users\Goshicha\source\repos\advanced - Functional Programming\bin\Debug\netcoreapp3.1\advanced - Functional Programming.pdb
+C:\Users\Goshicha\source\repos\advanced - Functional Programming\obj\Debug\netcoreapp3.1\advanced - Functional Programming.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\advanced - Functional Programming\obj\Debug\netcoreapp3.1\advanced - Functional Programming.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\advanced - Functional Programming\obj\Debug\netcoreapp3.1\advanced - Functional Programming.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\advanced - Functional Programming\obj\Debug\netcoreapp3.1\advanced - Functional Programming.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\advanced - Functional Programming\obj\Debug\netcoreapp3.1\advanced - Functional Programming.dll
+C:\Users\Goshicha\source\repos\advanced - Functional Programming\obj\Debug\netcoreapp3.1\advanced - Functional Programming.pdb
+C:\Users\Goshicha\source\repos\advanced - Functional Programming\obj\Debug\netcoreapp3.1\advanced - Functional Programming.genruntimeconfig.cache

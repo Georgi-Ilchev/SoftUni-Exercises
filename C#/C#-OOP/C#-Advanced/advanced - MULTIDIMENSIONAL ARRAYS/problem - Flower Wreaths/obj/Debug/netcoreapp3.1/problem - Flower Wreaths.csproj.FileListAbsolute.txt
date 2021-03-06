@@ -1,0 +1,13 @@
+C:\Users\Goshicha\source\repos\problem - Flower Wreaths\bin\Debug\netcoreapp3.1\problem - Flower Wreaths.exe
+C:\Users\Goshicha\source\repos\problem - Flower Wreaths\bin\Debug\netcoreapp3.1\problem - Flower Wreaths.deps.json
+C:\Users\Goshicha\source\repos\problem - Flower Wreaths\bin\Debug\netcoreapp3.1\problem - Flower Wreaths.runtimeconfig.json
+C:\Users\Goshicha\source\repos\problem - Flower Wreaths\bin\Debug\netcoreapp3.1\problem - Flower Wreaths.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\problem - Flower Wreaths\bin\Debug\netcoreapp3.1\problem - Flower Wreaths.dll
+C:\Users\Goshicha\source\repos\problem - Flower Wreaths\bin\Debug\netcoreapp3.1\problem - Flower Wreaths.pdb
+C:\Users\Goshicha\source\repos\problem - Flower Wreaths\obj\Debug\netcoreapp3.1\problem - Flower Wreaths.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\problem - Flower Wreaths\obj\Debug\netcoreapp3.1\problem - Flower Wreaths.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\problem - Flower Wreaths\obj\Debug\netcoreapp3.1\problem - Flower Wreaths.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\problem - Flower Wreaths\obj\Debug\netcoreapp3.1\problem - Flower Wreaths.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\problem - Flower Wreaths\obj\Debug\netcoreapp3.1\problem - Flower Wreaths.dll
+C:\Users\Goshicha\source\repos\problem - Flower Wreaths\obj\Debug\netcoreapp3.1\problem - Flower Wreaths.pdb
+C:\Users\Goshicha\source\repos\problem - Flower Wreaths\obj\Debug\netcoreapp3.1\problem - Flower Wreaths.genruntimeconfig.cache

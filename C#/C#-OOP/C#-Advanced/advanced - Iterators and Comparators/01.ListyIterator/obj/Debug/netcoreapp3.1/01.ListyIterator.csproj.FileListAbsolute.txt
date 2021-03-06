@@ -1,0 +1,13 @@
+C:\Users\Goshicha\source\repos\01.ListyIterator\bin\Debug\netcoreapp3.1\01.ListyIterator.exe
+C:\Users\Goshicha\source\repos\01.ListyIterator\bin\Debug\netcoreapp3.1\01.ListyIterator.deps.json
+C:\Users\Goshicha\source\repos\01.ListyIterator\bin\Debug\netcoreapp3.1\01.ListyIterator.runtimeconfig.json
+C:\Users\Goshicha\source\repos\01.ListyIterator\bin\Debug\netcoreapp3.1\01.ListyIterator.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\01.ListyIterator\bin\Debug\netcoreapp3.1\01.ListyIterator.dll
+C:\Users\Goshicha\source\repos\01.ListyIterator\bin\Debug\netcoreapp3.1\01.ListyIterator.pdb
+C:\Users\Goshicha\source\repos\01.ListyIterator\obj\Debug\netcoreapp3.1\01.ListyIterator.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\01.ListyIterator\obj\Debug\netcoreapp3.1\01.ListyIterator.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\01.ListyIterator\obj\Debug\netcoreapp3.1\01.ListyIterator.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\01.ListyIterator\obj\Debug\netcoreapp3.1\01.ListyIterator.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\01.ListyIterator\obj\Debug\netcoreapp3.1\01.ListyIterator.dll
+C:\Users\Goshicha\source\repos\01.ListyIterator\obj\Debug\netcoreapp3.1\01.ListyIterator.pdb
+C:\Users\Goshicha\source\repos\01.ListyIterator\obj\Debug\netcoreapp3.1\01.ListyIterator.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\pr15 - GreedyTimes\bin\Debug\netcoreapp3.1\pr15 - GreedyTimes.exe
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\pr15 - GreedyTimes\bin\Debug\netcoreapp3.1\pr15 - GreedyTimes.deps.json
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\pr15 - GreedyTimes\bin\Debug\netcoreapp3.1\pr15 - GreedyTimes.runtimeconfig.json
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\pr15 - GreedyTimes\bin\Debug\netcoreapp3.1\pr15 - GreedyTimes.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\pr15 - GreedyTimes\bin\Debug\netcoreapp3.1\pr15 - GreedyTimes.dll
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\pr15 - GreedyTimes\bin\Debug\netcoreapp3.1\pr15 - GreedyTimes.pdb
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\pr15 - GreedyTimes\obj\Debug\netcoreapp3.1\pr15 - GreedyTimes.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\pr15 - GreedyTimes\obj\Debug\netcoreapp3.1\pr15 - GreedyTimes.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\pr15 - GreedyTimes\obj\Debug\netcoreapp3.1\pr15 - GreedyTimes.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\pr15 - GreedyTimes\obj\Debug\netcoreapp3.1\pr15 - GreedyTimes.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\pr15 - GreedyTimes\obj\Debug\netcoreapp3.1\pr15 - GreedyTimes.dll
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\pr15 - GreedyTimes\obj\Debug\netcoreapp3.1\pr15 - GreedyTimes.pdb
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\pr15 - GreedyTimes\obj\Debug\netcoreapp3.1\pr15 - GreedyTimes.genruntimeconfig.cache

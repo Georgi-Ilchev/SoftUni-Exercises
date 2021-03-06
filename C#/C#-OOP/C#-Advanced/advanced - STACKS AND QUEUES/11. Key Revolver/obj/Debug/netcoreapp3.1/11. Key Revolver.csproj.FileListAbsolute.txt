@@ -1,0 +1,13 @@
+C:\Users\Goshicha\source\repos\11. Key Revolver\bin\Debug\netcoreapp3.1\11. Key Revolver.exe
+C:\Users\Goshicha\source\repos\11. Key Revolver\bin\Debug\netcoreapp3.1\11. Key Revolver.deps.json
+C:\Users\Goshicha\source\repos\11. Key Revolver\bin\Debug\netcoreapp3.1\11. Key Revolver.runtimeconfig.json
+C:\Users\Goshicha\source\repos\11. Key Revolver\bin\Debug\netcoreapp3.1\11. Key Revolver.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\11. Key Revolver\bin\Debug\netcoreapp3.1\11. Key Revolver.dll
+C:\Users\Goshicha\source\repos\11. Key Revolver\bin\Debug\netcoreapp3.1\11. Key Revolver.pdb
+C:\Users\Goshicha\source\repos\11. Key Revolver\obj\Debug\netcoreapp3.1\11. Key Revolver.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\11. Key Revolver\obj\Debug\netcoreapp3.1\11. Key Revolver.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\11. Key Revolver\obj\Debug\netcoreapp3.1\11. Key Revolver.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\11. Key Revolver\obj\Debug\netcoreapp3.1\11. Key Revolver.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\11. Key Revolver\obj\Debug\netcoreapp3.1\11. Key Revolver.dll
+C:\Users\Goshicha\source\repos\11. Key Revolver\obj\Debug\netcoreapp3.1\11. Key Revolver.pdb
+C:\Users\Goshicha\source\repos\11. Key Revolver\obj\Debug\netcoreapp3.1\11. Key Revolver.genruntimeconfig.cache

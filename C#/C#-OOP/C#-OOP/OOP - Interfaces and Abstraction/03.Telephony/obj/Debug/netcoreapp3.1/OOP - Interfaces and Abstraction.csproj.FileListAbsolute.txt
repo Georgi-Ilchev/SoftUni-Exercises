@@ -1,0 +1,13 @@
+C:\Users\Goshicha\source\repos\OOP - Interfaces and Abstraction\bin\Debug\netcoreapp3.1\OOP - Interfaces and Abstraction.exe
+C:\Users\Goshicha\source\repos\OOP - Interfaces and Abstraction\bin\Debug\netcoreapp3.1\OOP - Interfaces and Abstraction.deps.json
+C:\Users\Goshicha\source\repos\OOP - Interfaces and Abstraction\bin\Debug\netcoreapp3.1\OOP - Interfaces and Abstraction.runtimeconfig.json
+C:\Users\Goshicha\source\repos\OOP - Interfaces and Abstraction\bin\Debug\netcoreapp3.1\OOP - Interfaces and Abstraction.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\OOP - Interfaces and Abstraction\bin\Debug\netcoreapp3.1\OOP - Interfaces and Abstraction.dll
+C:\Users\Goshicha\source\repos\OOP - Interfaces and Abstraction\bin\Debug\netcoreapp3.1\OOP - Interfaces and Abstraction.pdb
+C:\Users\Goshicha\source\repos\OOP - Interfaces and Abstraction\obj\Debug\netcoreapp3.1\OOP - Interfaces and Abstraction.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\OOP - Interfaces and Abstraction\obj\Debug\netcoreapp3.1\OOP - Interfaces and Abstraction.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\OOP - Interfaces and Abstraction\obj\Debug\netcoreapp3.1\OOP - Interfaces and Abstraction.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\OOP - Interfaces and Abstraction\obj\Debug\netcoreapp3.1\OOP - Interfaces and Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\OOP - Interfaces and Abstraction\obj\Debug\netcoreapp3.1\OOP - Interfaces and Abstraction.dll
+C:\Users\Goshicha\source\repos\OOP - Interfaces and Abstraction\obj\Debug\netcoreapp3.1\OOP - Interfaces and Abstraction.pdb
+C:\Users\Goshicha\source\repos\OOP - Interfaces and Abstraction\obj\Debug\netcoreapp3.1\OOP - Interfaces and Abstraction.genruntimeconfig.cache

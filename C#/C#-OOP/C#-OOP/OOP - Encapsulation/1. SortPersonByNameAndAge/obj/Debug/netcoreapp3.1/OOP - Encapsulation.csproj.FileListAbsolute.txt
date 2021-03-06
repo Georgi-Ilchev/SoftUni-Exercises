@@ -1,0 +1,13 @@
+C:\Users\Goshicha\source\repos\OOP - Encapsulation\bin\Debug\netcoreapp3.1\OOP - Encapsulation.exe
+C:\Users\Goshicha\source\repos\OOP - Encapsulation\bin\Debug\netcoreapp3.1\OOP - Encapsulation.deps.json
+C:\Users\Goshicha\source\repos\OOP - Encapsulation\bin\Debug\netcoreapp3.1\OOP - Encapsulation.runtimeconfig.json
+C:\Users\Goshicha\source\repos\OOP - Encapsulation\bin\Debug\netcoreapp3.1\OOP - Encapsulation.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\OOP - Encapsulation\bin\Debug\netcoreapp3.1\OOP - Encapsulation.dll
+C:\Users\Goshicha\source\repos\OOP - Encapsulation\bin\Debug\netcoreapp3.1\OOP - Encapsulation.pdb
+C:\Users\Goshicha\source\repos\OOP - Encapsulation\obj\Debug\netcoreapp3.1\OOP - Encapsulation.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\OOP - Encapsulation\obj\Debug\netcoreapp3.1\OOP - Encapsulation.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\OOP - Encapsulation\obj\Debug\netcoreapp3.1\OOP - Encapsulation.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\OOP - Encapsulation\obj\Debug\netcoreapp3.1\OOP - Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\OOP - Encapsulation\obj\Debug\netcoreapp3.1\OOP - Encapsulation.dll
+C:\Users\Goshicha\source\repos\OOP - Encapsulation\obj\Debug\netcoreapp3.1\OOP - Encapsulation.pdb
+C:\Users\Goshicha\source\repos\OOP - Encapsulation\obj\Debug\netcoreapp3.1\OOP - Encapsulation.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "problem9 - Guild/1.0.0": {
+        "runtime": {
+          "problem9 - Guild.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "problem9 - Guild/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

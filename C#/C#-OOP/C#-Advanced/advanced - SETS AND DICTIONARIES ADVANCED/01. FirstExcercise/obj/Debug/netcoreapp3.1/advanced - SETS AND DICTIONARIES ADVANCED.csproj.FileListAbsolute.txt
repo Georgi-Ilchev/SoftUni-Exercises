@@ -1,0 +1,13 @@
+C:\Users\Goshicha\source\repos\advanced - SETS AND DICTIONARIES ADVANCED\bin\Debug\netcoreapp3.1\advanced - SETS AND DICTIONARIES ADVANCED.exe
+C:\Users\Goshicha\source\repos\advanced - SETS AND DICTIONARIES ADVANCED\bin\Debug\netcoreapp3.1\advanced - SETS AND DICTIONARIES ADVANCED.deps.json
+C:\Users\Goshicha\source\repos\advanced - SETS AND DICTIONARIES ADVANCED\bin\Debug\netcoreapp3.1\advanced - SETS AND DICTIONARIES ADVANCED.runtimeconfig.json
+C:\Users\Goshicha\source\repos\advanced - SETS AND DICTIONARIES ADVANCED\bin\Debug\netcoreapp3.1\advanced - SETS AND DICTIONARIES ADVANCED.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\advanced - SETS AND DICTIONARIES ADVANCED\bin\Debug\netcoreapp3.1\advanced - SETS AND DICTIONARIES ADVANCED.dll
+C:\Users\Goshicha\source\repos\advanced - SETS AND DICTIONARIES ADVANCED\bin\Debug\netcoreapp3.1\advanced - SETS AND DICTIONARIES ADVANCED.pdb
+C:\Users\Goshicha\source\repos\advanced - SETS AND DICTIONARIES ADVANCED\obj\Debug\netcoreapp3.1\advanced - SETS AND DICTIONARIES ADVANCED.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\advanced - SETS AND DICTIONARIES ADVANCED\obj\Debug\netcoreapp3.1\advanced - SETS AND DICTIONARIES ADVANCED.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\advanced - SETS AND DICTIONARIES ADVANCED\obj\Debug\netcoreapp3.1\advanced - SETS AND DICTIONARIES ADVANCED.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\advanced - SETS AND DICTIONARIES ADVANCED\obj\Debug\netcoreapp3.1\advanced - SETS AND DICTIONARIES ADVANCED.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\advanced - SETS AND DICTIONARIES ADVANCED\obj\Debug\netcoreapp3.1\advanced - SETS AND DICTIONARIES ADVANCED.dll
+C:\Users\Goshicha\source\repos\advanced - SETS AND DICTIONARIES ADVANCED\obj\Debug\netcoreapp3.1\advanced - SETS AND DICTIONARIES ADVANCED.pdb
+C:\Users\Goshicha\source\repos\advanced - SETS AND DICTIONARIES ADVANCED\obj\Debug\netcoreapp3.1\advanced - SETS AND DICTIONARIES ADVANCED.genruntimeconfig.cache

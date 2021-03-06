@@ -1,0 +1,13 @@
+C:\Users\Goshicha\source\repos\OOP - Exams\bin\Debug\netcoreapp3.1\OOP - Exams.exe
+C:\Users\Goshicha\source\repos\OOP - Exams\bin\Debug\netcoreapp3.1\OOP - Exams.deps.json
+C:\Users\Goshicha\source\repos\OOP - Exams\bin\Debug\netcoreapp3.1\OOP - Exams.runtimeconfig.json
+C:\Users\Goshicha\source\repos\OOP - Exams\bin\Debug\netcoreapp3.1\OOP - Exams.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\OOP - Exams\bin\Debug\netcoreapp3.1\OOP - Exams.dll
+C:\Users\Goshicha\source\repos\OOP - Exams\bin\Debug\netcoreapp3.1\OOP - Exams.pdb
+C:\Users\Goshicha\source\repos\OOP - Exams\obj\Debug\netcoreapp3.1\OOP - Exams.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\OOP - Exams\obj\Debug\netcoreapp3.1\OOP - Exams.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\OOP - Exams\obj\Debug\netcoreapp3.1\OOP - Exams.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\OOP - Exams\obj\Debug\netcoreapp3.1\OOP - Exams.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\OOP - Exams\obj\Debug\netcoreapp3.1\OOP - Exams.dll
+C:\Users\Goshicha\source\repos\OOP - Exams\obj\Debug\netcoreapp3.1\OOP - Exams.pdb
+C:\Users\Goshicha\source\repos\OOP - Exams\obj\Debug\netcoreapp3.1\OOP - Exams.genruntimeconfig.cache

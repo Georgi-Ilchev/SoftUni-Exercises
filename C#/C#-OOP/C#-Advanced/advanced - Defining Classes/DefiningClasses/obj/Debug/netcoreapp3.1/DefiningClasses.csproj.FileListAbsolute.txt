@@ -1,0 +1,13 @@
+C:\Users\Goshicha\source\repos\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.exe
+C:\Users\Goshicha\source\repos\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.deps.json
+C:\Users\Goshicha\source\repos\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.runtimeconfig.json
+C:\Users\Goshicha\source\repos\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.dll
+C:\Users\Goshicha\source\repos\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.pdb
+C:\Users\Goshicha\source\repos\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.dll
+C:\Users\Goshicha\source\repos\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.pdb
+C:\Users\Goshicha\source\repos\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.genruntimeconfig.cache

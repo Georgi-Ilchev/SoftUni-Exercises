@@ -1,0 +1,13 @@
+C:\Users\Goshicha\source\repos\Pr.02.Graphic_Editor\bin\Debug\netcoreapp3.1\Pr.02.Graphic_Editor.exe
+C:\Users\Goshicha\source\repos\Pr.02.Graphic_Editor\bin\Debug\netcoreapp3.1\Pr.02.Graphic_Editor.deps.json
+C:\Users\Goshicha\source\repos\Pr.02.Graphic_Editor\bin\Debug\netcoreapp3.1\Pr.02.Graphic_Editor.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Pr.02.Graphic_Editor\bin\Debug\netcoreapp3.1\Pr.02.Graphic_Editor.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Pr.02.Graphic_Editor\bin\Debug\netcoreapp3.1\Pr.02.Graphic_Editor.dll
+C:\Users\Goshicha\source\repos\Pr.02.Graphic_Editor\bin\Debug\netcoreapp3.1\Pr.02.Graphic_Editor.pdb
+C:\Users\Goshicha\source\repos\Pr.02.Graphic_Editor\obj\Debug\netcoreapp3.1\Pr.02.Graphic_Editor.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\Pr.02.Graphic_Editor\obj\Debug\netcoreapp3.1\Pr.02.Graphic_Editor.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Pr.02.Graphic_Editor\obj\Debug\netcoreapp3.1\Pr.02.Graphic_Editor.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Pr.02.Graphic_Editor\obj\Debug\netcoreapp3.1\Pr.02.Graphic_Editor.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\Pr.02.Graphic_Editor\obj\Debug\netcoreapp3.1\Pr.02.Graphic_Editor.dll
+C:\Users\Goshicha\source\repos\Pr.02.Graphic_Editor\obj\Debug\netcoreapp3.1\Pr.02.Graphic_Editor.pdb
+C:\Users\Goshicha\source\repos\Pr.02.Graphic_Editor\obj\Debug\netcoreapp3.1\Pr.02.Graphic_Editor.genruntimeconfig.cache

@@ -1,0 +1,44 @@
+CREATE TABLE Subjects
+(
+	SubjectID INT IDENTITY PRIMARY KEY,
+	SubjectName VARCHAR(30) NOT NULL,
+)
+
+CREATE TABLE Majors
+(
+	MajorID INT IDENTITY PRIMARY KEY,
+	[Name] VARCHAR(30) NOT NULL,
+)
+
+CREATE TABLE Students
+(
+	StudentID INT IDENTITY PRIMARY KEY,
+	StudentNumber VARCHAR(30) NOT NULL,
+	StudentName VARCHAR(30) NOT NULL,
+	MajorID INT NOT NULL,
+
+	CONSTRAINT FK_Students_Majors
+	FOREIGN KEY (MajorID)
+	REFERENCES Majors(MajorID)
+)
+
+CREATE TABLE Payments
+(
+	PaymentID INT IDENTITY PRIMARY KEY,
+	PaymentDate DATE NOT NULL,
+	PaymentAmount DECIMAL(6,2) NOT NULL,
+	StudentID INT NOT NULL
+
+	CONSTRAINT FK_Payments_Students
+	FOREIGN KEY (StudentID)
+	REFERENCES Students(StudentID)
+)
+
+CREATE TABLE Agenda
+(
+	StudentID INT FOREIGN KEY REFERENCES Students(StudentID),
+	SubjectID INT FOREIGN KEY REFERENCES Subjects(SubjectID),
+
+	CONSTRAINT PK_Composite_Students_Subjects
+	PRIMARY KEY (StudentID, SubjectID)
+)

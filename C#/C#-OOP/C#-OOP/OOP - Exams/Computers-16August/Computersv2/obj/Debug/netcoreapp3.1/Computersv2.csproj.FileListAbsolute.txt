@@ -1,0 +1,13 @@
+C:\Users\Goshicha\source\repos\OOP - Exams\Computers-16August\Computersv2\bin\Debug\netcoreapp3.1\Computersv2.exe
+C:\Users\Goshicha\source\repos\OOP - Exams\Computers-16August\Computersv2\bin\Debug\netcoreapp3.1\Computersv2.deps.json
+C:\Users\Goshicha\source\repos\OOP - Exams\Computers-16August\Computersv2\bin\Debug\netcoreapp3.1\Computersv2.runtimeconfig.json
+C:\Users\Goshicha\source\repos\OOP - Exams\Computers-16August\Computersv2\bin\Debug\netcoreapp3.1\Computersv2.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\OOP - Exams\Computers-16August\Computersv2\bin\Debug\netcoreapp3.1\Computersv2.dll
+C:\Users\Goshicha\source\repos\OOP - Exams\Computers-16August\Computersv2\bin\Debug\netcoreapp3.1\Computersv2.pdb
+C:\Users\Goshicha\source\repos\OOP - Exams\Computers-16August\Computersv2\obj\Debug\netcoreapp3.1\Computersv2.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\OOP - Exams\Computers-16August\Computersv2\obj\Debug\netcoreapp3.1\Computersv2.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\OOP - Exams\Computers-16August\Computersv2\obj\Debug\netcoreapp3.1\Computersv2.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\OOP - Exams\Computers-16August\Computersv2\obj\Debug\netcoreapp3.1\Computersv2.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\OOP - Exams\Computers-16August\Computersv2\obj\Debug\netcoreapp3.1\Computersv2.dll
+C:\Users\Goshicha\source\repos\OOP - Exams\Computers-16August\Computersv2\obj\Debug\netcoreapp3.1\Computersv2.pdb
+C:\Users\Goshicha\source\repos\OOP - Exams\Computers-16August\Computersv2\obj\Debug\netcoreapp3.1\Computersv2.genruntimeconfig.cache

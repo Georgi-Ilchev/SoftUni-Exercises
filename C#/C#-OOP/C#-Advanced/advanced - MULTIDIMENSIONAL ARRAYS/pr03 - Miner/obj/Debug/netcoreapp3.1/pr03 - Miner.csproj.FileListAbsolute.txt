@@ -1,0 +1,13 @@
+C:\Users\Goshicha\source\repos\pr03 - Miner\bin\Debug\netcoreapp3.1\pr03 - Miner.exe
+C:\Users\Goshicha\source\repos\pr03 - Miner\bin\Debug\netcoreapp3.1\pr03 - Miner.deps.json
+C:\Users\Goshicha\source\repos\pr03 - Miner\bin\Debug\netcoreapp3.1\pr03 - Miner.runtimeconfig.json
+C:\Users\Goshicha\source\repos\pr03 - Miner\bin\Debug\netcoreapp3.1\pr03 - Miner.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\pr03 - Miner\bin\Debug\netcoreapp3.1\pr03 - Miner.dll
+C:\Users\Goshicha\source\repos\pr03 - Miner\bin\Debug\netcoreapp3.1\pr03 - Miner.pdb
+C:\Users\Goshicha\source\repos\pr03 - Miner\obj\Debug\netcoreapp3.1\pr03 - Miner.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\pr03 - Miner\obj\Debug\netcoreapp3.1\pr03 - Miner.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\pr03 - Miner\obj\Debug\netcoreapp3.1\pr03 - Miner.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\pr03 - Miner\obj\Debug\netcoreapp3.1\pr03 - Miner.dll
+C:\Users\Goshicha\source\repos\pr03 - Miner\obj\Debug\netcoreapp3.1\pr03 - Miner.pdb
+C:\Users\Goshicha\source\repos\pr03 - Miner\obj\Debug\netcoreapp3.1\pr03 - Miner.genruntimeconfig.cache
+C:\Users\Goshicha\source\repos\pr03 - Miner\obj\Debug\netcoreapp3.1\pr03 - Miner.csprojAssemblyReference.cache

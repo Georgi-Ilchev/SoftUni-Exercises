@@ -1,0 +1,13 @@
+C:\Users\Goshicha\source\repos\OOP - Exception Handling\bin\Debug\netcoreapp3.1\01. Square Root.exe
+C:\Users\Goshicha\source\repos\OOP - Exception Handling\bin\Debug\netcoreapp3.1\01. Square Root.deps.json
+C:\Users\Goshicha\source\repos\OOP - Exception Handling\bin\Debug\netcoreapp3.1\01. Square Root.runtimeconfig.json
+C:\Users\Goshicha\source\repos\OOP - Exception Handling\bin\Debug\netcoreapp3.1\01. Square Root.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\OOP - Exception Handling\bin\Debug\netcoreapp3.1\01. Square Root.dll
+C:\Users\Goshicha\source\repos\OOP - Exception Handling\bin\Debug\netcoreapp3.1\01. Square Root.pdb
+C:\Users\Goshicha\source\repos\OOP - Exception Handling\obj\Debug\netcoreapp3.1\01. Square Root.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\OOP - Exception Handling\obj\Debug\netcoreapp3.1\01. Square Root.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\OOP - Exception Handling\obj\Debug\netcoreapp3.1\01. Square Root.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\OOP - Exception Handling\obj\Debug\netcoreapp3.1\01. Square Root.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\OOP - Exception Handling\obj\Debug\netcoreapp3.1\01. Square Root.dll
+C:\Users\Goshicha\source\repos\OOP - Exception Handling\obj\Debug\netcoreapp3.1\01. Square Root.pdb
+C:\Users\Goshicha\source\repos\OOP - Exception Handling\obj\Debug\netcoreapp3.1\01. Square Root.genruntimeconfig.cache

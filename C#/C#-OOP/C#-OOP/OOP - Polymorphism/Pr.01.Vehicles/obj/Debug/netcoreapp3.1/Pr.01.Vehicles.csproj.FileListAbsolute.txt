@@ -1,0 +1,13 @@
+C:\Users\Goshicha\source\repos\Pr.01.Vehicles\bin\Debug\netcoreapp3.1\Pr.01.Vehicles.exe
+C:\Users\Goshicha\source\repos\Pr.01.Vehicles\bin\Debug\netcoreapp3.1\Pr.01.Vehicles.deps.json
+C:\Users\Goshicha\source\repos\Pr.01.Vehicles\bin\Debug\netcoreapp3.1\Pr.01.Vehicles.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Pr.01.Vehicles\bin\Debug\netcoreapp3.1\Pr.01.Vehicles.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Pr.01.Vehicles\bin\Debug\netcoreapp3.1\Pr.01.Vehicles.dll
+C:\Users\Goshicha\source\repos\Pr.01.Vehicles\bin\Debug\netcoreapp3.1\Pr.01.Vehicles.pdb
+C:\Users\Goshicha\source\repos\Pr.01.Vehicles\obj\Debug\netcoreapp3.1\Pr.01.Vehicles.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\Pr.01.Vehicles\obj\Debug\netcoreapp3.1\Pr.01.Vehicles.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Pr.01.Vehicles\obj\Debug\netcoreapp3.1\Pr.01.Vehicles.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Pr.01.Vehicles\obj\Debug\netcoreapp3.1\Pr.01.Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\Pr.01.Vehicles\obj\Debug\netcoreapp3.1\Pr.01.Vehicles.dll
+C:\Users\Goshicha\source\repos\Pr.01.Vehicles\obj\Debug\netcoreapp3.1\Pr.01.Vehicles.pdb
+C:\Users\Goshicha\source\repos\Pr.01.Vehicles\obj\Debug\netcoreapp3.1\Pr.01.Vehicles.genruntimeconfig.cache

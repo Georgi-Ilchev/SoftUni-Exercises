@@ -1,0 +1,13 @@
+C:\Users\Goshicha\source\repos\OOP - Interfaces and Abstraction\bin\Debug\netcoreapp3.1\Pr.03.Telephony.exe
+C:\Users\Goshicha\source\repos\OOP - Interfaces and Abstraction\bin\Debug\netcoreapp3.1\Pr.03.Telephony.deps.json
+C:\Users\Goshicha\source\repos\OOP - Interfaces and Abstraction\bin\Debug\netcoreapp3.1\Pr.03.Telephony.runtimeconfig.json
+C:\Users\Goshicha\source\repos\OOP - Interfaces and Abstraction\bin\Debug\netcoreapp3.1\Pr.03.Telephony.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\OOP - Interfaces and Abstraction\bin\Debug\netcoreapp3.1\Pr.03.Telephony.dll
+C:\Users\Goshicha\source\repos\OOP - Interfaces and Abstraction\bin\Debug\netcoreapp3.1\Pr.03.Telephony.pdb
+C:\Users\Goshicha\source\repos\OOP - Interfaces and Abstraction\obj\Debug\netcoreapp3.1\Pr.03.Telephony.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\OOP - Interfaces and Abstraction\obj\Debug\netcoreapp3.1\Pr.03.Telephony.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\OOP - Interfaces and Abstraction\obj\Debug\netcoreapp3.1\Pr.03.Telephony.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\OOP - Interfaces and Abstraction\obj\Debug\netcoreapp3.1\Pr.03.Telephony.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\OOP - Interfaces and Abstraction\obj\Debug\netcoreapp3.1\Pr.03.Telephony.dll
+C:\Users\Goshicha\source\repos\OOP - Interfaces and Abstraction\obj\Debug\netcoreapp3.1\Pr.03.Telephony.pdb
+C:\Users\Goshicha\source\repos\OOP - Interfaces and Abstraction\obj\Debug\netcoreapp3.1\Pr.03.Telephony.genruntimeconfig.cache

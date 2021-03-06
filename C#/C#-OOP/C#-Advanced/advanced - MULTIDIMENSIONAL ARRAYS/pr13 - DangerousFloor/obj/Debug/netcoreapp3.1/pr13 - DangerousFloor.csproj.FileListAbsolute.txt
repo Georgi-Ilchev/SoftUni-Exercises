@@ -1,0 +1,26 @@
+C:\Users\Goshicha\source\repos\pr13 - DangerousFloor\bin\Debug\netcoreapp3.1\pr13 - DangerousFloor.exe
+C:\Users\Goshicha\source\repos\pr13 - DangerousFloor\bin\Debug\netcoreapp3.1\pr13 - DangerousFloor.deps.json
+C:\Users\Goshicha\source\repos\pr13 - DangerousFloor\bin\Debug\netcoreapp3.1\pr13 - DangerousFloor.runtimeconfig.json
+C:\Users\Goshicha\source\repos\pr13 - DangerousFloor\bin\Debug\netcoreapp3.1\pr13 - DangerousFloor.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\pr13 - DangerousFloor\bin\Debug\netcoreapp3.1\pr13 - DangerousFloor.dll
+C:\Users\Goshicha\source\repos\pr13 - DangerousFloor\bin\Debug\netcoreapp3.1\pr13 - DangerousFloor.pdb
+C:\Users\Goshicha\source\repos\pr13 - DangerousFloor\obj\Debug\netcoreapp3.1\pr13 - DangerousFloor.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\pr13 - DangerousFloor\obj\Debug\netcoreapp3.1\pr13 - DangerousFloor.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\pr13 - DangerousFloor\obj\Debug\netcoreapp3.1\pr13 - DangerousFloor.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\pr13 - DangerousFloor\obj\Debug\netcoreapp3.1\pr13 - DangerousFloor.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\pr13 - DangerousFloor\obj\Debug\netcoreapp3.1\pr13 - DangerousFloor.dll
+C:\Users\Goshicha\source\repos\pr13 - DangerousFloor\obj\Debug\netcoreapp3.1\pr13 - DangerousFloor.pdb
+C:\Users\Goshicha\source\repos\pr13 - DangerousFloor\obj\Debug\netcoreapp3.1\pr13 - DangerousFloor.genruntimeconfig.cache
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\pr13 - DangerousFloor\bin\Debug\netcoreapp3.1\pr13 - DangerousFloor.exe
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\pr13 - DangerousFloor\bin\Debug\netcoreapp3.1\pr13 - DangerousFloor.deps.json
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\pr13 - DangerousFloor\bin\Debug\netcoreapp3.1\pr13 - DangerousFloor.runtimeconfig.json
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\pr13 - DangerousFloor\bin\Debug\netcoreapp3.1\pr13 - DangerousFloor.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\pr13 - DangerousFloor\bin\Debug\netcoreapp3.1\pr13 - DangerousFloor.dll
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\pr13 - DangerousFloor\bin\Debug\netcoreapp3.1\pr13 - DangerousFloor.pdb
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\pr13 - DangerousFloor\obj\Debug\netcoreapp3.1\pr13 - DangerousFloor.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\pr13 - DangerousFloor\obj\Debug\netcoreapp3.1\pr13 - DangerousFloor.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\pr13 - DangerousFloor\obj\Debug\netcoreapp3.1\pr13 - DangerousFloor.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\pr13 - DangerousFloor\obj\Debug\netcoreapp3.1\pr13 - DangerousFloor.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\pr13 - DangerousFloor\obj\Debug\netcoreapp3.1\pr13 - DangerousFloor.dll
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\pr13 - DangerousFloor\obj\Debug\netcoreapp3.1\pr13 - DangerousFloor.pdb
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\pr13 - DangerousFloor\obj\Debug\netcoreapp3.1\pr13 - DangerousFloor.genruntimeconfig.cache

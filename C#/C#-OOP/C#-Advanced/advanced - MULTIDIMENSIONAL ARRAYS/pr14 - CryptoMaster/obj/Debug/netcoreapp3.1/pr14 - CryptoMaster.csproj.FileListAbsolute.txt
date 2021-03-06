@@ -1,0 +1,13 @@
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\pr14 - CryptoMaster\bin\Debug\netcoreapp3.1\pr14 - CryptoMaster.exe
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\pr14 - CryptoMaster\bin\Debug\netcoreapp3.1\pr14 - CryptoMaster.deps.json
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\pr14 - CryptoMaster\bin\Debug\netcoreapp3.1\pr14 - CryptoMaster.runtimeconfig.json
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\pr14 - CryptoMaster\bin\Debug\netcoreapp3.1\pr14 - CryptoMaster.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\pr14 - CryptoMaster\bin\Debug\netcoreapp3.1\pr14 - CryptoMaster.dll
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\pr14 - CryptoMaster\bin\Debug\netcoreapp3.1\pr14 - CryptoMaster.pdb
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\pr14 - CryptoMaster\obj\Debug\netcoreapp3.1\pr14 - CryptoMaster.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\pr14 - CryptoMaster\obj\Debug\netcoreapp3.1\pr14 - CryptoMaster.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\pr14 - CryptoMaster\obj\Debug\netcoreapp3.1\pr14 - CryptoMaster.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\pr14 - CryptoMaster\obj\Debug\netcoreapp3.1\pr14 - CryptoMaster.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\pr14 - CryptoMaster\obj\Debug\netcoreapp3.1\pr14 - CryptoMaster.dll
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\pr14 - CryptoMaster\obj\Debug\netcoreapp3.1\pr14 - CryptoMaster.pdb
+C:\Users\Goshicha\source\repos\advanced - MULTIDIMENSIONAL ARRAYS\pr14 - CryptoMaster\obj\Debug\netcoreapp3.1\pr14 - CryptoMaster.genruntimeconfig.cache

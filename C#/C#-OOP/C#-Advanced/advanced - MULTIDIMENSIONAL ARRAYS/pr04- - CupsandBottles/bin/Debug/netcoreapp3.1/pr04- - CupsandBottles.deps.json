@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "pr04- - CupsandBottles/1.0.0": {
+        "runtime": {
+          "pr04- - CupsandBottles.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pr04- - CupsandBottles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

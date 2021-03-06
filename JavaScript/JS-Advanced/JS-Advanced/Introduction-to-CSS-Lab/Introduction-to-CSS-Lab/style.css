@@ -1,0 +1,26 @@
+input[type="submit"]{
+    color: white;
+    background: darkblue;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin: 5px;
+    padding: 5px 11px;
+    border: 1px solid white;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover{
+    background: orangered;
+    color: darkgray;
+    border: 1px solid green;
+}
+
+p:nth-child(2n){
+    background: greenyellow;
+}
+
+a:visited{
+color:red;
+}

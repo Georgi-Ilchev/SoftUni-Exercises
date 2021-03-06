@@ -1,0 +1,13 @@
+C:\Users\Goshicha\source\repos\VetClinic\bin\Debug\netcoreapp3.1\problem3 - VetClinic.exe
+C:\Users\Goshicha\source\repos\VetClinic\bin\Debug\netcoreapp3.1\problem3 - VetClinic.deps.json
+C:\Users\Goshicha\source\repos\VetClinic\bin\Debug\netcoreapp3.1\problem3 - VetClinic.runtimeconfig.json
+C:\Users\Goshicha\source\repos\VetClinic\bin\Debug\netcoreapp3.1\problem3 - VetClinic.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\VetClinic\bin\Debug\netcoreapp3.1\problem3 - VetClinic.dll
+C:\Users\Goshicha\source\repos\VetClinic\bin\Debug\netcoreapp3.1\problem3 - VetClinic.pdb
+C:\Users\Goshicha\source\repos\VetClinic\obj\Debug\netcoreapp3.1\problem3 - VetClinic.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\VetClinic\obj\Debug\netcoreapp3.1\problem3 - VetClinic.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\VetClinic\obj\Debug\netcoreapp3.1\problem3 - VetClinic.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\VetClinic\obj\Debug\netcoreapp3.1\problem3 - VetClinic.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\VetClinic\obj\Debug\netcoreapp3.1\problem3 - VetClinic.dll
+C:\Users\Goshicha\source\repos\VetClinic\obj\Debug\netcoreapp3.1\problem3 - VetClinic.pdb
+C:\Users\Goshicha\source\repos\VetClinic\obj\Debug\netcoreapp3.1\problem3 - VetClinic.genruntimeconfig.cache

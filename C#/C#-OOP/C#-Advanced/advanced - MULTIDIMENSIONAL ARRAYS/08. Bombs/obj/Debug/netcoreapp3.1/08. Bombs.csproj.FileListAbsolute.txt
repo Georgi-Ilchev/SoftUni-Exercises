@@ -1,0 +1,13 @@
+C:\Users\Goshicha\source\repos\08. Bombs\bin\Debug\netcoreapp3.1\08. Bombs.exe
+C:\Users\Goshicha\source\repos\08. Bombs\bin\Debug\netcoreapp3.1\08. Bombs.deps.json
+C:\Users\Goshicha\source\repos\08. Bombs\bin\Debug\netcoreapp3.1\08. Bombs.runtimeconfig.json
+C:\Users\Goshicha\source\repos\08. Bombs\bin\Debug\netcoreapp3.1\08. Bombs.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\08. Bombs\bin\Debug\netcoreapp3.1\08. Bombs.dll
+C:\Users\Goshicha\source\repos\08. Bombs\bin\Debug\netcoreapp3.1\08. Bombs.pdb
+C:\Users\Goshicha\source\repos\08. Bombs\obj\Debug\netcoreapp3.1\08. Bombs.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\08. Bombs\obj\Debug\netcoreapp3.1\08. Bombs.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\08. Bombs\obj\Debug\netcoreapp3.1\08. Bombs.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\08. Bombs\obj\Debug\netcoreapp3.1\08. Bombs.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\08. Bombs\obj\Debug\netcoreapp3.1\08. Bombs.dll
+C:\Users\Goshicha\source\repos\08. Bombs\obj\Debug\netcoreapp3.1\08. Bombs.pdb
+C:\Users\Goshicha\source\repos\08. Bombs\obj\Debug\netcoreapp3.1\08. Bombs.genruntimeconfig.cache

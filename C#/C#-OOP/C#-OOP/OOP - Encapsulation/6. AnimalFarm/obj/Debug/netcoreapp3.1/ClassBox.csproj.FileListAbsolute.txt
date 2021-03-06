@@ -1,0 +1,13 @@
+C:\Users\Goshicha\source\repos\ClassBox\bin\Debug\netcoreapp3.1\ClassBox.exe
+C:\Users\Goshicha\source\repos\ClassBox\bin\Debug\netcoreapp3.1\ClassBox.deps.json
+C:\Users\Goshicha\source\repos\ClassBox\bin\Debug\netcoreapp3.1\ClassBox.runtimeconfig.json
+C:\Users\Goshicha\source\repos\ClassBox\bin\Debug\netcoreapp3.1\ClassBox.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\ClassBox\bin\Debug\netcoreapp3.1\ClassBox.dll
+C:\Users\Goshicha\source\repos\ClassBox\bin\Debug\netcoreapp3.1\ClassBox.pdb
+C:\Users\Goshicha\source\repos\ClassBox\obj\Debug\netcoreapp3.1\ClassBox.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\ClassBox\obj\Debug\netcoreapp3.1\ClassBox.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\ClassBox\obj\Debug\netcoreapp3.1\ClassBox.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\ClassBox\obj\Debug\netcoreapp3.1\ClassBox.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\ClassBox\obj\Debug\netcoreapp3.1\ClassBox.dll
+C:\Users\Goshicha\source\repos\ClassBox\obj\Debug\netcoreapp3.1\ClassBox.pdb
+C:\Users\Goshicha\source\repos\ClassBox\obj\Debug\netcoreapp3.1\ClassBox.genruntimeconfig.cache

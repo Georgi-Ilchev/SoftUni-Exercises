@@ -1,0 +1,13 @@
+C:\Users\Goshicha\source\repos\CustomLinkedList\bin\Debug\netcoreapp3.1\CustomLinkedList.exe
+C:\Users\Goshicha\source\repos\CustomLinkedList\bin\Debug\netcoreapp3.1\CustomLinkedList.deps.json
+C:\Users\Goshicha\source\repos\CustomLinkedList\bin\Debug\netcoreapp3.1\CustomLinkedList.runtimeconfig.json
+C:\Users\Goshicha\source\repos\CustomLinkedList\bin\Debug\netcoreapp3.1\CustomLinkedList.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\CustomLinkedList\bin\Debug\netcoreapp3.1\CustomLinkedList.dll
+C:\Users\Goshicha\source\repos\CustomLinkedList\bin\Debug\netcoreapp3.1\CustomLinkedList.pdb
+C:\Users\Goshicha\source\repos\CustomLinkedList\obj\Debug\netcoreapp3.1\CustomLinkedList.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\CustomLinkedList\obj\Debug\netcoreapp3.1\CustomLinkedList.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\CustomLinkedList\obj\Debug\netcoreapp3.1\CustomLinkedList.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\CustomLinkedList\obj\Debug\netcoreapp3.1\CustomLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\CustomLinkedList\obj\Debug\netcoreapp3.1\CustomLinkedList.dll
+C:\Users\Goshicha\source\repos\CustomLinkedList\obj\Debug\netcoreapp3.1\CustomLinkedList.pdb
+C:\Users\Goshicha\source\repos\CustomLinkedList\obj\Debug\netcoreapp3.1\CustomLinkedList.genruntimeconfig.cache

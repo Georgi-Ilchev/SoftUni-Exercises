@@ -1,0 +1,13 @@
+C:\Users\Goshicha\source\repos\advanced - STREAMS, FILES AND DIRECTORIES\bin\Debug\netcoreapp3.1\advanced - STREAMS, FILES AND DIRECTORIES.exe
+C:\Users\Goshicha\source\repos\advanced - STREAMS, FILES AND DIRECTORIES\bin\Debug\netcoreapp3.1\advanced - STREAMS, FILES AND DIRECTORIES.deps.json
+C:\Users\Goshicha\source\repos\advanced - STREAMS, FILES AND DIRECTORIES\bin\Debug\netcoreapp3.1\advanced - STREAMS, FILES AND DIRECTORIES.runtimeconfig.json
+C:\Users\Goshicha\source\repos\advanced - STREAMS, FILES AND DIRECTORIES\bin\Debug\netcoreapp3.1\advanced - STREAMS, FILES AND DIRECTORIES.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\advanced - STREAMS, FILES AND DIRECTORIES\bin\Debug\netcoreapp3.1\advanced - STREAMS, FILES AND DIRECTORIES.dll
+C:\Users\Goshicha\source\repos\advanced - STREAMS, FILES AND DIRECTORIES\bin\Debug\netcoreapp3.1\advanced - STREAMS, FILES AND DIRECTORIES.pdb
+C:\Users\Goshicha\source\repos\advanced - STREAMS, FILES AND DIRECTORIES\obj\Debug\netcoreapp3.1\advanced - STREAMS, FILES AND DIRECTORIES.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\advanced - STREAMS, FILES AND DIRECTORIES\obj\Debug\netcoreapp3.1\advanced - STREAMS, FILES AND DIRECTORIES.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\advanced - STREAMS, FILES AND DIRECTORIES\obj\Debug\netcoreapp3.1\advanced - STREAMS, FILES AND DIRECTORIES.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\advanced - STREAMS, FILES AND DIRECTORIES\obj\Debug\netcoreapp3.1\advanced - STREAMS, FILES AND DIRECTORIES.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\advanced - STREAMS, FILES AND DIRECTORIES\obj\Debug\netcoreapp3.1\advanced - STREAMS, FILES AND DIRECTORIES.dll
+C:\Users\Goshicha\source\repos\advanced - STREAMS, FILES AND DIRECTORIES\obj\Debug\netcoreapp3.1\advanced - STREAMS, FILES AND DIRECTORIES.pdb
+C:\Users\Goshicha\source\repos\advanced - STREAMS, FILES AND DIRECTORIES\obj\Debug\netcoreapp3.1\advanced - STREAMS, FILES AND DIRECTORIES.genruntimeconfig.cache

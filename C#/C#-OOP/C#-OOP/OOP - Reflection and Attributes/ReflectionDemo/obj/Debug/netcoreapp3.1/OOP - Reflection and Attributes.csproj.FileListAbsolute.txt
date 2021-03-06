@@ -1,0 +1,13 @@
+C:\Users\Goshicha\source\repos\OOP - Reflection and Attributes\bin\Debug\netcoreapp3.1\OOP - Reflection and Attributes.exe
+C:\Users\Goshicha\source\repos\OOP - Reflection and Attributes\bin\Debug\netcoreapp3.1\OOP - Reflection and Attributes.deps.json
+C:\Users\Goshicha\source\repos\OOP - Reflection and Attributes\bin\Debug\netcoreapp3.1\OOP - Reflection and Attributes.runtimeconfig.json
+C:\Users\Goshicha\source\repos\OOP - Reflection and Attributes\bin\Debug\netcoreapp3.1\OOP - Reflection and Attributes.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\OOP - Reflection and Attributes\bin\Debug\netcoreapp3.1\OOP - Reflection and Attributes.dll
+C:\Users\Goshicha\source\repos\OOP - Reflection and Attributes\bin\Debug\netcoreapp3.1\OOP - Reflection and Attributes.pdb
+C:\Users\Goshicha\source\repos\OOP - Reflection and Attributes\obj\Debug\netcoreapp3.1\OOP - Reflection and Attributes.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\OOP - Reflection and Attributes\obj\Debug\netcoreapp3.1\OOP - Reflection and Attributes.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\OOP - Reflection and Attributes\obj\Debug\netcoreapp3.1\OOP - Reflection and Attributes.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\OOP - Reflection and Attributes\obj\Debug\netcoreapp3.1\OOP - Reflection and Attributes.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\OOP - Reflection and Attributes\obj\Debug\netcoreapp3.1\OOP - Reflection and Attributes.dll
+C:\Users\Goshicha\source\repos\OOP - Reflection and Attributes\obj\Debug\netcoreapp3.1\OOP - Reflection and Attributes.pdb
+C:\Users\Goshicha\source\repos\OOP - Reflection and Attributes\obj\Debug\netcoreapp3.1\OOP - Reflection and Attributes.genruntimeconfig.cache

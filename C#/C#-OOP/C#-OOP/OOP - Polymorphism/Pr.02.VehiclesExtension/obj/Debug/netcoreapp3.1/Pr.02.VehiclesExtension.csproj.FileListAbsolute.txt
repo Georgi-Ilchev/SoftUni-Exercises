@@ -1,0 +1,26 @@
+C:\Users\Goshicha\source\repos\Pr.02.VehiclesExtension\bin\Debug\netcoreapp3.1\Pr.02.VehiclesExtension.exe
+C:\Users\Goshicha\source\repos\Pr.02.VehiclesExtension\bin\Debug\netcoreapp3.1\Pr.02.VehiclesExtension.deps.json
+C:\Users\Goshicha\source\repos\Pr.02.VehiclesExtension\bin\Debug\netcoreapp3.1\Pr.02.VehiclesExtension.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Pr.02.VehiclesExtension\bin\Debug\netcoreapp3.1\Pr.02.VehiclesExtension.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Pr.02.VehiclesExtension\bin\Debug\netcoreapp3.1\Pr.02.VehiclesExtension.dll
+C:\Users\Goshicha\source\repos\Pr.02.VehiclesExtension\bin\Debug\netcoreapp3.1\Pr.02.VehiclesExtension.pdb
+C:\Users\Goshicha\source\repos\Pr.02.VehiclesExtension\obj\Debug\netcoreapp3.1\Pr.02.VehiclesExtension.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\Pr.02.VehiclesExtension\obj\Debug\netcoreapp3.1\Pr.02.VehiclesExtension.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Pr.02.VehiclesExtension\obj\Debug\netcoreapp3.1\Pr.02.VehiclesExtension.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Pr.02.VehiclesExtension\obj\Debug\netcoreapp3.1\Pr.02.VehiclesExtension.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\Pr.02.VehiclesExtension\obj\Debug\netcoreapp3.1\Pr.02.VehiclesExtension.dll
+C:\Users\Goshicha\source\repos\Pr.02.VehiclesExtension\obj\Debug\netcoreapp3.1\Pr.02.VehiclesExtension.pdb
+C:\Users\Goshicha\source\repos\Pr.02.VehiclesExtension\obj\Debug\netcoreapp3.1\Pr.02.VehiclesExtension.genruntimeconfig.cache
+C:\Users\Goshicha\source\repos\OOP - Polymorphism\Pr.02.VehiclesExtension\bin\Debug\netcoreapp3.1\Pr.02.VehiclesExtension.exe
+C:\Users\Goshicha\source\repos\OOP - Polymorphism\Pr.02.VehiclesExtension\bin\Debug\netcoreapp3.1\Pr.02.VehiclesExtension.deps.json
+C:\Users\Goshicha\source\repos\OOP - Polymorphism\Pr.02.VehiclesExtension\bin\Debug\netcoreapp3.1\Pr.02.VehiclesExtension.runtimeconfig.json
+C:\Users\Goshicha\source\repos\OOP - Polymorphism\Pr.02.VehiclesExtension\bin\Debug\netcoreapp3.1\Pr.02.VehiclesExtension.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\OOP - Polymorphism\Pr.02.VehiclesExtension\bin\Debug\netcoreapp3.1\Pr.02.VehiclesExtension.dll
+C:\Users\Goshicha\source\repos\OOP - Polymorphism\Pr.02.VehiclesExtension\bin\Debug\netcoreapp3.1\Pr.02.VehiclesExtension.pdb
+C:\Users\Goshicha\source\repos\OOP - Polymorphism\Pr.02.VehiclesExtension\obj\Debug\netcoreapp3.1\Pr.02.VehiclesExtension.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\OOP - Polymorphism\Pr.02.VehiclesExtension\obj\Debug\netcoreapp3.1\Pr.02.VehiclesExtension.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\OOP - Polymorphism\Pr.02.VehiclesExtension\obj\Debug\netcoreapp3.1\Pr.02.VehiclesExtension.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\OOP - Polymorphism\Pr.02.VehiclesExtension\obj\Debug\netcoreapp3.1\Pr.02.VehiclesExtension.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\OOP - Polymorphism\Pr.02.VehiclesExtension\obj\Debug\netcoreapp3.1\Pr.02.VehiclesExtension.dll
+C:\Users\Goshicha\source\repos\OOP - Polymorphism\Pr.02.VehiclesExtension\obj\Debug\netcoreapp3.1\Pr.02.VehiclesExtension.pdb
+C:\Users\Goshicha\source\repos\OOP - Polymorphism\Pr.02.VehiclesExtension\obj\Debug\netcoreapp3.1\Pr.02.VehiclesExtension.genruntimeconfig.cache

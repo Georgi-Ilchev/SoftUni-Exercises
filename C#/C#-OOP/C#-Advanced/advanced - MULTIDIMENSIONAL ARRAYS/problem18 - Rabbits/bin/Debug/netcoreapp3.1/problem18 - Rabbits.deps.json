@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "problem18 - Rabbits/1.0.0": {
+        "runtime": {
+          "problem18 - Rabbits.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "problem18 - Rabbits/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

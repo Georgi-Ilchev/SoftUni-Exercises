@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #ccc;
+}
+
+section{
+    margin-left: 20px;
+}
+
+h1{
+    font-size: 28px;
+}
+
+header > p {
+    font-style: italic;
+}
+
+article > p{
+    font-size: 24px;
+}
+
+footer{
+    position: absolute;
+    background: #444;
+    color: #fff;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+}
+
+
+/* header css*/
+body{
+    font-family: "Helvetica";
+    margin: 0;
+}
+
+nav{
+    background: #234465;
+    margin: 0;
+    padding: 15px;
+    /* width: 80%;
+    margin: 0 auto; */
+}
+
+nav li{
+    padding: 0 20px;
+    display: inline-block;
+}
+
+nav li a{
+    color: white;
+    text-decoration: none;
+}

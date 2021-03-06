@@ -1,0 +1,13 @@
+C:\Users\Goshicha\source\repos\5. Slice a File\bin\Debug\netcoreapp3.1\5. Slice a File.exe
+C:\Users\Goshicha\source\repos\5. Slice a File\bin\Debug\netcoreapp3.1\5. Slice a File.deps.json
+C:\Users\Goshicha\source\repos\5. Slice a File\bin\Debug\netcoreapp3.1\5. Slice a File.runtimeconfig.json
+C:\Users\Goshicha\source\repos\5. Slice a File\bin\Debug\netcoreapp3.1\5. Slice a File.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\5. Slice a File\bin\Debug\netcoreapp3.1\5. Slice a File.dll
+C:\Users\Goshicha\source\repos\5. Slice a File\bin\Debug\netcoreapp3.1\5. Slice a File.pdb
+C:\Users\Goshicha\source\repos\5. Slice a File\obj\Debug\netcoreapp3.1\5. Slice a File.csprojAssemblyReference.cache
+C:\Users\Goshicha\source\repos\5. Slice a File\obj\Debug\netcoreapp3.1\5. Slice a File.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\5. Slice a File\obj\Debug\netcoreapp3.1\5. Slice a File.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\5. Slice a File\obj\Debug\netcoreapp3.1\5. Slice a File.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\5. Slice a File\obj\Debug\netcoreapp3.1\5. Slice a File.dll
+C:\Users\Goshicha\source\repos\5. Slice a File\obj\Debug\netcoreapp3.1\5. Slice a File.pdb
+C:\Users\Goshicha\source\repos\5. Slice a File\obj\Debug\netcoreapp3.1\5. Slice a File.genruntimeconfig.cache

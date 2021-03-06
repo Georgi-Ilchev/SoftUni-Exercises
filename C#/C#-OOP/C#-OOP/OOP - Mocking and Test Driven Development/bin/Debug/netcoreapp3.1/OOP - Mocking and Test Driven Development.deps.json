@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OOP - Mocking and Test Driven Development/1.0.0": {
+        "runtime": {
+          "OOP - Mocking and Test Driven Development.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOP - Mocking and Test Driven Development/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

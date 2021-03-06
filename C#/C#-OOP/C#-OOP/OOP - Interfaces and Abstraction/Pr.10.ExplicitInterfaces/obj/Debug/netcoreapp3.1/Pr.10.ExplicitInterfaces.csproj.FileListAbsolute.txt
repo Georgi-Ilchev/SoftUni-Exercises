@@ -1,0 +1,12 @@
+C:\Users\Goshicha\source\repos\Pr.10.ExplicitInterfaces\bin\Debug\netcoreapp3.1\Pr.10.ExplicitInterfaces.exe
+C:\Users\Goshicha\source\repos\Pr.10.ExplicitInterfaces\bin\Debug\netcoreapp3.1\Pr.10.ExplicitInterfaces.deps.json
+C:\Users\Goshicha\source\repos\Pr.10.ExplicitInterfaces\bin\Debug\netcoreapp3.1\Pr.10.ExplicitInterfaces.runtimeconfig.json
+C:\Users\Goshicha\source\repos\Pr.10.ExplicitInterfaces\bin\Debug\netcoreapp3.1\Pr.10.ExplicitInterfaces.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\Pr.10.ExplicitInterfaces\bin\Debug\netcoreapp3.1\Pr.10.ExplicitInterfaces.dll
+C:\Users\Goshicha\source\repos\Pr.10.ExplicitInterfaces\bin\Debug\netcoreapp3.1\Pr.10.ExplicitInterfaces.pdb
+C:\Users\Goshicha\source\repos\Pr.10.ExplicitInterfaces\obj\Debug\netcoreapp3.1\Pr.10.ExplicitInterfaces.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\Pr.10.ExplicitInterfaces\obj\Debug\netcoreapp3.1\Pr.10.ExplicitInterfaces.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\Pr.10.ExplicitInterfaces\obj\Debug\netcoreapp3.1\Pr.10.ExplicitInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\Pr.10.ExplicitInterfaces\obj\Debug\netcoreapp3.1\Pr.10.ExplicitInterfaces.dll
+C:\Users\Goshicha\source\repos\Pr.10.ExplicitInterfaces\obj\Debug\netcoreapp3.1\Pr.10.ExplicitInterfaces.pdb
+C:\Users\Goshicha\source\repos\Pr.10.ExplicitInterfaces\obj\Debug\netcoreapp3.1\Pr.10.ExplicitInterfaces.genruntimeconfig.cache

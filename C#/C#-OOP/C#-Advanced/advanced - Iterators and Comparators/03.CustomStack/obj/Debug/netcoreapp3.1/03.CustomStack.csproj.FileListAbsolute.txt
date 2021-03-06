@@ -1,0 +1,12 @@
+C:\Users\Goshicha\source\repos\03.CustomStack\bin\Debug\netcoreapp3.1\03.CustomStack.exe
+C:\Users\Goshicha\source\repos\03.CustomStack\bin\Debug\netcoreapp3.1\03.CustomStack.deps.json
+C:\Users\Goshicha\source\repos\03.CustomStack\bin\Debug\netcoreapp3.1\03.CustomStack.runtimeconfig.json
+C:\Users\Goshicha\source\repos\03.CustomStack\bin\Debug\netcoreapp3.1\03.CustomStack.runtimeconfig.dev.json
+C:\Users\Goshicha\source\repos\03.CustomStack\bin\Debug\netcoreapp3.1\03.CustomStack.dll
+C:\Users\Goshicha\source\repos\03.CustomStack\bin\Debug\netcoreapp3.1\03.CustomStack.pdb
+C:\Users\Goshicha\source\repos\03.CustomStack\obj\Debug\netcoreapp3.1\03.CustomStack.AssemblyInfoInputs.cache
+C:\Users\Goshicha\source\repos\03.CustomStack\obj\Debug\netcoreapp3.1\03.CustomStack.AssemblyInfo.cs
+C:\Users\Goshicha\source\repos\03.CustomStack\obj\Debug\netcoreapp3.1\03.CustomStack.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\source\repos\03.CustomStack\obj\Debug\netcoreapp3.1\03.CustomStack.dll
+C:\Users\Goshicha\source\repos\03.CustomStack\obj\Debug\netcoreapp3.1\03.CustomStack.pdb
+C:\Users\Goshicha\source\repos\03.CustomStack\obj\Debug\netcoreapp3.1\03.CustomStack.genruntimeconfig.cache
