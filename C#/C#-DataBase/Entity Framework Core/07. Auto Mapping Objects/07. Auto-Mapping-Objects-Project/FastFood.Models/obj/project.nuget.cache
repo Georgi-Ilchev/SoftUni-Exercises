@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "oLkmEjD5eoSXQG2sDNkTvahUHfsBa+QgTva131uYPPH1KwuM5A7paPfKiyU5TJcyE4zbwyUFdXfQaNQ9ItXpzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Goshicha\\Desktop\\SoftUni-Exercises\\C#\\C#-DataBase\\Entity Framework Core\\07. Auto Mapping Objects\\07. Auto-Mapping-Objects-Project\\FastFood.Models\\FastFood.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Goshicha\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\Goshicha\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\Goshicha\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\Goshicha\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\Goshicha\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\Goshicha\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\Goshicha\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
