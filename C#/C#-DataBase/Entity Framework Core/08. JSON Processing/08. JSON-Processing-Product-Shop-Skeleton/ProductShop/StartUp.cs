@@ -53,17 +53,55 @@ namespace ProductShop
             //var result = GetCategoriesByProductsCount(context);
 
             //08. Export Users and Products
-            //var result = GetUsersWithProducts(context);
-            //Console.WriteLine(result);
+            var result = GetUsersWithProducts(context);
+            Console.WriteLine(result);
         }
 
         //08. Export Users and Products
         public static string GetUsersWithProducts(ProductShopContext context)
         {
+            //var users = context.Users
+            //    .ToList() //tolist for judge!
+            //    .Where(u => u.ProductsSold.Any(p => p.BuyerId != null))
+            //    .Select(u => new
+            //    {
+            //        firstName = u.FirstName,
+            //        lastName = u.LastName,
+            //        age = u.Age,
+            //        soldProducts = new
+            //        {
+            //            count = u.ProductsSold.Count(p => p.Buyer != null),
+            //            products = u.ProductsSold.Where(p => p.Buyer != null).Select(p => new
+            //            {
+            //                name = p.Name,
+            //                price = p.Price
+            //            })
+            //            .ToArray()
+            //        },
+            //    })
+            //    .OrderByDescending(u => u.soldProducts.count)
+            //    .ToArray();
+
+            //var resultObj = new
+            //{
+            //    usersCount = users.Length,
+            //    users = users,
+            //};
+
+            //var jsonSerializerSettings = new JsonSerializerSettings()
+            //{
+            //    NullValueHandling = NullValueHandling.Ignore,
+            //    Formatting = Formatting.Indented,
+
+            //};
+
+            //var result = JsonConvert.SerializeObject(users, jsonSerializerSettings);
+
+            //return result;
+
             var users = context.Users
-                .Include(x => x.ProductsSold)
-                .ToList() //tolist for judge!
-                .Where(x => x.ProductsSold.Any(b => b.BuyerId != null))
+                .ToList()
+                .Where(u => u.ProductsSold.Any(p => p.Buyer != null))
                 .Select(u => new
                 {
                     firstName = u.FirstName,
@@ -71,32 +109,35 @@ namespace ProductShop
                     age = u.Age,
                     soldProducts = new
                     {
-                        count = u.ProductsSold.Where(x => x.BuyerId != null).Count(),
-                        products = u.ProductsSold.Where(x => x.BuyerId != null).Select(p => new
-                        {
-                            name = p.Name,
-                            price = p.Price
-                        })
-                        .ToList()
-                    }
+                        count = u.ProductsSold.Count(p => p.Buyer != null),
+                        products = u.ProductsSold.Where(p => p.Buyer != null)
+                                .Select(p => new
+                                {
+                                    name = p.Name,
+                                    price = p.Price,
+                                })
+                                .ToArray()
+                    },
                 })
-                .OrderByDescending(x => x.soldProducts.count)
-                .ToList();
+                .OrderByDescending(u => u.soldProducts.count)
+                .ToArray();
 
-            var resultObj = new
+            var result = new
             {
-                usersCount = users.Count(),
-                users = users
+                usersCount = users.Length,
+                users = users,
             };
 
-            var jsonSerializerSettings = new JsonSerializerSettings
+            var settings = new JsonSerializerSettings()
             {
-                NullValueHandling = NullValueHandling.Ignore
+                NullValueHandling = NullValueHandling.Ignore,
+                Formatting = Formatting.Indented,
             };
 
-            var result = JsonConvert.SerializeObject(users, Formatting.Indented, jsonSerializerSettings);
+            var json = JsonConvert.SerializeObject(result, settings);
 
-            return result;
+            return json;
+
         }
 
         //07. Export Categories By Products Count
