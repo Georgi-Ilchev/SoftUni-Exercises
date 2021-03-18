@@ -1,0 +1,12 @@
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-DataBase\Entity Framework Core\09. XML Processing\09. XML-Processing-Product-Shop-Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.deps.json
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-DataBase\Entity Framework Core\09. XML Processing\09. XML-Processing-Product-Shop-Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.json
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-DataBase\Entity Framework Core\09. XML Processing\09. XML-Processing-Product-Shop-Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.dev.json
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-DataBase\Entity Framework Core\09. XML Processing\09. XML-Processing-Product-Shop-Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.dll
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-DataBase\Entity Framework Core\09. XML Processing\09. XML-Processing-Product-Shop-Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.pdb
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-DataBase\Entity Framework Core\09. XML Processing\09. XML-Processing-Product-Shop-Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csprojAssemblyReference.cache
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-DataBase\Entity Framework Core\09. XML Processing\09. XML-Processing-Product-Shop-Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfoInputs.cache
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-DataBase\Entity Framework Core\09. XML Processing\09. XML-Processing-Product-Shop-Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfo.cs
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-DataBase\Entity Framework Core\09. XML Processing\09. XML-Processing-Product-Shop-Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-DataBase\Entity Framework Core\09. XML Processing\09. XML-Processing-Product-Shop-Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.dll
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-DataBase\Entity Framework Core\09. XML Processing\09. XML-Processing-Product-Shop-Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.pdb
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-DataBase\Entity Framework Core\09. XML Processing\09. XML-Processing-Product-Shop-Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.genruntimeconfig.cache
