@@ -1,11 +1,16 @@
 ﻿using Quiz.Services.Models;
+using System.Collections.Generic;
 
 namespace Quiz.Services
 {
     public interface IQuizService
     {
-        void Add(string title);
+        int Add(string title);
 
         QuizViewModel GetQuizById(int quizId);
+
+        IEnumerable<UserQuizViewModel> GetQuizesByUserName(string userName);
+
+        void StartQuiz(string userName, int quizId);
     }
 }
