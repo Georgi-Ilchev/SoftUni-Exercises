@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "BasicWebServer.Server/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/BasicWebServer.Server.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BasicWebServer.Server.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "BasicWebServer.Server/1.0.0": {
+      "type": "project",
+      "path": "../BasicWebServer.Server/BasicWebServer.Server.csproj",
+      "msbuildProject": "../BasicWebServer.Server/BasicWebServer.Server.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "BasicWebServer.Server >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Goshicha\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Goshicha\\Desktop\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\WebServerLab\\BasicWebServer.Server\\BasicWebServer.Server.csproj": {
+              "projectPath": "C:\\Users\\Goshicha\\Desktop\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\WebServerLab\\BasicWebServer.Server\\BasicWebServer.Server.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

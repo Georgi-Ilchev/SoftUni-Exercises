@@ -1,0 +1,12 @@
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\WebServerLab\BasicWebServer.Server\bin\Debug\net5.0\BasicWebServer.Server.deps.json
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\WebServerLab\BasicWebServer.Server\bin\Debug\net5.0\BasicWebServer.Server.dll
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\WebServerLab\BasicWebServer.Server\bin\Debug\net5.0\ref\BasicWebServer.Server.dll
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\WebServerLab\BasicWebServer.Server\bin\Debug\net5.0\BasicWebServer.Server.pdb
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\WebServerLab\BasicWebServer.Server\obj\Debug\net5.0\BasicWebServer.Server.csprojAssemblyReference.cache
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\WebServerLab\BasicWebServer.Server\obj\Debug\net5.0\BasicWebServer.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\WebServerLab\BasicWebServer.Server\obj\Debug\net5.0\BasicWebServer.Server.AssemblyInfoInputs.cache
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\WebServerLab\BasicWebServer.Server\obj\Debug\net5.0\BasicWebServer.Server.AssemblyInfo.cs
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\WebServerLab\BasicWebServer.Server\obj\Debug\net5.0\BasicWebServer.Server.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\WebServerLab\BasicWebServer.Server\obj\Debug\net5.0\BasicWebServer.Server.dll
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\WebServerLab\BasicWebServer.Server\obj\Debug\net5.0\ref\BasicWebServer.Server.dll
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\WebServerLab\BasicWebServer.Server\obj\Debug\net5.0\BasicWebServer.Server.pdb

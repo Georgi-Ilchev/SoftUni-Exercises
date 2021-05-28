@@ -14,3 +14,6 @@ C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\WebServerLab\
 C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\WebServerLab\BasicWebServer\obj\Debug\net5.0\ref\BasicWebServer.dll
 C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\WebServerLab\BasicWebServer\obj\Debug\net5.0\BasicWebServer.pdb
 C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\WebServerLab\BasicWebServer\obj\Debug\net5.0\BasicWebServer.genruntimeconfig.cache
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\WebServerLab\BasicWebServer\bin\Debug\net5.0\BasicWebServer.Server.dll
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\WebServerLab\BasicWebServer\bin\Debug\net5.0\BasicWebServer.Server.pdb
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\WebServerLab\BasicWebServer\obj\Debug\net5.0\BasicWebServer.csproj.CopyComplete
