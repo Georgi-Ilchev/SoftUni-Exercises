@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZeGEaPyp0n+ytMtrS6fZkeq+i/iKgmk3adnev9US5qFt8qwIofE7C/oytd/7qUK0uDrfw6Q7HZeClOt8VUjkFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Goshicha\\Desktop\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\SUS.MvcFramework\\SUS.MvcFramework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Goshicha\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Goshicha\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YdyJDaWl2/RCOf+V1VU+h7/f0U/BhKJOxuybBbQu1YPmGAnEcqMaTsDQHlywXCHP/zIlK7zp30QVrI9zEPmmcA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Goshicha\\Desktop\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\SUS.HTTP\\SUS.HTTP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Goshicha\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Goshicha\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

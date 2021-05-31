@@ -1,0 +1,12 @@
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\Apps\MyFirstMvcApp\bin\Debug\netstandard2.0\MyFirstMvcApp.deps.json
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\Apps\MyFirstMvcApp\bin\Debug\netstandard2.0\MyFirstMvcApp.dll
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\Apps\MyFirstMvcApp\bin\Debug\netstandard2.0\MyFirstMvcApp.pdb
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\Apps\MyFirstMvcApp\bin\Debug\netstandard2.0\SUS.HTTP.dll
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\Apps\MyFirstMvcApp\bin\Debug\netstandard2.0\SUS.HTTP.pdb
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\Apps\MyFirstMvcApp\obj\Debug\netstandard2.0\MyFirstMvcApp.csprojAssemblyReference.cache
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\Apps\MyFirstMvcApp\obj\Debug\netstandard2.0\MyFirstMvcApp.AssemblyInfoInputs.cache
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\Apps\MyFirstMvcApp\obj\Debug\netstandard2.0\MyFirstMvcApp.AssemblyInfo.cs
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\Apps\MyFirstMvcApp\obj\Debug\netstandard2.0\MyFirstMvcApp.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\Apps\MyFirstMvcApp\obj\Debug\netstandard2.0\MyFirstMvcApp.csproj.CopyComplete
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\Apps\MyFirstMvcApp\obj\Debug\netstandard2.0\MyFirstMvcApp.dll
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\Apps\MyFirstMvcApp\obj\Debug\netstandard2.0\MyFirstMvcApp.pdb
