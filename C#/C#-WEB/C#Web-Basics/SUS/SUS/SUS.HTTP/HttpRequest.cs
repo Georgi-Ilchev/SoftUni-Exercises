@@ -49,6 +49,19 @@ namespace SUS.HTTP
                     bodyBuilder.AppendLine(line);
                 }
             }
+
+            if (this.Headers.Any(x => x.Name == HttpConstants.RequestCookieHeader))
+            {
+                var cookiesAsString = this.Headers.FirstOrDefault(x => x.Name == HttpConstants.RequestCookieHeader).Value;
+
+                var cookies = cookiesAsString.Split(new string[] { "; " }, StringSplitOptions.RemoveEmptyEntries);
+
+                foreach (var cookie in cookies)
+                {
+                    this.Cookies.Add(new Cookie(cookie));
+                }
+            }
+
             this.Body = bodyBuilder.ToString();
         }
 
