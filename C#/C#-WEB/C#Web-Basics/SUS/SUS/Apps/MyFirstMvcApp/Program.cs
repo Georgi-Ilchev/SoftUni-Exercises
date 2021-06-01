@@ -1,9 +1,8 @@
-﻿using SUS.HTTP;
-using System;
-using System.Threading.Tasks;
-
-namespace MyFirstMvcApp
+﻿namespace MyFirstMvcApp
 {
+    using SUS.HTTP;
+    using System;
+    using System.Threading.Tasks;
     class Program
     {
         static async Task Main(string[] args)
@@ -21,7 +20,7 @@ namespace MyFirstMvcApp
             await server.StartAsync(80);
         }
 
-        static HttpResponse HomePage (HttpRequest request)
+        static HttpResponse HomePage(HttpRequest request)
         {
             throw new NotImplementedException();
         }

@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace SUS.HTTP
+﻿namespace SUS.HTTP
 {
     public class Cookie
     {
@@ -16,5 +12,10 @@ namespace SUS.HTTP
         public string Name { get; set; }
 
         public string Value { get; set; }
+
+        public override string ToString()
+        {
+            return $"{this.Name}={this.Value}";
+        }
     }
 }
