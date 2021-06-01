@@ -10,6 +10,8 @@ namespace SUS.HTTP
 {
     public class HttpServer : IHttpServer
     {
+        private const int BufferSize = 4096;
+
         IDictionary<string, Func<HttpRequest, HttpResponse>> routeTable = new Dictionary<string, Func<HttpRequest, HttpResponse>>();
 
         public void AddRoute(string path, Func<HttpRequest, HttpResponse> action)
@@ -39,7 +41,33 @@ namespace SUS.HTTP
         {
             using (NetworkStream stream = tcpClient.GetStream())
             {
-                //await stream.ReadAsync();
+                List<byte> data = new List<byte>();
+                int position = 0;
+                byte[] buffer = new byte[BufferSize];
+
+                while (true)
+                {
+                    //fill buffer
+                    int count = await stream.ReadAsync(buffer, position, buffer.Length);
+                    position += count;
+
+                    if (count < buffer.Length)
+                    {
+                        var partialBuffer = new byte[count];
+                        Array.Copy(buffer, partialBuffer, count);
+
+                        data.AddRange(partialBuffer);
+                        break;
+                    }
+                    else
+                    {
+                        data.AddRange(buffer);
+                    }
+                }
+                //byte[] => string (text)
+                var requestAsString = Encoding.UTF8.GetString(data.ToArray());
+
+                Console.WriteLine(requestAsString);
                 //await stream.WriteAsync();
             }
         }
