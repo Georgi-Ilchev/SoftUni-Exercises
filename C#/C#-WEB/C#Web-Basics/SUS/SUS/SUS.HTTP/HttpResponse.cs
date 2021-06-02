@@ -1,5 +1,6 @@
 ﻿namespace SUS.HTTP
 {
+    using System;
     using System.Collections.Generic;
     using System.Text;
 
@@ -7,19 +8,22 @@
     {
         public HttpResponse(string contentType, byte[] body, HttpStatusCode statusCode = HttpStatusCode.OK)
         {
+            if (body == null)
+            {
+                throw new ArgumentNullException(nameof(body));
+                //body = new byte[0];
+            }
+
             this.StatusCode = statusCode;
             this.Body = body;
             this.Headers = new List<Header>()
             {
-                {new Header ( "Content-Type", contentType) },
+                {new Header("Content-Type", contentType) },
                 {new Header("Content-Length", body.Length.ToString()) }
             };
+
+            this.Cookies = new List<Cookie>();
         }
-        public HttpStatusCode StatusCode { get; set; }
-
-        public ICollection<Header> Headers { get; set; }
-
-        public byte[] Body { get; set; }
 
         public override string ToString()
         {
@@ -32,7 +36,22 @@
                 responseBuilder.Append(header.ToString() + HttpConstants.NewLine);
             }
 
+            foreach (var cookie in this.Cookies)
+            {
+                responseBuilder.Append("Set-Cookie: " + cookie.ToString() + HttpConstants.NewLine);
+            }
+
+            responseBuilder.Append(HttpConstants.NewLine);
+
             return responseBuilder.ToString();
         }
+
+        public HttpStatusCode StatusCode { get; set; }
+
+        public ICollection<Header> Headers { get; set; }
+
+        public ICollection<Cookie> Cookies { get; set; }
+
+        public byte[] Body { get; set; }
     }
 }
