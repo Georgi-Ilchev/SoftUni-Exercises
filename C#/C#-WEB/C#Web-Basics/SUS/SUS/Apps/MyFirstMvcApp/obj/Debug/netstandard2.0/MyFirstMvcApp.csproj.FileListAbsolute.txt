@@ -13,3 +13,9 @@ C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\Apps\
 C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\Apps\MyFirstMvcApp\bin\Debug\netstandard2.0\wwwroot\favicon.ico
 C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\Apps\MyFirstMvcApp\bin\Debug\netstandard2.0\SUS.MvcFramework.dll
 C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\Apps\MyFirstMvcApp\bin\Debug\netstandard2.0\SUS.MvcFramework.pdb
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\Apps\MyFirstMvcApp\bin\Debug\netstandard2.0\Views\Users\Register.html
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\Apps\MyFirstMvcApp\bin\Debug\netstandard2.0\Views\Cards\Add.html
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\Apps\MyFirstMvcApp\bin\Debug\netstandard2.0\Views\Cards\All.html
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\Apps\MyFirstMvcApp\bin\Debug\netstandard2.0\Views\Cards\Collection.html
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\Apps\MyFirstMvcApp\bin\Debug\netstandard2.0\Views\Home\Index.html
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\Apps\MyFirstMvcApp\bin\Debug\netstandard2.0\Views\Users\Login.html

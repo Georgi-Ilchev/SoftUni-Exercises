@@ -29,6 +29,9 @@
         }
       },
       "SUS.MvcFramework/1.0.0": {
+        "dependencies": {
+          "SUS.HTTP": "1.0.0"
+        },
         "runtime": {
           "SUS.MvcFramework.dll": {}
         }
