@@ -10,7 +10,8 @@
       "MyFirstMvcApp/1.0.0": {
         "dependencies": {
           "NETStandard.Library": "2.0.3",
-          "SUS.HTTP": "1.0.0"
+          "SUS.HTTP": "1.0.0",
+          "SUS.MvcFramework": "1.0.0"
         },
         "runtime": {
           "MyFirstMvcApp.dll": {}
@@ -25,6 +26,11 @@
       "SUS.HTTP/1.0.0": {
         "runtime": {
           "SUS.HTTP.dll": {}
+        }
+      },
+      "SUS.MvcFramework/1.0.0": {
+        "runtime": {
+          "SUS.MvcFramework.dll": {}
         }
       }
     }
@@ -50,6 +56,11 @@
       "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
     },
     "SUS.HTTP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SUS.MvcFramework/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

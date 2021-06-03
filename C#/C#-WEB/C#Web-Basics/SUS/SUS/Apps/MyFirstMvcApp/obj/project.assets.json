@@ -35,6 +35,16 @@
         "runtime": {
           "bin/placeholder/SUS.HTTP.dll": {}
         }
+      },
+      "SUS.MvcFramework/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/SUS.MvcFramework.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SUS.MvcFramework.dll": {}
+        }
       }
     }
   },
@@ -187,12 +197,18 @@
       "type": "project",
       "path": "../../SUS.HTTP/SUS.HTTP.csproj",
       "msbuildProject": "../../SUS.HTTP/SUS.HTTP.csproj"
+    },
+    "SUS.MvcFramework/1.0.0": {
+      "type": "project",
+      "path": "../../SUS.MvcFramework/SUS.MvcFramework.csproj",
+      "msbuildProject": "../../SUS.MvcFramework/SUS.MvcFramework.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
       "NETStandard.Library >= 2.0.3",
-      "SUS.HTTP >= 1.0.0"
+      "SUS.HTTP >= 1.0.0",
+      "SUS.MvcFramework >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -224,6 +240,9 @@
           "projectReferences": {
             "C:\\Users\\Goshicha\\Desktop\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\SUS.HTTP\\SUS.HTTP.csproj": {
               "projectPath": "C:\\Users\\Goshicha\\Desktop\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\SUS.HTTP\\SUS.HTTP.csproj"
+            },
+            "C:\\Users\\Goshicha\\Desktop\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\SUS.MvcFramework\\SUS.MvcFramework.csproj": {
+              "projectPath": "C:\\Users\\Goshicha\\Desktop\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\SUS.MvcFramework\\SUS.MvcFramework.csproj"
             }
           }
         }
