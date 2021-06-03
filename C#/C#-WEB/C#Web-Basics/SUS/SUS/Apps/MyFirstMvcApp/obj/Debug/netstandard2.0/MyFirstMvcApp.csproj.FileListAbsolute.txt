@@ -19,3 +19,8 @@ C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\Apps\
 C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\Apps\MyFirstMvcApp\bin\Debug\netstandard2.0\Views\Cards\Collection.html
 C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\Apps\MyFirstMvcApp\bin\Debug\netstandard2.0\Views\Home\Index.html
 C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\Apps\MyFirstMvcApp\bin\Debug\netstandard2.0\Views\Users\Login.html
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\Apps\MyFirstMvcApp\bin\Debug\netstandard2.0\Views\Shared\_Layout.html
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\Apps\MyFirstMvcApp\bin\Debug\netstandard2.0\wwwroot\css\bootstrap.min.css
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\Apps\MyFirstMvcApp\bin\Debug\netstandard2.0\wwwroot\css\custom.css
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\Apps\MyFirstMvcApp\bin\Debug\netstandard2.0\wwwroot\js\bootstrap.bundle.min.js
+C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\Apps\MyFirstMvcApp\bin\Debug\netstandard2.0\wwwroot\js\custom.js
