@@ -7,10 +7,10 @@
     {
         public HttpResponse View([CallerMemberName] string viewPath = null)
         {
-            var layout = System.IO.File.ReadAllText("Views/Shared/_Layout.html");
+            var layout = System.IO.File.ReadAllText("Views/Shared/_Layout.cshtml");
 
             var viewContent = System.IO.File.ReadAllText
-                                ("Views/" + this.GetType().Name.Replace("Controller", string.Empty) + "/" + viewPath + ".html");
+                                ("Views/" + this.GetType().Name.Replace("Controller", string.Empty) + "/" + viewPath + ".cshtml");
 
             var responseHtml = layout.Replace("@RenderBody()", viewContent);
 
