@@ -2,6 +2,8 @@
 {
     using SUS.HTTP;
     using SUS.MvcFramework;
+    using System;
+
     public class UsersController : Controller
     {
         public HttpResponse Login(HttpRequest request)
@@ -24,6 +26,13 @@
             //var response = new HttpResponse("text/html", responseBodyBytes);
 
             //return response;
+        }
+
+        public HttpResponse DoLogin(HttpRequest request)
+        {
+            //TODO: read data, check user, log user
+
+            return this.Redirect("/");
         }
     }
 }
