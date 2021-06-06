@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7/JUoJ67xMpDoV6TSTdCxpSzyA+C7y5oEGZKEchHpYc1aAsj62RDreXFUUcWOWiaEwb76SFyuRPg7vIDsofdOg==",
+  "dgSpecHash": "Sg9L4gyeG8zY0aAUnzYtWcLt+VORpLYZDD47+BWTbu49zyDc/6y+r9+xvVzzqpugM47EXbVER1v4lfBfUsRLoA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Goshicha\\Desktop\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\Apps\\MyFirstMvcApp\\MyFirstMvcApp.csproj",
+  "projectFilePath": "C:\\Users\\Goshicha\\Desktop\\gitFolder\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\Apps\\MyFirstMvcApp\\MyFirstMvcApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Goshicha\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Goshicha\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

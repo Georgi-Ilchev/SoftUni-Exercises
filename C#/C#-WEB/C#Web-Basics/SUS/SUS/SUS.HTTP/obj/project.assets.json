@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Goshicha\\Desktop\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\SUS.HTTP\\SUS.HTTP.csproj",
+      "projectUniqueName": "C:\\Users\\Goshicha\\Desktop\\gitFolder\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\SUS.HTTP\\SUS.HTTP.csproj",
       "projectName": "SUS.HTTP",
-      "projectPath": "C:\\Users\\Goshicha\\Desktop\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\SUS.HTTP\\SUS.HTTP.csproj",
+      "projectPath": "C:\\Users\\Goshicha\\Desktop\\gitFolder\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\SUS.HTTP\\SUS.HTTP.csproj",
       "packagesPath": "C:\\Users\\Goshicha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Goshicha\\Desktop\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\SUS.HTTP\\obj\\",
+      "outputPath": "C:\\Users\\Goshicha\\Desktop\\gitFolder\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\SUS.HTTP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Goshicha\\AppData\\Roaming\\NuGet\\NuGet.Config",

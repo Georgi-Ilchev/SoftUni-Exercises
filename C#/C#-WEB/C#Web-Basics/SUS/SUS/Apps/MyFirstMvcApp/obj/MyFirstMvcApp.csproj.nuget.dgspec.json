@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Goshicha\\Desktop\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\Apps\\MyFirstMvcApp\\MyFirstMvcApp.csproj": {}
+    "C:\\Users\\Goshicha\\Desktop\\gitFolder\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\Apps\\MyFirstMvcApp\\MyFirstMvcApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Goshicha\\Desktop\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\Apps\\MyFirstMvcApp\\MyFirstMvcApp.csproj": {
+    "C:\\Users\\Goshicha\\Desktop\\gitFolder\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\Apps\\MyFirstMvcApp\\MyFirstMvcApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Goshicha\\Desktop\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\Apps\\MyFirstMvcApp\\MyFirstMvcApp.csproj",
+        "projectUniqueName": "C:\\Users\\Goshicha\\Desktop\\gitFolder\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\Apps\\MyFirstMvcApp\\MyFirstMvcApp.csproj",
         "projectName": "MyFirstMvcApp",
-        "projectPath": "C:\\Users\\Goshicha\\Desktop\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\Apps\\MyFirstMvcApp\\MyFirstMvcApp.csproj",
+        "projectPath": "C:\\Users\\Goshicha\\Desktop\\gitFolder\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\Apps\\MyFirstMvcApp\\MyFirstMvcApp.csproj",
         "packagesPath": "C:\\Users\\Goshicha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Goshicha\\Desktop\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\Apps\\MyFirstMvcApp\\obj\\",
+        "outputPath": "C:\\Users\\Goshicha\\Desktop\\gitFolder\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\Apps\\MyFirstMvcApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Goshicha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\Goshicha\\Desktop\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\SUS.HTTP\\SUS.HTTP.csproj": {
-                "projectPath": "C:\\Users\\Goshicha\\Desktop\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\SUS.HTTP\\SUS.HTTP.csproj"
+              "C:\\Users\\Goshicha\\Desktop\\gitFolder\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\SUS.HTTP\\SUS.HTTP.csproj": {
+                "projectPath": "C:\\Users\\Goshicha\\Desktop\\gitFolder\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\SUS.HTTP\\SUS.HTTP.csproj"
               },
-              "C:\\Users\\Goshicha\\Desktop\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\SUS.MvcFramework\\SUS.MvcFramework.csproj": {
-                "projectPath": "C:\\Users\\Goshicha\\Desktop\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\SUS.MvcFramework\\SUS.MvcFramework.csproj"
+              "C:\\Users\\Goshicha\\Desktop\\gitFolder\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\SUS.MvcFramework\\SUS.MvcFramework.csproj": {
+                "projectPath": "C:\\Users\\Goshicha\\Desktop\\gitFolder\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\SUS.MvcFramework\\SUS.MvcFramework.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\Goshicha\\Desktop\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\SUS.HTTP\\SUS.HTTP.csproj": {
+    "C:\\Users\\Goshicha\\Desktop\\gitFolder\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\SUS.HTTP\\SUS.HTTP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Goshicha\\Desktop\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\SUS.HTTP\\SUS.HTTP.csproj",
+        "projectUniqueName": "C:\\Users\\Goshicha\\Desktop\\gitFolder\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\SUS.HTTP\\SUS.HTTP.csproj",
         "projectName": "SUS.HTTP",
-        "projectPath": "C:\\Users\\Goshicha\\Desktop\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\SUS.HTTP\\SUS.HTTP.csproj",
+        "projectPath": "C:\\Users\\Goshicha\\Desktop\\gitFolder\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\SUS.HTTP\\SUS.HTTP.csproj",
         "packagesPath": "C:\\Users\\Goshicha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Goshicha\\Desktop\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\SUS.HTTP\\obj\\",
+        "outputPath": "C:\\Users\\Goshicha\\Desktop\\gitFolder\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\SUS.HTTP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Goshicha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -125,14 +125,14 @@
         }
       }
     },
-    "C:\\Users\\Goshicha\\Desktop\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\SUS.MvcFramework\\SUS.MvcFramework.csproj": {
+    "C:\\Users\\Goshicha\\Desktop\\gitFolder\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\SUS.MvcFramework\\SUS.MvcFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Goshicha\\Desktop\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\SUS.MvcFramework\\SUS.MvcFramework.csproj",
+        "projectUniqueName": "C:\\Users\\Goshicha\\Desktop\\gitFolder\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\SUS.MvcFramework\\SUS.MvcFramework.csproj",
         "projectName": "SUS.MvcFramework",
-        "projectPath": "C:\\Users\\Goshicha\\Desktop\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\SUS.MvcFramework\\SUS.MvcFramework.csproj",
+        "projectPath": "C:\\Users\\Goshicha\\Desktop\\gitFolder\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\SUS.MvcFramework\\SUS.MvcFramework.csproj",
         "packagesPath": "C:\\Users\\Goshicha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Goshicha\\Desktop\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\SUS.MvcFramework\\obj\\",
+        "outputPath": "C:\\Users\\Goshicha\\Desktop\\gitFolder\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\SUS.MvcFramework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Goshicha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -149,8 +149,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\Goshicha\\Desktop\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\SUS.HTTP\\SUS.HTTP.csproj": {
-                "projectPath": "C:\\Users\\Goshicha\\Desktop\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\SUS.HTTP\\SUS.HTTP.csproj"
+              "C:\\Users\\Goshicha\\Desktop\\gitFolder\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\SUS.HTTP\\SUS.HTTP.csproj": {
+                "projectPath": "C:\\Users\\Goshicha\\Desktop\\gitFolder\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\SUS.HTTP\\SUS.HTTP.csproj"
               }
             }
           }

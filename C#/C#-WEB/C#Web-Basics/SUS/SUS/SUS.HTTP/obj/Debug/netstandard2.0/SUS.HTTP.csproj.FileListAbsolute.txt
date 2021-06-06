@@ -7,3 +7,12 @@ C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\SUS.H
 C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.csproj.CoreCompileInputs.cache
 C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.dll
 C:\Users\Goshicha\Desktop\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.pdb
+C:\Users\Goshicha\Desktop\gitFolder\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.deps.json
+C:\Users\Goshicha\Desktop\gitFolder\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.dll
+C:\Users\Goshicha\Desktop\gitFolder\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.pdb
+C:\Users\Goshicha\Desktop\gitFolder\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.csprojAssemblyReference.cache
+C:\Users\Goshicha\Desktop\gitFolder\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.AssemblyInfoInputs.cache
+C:\Users\Goshicha\Desktop\gitFolder\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.AssemblyInfo.cs
+C:\Users\Goshicha\Desktop\gitFolder\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.csproj.CoreCompileInputs.cache
+C:\Users\Goshicha\Desktop\gitFolder\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.dll
+C:\Users\Goshicha\Desktop\gitFolder\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.pdb
