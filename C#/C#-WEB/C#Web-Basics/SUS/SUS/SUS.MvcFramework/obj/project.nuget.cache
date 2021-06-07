@@ -1,11 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "gXHEzlp0h2Ak8QEpHAzRNTcl22yTWOmOpiC2NR4GfvZi1iebrVw3jKOg6I8G5vPxTRduW8T3SxsrH5kl2+9m9A==",
+  "dgSpecHash": "Wo+K6Uts3YJkqvohis5yl9cSv2A3bC+O1L9VmXW7eyrQUlb0NCZX9+gUeTVWZI8YQ1/2XOk96x1HtBBszcUBdQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Goshicha\\Desktop\\gitFolder\\SoftUni-Exercises\\C#\\C#-WEB\\C#Web-Basics\\SUS\\SUS\\SUS.MvcFramework\\SUS.MvcFramework.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Goshicha\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.0.0\\microsoft.codeanalysis.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\Goshicha\\.nuget\\packages\\microsoft.codeanalysis.common\\3.9.0\\microsoft.codeanalysis.common.3.9.0.nupkg.sha512",
+    "C:\\Users\\Goshicha\\.nuget\\packages\\microsoft.codeanalysis.csharp\\3.9.0\\microsoft.codeanalysis.csharp.3.9.0.nupkg.sha512",
     "C:\\Users\\Goshicha\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Goshicha\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Goshicha\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Goshicha\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Goshicha\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\Goshicha\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Goshicha\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\Goshicha\\.nuget\\packages\\system.reflection.metadata\\5.0.0\\system.reflection.metadata.5.0.0.nupkg.sha512",
+    "C:\\Users\\Goshicha\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\Goshicha\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512",
+    "C:\\Users\\Goshicha\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
   ],
   "logs": []
 }
