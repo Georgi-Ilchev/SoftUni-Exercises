@@ -23,6 +23,7 @@
             while (true)
             {
                 TcpClient tcpClient = await tcpListener.AcceptTcpClientAsync();
+                //await here ! 
                 ProcessClientAsync(tcpClient);
             }
         }

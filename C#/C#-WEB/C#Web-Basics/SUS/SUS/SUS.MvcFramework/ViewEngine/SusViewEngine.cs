@@ -1,5 +1,9 @@
 ﻿using Microsoft.CodeAnalysis;
 using Microsoft.CodeAnalysis.CSharp;
+using Microsoft.CodeAnalysis.Emit;
+using System;
+using System.IO;
+using System.Linq;
 using System.Reflection;
 
 namespace SUS.MvcFramework.ViewEngine
@@ -69,9 +73,26 @@ namespace ViewNamespace
             }
 
             compileResult = compileResult.AddSyntaxTrees(SyntaxFactory.ParseSyntaxTree(csharpCode));
-            compileResult.Emit("view.dll");
 
-            return null;
+            using (MemoryStream memoryStream = new MemoryStream())
+            {
+                EmitResult result = compileResult.Emit(memoryStream);
+
+                if (!result.Success)
+                {
+                    return new ErrorView(result.Diagnostics.Where(x => x.Severity == DiagnosticSeverity.Error)
+                                                           .Select(x => x.GetMessage()), csharpCode);
+                }
+                //return memory stream to begin
+                memoryStream.Seek(0, SeekOrigin.Begin);
+
+                var byteAssembly = memoryStream.ToArray();
+                var assembly = Assembly.Load(byteAssembly);
+                var viewType = assembly.GetType("ViewNamespace.ViewClass");
+
+                var instance = Activator.CreateInstance(viewType);
+                return instance as IView;
+            }
         }
     }
 }
