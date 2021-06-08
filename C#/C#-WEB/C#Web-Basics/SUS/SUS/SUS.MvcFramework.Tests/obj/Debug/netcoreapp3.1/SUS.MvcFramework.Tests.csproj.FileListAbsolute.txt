@@ -130,3 +130,11 @@ C:\Users\Goshicha\Desktop\gitFolder\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS
 C:\Users\Goshicha\Desktop\gitFolder\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\SUS.MvcFramework.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\Goshicha\Desktop\gitFolder\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\SUS.MvcFramework.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\Goshicha\Desktop\gitFolder\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\SUS.MvcFramework.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goshicha\Desktop\gitFolder\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\SUS.MvcFramework.Tests\bin\Debug\netcoreapp3.1\ViewTests\CleanHtml.html
+C:\Users\Goshicha\Desktop\gitFolder\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\SUS.MvcFramework.Tests\bin\Debug\netcoreapp3.1\ViewTests\CleanHtml.Result.html
+C:\Users\Goshicha\Desktop\gitFolder\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\SUS.MvcFramework.Tests\bin\Debug\netcoreapp3.1\ViewTests\Foreach.html
+C:\Users\Goshicha\Desktop\gitFolder\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\SUS.MvcFramework.Tests\bin\Debug\netcoreapp3.1\ViewTests\Foreach.Result.html
+C:\Users\Goshicha\Desktop\gitFolder\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\SUS.MvcFramework.Tests\bin\Debug\netcoreapp3.1\ViewTests\IfElseFor.html
+C:\Users\Goshicha\Desktop\gitFolder\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\SUS.MvcFramework.Tests\bin\Debug\netcoreapp3.1\ViewTests\IfElseFor.Result.html
+C:\Users\Goshicha\Desktop\gitFolder\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\SUS.MvcFramework.Tests\bin\Debug\netcoreapp3.1\ViewTests\ViewModel.html
+C:\Users\Goshicha\Desktop\gitFolder\SoftUni-Exercises\C#\C#-WEB\C#Web-Basics\SUS\SUS\SUS.MvcFramework.Tests\bin\Debug\netcoreapp3.1\ViewTests\ViewModel.Result.html

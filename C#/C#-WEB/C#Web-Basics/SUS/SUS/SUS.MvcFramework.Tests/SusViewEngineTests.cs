@@ -2,6 +2,7 @@ namespace SUS.MvcFramework.Tests
 {
     using SUS.MvcFramework.ViewEngine;
     using System;
+    using System.Collections.Generic;
     using System.IO;
     using Xunit;
     public class SusViewEngineTests
@@ -30,13 +31,21 @@ namespace SUS.MvcFramework.Tests
             Assert.Equal(expected, actual);
         }
 
-        public class TestViewModel
+        [Fact]
+        public void TestTemplateViewModel()
         {
-            public string Name { get; set; }
+            IViewEngine viewEngine = new SusViewEngine();
+            var actual = viewEngine.GetHtml(@"@foreach(var num in Model)
+{
+<span>@num</span>
+}", new List<int> { 1, 2, 3 });
 
-            public decimal Price { get; set; }
+            var expected = @"<span>1</span>
+<span>2</span>
+<span>3</span>
+";
 
-            public DateTime DateOfBirth { get; set; }
+            Assert.Equal(expected, actual);
         }
     }
 }
