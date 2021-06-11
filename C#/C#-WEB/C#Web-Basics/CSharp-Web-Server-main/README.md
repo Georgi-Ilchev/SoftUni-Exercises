@@ -28,6 +28,7 @@ Steps to create a similar web server from scratch:
 22. Add functionality in the base controller class to get the view and controller name by convention
 23. Add functionality to parse request form when the specific content type is present
 24. Add functionality for extracting model data via reflection and replacing it in the HTML
+25. Add functionality for storing and retrieving HTTP cookies
 
 Tasks:
 - Views and HTML
