@@ -22,6 +22,10 @@ Steps to create a similar web server from scratch:
 16. Introduce base controllers and extract common functionalities
 17. Shorten the route syntax and add support for controllers
 18. Add redirect HTTP response and use the Location header
+19. Add view response class and reuse functionality from the HTML response for setting the content
+20. Add functionality to find specific views by path and by convention
+21. Make sure the project copies the view files into the output directory
+22. ADd functionality in the base controller class to get the view and controller name by convention
 
 Tasks:
 - Views and HTML
