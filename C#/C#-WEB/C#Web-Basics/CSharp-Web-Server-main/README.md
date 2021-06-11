@@ -26,7 +26,8 @@ Steps to create a similar web server from scratch:
 20. Add functionality to find specific views by path and by convention
 21. Make sure the project copies the view files into the output directory
 22. Add functionality in the base controller class to get the view and controller name by convention
-23. Add functionality to parse request form when the specific content type is present 
+23. Add functionality to parse request form when the specific content type is present
+24. Add functionality for extracting model data via reflection and replacing it in the HTML
 
 Tasks:
 - Views and HTML
