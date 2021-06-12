@@ -13,7 +13,6 @@
         private readonly IPAddress ipAddress;
         private readonly int port;
         private readonly TcpListener listener;
-
         private readonly RoutingTable routingTable;
 
         public HttpServer(string ipAddress, int port, Action<IRoutingTable> routingTableConfiguration)
@@ -147,6 +146,11 @@
             var responseBytes = Encoding.UTF8.GetBytes(response.ToString());
 
             await networkStream.WriteAsync(responseBytes);
+
+            if (response.HasContent)
+            {
+                await networkStream.WriteAsync(response.Content);
+            }
         }
     }
 }
