@@ -29,6 +29,8 @@ Steps to create a similar web server from scratch:
 23. Add functionality to parse request form when the specific content type is present
 24. Add functionality for extracting model data via reflection and replacing it in the HTML
 25. Add functionality for storing and retrieving HTTP cookies
+26. Add functionality for storing HTTP session
+27. Add global exception handling
 
 Tasks:
 - Views and HTML
