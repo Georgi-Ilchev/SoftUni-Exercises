@@ -1,8 +1,8 @@
 ﻿namespace MyWebServer.Http
 {
     using System;
-    using System.Linq;
     using System.Collections.Generic;
+    using System.Linq;
 
     public class HttpRequest
     {
@@ -60,12 +60,6 @@
                 Body = body,
                 Form = form
             };
-        }
-
-        public override string ToString()
-        {
-            //TODO
-            return base.ToString();
         }
 
 
@@ -173,7 +167,10 @@
 
             if (!Sessions.ContainsKey(sessionId))
             {
-                Sessions[sessionId] = new HttpSession(sessionId);
+                Sessions[sessionId] = new HttpSession(sessionId)
+                {
+                    IsNew = true
+                };
             }
 
             return Sessions[sessionId];
