@@ -30,7 +30,8 @@ Steps to create a similar web server from scratch:
 24. Add functionality for extracting model data via reflection and replacing it in the HTML
 25. Add functionality for storing and retrieving HTTP cookies
 26. Add functionality for storing HTTP session
-27. Add global exception handling
+27. Add global exception handling and  log all requests and responses in the console
+28. Use session to store current authenticated user ID and write helper methods for authentication
 
 Tasks:
 - Views and HTML
