@@ -34,17 +34,16 @@ Steps to create a similar web server from scratch:
 28. Use session to store current authenticated user ID and write helper methods for authentication
 29. Add static files option by choosing a public folder and adding all files in it as GET requests in the route table
 30. Make sure the HTTP server handles byte array response bodies
+31. Add automatic controller discovery by using reflection and mapping all public methods into the route table by convention
 
 Tasks:
-- Views and HTML
-- Forms and user input
-- Cookies and state 
-- Reflection-based controllers 
-- Conroller attributes
-- Static files
-- Error handling
+- Conroller attributes - HttpGet, HttpPost, Authorize
 - Dependency inversion concepts
+- Advanced view engine features
+- Views layouts
 - Model binding
-- Views with models
-- Session and cache
-- Basic authentication
+- Cache
+- Include the view files into the assemblies
+- Introduce HttpHeaderCollection, FormCollection, QueryCollection
+- Separate ActionResult and HttpResponse
+- Allow headers with the same name
