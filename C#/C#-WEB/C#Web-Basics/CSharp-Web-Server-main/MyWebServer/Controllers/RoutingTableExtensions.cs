@@ -88,15 +88,20 @@
                 };
 
 
-
-        private static Controller CreateController(Type controller, HttpRequest request)
-                   => (Controller)Activator.CreateInstance(controller, new[] { request });
-
-
         private static TController CreateController<TController>(HttpRequest request)
             where TController : Controller
             => (TController)CreateController(typeof(TController), request);
 
+
+        private static Controller CreateController(Type controllerType, HttpRequest request)
+        {
+            var controller = (Controller)Activator.CreateInstance(controllerType);
+
+            controllerType.GetProperty("Request", BindingFlags.NonPublic | BindingFlags.Instance)
+                          .SetValue(controller, request);
+
+            return controller;
+        }
 
         private static void MapDefaultRoutes(IRoutingTable routingTable,
                                              HttpMethod httpMethod,
@@ -173,7 +178,7 @@
                     {
                         var propertyValue = request.GetValue(property.Name);
 
-                        property.SetValue(parameterValue, propertyValue);
+                        property.SetValue(parameterValue, Convert.ChangeType(propertyValue, property.PropertyType));
                     }
 
                     parameterValues[i] = parameterValue;

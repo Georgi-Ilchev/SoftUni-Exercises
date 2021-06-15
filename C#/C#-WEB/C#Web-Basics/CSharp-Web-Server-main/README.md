@@ -39,14 +39,14 @@ Steps to create a similar web server from scratch:
 33. Add Authorize attribute and short-circuit the request if there is no authenticated user
 34. Implement a layout page logic and insert the view content in it
 35. Use reflection to analyze the action parameters and populate them automatically from the request
+36. Remove the required constructor on the base Controller class and populate the request property automatically
 
 Tasks:
 - Dependency inversion concepts
 - Advanced view engine features
-- Views layouts
-- Model binding
 - Cache
 - Include the view files into the assemblies
 - Introduce HttpHeaderCollection, FormCollection, QueryCollection
 - Separate ActionResult and HttpResponse
 - Allow headers with the same name
+- Make the setter of the controller request private
