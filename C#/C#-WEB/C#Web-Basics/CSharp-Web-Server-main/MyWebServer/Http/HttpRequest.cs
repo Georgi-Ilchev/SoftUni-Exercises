@@ -1,6 +1,7 @@
 ﻿namespace MyWebServer.Http
 {
     using MyWebServer.Http.Collections;
+    using MyWebServer.Services;
     using System;
     using System.Collections.Generic;
     using System.Linq;
@@ -28,10 +29,10 @@
 
         public HttpSession Session { get; private set; }
 
-        //public ServiceCollection Services { get; private set; }
+        public ServiceCollection Services { get; private set; }
 
 
-        public static HttpRequest Parse(string request/*, ServiceCollection services */ )
+        public static HttpRequest Parse(string request, ServiceCollection services)
         {
             var lines = request.Split(NewLine);
 
@@ -63,8 +64,8 @@
                 Cookies = cookies,
                 Session = session,
                 Body = body,
-                Form = form
-                //Services = services
+                Form = form,
+                Services = services
             };
         }
 

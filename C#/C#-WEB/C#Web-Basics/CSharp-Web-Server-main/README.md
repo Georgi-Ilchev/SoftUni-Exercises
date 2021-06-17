@@ -41,9 +41,9 @@ Steps to create a similar web server from scratch:
 35. Use reflection to analyze the action parameters and populate them automatically from the request
 36. Remove the required constructor on the base Controller class and populate the request property automatically
 37. Introduce proper collection for headers, cookies, form and query
+38. Implement service collection and create controllers by using a dependency resolver with reflection and recursion
 
 Tasks:
-- Dependency inversion concepts
 - Advanced view engine features
 - Cache
 - Include the view files into the assemblies
