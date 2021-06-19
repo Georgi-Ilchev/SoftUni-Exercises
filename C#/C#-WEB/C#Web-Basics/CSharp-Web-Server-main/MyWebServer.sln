@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyWebServer", "MyWebServer\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Apps", "Apps", "{95CD61B2-1661-4263-984C-4B9BB7817111}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarShop", "Apps\CarShop\CarShop.csproj", "{FEA217C7-4731-4D11-9230-EF2E638E46F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarShop", "Apps\CarShop\CarShop.csproj", "{FEA217C7-4731-4D11-9230-EF2E638E46F8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Git", "Apps\Git\Git.csproj", "{13428026-04EF-4E17-A13B-BC5B0C944CC4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,12 +25,17 @@ Global
 		{FEA217C7-4731-4D11-9230-EF2E638E46F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEA217C7-4731-4D11-9230-EF2E638E46F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEA217C7-4731-4D11-9230-EF2E638E46F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13428026-04EF-4E17-A13B-BC5B0C944CC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13428026-04EF-4E17-A13B-BC5B0C944CC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13428026-04EF-4E17-A13B-BC5B0C944CC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13428026-04EF-4E17-A13B-BC5B0C944CC4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{FEA217C7-4731-4D11-9230-EF2E638E46F8} = {95CD61B2-1661-4263-984C-4B9BB7817111}
+		{13428026-04EF-4E17-A13B-BC5B0C944CC4} = {95CD61B2-1661-4263-984C-4B9BB7817111}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B9218E3C-82C9-46BF-8569-4C5DC669BB3B}

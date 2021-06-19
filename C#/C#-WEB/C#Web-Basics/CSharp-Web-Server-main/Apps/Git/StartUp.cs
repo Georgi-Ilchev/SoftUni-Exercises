@@ -1,14 +1,14 @@
-﻿using CarShop.Data;
-using CarShop.Services;
+﻿using Git.Data;
 using Microsoft.EntityFrameworkCore;
 using MyWebServer;
 using MyWebServer.Controllers;
 using MyWebServer.Results.Views;
+using System;
 using System.Threading.Tasks;
 
-namespace CarShop
+namespace Git
 {
-    public class StartUp
+    class StartUp
     {
         public static async Task Main()
             => await HttpServer
@@ -17,12 +17,11 @@ namespace CarShop
                     .MapControllers())
                 .WithServices(services => services
                     .Add<IViewEngine, CompilationViewEngine>()
-                    .Add<IValidator, Validator>()
-                    .Add<IPasswordHasher, PasswordHasher>()
-                    .Add<IUserService, UserService>()
-                    .Add<CarShopDbContext>())
-                .WithConfiguration<CarShopDbContext>(c => c.Database.Migrate())
+                    //.Add<IValidator, Validator>()
+                    //.Add<IPasswordHasher, PasswordHasher>()
+                    //.Add<IUserService, UserService>()
+                    .Add<GitDbContext>())
+                .WithConfiguration<GitDbContext>(c => c.Database.Migrate())
                 .Start();
-
     }
 }

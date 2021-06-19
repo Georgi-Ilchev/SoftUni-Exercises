@@ -26,7 +26,7 @@
         [HttpPost]
         public HttpResponse Register(RegisterUserFormModel model)
         {
-            var modelErrors = this.validator.ValidateUserRegistration(model);
+            var modelErrors = this.validator.ValidateUser(model);
 
             if (this.data.Users.Any(u => u.Username == model.Username))
             {
