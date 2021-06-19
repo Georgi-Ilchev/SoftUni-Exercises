@@ -11,9 +11,10 @@
 
     public class HttpServer
     {
-        private readonly int port;
         private readonly IPAddress ipAddress;
+        private readonly int port;
         private readonly TcpListener listener;
+
         private readonly RoutingTable routingTable;
         private readonly ServiceCollection serviceCollection;
 
@@ -21,8 +22,11 @@
         {
             this.ipAddress = IPAddress.Parse(ipAddress);
             this.port = port;
-            this.listener = new TcpListener(this.ipAddress, port);
+
+            listener = new TcpListener(this.ipAddress, port);
+
             this.routingTable = (RoutingTable)routingTable;
+
             this.serviceCollection = new ServiceCollection();
         }
 
@@ -54,6 +58,21 @@
             return this;
         }
 
+        public HttpServer WithConfiguration<TService>(Action<TService> configuration)
+            where TService : class
+        {
+            var service = this.serviceCollection.Get<TService>();
+
+            if (service == null)
+            {
+                throw new InvalidOperationException($"Service '{typeof(TService).FullName}' is not registered.");
+            }
+
+            configuration(service);
+
+            return this;
+        }
+
         public async Task Start()
         {
             this.listener.Start();
@@ -79,29 +98,19 @@
 
                         this.PrepareSession(request, response);
 
-                        this.LogPipeLine(requestText, response.ToString());
+                        this.LogPipeline(requestText, response.ToString());
 
                         await WriteResponse(networkStream, response);
                     }
-                    catch (Exception ex)
+                    catch (Exception exception)
                     {
-                        await HandleError(networkStream, ex);
+                        await HandleError(networkStream, exception);
                     }
 
                     connection.Close();
                 });
             }
         }
-
-        private void PrepareSession(HttpRequest request, HttpResponse response)
-        {
-            if (request.Session.IsNew)
-            {
-                response.Cookies.Add(HttpSession.SessionCookieName, request.Session.Id);
-                request.Session.IsNew = false;
-            }
-        }
-
 
         private async Task<string> ReadRequest(NetworkStream networkStream)
         {
@@ -130,7 +139,19 @@
             return requestBuilder.ToString();
         }
 
-        private async Task HandleError(NetworkStream networkStream, Exception exception)
+        private void PrepareSession(HttpRequest request, HttpResponse response)
+        {
+            if (request.Session.IsNew)
+            {
+                response.Cookies.Add(HttpSession.SessionCookieName, request.Session.Id);
+
+                request.Session.IsNew = false;
+            }
+        }
+
+        private async Task HandleError(
+            NetworkStream networkStream,
+            Exception exception)
         {
             var errorMessage = $"{exception.Message}{Environment.NewLine}{exception.StackTrace}";
 
@@ -139,9 +160,10 @@
             await WriteResponse(networkStream, errorResponse);
         }
 
-        private void LogPipeLine(string request, string response)
+        private void LogPipeline(string request, string response)
         {
             var separator = new string('-', 50);
+
             var log = new StringBuilder();
 
             log.AppendLine();
@@ -152,8 +174,10 @@
 
             log.AppendLine();
 
-            log.AppendLine("Response:");
+            log.AppendLine("RESPONSE:");
             log.AppendLine(response);
+
+            log.AppendLine();
 
             Console.WriteLine(log);
         }

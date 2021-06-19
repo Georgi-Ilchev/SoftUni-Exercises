@@ -1,11 +1,10 @@
 ﻿namespace MyWebServer.Routing
 {
+    using MyWebServer.Common;
+    using MyWebServer.Http;
     using System;
     using System.Collections.Generic;
     using System.IO;
-    using MyWebServer.Common;
-    using MyWebServer.Http;
-    using MyWebServer.Results;
 
     public class RoutingTable : IRoutingTable
     {
@@ -34,6 +33,11 @@
             Guard.AgainstNull(path, nameof(path));
             Guard.AgainstNull(responseFunction, nameof(responseFunction));
 
+            if (this.routes.ContainsKey(method) && this.routes[method].ContainsKey(path.ToLower()))
+            {
+                throw new InvalidOperationException($"Route '{method.ToString().ToUpper()} {path}' already exists. Multiple routes with the same method and path are not supported.");
+            }
+
             this.routes[method][path.ToLower()] = responseFunction;
 
             return this;
@@ -47,8 +51,6 @@
         public IRoutingTable MapGet(string path, Func<HttpRequest, HttpResponse> responseFunction)
             => Map(HttpMethod.Get, path, responseFunction);
 
-
-
         public IRoutingTable MapPost(
             string path,
             HttpResponse response)
@@ -56,26 +58,6 @@
 
         public IRoutingTable MapPost(string path, Func<HttpRequest, HttpResponse> responseFunction)
             => Map(HttpMethod.Post, path, responseFunction);
-
-
-
-        public IRoutingTable MapPut(
-            string path,
-            HttpResponse response)
-            => MapPut(path, request => response);
-
-        public IRoutingTable MapPut(string path, Func<HttpRequest, HttpResponse> responseFunction)
-            => Map(HttpMethod.Put, path, responseFunction);
-
-
-
-        public IRoutingTable MapDelete(
-            string path,
-            HttpResponse response)
-            => MapDelete(path, request => response);
-
-        public IRoutingTable MapDelete(string path, Func<HttpRequest, HttpResponse> responseFunction)
-            => Map(HttpMethod.Delete, path, responseFunction);
 
         public HttpResponse ExecuteRequest(HttpRequest request)
         {
@@ -98,7 +80,15 @@
             var currentDirectory = Directory.GetCurrentDirectory();
             var staticFilesFolder = Path.Combine(currentDirectory, folder);
 
-            var staticFiles = Directory.GetFiles(staticFilesFolder, "*.*", SearchOption.AllDirectories);
+            if (!Directory.Exists(staticFilesFolder))
+            {
+                return this;
+            }
+
+            var staticFiles = Directory.GetFiles(
+                staticFilesFolder,
+                "*.*",
+                SearchOption.AllDirectories);
 
             foreach (var file in staticFiles)
             {
@@ -112,7 +102,8 @@
                     var fileExtension = Path.GetExtension(file).Trim('.');
                     var contentType = HttpContentType.GetByFileExtension(fileExtension);
 
-                    return new HttpResponse(HttpStatusCode.OK).SetContent(content, contentType);
+                    return new HttpResponse(HttpStatusCode.OK)
+                        .SetContent(content, contentType);
                 });
             }
 

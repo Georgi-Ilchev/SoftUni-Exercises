@@ -1,32 +1,34 @@
 ﻿namespace MyWebServer.Results
 {
     using MyWebServer.Http;
-    using System;
-    using System.Collections;
+    using MyWebServer.Results.Views;
     using System.IO;
-    using System.Linq;
-    using System.Text;
 
     public class ViewResult : ActionResult
     {
         private const char PathSeparator = '/';
+        private readonly string[] ViewFileExtensions = { "html", "cshtml" };
 
-        public ViewResult(HttpResponse response, string viewName, string controllerName, object model)
+        public ViewResult(
+            HttpResponse response,
+            IViewEngine viewEngine,
+            string viewName,
+            string controllerName,
+            object model,
+            string userId)
             : base(response)
-            => this.GetHtml(viewName, controllerName, model);
+            => this.GetHtml(viewEngine, viewName, controllerName, model, userId);
 
-
-        private void GetHtml(string viewName, string controllerName, object model)
+        private void GetHtml(IViewEngine viewEngine, string viewName, string controllerName, object model, string userId)
         {
             if (!viewName.Contains(PathSeparator))
             {
                 viewName = controllerName + PathSeparator + viewName;
             }
 
-            //"." - get current directory
-            var viewPath = Path.GetFullPath("./Views/" + viewName.TrimStart(PathSeparator) + ".cshtml");
+            var (viewPath, viewExists) = FindView(viewName);
 
-            if (!File.Exists(viewPath))
+            if (!viewExists)
             {
                 this.PrepareMissingViewError(viewPath);
 
@@ -35,19 +37,64 @@
 
             var viewContent = File.ReadAllText(viewPath);
 
-            var layoutPath = Path.GetFullPath("./Views/Layout.cshtml");
-            if (File.Exists(layoutPath))
+            var (layoutPath, layoutExists) = FindLayout();
+
+            if (layoutExists)
             {
                 var layoutContent = File.ReadAllText(layoutPath);
-                viewContent = layoutContent.Replace("{{RenderBody()}}", viewContent);
+
+                viewContent = layoutContent.Replace("@RenderBody()", viewContent);
             }
 
-            if (model != null)
-            {
-                viewContent = PopulateModel(viewContent, model);
-            }
+            viewContent = viewEngine.RenderHtml(viewContent, model, userId);
 
             this.SetContent(viewContent, HttpContentType.Html);
+        }
+
+        private (string, bool) FindView(string viewName)
+        {
+            string viewPath = null;
+            var exists = false;
+
+            foreach (var fileExtension in ViewFileExtensions)
+            {
+                viewPath = Path.GetFullPath($"./Views/" + viewName.TrimStart(PathSeparator) + $".{fileExtension}");
+
+                if (File.Exists(viewPath))
+                {
+                    exists = true;
+                    break;
+                }
+            }
+
+            return (viewPath, exists);
+        }
+
+        private (string, bool) FindLayout()
+        {
+            string layoutPath = null;
+            bool exists = false;
+
+            foreach (var fileExtension in ViewFileExtensions)
+            {
+                layoutPath = Path.GetFullPath($"./Views/Layout.{fileExtension}");
+
+                if (File.Exists(layoutPath))
+                {
+                    exists = true;
+                    break;
+                }
+
+                layoutPath = Path.GetFullPath($"./Views/Shared/_Layout.{fileExtension}");
+
+                if (File.Exists(layoutPath))
+                {
+                    exists = true;
+                    break;
+                }
+            }
+
+            return (layoutPath, exists);
         }
 
         private void PrepareMissingViewError(string viewPath)
@@ -58,94 +105,6 @@
 
             this.SetContent(errorMessage, HttpContentType.PlainText);
         }
-
-        private static string PopulateModel(string viewContent, object model)
-        {
-            if (model is not IEnumerable)
-            {
-                viewContent = PopulateModelProperties(viewContent, "Model", model);
-            }
-
-            var result = new StringBuilder();
-
-            var lines = viewContent.Split(Environment.NewLine)
-                                   .Select(line => line.Trim());
-
-            var inLoop = false;
-            string loopModelName = null;
-            StringBuilder loopContent = null;
-
-            foreach (var line in lines)
-            {
-                if (line.StartsWith("@foreach"))
-                {
-                    if (model is not IEnumerable)
-                    {
-                        throw new InvalidOperationException("Using a foreach in the loop requires the view model to be a collection.");
-                    }
-
-                    inLoop = true;
-
-                    loopModelName = line.Split()
-                                        .SkipWhile(l => l.Contains("var"))
-                                        .Skip(2)
-                                        .FirstOrDefault();
-
-                    if (loopModelName == null)
-                    {
-                        throw new InvalidOperationException("The foreach statement in the view is not valid.");
-                    }
-                    continue;
-                }
-
-
-
-                if (inLoop)
-                {
-                    if (line.StartsWith("{"))
-                    {
-                        loopContent = new StringBuilder();
-                    }
-                    else if (line.StartsWith("}"))
-                    {
-                        var loopTemplate = loopContent.ToString();
-
-                        foreach (var item in (IEnumerable)model)
-                        {
-                            var loopResult = PopulateModelProperties(loopTemplate, loopModelName, item);
-
-                            result.AppendLine(loopResult);
-                        }
-
-                        inLoop = false;
-                    }
-                    else
-                    {
-                        loopContent.AppendLine(line);
-                    }
-                    continue;
-                }
-                result.AppendLine(line);
-            }
-            return result.ToString();
-        }
-
-        private static string PopulateModelProperties(string content, string modelName, object model)
-        {
-            var data = model.GetType()
-                            .GetProperties()
-                            .Select(pr => new
-                            {
-                                Name = pr.Name,
-                                Value = pr.GetValue(model)
-                            });
-
-            foreach (var entry in data)
-            {
-                content = content.Replace($"@{modelName}.{entry.Name}", entry.Value.ToString());
-            }
-
-            return content;
-        }
     }
 }
+
