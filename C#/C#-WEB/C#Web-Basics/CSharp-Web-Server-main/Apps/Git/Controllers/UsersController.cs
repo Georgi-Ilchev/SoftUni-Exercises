@@ -1,28 +1,36 @@
-﻿namespace CarShop.Controllers
+﻿namespace Git.Controllers
 {
-    using CarShop.Data;
-    using CarShop.Data.Models;
-    using CarShop.Models.Users;
-    using CarShop.Services;
+    using Git.Data;
+    using Git.Data.Models;
+    using Git.Models.Users;
+    using Git.Services;
     using MyWebServer.Controllers;
     using MyWebServer.Http;
     using System.Linq;
 
     public class UsersController : Controller
     {
+        private readonly GitDbContext data;
         private readonly IValidator validator;
         private readonly IPasswordHasher passwordHasher;
-        private readonly CarShopDbContext data;
 
-        public UsersController(IValidator validator, IPasswordHasher passwordHasher, CarShopDbContext data)
+        public UsersController(GitDbContext data, IValidator validator, IPasswordHasher passwordHasher)
         {
+            this.data = data;
             this.validator = validator;
             this.passwordHasher = passwordHasher;
-            this.data = data;
         }
 
-        public HttpResponse Register()
-            => View();
+        public HttpResponse Register() => View();
+        public HttpResponse Login() => View();
+        [Authorize]
+        public HttpResponse Logout()
+        {
+            this.SignOut();
+            return Redirect("/");
+        }
+
+
         [HttpPost]
         public HttpResponse Register(RegisterUserFormModel model)
         {
@@ -46,22 +54,16 @@
             var user = new User
             {
                 Username = model.Username,
-                Password = this.passwordHasher.HashPassword(model.Password),
                 Email = model.Email,
-                IsMechanic = model.UserType == "Mechanic"
+                Password = this.passwordHasher.HashPassword(model.Password),
             };
 
             data.Users.Add(user);
-
             data.SaveChanges();
 
             return Redirect("/Users/Login");
         }
 
-
-
-        public HttpResponse Login()
-            => View();
         [HttpPost]
         public HttpResponse Login(LoginUserFormModel model)
         {
@@ -79,15 +81,7 @@
 
             this.SignIn(userId);
 
-            return Redirect("/Cars/All");
-        }
-
-        [Authorize]
-        public HttpResponse Logout()
-        {
-            this.SignOut();
-
-            return Redirect("/");
+            return Redirect("/Repositories/All");
         }
     }
 }
