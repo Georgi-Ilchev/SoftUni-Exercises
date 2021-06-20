@@ -57,10 +57,23 @@
             return Redirect("/Repositories/All");
         }
 
+
         [Authorize]
         public HttpResponse All()
         {
-            return View();
+            var repositories = this.data.Repositories
+                                        .Where(r => r.IsPublic)
+                                        .Select(r => new RepositoryViewModel
+                                        {
+                                            Id = r.Id,
+                                            Name = r.Name,
+                                            Owner = r.Owner.Username,
+                                            CreatedOn = r.CreatedOn.ToString(),
+                                            Commits = r.Commits.Count()
+                                        })
+                                        .ToList();
+
+            return View(repositories);
         }
     }
 }

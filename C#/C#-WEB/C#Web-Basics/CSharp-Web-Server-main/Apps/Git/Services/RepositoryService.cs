@@ -8,11 +8,11 @@
     using System.Linq;
     public class RepositoryService : IRepositoryService
     {
-        private readonly GitDbContext db;
+        private readonly GitDbContext data;
 
-        public RepositoryService(GitDbContext db)
+        public RepositoryService(GitDbContext data)
         {
-            this.db = db;
+            this.data = data;
         }
 
         public void CreateRepository(CreateRepositoryFormModel registration, string userId)
@@ -25,12 +25,12 @@
                 CreatedOn = DateTime.UtcNow,
                 OwnerId = userId,
             };
-            this.db.Repositories.Add(repository);
-            this.db.SaveChanges();
+            this.data.Repositories.Add(repository);
+            this.data.SaveChanges();
         }
 
         public IEnumerable<RepositoryViewModel> GetAllRepository()
-            => this.db.Repositories.Select(x => new RepositoryViewModel
+            => this.data.Repositories.Select(x => new RepositoryViewModel
             {
                 Id = x.Id,
                 Name = x.Name,
