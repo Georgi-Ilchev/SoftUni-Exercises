@@ -1,12 +1,12 @@
-﻿using Git.Data;
-using Git.Services;
+﻿using Andreys.Data;
+using Andreys.Services;
 using Microsoft.EntityFrameworkCore;
 using MyWebServer;
 using MyWebServer.Controllers;
 using MyWebServer.Results.Views;
 using System.Threading.Tasks;
 
-namespace Git
+namespace Andreys
 {
     public class StartUp
     {
@@ -19,11 +19,13 @@ namespace Git
                     .Add<IViewEngine, CompilationViewEngine>()
                     .Add<IValidator, Validator>()
                     .Add<IPasswordHasher, PasswordHasher>()
-                    .Add<IRepositoryService, RepositoryService>()
-                    .Add<ICommitService, CommitService>()
+                    //.Add<IRepositoryService, RepositoryService>()
+                    //.Add<ICommitService, CommitService>()
                     //.Add<IUserService, UserService>()
-                    .Add<GitDbContext>())
-                .WithConfiguration<GitDbContext>(c => c.Database.Migrate())
+                    .Add<AndreysDbContext>())
+                .WithConfiguration<AndreysDbContext>(c => c.Database.Migrate())
                 .Start();
+
+        //Add-Migration UserProductTables -o Data/Migrations
     }
 }
