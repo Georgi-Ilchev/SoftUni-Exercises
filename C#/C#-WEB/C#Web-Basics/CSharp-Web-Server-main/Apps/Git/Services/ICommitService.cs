@@ -4,10 +4,12 @@
     using System.Collections.Generic;
     public interface ICommitService
     {
-        public void CreateCommit(string description, string userId, string repositoryId);
+        public string CreateCommit(string description, string id, string userId, string repoId);
 
-        public bool DeleteCommit(string id, string userId);
+        public void RemoveCommit(string userId);
 
-        IEnumerable<CommitViewModel> GetAllCommits(string userId);
+        string GetById(string id);
+
+        IEnumerable<CommitViewModel> GetAll();
     }
 }

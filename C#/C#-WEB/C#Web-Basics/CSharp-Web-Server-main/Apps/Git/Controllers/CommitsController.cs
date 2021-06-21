@@ -8,48 +8,17 @@
     public class CommitsController : Controller
     {
         private readonly ICommitService commitService;
-        private readonly IRepositoryService repositoryService;
 
-        public CommitsController(ICommitService commitService, IRepositoryService repositoryService)
+        public CommitsController(ICommitService commitService)
         {
             this.commitService = commitService;
-            this.repositoryService = repositoryService;
-        }
-
-        [Authorize]
-        public HttpResponse Create(string id)
-        {
-            var repositoryName = this.repositoryService.GetRepositoryName(id);
-
-            var model = new CreateCommitViewModel
-            {
-                Id = id,
-                Name = repositoryName
-            };
-
-            return this.View(model);
         }
 
         [Authorize]
         public HttpResponse All()
         {
-            string userId = this.GetUserId();
-            var model = this.commitService.GetAllCommits(userId);
-            return View(model);
-        }
-
-        [Authorize]
-        public HttpResponse Delete(string id)
-        {
-            var userId = this.User.Id;
-            if (!this.commitService.DeleteCommit(id, userId))
-            {
-                return this.Error("You dont have access to remove this repository!");
-            }
-
-            //this.commitService.DeleteCommit(userId);
-            return Redirect("/Commits/All");
-
+            var model = this.commitService.GetAll();
+            return this.View(model);
         }
 
         [HttpPost]
@@ -58,13 +27,37 @@
         {
             if (string.IsNullOrWhiteSpace(description) || description.Length < 5)
             {
-                return this.Error($"Description must have at least 5 characters");
+                return this.Error("Invalid commit!");
             }
-            //GetUserId
-            var userId = this.User.Id;
-            this.commitService.CreateCommit(description, id, userId);
 
-            return Redirect("/Repositories/All");
+            var userId = this.User.Id;
+            this.commitService.CreateCommit(description, id, userId, repoId);
+            return this.Redirect("/Repositories/All");
+        }
+
+        [Authorize]
+        public HttpResponse Create(string id)
+        {
+            var repoName = this.commitService.GetById(id);
+
+            var model = new CreateCommitViewModel
+            {
+                Id = id,
+                Name = repoName
+            };
+            return this.View(model);
+        }
+
+        [Authorize]
+        public HttpResponse Delete(string id)
+        {
+            var userId = this.User.Id;
+            if (userId != id)
+            {
+                return this.Error("You dont have access to remove this repository!");
+            }
+            this.commitService.RemoveCommit(userId);
+            return this.Redirect("/Commits/All");
         }
 
     }

@@ -9,55 +9,54 @@
 
     public class CommitService : ICommitService
     {
-        private readonly GitDbContext data;
+        private readonly GitDbContext db;
 
-        public CommitService(GitDbContext data)
+        public CommitService(GitDbContext db)
         {
-            this.data = data;
+            this.db = db;
         }
-
-        public void CreateCommit(string description, string userId, string repositoryId)
+        public string CreateCommit(string description, string id, string userId, string repoId)
         {
+            var creator = this.db.Users.Where(x => x.Id == userId).FirstOrDefault();
+
             var commit = new Commit
             {
-                CreatorId = userId,
-                RepositoryId = repositoryId,
+                CreatorId = creator.Id,
+                RepositoryId = repoId,
                 CreatedOn = DateTime.UtcNow,
                 Description = description
             };
-            this.data.Commits.Add(commit);
-            this.data.SaveChanges();
+
+            this.db.Commits.Add(commit);
+            this.db.SaveChanges();
+            return commit.Id;
         }
 
-        public bool DeleteCommit(string id, string userId)
-        {
-            var commit = this.data.Commits
-                                  .FirstOrDefault(x => x.Id == id);
-
-            if (commit.CreatorId != userId)
+        public IEnumerable<CommitViewModel> GetAll()
+            => this.db.Commits.Select(x => new CommitViewModel
             {
-                return false;
-            }
-            this.data.Commits.Remove(commit);
-            this.data.SaveChanges();
+                CreatedOn = x.CreatedOn.ToString("g"),
+                Description = x.Description,
+                Repository = x.Repository.Name
+            })
+            .ToList();
 
-            return true;
-        }
+        public string GetById(string id)
+            => this.db.Repositories.Where(x => x.Id == id)
+            .Select(x => x.Name)
+            .FirstOrDefault();
 
-        public IEnumerable<CommitViewModel> GetAllCommits(string userId)
+        public void RemoveCommit(string userId)
         {
-            var commits = this.data.Commits
-                                   .Where(c => c.CreatorId == userId)
-                                   .Select(c => new CommitViewModel()
-                                   {
-                                       Id = c.Id,
-                                       Repository = c.Repository.Name,
-                                       Description = c.Description,
-                                       CreatedOn = c.CreatedOn.ToString("g")
-                                   })
-                                   .ToList();
+            var commit = this.db.Commits
+                .FirstOrDefault(x => x.CreatorId == userId);
+            if (commit == null)
+            {
+                return;
+            }
 
-            return commits;
+            this.db.Commits.Remove(commit);
+            this.db.SaveChanges();
         }
     }
 }
