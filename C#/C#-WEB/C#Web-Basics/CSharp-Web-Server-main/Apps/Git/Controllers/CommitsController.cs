@@ -1,62 +1,98 @@
 ﻿namespace Git.Controllers
 {
+    using Git.Data;
+    using Git.Data.Models;
     using Git.Models.Commits;
     using Git.Services;
     using MyWebServer.Controllers;
     using MyWebServer.Http;
+    using System.Linq;
 
     public class CommitsController : Controller
     {
-        private readonly ICommitService commitService;
+        private readonly GitDbContext data;
 
-        public CommitsController(ICommitService commitService)
+        public CommitsController(GitDbContext data)
         {
-            this.commitService = commitService;
+            this.data = data;
         }
 
         [Authorize]
         public HttpResponse All()
         {
-            var model = this.commitService.GetAll();
-            return this.View(model);
-        }
+            var commits = this.data.Commits
+                                   .Where(c => c.CreatorId == this.User.Id)
+                                   .OrderByDescending(c => c.CreatedOn)
+                                   .Select(c => new CommitListingViewModel
+                                   {
+                                       Id = c.Id,
+                                       Description = c.Description,
+                                       CreatedOn = c.CreatedOn.ToLocalTime().ToString("F"),
+                                       Repository = c.Repository.Name
+                                   })
+                                   .ToList();
 
-        [HttpPost]
-        [Authorize]
-        public HttpResponse Create(string description, string id, string repoId)
-        {
-            if (string.IsNullOrWhiteSpace(description) || description.Length < 5)
-            {
-                return this.Error("Invalid commit!");
-            }
-
-            var userId = this.User.Id;
-            this.commitService.CreateCommit(description, id, userId, repoId);
-            return this.Redirect("/Repositories/All");
+            return View(commits);
         }
 
         [Authorize]
         public HttpResponse Create(string id)
         {
-            var repoName = this.commitService.GetById(id);
-
-            var model = new CreateCommitViewModel
+            var repository = this.data.Repositories
+                                    .Where(r => r.Id == id)
+                                    .Select(r => new CommitViewModel
+                                    {
+                                        Id = r.Id,
+                                        Name = r.Name
+                                    })
+                                    .FirstOrDefault();
+            if (repository == null)
             {
-                Id = id,
-                Name = repoName
+                return BadRequest();
+            }
+
+            return this.View(repository);
+        }
+
+        [HttpPost]
+        [Authorize]
+        public HttpResponse Create(CreateCommitViewModel model)
+        {
+            if (!this.data.Repositories.Any(r => r.Id == model.Id))
+            {
+                return NotFound();
+            }
+
+            if (model.Description.Length < 5)
+            {
+                return Error($"Commit description have be at least 5 characters.");
+            }
+
+            var commit = new Commit
+            {
+                Description = model.Description,
+                RepositoryId = model.Id,
+                CreatorId = this.User.Id
             };
-            return this.View(model);
+            this.data.Commits.Add(commit);
+            this.data.SaveChanges();
+
+            return this.Redirect("/Repositories/All");
         }
 
         [Authorize]
         public HttpResponse Delete(string id)
         {
-            var userId = this.User.Id;
-            //if (userId != id)
-            //{
-            //    return this.Error("You dont have access to remove this repository!");
-            //}
-            this.commitService.RemoveCommit(userId);
+            var commit = this.data.Commits.Find(id);
+
+            if (commit == null || commit.CreatorId != this.User.Id)
+            {
+                return BadRequest();
+            }
+
+            this.data.Commits.Remove(commit);
+            this.data.SaveChanges();
+
             return this.Redirect("/Commits/All");
         }
 

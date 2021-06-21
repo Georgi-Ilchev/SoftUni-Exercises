@@ -12,47 +12,44 @@
     {
         private readonly GitDbContext data;
         private readonly IValidator validator;
-        private readonly IRepositoryService repositoryService;
 
-        public RepositoriesController(GitDbContext data, IValidator validator, IRepositoryService repositoryService)
+        public RepositoriesController(GitDbContext data, IValidator validator)
         {
             this.data = data;
             this.validator = validator;
-            this.repositoryService = repositoryService;
         }
 
         [Authorize]
         public HttpResponse Create()
         {
-            //var repositoryIsPublic = this.data.Repositories
-            //                                   .Any(r => r.Id == this.User.Id && r.IsPublic);
-
-            //if (!repositoryIsPublic)
-            //{
-            //    return Unauthorized();
-            //}
-
             return View();
         }
 
-        [Authorize]
         [HttpPost]
+        [Authorize]
         public HttpResponse Create(CreateRepositoryFormModel model)
         {
             var modelErrors = this.validator.ValidateRepository(model);
-            var userId = this.User.Id;
 
-            if (string.IsNullOrWhiteSpace(model.Name) || model.Name.Length < 3 || model.Name.Length > 10)
-            {
-                return this.Error("Repository name must be between 3 and 10 characters!");
-            }
+            //if (string.IsNullOrWhiteSpace(model.Name) || model.Name.Length < 3 || model.Name.Length > 10)
+            //{
+            //    return this.Error("Repository name must be between 3 and 10 characters!");
+            //}
 
             if (modelErrors.Any())
             {
                 return Error(modelErrors);
             }
 
-            repositoryService.CreateRepository(model, userId);
+            var repository = new Repository
+            {
+                Name = model.Name,
+                IsPublic = model.RepositoryType == "Public",
+                OwnerId = this.User.Id
+            };
+
+            this.data.Repositories.Add(repository);
+            this.data.SaveChanges();
 
             return Redirect("/Repositories/All");
         }
@@ -61,19 +58,50 @@
         [Authorize]
         public HttpResponse All()
         {
-            var repositories = this.data.Repositories
-                                        .Where(r => r.IsPublic)
-                                        .Select(r => new RepositoryViewModel
-                                        {
-                                            Id = r.Id,
-                                            Name = r.Name,
-                                            Owner = r.Owner.Username,
-                                            CreatedOn = r.CreatedOn.ToString(),
-                                            Commits = r.Commits.Count()
-                                        })
-                                        .ToList();
+            //1
+            //var repositories = this.data.Repositories
+            //                            .Where(r => r.IsPublic)
+            //                            .Select(r => new RepositoryViewModel
+            //                            {
+            //                                Id = r.Id,
+            //                                Name = r.Name,
+            //                                Owner = r.Owner.Username,
+            //                                CreatedOn = r.CreatedOn.ToLocalTime().ToString("F"),
+            //                                Commits = r.Commits.Count()
+            //                            })
+            //                            .ToList();
 
-            return View(repositories);
+            //return View(repositories);
+
+            //2
+            var repositoriesQuery = this.data
+               .Repositories
+               .AsQueryable();
+
+            if (this.User.IsAuthenticated)
+            {
+                repositoriesQuery = repositoriesQuery
+                    .Where(r => r.IsPublic || r.OwnerId == this.User.Id);
+            }
+            else
+            {
+                repositoriesQuery = repositoriesQuery
+                    .Where(r => r.IsPublic);
+            }
+
+            var repositores = repositoriesQuery
+                .OrderByDescending(r => r.CreatedOn)
+                .Select(r => new RepositoryViewModel
+                {
+                    Id = r.Id,
+                    Name = r.Name,
+                    Owner = r.Owner.Username,
+                    CreatedOn = r.CreatedOn.ToLocalTime().ToString("F"),
+                    Commits = r.Commits.Count()
+                })
+                .ToList();
+
+            return View(repositores);
         }
     }
 }

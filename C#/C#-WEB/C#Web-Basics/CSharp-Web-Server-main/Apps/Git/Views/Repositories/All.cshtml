@@ -7,9 +7,12 @@
                     <p>Repositories</p>
                 </div>
 
-                <div class="d-flex justify-content-center">
-                    <a class="btn btn-block btn-primary text-white mb-3" href="/Repositories/Create">Create a repository</a>
-                </div>
+                @if (User != null)
+                {
+                    <div class="d-flex justify-content-center">
+                        <a class="btn btn-block btn-primary text-white mb-3" href="/Repositories/Create">Create a repository</a>
+                    </div>
+                }
 
                 <div class="component">
                     <table class="table table-hover">
@@ -19,40 +22,29 @@
                                 <th scope="col">Owner</th>
                                 <th scope="col">Created On</th>
                                 <th scope="col">Commits Count</th>
-                                <th scope="col">Commit</th>
+                                @if (User != null)
+                                {
+                                    <th scope="col">Commit</th>
+                                }
                             </tr>
                         </thead>
-                        @foreach (var repo in Model)
-                        {
-                            @if (repo.IsPublic == true && User == null)
+                        <tbody>
+                            @foreach (var repository in Model)
                             {
-                                <tbody>
-                                    <tr class="table-light">
-                                        <th scope="row">@repo.Name</th>
-                                        <td>@repo.Owner</td>
-                                        <td>@repo.CreatedOn</td>
-                                        <td>@repo.Commits</td>
+                                <tr class="table-light">
+                                    <th scope="row">@repository.Name</th>
+                                    <td>@repository.Owner</td>
+                                    <td>@repository.CreatedOn</td>
+                                    <td>@repository.Commits</td>
+                                    @if (User != null)
+                                    {
                                         <td>
-                                            <a class="btn btn-block btn-primary text-white mb-3" href="/Commits/Create?repoId=@repo.Id">Commit</a>
+                                            <a class="btn btn-block btn-primary text-white mb-3" href="/Commits/Create?id=@repository.Id">Commit</a>
                                         </td>
-                                    </tr>
-                                </tbody>
+                                    }
+                                </tr>
                             }
-                            @if (User != null)
-                            {
-                                <tbody>
-                                    <tr class="table-light">
-                                        <th scope="row">@repo.Name</th>
-                                        <td>@repo.Owner</td>
-                                        <td>@repo.CreatedOn</td>
-                                        <td>@repo.Commits</td>
-                                        <td>
-                                            <a class="btn btn-block btn-primary text-white mb-3" href="/Commits/Create?repoId=@repo.Id">Commit</a>
-                                        </td>
-                                    </tr>
-                                </tbody>
-                            }
-                        }
+                        </tbody>
                     </table>
                 </div>
             </div>

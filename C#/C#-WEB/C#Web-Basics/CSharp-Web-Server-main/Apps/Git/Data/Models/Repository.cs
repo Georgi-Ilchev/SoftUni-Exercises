@@ -9,18 +9,19 @@
         [Required]
         public string Id { get; init; } = Guid.NewGuid().ToString();
 
-        [MaxLength(10)]
         [Required]
+        [MaxLength(10)]
         public string Name { get; set; }
 
         public DateTime CreatedOn { get; set; }
 
         public bool IsPublic { get; set; }
 
+        [Required]
         public string OwnerId { get; set; }
 
         public User Owner { get; set; }
 
-        public IEnumerable<Commit> Commits { get; set; } = new HashSet<Commit>();
+        public IEnumerable<Commit> Commits { get; init; } = new HashSet<Commit>();
     }
 }

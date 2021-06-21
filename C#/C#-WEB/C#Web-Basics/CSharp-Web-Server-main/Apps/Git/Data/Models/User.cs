@@ -19,7 +19,7 @@
         [Required]
         public string Password { get; set; }
 
-        public IEnumerable<Repository> Repositories { get; set; } = new HashSet<Repository>();
-        public IEnumerable<Commit> Commits { get; set; } = new HashSet<Commit>();
+        public IEnumerable<Repository> Repositories { get; init; } = new HashSet<Repository>();
+        public IEnumerable<Commit> Commits { get; init; } = new HashSet<Commit>();
     }
 }

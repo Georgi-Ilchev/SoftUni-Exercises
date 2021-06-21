@@ -32,14 +32,16 @@
             return commit.Id;
         }
 
-        public IEnumerable<CommitViewModel> GetAll()
-            => this.db.Commits.Select(x => new CommitViewModel
-            {
-                CreatedOn = x.CreatedOn.ToString("g"),
-                Description = x.Description,
-                Repository = x.Repository.Name
-            })
-            .ToList();
+        public IEnumerable<CommitViewModel> GetAll() => null;
+        //=> this.db.Commits.Select(x => new CommitViewModel
+        //{
+        //    CreatedOn = x.CreatedOn.ToString("g"),
+        //    Description = x.Description,
+        //    Repository = x.Repository.Name
+        //})
+        //.ToList();
+
+
 
         public string GetById(string id)
             => this.db.Repositories.Where(x => x.Id == id)

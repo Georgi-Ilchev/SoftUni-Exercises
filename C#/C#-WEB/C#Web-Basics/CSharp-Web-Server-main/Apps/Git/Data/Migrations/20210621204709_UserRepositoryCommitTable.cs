@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace Git.Data.Migrations
 {
-    public partial class UserRepositoryCommitTables : Migration
+    public partial class UserRepositoryCommitTable : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -29,7 +29,7 @@ namespace Git.Data.Migrations
                     Name = table.Column<string>(type: "nvarchar(10)", maxLength: 10, nullable: false),
                     CreatedOn = table.Column<DateTime>(type: "datetime2", nullable: false),
                     IsPublic = table.Column<bool>(type: "bit", nullable: false),
-                    OwnerId = table.Column<string>(type: "nvarchar(450)", nullable: true)
+                    OwnerId = table.Column<string>(type: "nvarchar(450)", nullable: false)
                 },
                 constraints: table =>
                 {
@@ -49,8 +49,8 @@ namespace Git.Data.Migrations
                     Id = table.Column<string>(type: "nvarchar(450)", nullable: false),
                     Description = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     CreatedOn = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    CreatorId = table.Column<string>(type: "nvarchar(450)", nullable: true),
-                    RepositoryId = table.Column<string>(type: "nvarchar(450)", nullable: true)
+                    CreatorId = table.Column<string>(type: "nvarchar(450)", nullable: false),
+                    RepositoryId = table.Column<string>(type: "nvarchar(450)", nullable: false)
                 },
                 constraints: table =>
                 {

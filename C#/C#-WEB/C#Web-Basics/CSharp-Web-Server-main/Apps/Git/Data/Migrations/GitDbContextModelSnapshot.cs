@@ -28,6 +28,7 @@ namespace Git.Data.Migrations
                         .HasColumnType("datetime2");
 
                     b.Property<string>("CreatorId")
+                        .IsRequired()
                         .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("Description")
@@ -35,6 +36,7 @@ namespace Git.Data.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("RepositoryId")
+                        .IsRequired()
                         .HasColumnType("nvarchar(450)");
 
                     b.HasKey("Id");
@@ -63,6 +65,7 @@ namespace Git.Data.Migrations
                         .HasColumnType("nvarchar(10)");
 
                     b.Property<string>("OwnerId")
+                        .IsRequired()
                         .HasColumnType("nvarchar(450)");
 
                     b.HasKey("Id");
@@ -99,11 +102,15 @@ namespace Git.Data.Migrations
                 {
                     b.HasOne("Git.Data.Models.User", "Creator")
                         .WithMany("Commits")
-                        .HasForeignKey("CreatorId");
+                        .HasForeignKey("CreatorId")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
 
                     b.HasOne("Git.Data.Models.Repository", "Repository")
                         .WithMany("Commits")
-                        .HasForeignKey("RepositoryId");
+                        .HasForeignKey("RepositoryId")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
 
                     b.Navigation("Creator");
 
@@ -114,7 +121,9 @@ namespace Git.Data.Migrations
                 {
                     b.HasOne("Git.Data.Models.User", "Owner")
                         .WithMany("Repositories")
-                        .HasForeignKey("OwnerId");
+                        .HasForeignKey("OwnerId")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
 
                     b.Navigation("Owner");
                 });

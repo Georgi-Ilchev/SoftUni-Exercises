@@ -19,11 +19,11 @@ namespace Git
                     .Add<IViewEngine, CompilationViewEngine>()
                     .Add<IValidator, Validator>()
                     .Add<IPasswordHasher, PasswordHasher>()
-                    .Add<IRepositoryService, RepositoryService>()
-                    .Add<ICommitService, CommitService>()
                     //.Add<IUserService, UserService>()
                     .Add<GitDbContext>())
                 .WithConfiguration<GitDbContext>(c => c.Database.Migrate())
                 .Start();
+
+        //Add-Migration UserProductTables -o Data/Migrations
     }
 }
