@@ -9,5 +9,7 @@ namespace Git.Services
         IEnumerable<RepositoryViewModel> GetAllRepository();
 
         public bool IsPublic(string repositoryType);
+
+        string GetRepositoryName(string id);
     }
 }

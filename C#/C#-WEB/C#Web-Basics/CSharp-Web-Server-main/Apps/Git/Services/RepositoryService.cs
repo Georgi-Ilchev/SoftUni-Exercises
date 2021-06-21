@@ -40,6 +40,14 @@
             })
             .ToList();
 
+        public string GetRepositoryName(string id)
+        {
+            return this.data.Repositories
+                            .Where(r => r.Id == id)
+                            .Select(r => r.Name)
+                            .FirstOrDefault();
+        }
+
         public bool IsPublic(string repositoryType)
         {
             if (repositoryType == "Private")

@@ -10,6 +10,7 @@
     public abstract class Controller
     {
         public const string UserSessionKey = "AuthenticatedUserId";
+        //public const string UserIdSessionName = "UserId";
 
         private UserIdentity userIdentity;
         private IViewEngine viewEngine;
@@ -91,5 +92,9 @@
 
         private ActionResult GetViewResult(string viewName, object model)
             => new ViewResult(this.Response, this.ViewEngine, viewName, this.GetType().GetControllerName(), model, this.User.Id);
+
+        //protected string GetUserId() =>
+        //    this.Request.Session.Contains(UserIdSessionName) ?
+        //    this.Request.Session[UserIdSessionName] : null;
     }
 }

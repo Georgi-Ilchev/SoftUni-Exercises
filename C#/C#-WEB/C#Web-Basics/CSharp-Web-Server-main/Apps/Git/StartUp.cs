@@ -4,7 +4,6 @@ using Microsoft.EntityFrameworkCore;
 using MyWebServer;
 using MyWebServer.Controllers;
 using MyWebServer.Results.Views;
-using System;
 using System.Threading.Tasks;
 
 namespace Git
@@ -21,6 +20,7 @@ namespace Git
                     .Add<IValidator, Validator>()
                     .Add<IPasswordHasher, PasswordHasher>()
                     .Add<IRepositoryService, RepositoryService>()
+                    .Add<ICommitService, CommitService>()
                     //.Add<IUserService, UserService>()
                     .Add<GitDbContext>())
                 .WithConfiguration<GitDbContext>(c => c.Database.Migrate())
