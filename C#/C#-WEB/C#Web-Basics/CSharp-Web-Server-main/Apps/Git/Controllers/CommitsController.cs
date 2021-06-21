@@ -52,10 +52,10 @@
         public HttpResponse Delete(string id)
         {
             var userId = this.User.Id;
-            if (userId != id)
-            {
-                return this.Error("You dont have access to remove this repository!");
-            }
+            //if (userId != id)
+            //{
+            //    return this.Error("You dont have access to remove this repository!");
+            //}
             this.commitService.RemoveCommit(userId);
             return this.Redirect("/Commits/All");
         }
