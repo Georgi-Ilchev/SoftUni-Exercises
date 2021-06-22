@@ -1,20 +1,20 @@
-﻿using MyWebServer.Controllers;
+﻿using BattleCards.Data;
+using BattleCards.Data.Models;
+using BattleCards.Models.Users;
+using BattleCards.Services;
+using MyWebServer.Controllers;
 using MyWebServer.Http;
-using SharedTrip.Data;
-using SharedTrip.Data.Models;
-using SharedTrip.Models.Users;
-using SharedTrip.Services;
 using System.Linq;
 
-namespace SharedTrip.Controllers
+namespace BattleCards.Controllers
 {
     public class UsersController : Controller
     {
-        private readonly SharedTripDbContext data;
+        private readonly BattleCardsDbContext data;
         private readonly IValidator validator;
         private readonly IPasswordHasher passwordHasher;
 
-        public UsersController(SharedTripDbContext data, IValidator validator, IPasswordHasher passwordHasher)
+        public UsersController(BattleCardsDbContext data, IValidator validator, IPasswordHasher passwordHasher)
         {
             this.data = data;
             this.validator = validator;
@@ -40,7 +40,7 @@ namespace SharedTrip.Controllers
 
             this.SignIn(userId);
 
-            return Redirect("/Trips/All");
+            return Redirect("/Cards/All");
         }
 
         public HttpResponse Register() => this.View();

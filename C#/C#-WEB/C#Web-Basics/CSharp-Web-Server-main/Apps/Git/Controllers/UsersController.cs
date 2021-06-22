@@ -23,6 +23,7 @@
 
         public HttpResponse Register() => View();
         public HttpResponse Login() => View();
+
         [Authorize]
         public HttpResponse Logout()
         {
