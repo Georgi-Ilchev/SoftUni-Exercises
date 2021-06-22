@@ -1,17 +1,12 @@
-﻿using Andreys.Data;
-using Andreys.Data.Models;
-using Andreys.Models.Users;
-using Andreys.Services;
-using MyWebServer.Controllers;
-using MyWebServer.Http;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Andreys.Controllers
+﻿namespace Andreys.Controllers
 {
+    using Andreys.Data;
+    using Andreys.Data.Models;
+    using Andreys.Models.Users;
+    using Andreys.Services;
+    using MyWebServer.Controllers;
+    using MyWebServer.Http;
+    using System.Linq;
     public class UsersController : Controller
     {
         private readonly AndreysDbContext data;
@@ -32,7 +27,7 @@ namespace Andreys.Controllers
         {
             this.SignOut();
 
-            return Redirect("/Home/Index");
+            return Redirect("/");
         }
 
 
@@ -48,8 +43,8 @@ namespace Andreys.Controllers
 
             if (userId == null)
             {
-                return Error("Username and password combination is not valid.");
-                //return Redirect("Users/Login");
+                //return Error("Username and password combination is not valid.");
+                return Redirect("Users/Login");
             }
 
             this.SignIn(userId);

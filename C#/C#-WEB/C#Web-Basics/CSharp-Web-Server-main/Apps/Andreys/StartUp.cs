@@ -19,9 +19,6 @@ namespace Andreys
                     .Add<IViewEngine, CompilationViewEngine>()
                     .Add<IValidator, Validator>()
                     .Add<IPasswordHasher, PasswordHasher>()
-                    //.Add<IRepositoryService, RepositoryService>()
-                    //.Add<ICommitService, CommitService>()
-                    //.Add<IUserService, UserService>()
                     .Add<AndreysDbContext>())
                 .WithConfiguration<AndreysDbContext>(c => c.Database.Migrate())
                 .Start();

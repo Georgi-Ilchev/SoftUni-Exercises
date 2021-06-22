@@ -6,6 +6,11 @@
     {
         public HttpResponse Index()
         {
+            if (this.User.IsAuthenticated)
+            {
+                return Redirect("/");
+            }
+
             return View();
         }
     }
