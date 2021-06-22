@@ -4,6 +4,7 @@
     using Andreys.Models.Users;
     using System;
     using System.Collections.Generic;
+
     public class Validator : IValidator
     {
         public ICollection<string> ValidateUser(RegisterUserFormModel model)
@@ -64,5 +65,6 @@
 
             return errors;
         }
+
     }
 }

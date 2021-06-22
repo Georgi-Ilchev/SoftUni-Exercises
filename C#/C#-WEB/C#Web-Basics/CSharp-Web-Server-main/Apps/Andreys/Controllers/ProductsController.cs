@@ -102,5 +102,6 @@ namespace Andreys.Controllers
 
         public bool IsProductExisting(int id)
         => this.data.Products.Any(p => p.Id == id);
+
     }
 }
