@@ -87,5 +87,22 @@
 
             return Redirect("/Users/Login");
         }
+
+        //public IEnumerable<DisplayAllProductsViewModel> DisplayAll(AndreysDbContext data)
+        //{
+        //    var allProducts = data
+        //        .Products
+        //        .Select(p => new DisplayAllProductsViewModel()
+        //        {
+        //            Id = p.Id,
+        //            ImageUrl = p.ImageUrl,
+        //            Name = p.Name,
+        //            Price = p.Price
+        //        })
+        //        .ToList();
+
+
+        //    return (IEnumerable<DisplayAllProductsViewModel>)this.View(allProducts);
+        //}
     }
 }
