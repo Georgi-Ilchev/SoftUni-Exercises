@@ -32,7 +32,7 @@ namespace Andreys.Controllers
         {
             this.SignOut();
 
-            return Redirect("/");
+            return Redirect("/Home/Index");
         }
 
 
@@ -48,8 +48,8 @@ namespace Andreys.Controllers
 
             if (userId == null)
             {
-                //return Error("Username and password combination is not valid.");
-                return Redirect("Users/Login");
+                return Error("Username and password combination is not valid.");
+                //return Redirect("Users/Login");
             }
 
             this.SignIn(userId);

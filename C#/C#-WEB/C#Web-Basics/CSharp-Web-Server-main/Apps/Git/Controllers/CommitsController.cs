@@ -3,7 +3,6 @@
     using Git.Data;
     using Git.Data.Models;
     using Git.Models.Commits;
-    using Git.Services;
     using MyWebServer.Controllers;
     using MyWebServer.Http;
     using System.Linq;

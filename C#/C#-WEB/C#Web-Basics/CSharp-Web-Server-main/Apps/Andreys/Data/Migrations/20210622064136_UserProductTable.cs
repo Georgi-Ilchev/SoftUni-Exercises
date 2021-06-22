@@ -2,7 +2,7 @@
 
 namespace Andreys.Data.Migrations
 {
-    public partial class UserProductTables : Migration
+    public partial class UserProductTable : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -30,7 +30,7 @@ namespace Andreys.Data.Migrations
                 {
                     Id = table.Column<string>(type: "nvarchar(450)", nullable: false),
                     Username = table.Column<string>(type: "nvarchar(10)", maxLength: 10, nullable: false),
-                    Password = table.Column<string>(type: "nvarchar(20)", maxLength: 20, nullable: false),
+                    Password = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Email = table.Column<string>(type: "nvarchar(max)", nullable: false)
                 },
                 constraints: table =>

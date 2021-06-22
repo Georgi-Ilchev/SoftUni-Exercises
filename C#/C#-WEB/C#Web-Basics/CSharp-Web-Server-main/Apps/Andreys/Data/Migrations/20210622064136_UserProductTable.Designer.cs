@@ -9,8 +9,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Andreys.Data.Migrations
 {
     [DbContext(typeof(AndreysDbContext))]
-    [Migration("20210621130042_UserProductTables")]
-    partial class UserProductTables
+    [Migration("20210622064136_UserProductTable")]
+    partial class UserProductTable
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -64,8 +64,7 @@ namespace Andreys.Data.Migrations
 
                     b.Property<string>("Password")
                         .IsRequired()
-                        .HasMaxLength(20)
-                        .HasColumnType("nvarchar(20)");
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Username")
                         .IsRequired()

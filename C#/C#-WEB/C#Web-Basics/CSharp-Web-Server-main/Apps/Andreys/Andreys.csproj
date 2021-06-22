@@ -15,6 +15,10 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <None Remove="Views\Error.cshtml" />
+	</ItemGroup>
+
+	<ItemGroup>
 		<ProjectReference Include="..\..\MyWebServer\MyWebServer.csproj" />
 	</ItemGroup>
 
