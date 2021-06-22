@@ -9,8 +9,8 @@ using SharedTrip.Data;
 
 namespace SharedTrip.Data.Migrations
 {
-    [DbContext(typeof(SharedTipDbContext))]
-    [Migration("20210622095747_UserTripTables")]
+    [DbContext(typeof(SharedTripDbContext))]
+    [Migration("20210622133943_UserTripTables")]
     partial class UserTripTables
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -88,7 +88,7 @@ namespace SharedTrip.Data.Migrations
 
                     b.HasIndex("TripId");
 
-                    b.ToTable("UseTrips");
+                    b.ToTable("UserTrips");
                 });
 
             modelBuilder.Entity("SharedTrip.Data.Models.UserTrip", b =>

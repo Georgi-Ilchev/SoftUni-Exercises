@@ -8,13 +8,13 @@ using System.Linq;
 
 namespace SharedTrip.Controllers
 {
-    public class UserController : Controller
+    public class UsersController : Controller
     {
-        private readonly SharedTipDbContext data;
+        private readonly SharedTripDbContext data;
         private readonly IValidator validator;
         private readonly IPasswordHasher passwordHasher;
 
-        public UserController(SharedTipDbContext data, IValidator validator, IPasswordHasher passwordHasher)
+        public UsersController(SharedTripDbContext data, IValidator validator, IPasswordHasher passwordHasher)
         {
             this.data = data;
             this.validator = validator;

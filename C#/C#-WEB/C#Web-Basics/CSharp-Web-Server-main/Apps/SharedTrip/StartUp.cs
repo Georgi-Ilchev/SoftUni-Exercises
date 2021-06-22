@@ -4,7 +4,6 @@ using MyWebServer.Controllers;
 using MyWebServer.Results.Views;
 using SharedTrip.Data;
 using SharedTrip.Services;
-using System;
 using System.Threading.Tasks;
 
 namespace SharedTrip
@@ -20,9 +19,8 @@ namespace SharedTrip
                     .Add<IViewEngine, CompilationViewEngine>()
                     .Add<IValidator, Validator>()
                     .Add<IPasswordHasher, PasswordHasher>()
-                    //.Add<IUserService, UserService>()
-                    .Add<SharedTipDbContext>())
-                .WithConfiguration<SharedTipDbContext>(c => c.Database.Migrate())
+                    .Add<SharedTripDbContext>())
+                .WithConfiguration<SharedTripDbContext>(c => c.Database.Migrate())
                 .Start();
 
         //Add-Migration UserProductTables -o Data/Migrations

@@ -1,12 +1,53 @@
-﻿using SharedTrip.Models.Users;
+﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Text.RegularExpressions;
+using SharedTrip.Models.Trips;
+using SharedTrip.Models.Users;
 
 namespace SharedTrip.Services
 {
     public class Validator : IValidator
     {
+        public ICollection<string> ValidateTrip(AddTripInputModel model)
+        {
+            var errors = new List<string>();
+
+            if (string.IsNullOrEmpty(model.StartPoint))
+            {
+                errors.Add("Start point is required.");
+            }
+
+            if (string.IsNullOrEmpty(model.EndPoint))
+            {
+                errors.Add("End point is required.");
+            }
+
+            if (model.Seats < 2 ||
+                model.Seats > 6)
+            {
+                errors.Add($"Seats should between 2 and 6.");
+            }
+
+            if (string.IsNullOrWhiteSpace(model.Description) || model.Description.Length > 80)
+            {
+                errors.Add("Description should have max length of 80.");
+            }
+
+            if (!Uri.IsWellFormedUriString(model.ImagePath, UriKind.Absolute))
+            {
+                errors.Add($"Image {model.ImagePath} is not a valid URL");
+            }
+
+            if (!DateTime.TryParseExact(model.DepartureTime, "dd.MM.yyyy HH:mm", CultureInfo.InvariantCulture, DateTimeStyles.None, out _))
+            {
+                errors.Add("Invalid departure time. Please use dd.MM.yyyy HH:ss format");
+            }
+
+            return errors;
+        }
+
         public ICollection<string> ValidateUser(RegisterFormModel model)
         {
             var errors = new List<string>();

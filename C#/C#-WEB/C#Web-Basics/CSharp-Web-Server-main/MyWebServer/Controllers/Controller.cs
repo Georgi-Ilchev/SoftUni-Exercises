@@ -94,5 +94,9 @@
 
         private ActionResult GetViewResult(string viewName, object model)
             => new ViewResult(this.Response, this.ViewEngine, viewName, this.GetType().GetControllerName(), model, this.User.Id);
+
+        protected string GetUserId() =>
+            this.Request.Session.Contains(UserSessionKey) ?
+            this.Request.Session[UserSessionKey] : null;
     }
 }

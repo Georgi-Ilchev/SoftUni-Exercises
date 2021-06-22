@@ -8,8 +8,8 @@ using SharedTrip.Data;
 
 namespace SharedTrip.Data.Migrations
 {
-    [DbContext(typeof(SharedTipDbContext))]
-    partial class SharedTipDbContextModelSnapshot : ModelSnapshot
+    [DbContext(typeof(SharedTripDbContext))]
+    partial class SharedTripDbContextModelSnapshot : ModelSnapshot
     {
         protected override void BuildModel(ModelBuilder modelBuilder)
         {
@@ -86,7 +86,7 @@ namespace SharedTrip.Data.Migrations
 
                     b.HasIndex("TripId");
 
-                    b.ToTable("UseTrips");
+                    b.ToTable("UserTrips");
                 });
 
             modelBuilder.Entity("SharedTrip.Data.Models.UserTrip", b =>

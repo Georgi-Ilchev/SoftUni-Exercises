@@ -1,4 +1,5 @@
-﻿using SharedTrip.Models.Users;
+﻿using SharedTrip.Models.Trips;
+using SharedTrip.Models.Users;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,5 +11,6 @@ namespace SharedTrip.Services
     public interface IValidator
     {
         ICollection<string> ValidateUser(RegisterFormModel model);
+        ICollection<string> ValidateTrip(AddTripInputModel model);
     }
 }
