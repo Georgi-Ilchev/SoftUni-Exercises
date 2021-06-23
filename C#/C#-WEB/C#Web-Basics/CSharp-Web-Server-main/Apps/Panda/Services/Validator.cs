@@ -1,5 +1,8 @@
-﻿using Panda.ViewModels.User;
+﻿using Panda.ViewModels.Package;
+using Panda.ViewModels.User;
+using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Text.RegularExpressions;
 
@@ -7,6 +10,23 @@ namespace Panda.Services
 {
     public class Validator : IValidator
     {
+        public ICollection<string> ValidatePackage(CreatePackageInputModel model)
+        {
+            var errors = new List<string>();
+
+            if (string.IsNullOrWhiteSpace(model.Description) || model.Description.Length > 20 || model.Description.Length < 5)
+            {
+                errors.Add("Description must be between 5 and 20 characters long.");
+            }
+
+            if (model.Status != "Pending" && model.Status != "Delivered")
+            {
+                errors.Add($"Repository type can be either 'Pending' or 'Delivered'.");
+            }
+
+            return errors;
+        }
+
         public ICollection<string> ValidateUser(RegisterFormModel model)
         {
             var errors = new List<string>();
