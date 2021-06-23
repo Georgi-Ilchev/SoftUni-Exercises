@@ -2,7 +2,7 @@
 
 namespace BattleCards.Data.Migrations
 {
-    public partial class UserCardTable : Migration
+    public partial class UserCardTables : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
