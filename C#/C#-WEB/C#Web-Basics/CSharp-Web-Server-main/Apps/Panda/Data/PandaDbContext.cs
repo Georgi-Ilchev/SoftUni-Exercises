@@ -9,14 +9,6 @@ namespace Panda.Data
         public DbSet<Package> Packages { get; set; }
         public DbSet<Receipt> Receipts { get; set; }
 
-        public PandaDbContext()
-        {
-        }
-
-        public PandaDbContext(DbContextOptions options)
-            : base(options)
-        {
-        }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
