@@ -55,10 +55,10 @@ namespace BattleCards.Services
                 errors.Add("Description should have max length of 200.");
             }
 
-            if (!Uri.IsWellFormedUriString(model.ImageUrl, UriKind.Absolute))
-            {
-                errors.Add($"Image {model.ImageUrl} is not a valid URL.");
-            }
+            //if (!Uri.IsWellFormedUriString(model.ImageUrl, UriKind.Absolute))
+            //{
+            //    errors.Add($"Image {model.ImageUrl} is not a valid URL.");
+            //}
 
             if (model.Attack < 0)
             {

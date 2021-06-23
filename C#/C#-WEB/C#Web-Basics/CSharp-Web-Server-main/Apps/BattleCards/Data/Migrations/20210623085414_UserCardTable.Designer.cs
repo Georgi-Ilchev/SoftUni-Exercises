@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace BattleCards.Data.Migrations
 {
     [DbContext(typeof(BattleCardsDbContext))]
-    [Migration("20210622143535_UserCardTable")]
+    [Migration("20210623085414_UserCardTable")]
     partial class UserCardTable
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
