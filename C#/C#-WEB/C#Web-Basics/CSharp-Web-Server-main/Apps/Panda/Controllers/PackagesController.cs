@@ -111,13 +111,13 @@ namespace Panda.Controllers
             return this.View(viewModel);
         }
 
-        [Authorize]
-        public HttpResponse Deliver(string id)
-        {
-            var package = this.data.Packages
-                                     .FirstOrDefault(p => p.Id == id);
+        //[Authorize]
+        //public HttpResponse Deliver(string id)
+        //{
+        //    var package = this.data.Packages
+        //                             .FirstOrDefault(p => p.Id == id);
 
-            package.Status = PackageStatus.Delivered;
-        }
+        //    package.Status = PackageStatus.Delivered;
+        //}
     }
 }
