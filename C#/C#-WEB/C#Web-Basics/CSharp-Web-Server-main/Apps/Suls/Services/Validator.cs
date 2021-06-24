@@ -1,4 +1,5 @@
-﻿using Suls.ViewModels.Users;
+﻿using Suls.ViewModels.Problems;
+using Suls.ViewModels.Users;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text.RegularExpressions;
@@ -7,6 +8,23 @@ namespace Suls.Services
 {
     public class Validator : IValidator
     {
+        public ICollection<string> ValidateProblem(CreateProblemViewModel model)
+        {
+            var errors = new List<string>();
+
+            if (string.IsNullOrEmpty(model.Name) || model.Name.Length < 5 || model.Name.Length > 20)
+            {
+                errors.Add("Name should be between 5 and 20 symbols.");
+            }
+
+            if (model.Points < 50 || model.Points > 300)
+            {
+                errors.Add("Points should be between 50 and 300 symbols.");
+            }
+
+            return errors;
+        }
+
         public ICollection<string> ValidateUser(RegisterFormModel model)
         {
             var errors = new List<string>();
