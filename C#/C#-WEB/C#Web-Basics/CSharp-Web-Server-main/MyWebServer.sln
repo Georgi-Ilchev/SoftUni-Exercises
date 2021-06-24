@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattleCards", "Apps\BattleC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Panda", "Apps\Panda\Panda.csproj", "{C5BAD4FC-AF23-4808-AF10-A5E533600EB2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Suls", "Apps\Suls\Suls.csproj", "{3EC7C31B-C202-4BDB-BB92-AAA2ED4FA530}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,6 +55,10 @@ Global
 		{C5BAD4FC-AF23-4808-AF10-A5E533600EB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5BAD4FC-AF23-4808-AF10-A5E533600EB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5BAD4FC-AF23-4808-AF10-A5E533600EB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EC7C31B-C202-4BDB-BB92-AAA2ED4FA530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EC7C31B-C202-4BDB-BB92-AAA2ED4FA530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EC7C31B-C202-4BDB-BB92-AAA2ED4FA530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EC7C31B-C202-4BDB-BB92-AAA2ED4FA530}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -64,6 +70,7 @@ Global
 		{D1A3E275-DFAF-4E21-BBAB-54432BF84BFB} = {95CD61B2-1661-4263-984C-4B9BB7817111}
 		{14D1932B-577C-454D-BAB4-95E1727F1592} = {95CD61B2-1661-4263-984C-4B9BB7817111}
 		{C5BAD4FC-AF23-4808-AF10-A5E533600EB2} = {95CD61B2-1661-4263-984C-4B9BB7817111}
+		{3EC7C31B-C202-4BDB-BB92-AAA2ED4FA530} = {95CD61B2-1661-4263-984C-4B9BB7817111}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B9218E3C-82C9-46BF-8569-4C5DC669BB3B}
