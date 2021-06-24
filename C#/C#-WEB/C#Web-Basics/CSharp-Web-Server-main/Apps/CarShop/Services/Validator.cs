@@ -4,6 +4,7 @@
     using System.Collections.Generic;
     using System.Text.RegularExpressions;
     using CarShop.Models.Cars;
+    using CarShop.Models.Issues;
     using CarShop.Models.Users;
     public class Validator : IValidator
     {
@@ -65,6 +66,23 @@
             if (!Regex.IsMatch(model.PlateNumber, @"[A-Z]{2}[0-9]{4}[A-Z]{2}"))
             {
                 errors.Add($"Plate number {model.PlateNumber} is not valid. It should be in format 'AA0000AA'.");
+            }
+
+            return errors;
+        }
+
+        public ICollection<string> ValidateIssue(AddIssueFormModel model)
+        {
+            var errors = new List<string>();
+
+            if (model.CarId == null)
+            {
+                errors.Add($"Car ID cannot be empty.");
+            }
+
+            if (model.Description.Length < 5)
+            {
+                errors.Add($"Description '{model.Description}' is not valid. It must have more than 5 characters.");
             }
 
             return errors;
