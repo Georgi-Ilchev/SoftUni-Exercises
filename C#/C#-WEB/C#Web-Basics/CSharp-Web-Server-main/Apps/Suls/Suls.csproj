@@ -29,12 +29,5 @@
 			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
 		</PackageReference>
 	</ItemGroup>
-	
-  <ItemGroup>
-    <Folder Include="Controllers\" />
-    <Folder Include="Migrations\" />
-    <Folder Include="Services\" />
-    <Folder Include="ViewModels\" />
-  </ItemGroup>
 
 </Project>

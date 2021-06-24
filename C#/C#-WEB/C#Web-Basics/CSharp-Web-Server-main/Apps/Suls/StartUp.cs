@@ -2,6 +2,7 @@
 using MyWebServer;
 using MyWebServer.Controllers;
 using MyWebServer.Results.Views;
+using Suls.Services;
 using SulsApp.Data;
 using System;
 using System.Threading.Tasks;
@@ -17,8 +18,8 @@ namespace Suls
                     .MapControllers())
                 .WithServices(services => services
                     .Add<IViewEngine, CompilationViewEngine>()
-                    //.Add<IValidator, Validator>()
-                    //.Add<IPasswordHasher, PasswordHasher>()
+                    .Add<IValidator, Validator>()
+                    .Add<IPasswordHasher, PasswordHasher>()
                     .Add<SulsDbContext>())
                 .WithConfiguration<SulsDbContext>(c => c.Database.Migrate())
                 .Start();
