@@ -7,10 +7,7 @@ using Panda.Services;
 using Panda.ViewModels.Package;
 using Panda.ViewModels.User;
 using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Panda.Controllers
 {
@@ -18,11 +15,13 @@ namespace Panda.Controllers
     {
         private readonly PandaDbContext data;
         private readonly IValidator validator;
+        private readonly IReceiptsService receiptsService;
 
-        public PackagesController(PandaDbContext data, IValidator validator)
+        public PackagesController(PandaDbContext data, IValidator validator, IReceiptsService receiptsService)
         {
             this.data = data;
             this.validator = validator;
+            this.receiptsService = receiptsService;
         }
 
         [Authorize]
@@ -54,7 +53,7 @@ namespace Panda.Controllers
 
             var recipientId = this.data
                 .Users
-                .FirstOrDefault(r => r.Username == recipient)
+                .FirstOrDefault(r => r.Username == model.RecipientName)
                 ?.Id;
 
             var package = new Package()
@@ -67,12 +66,11 @@ namespace Panda.Controllers
                 RecipientId = recipientId
             };
 
-            //var recipientName = package.Recipient.
 
             this.data.Packages.Add(package);
             this.data.SaveChanges();
 
-            return Redirect("/Trips/All");
+            return Redirect("/");
         }
 
         [Authorize]
@@ -111,13 +109,19 @@ namespace Panda.Controllers
             return this.View(viewModel);
         }
 
-        //[Authorize]
-        //public HttpResponse Deliver(string id)
-        //{
-        //    var package = this.data.Packages
-        //                             .FirstOrDefault(p => p.Id == id);
+        [Authorize]
+        public HttpResponse Deliver(string id)
+        {
+            var package = this.data.Packages
+                                     .FirstOrDefault(p => p.Id == id);
 
-        //    package.Status = PackageStatus.Delivered;
-        //}
+            package.Status = PackageStatus.Delivered;
+
+            this.receiptsService.Create(package.Id, package.RecipientId);
+
+            this.data.SaveChanges();
+
+            return Redirect("Packages/Pending");
+        }
     }
 }

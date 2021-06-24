@@ -19,6 +19,7 @@ namespace Panda
                      .Add<IViewEngine, CompilationViewEngine>()
                      .Add<IValidator, Validator>()
                      .Add<IPasswordHasher, PasswordHasher>()
+                     .Add<IReceiptsService, ReceiptsService>()
                      .Add<PandaDbContext>())
                  .WithConfiguration<PandaDbContext>(c => c.Database.Migrate())
                  .Start();

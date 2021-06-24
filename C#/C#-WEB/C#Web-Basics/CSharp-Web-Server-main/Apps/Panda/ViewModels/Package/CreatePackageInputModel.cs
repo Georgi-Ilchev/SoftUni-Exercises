@@ -1,5 +1,4 @@
-﻿using Panda.Data.Enums;
-using System;
+﻿using System;
 using System.Globalization;
 
 namespace Panda.ViewModels.Package
@@ -11,6 +10,8 @@ namespace Panda.ViewModels.Package
         public decimal Weight { get; set; }
 
         public string ShippingAddress { get; set; }
+
+        public string RecipientName { get; set; }
 
         public string RecipientId { get; set; }
 
