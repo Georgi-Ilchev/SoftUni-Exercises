@@ -25,7 +25,14 @@ namespace Panda.Controllers
             this.passwordHasher = passwordHasher;
         }
 
-        public HttpResponse Login() => this.View();
+        public HttpResponse Login()
+        {
+            if (this.User.IsAuthenticated)
+            {
+                return Redirect("/");
+            }
+            return this.View();
+        }
 
         [HttpPost]
         public HttpResponse Login(LoginFormModel model)
@@ -48,7 +55,14 @@ namespace Panda.Controllers
             return Redirect("/");
         }
 
-        public HttpResponse Register() => this.View();
+        public HttpResponse Register()
+        {
+            if (this.User.IsAuthenticated)
+            {
+                return Redirect("/");
+            }
+            return this.View();
+        }
 
         [HttpPost]
         public HttpResponse Register(RegisterFormModel model)

@@ -21,8 +21,23 @@ namespace Suls.Controllers
             this.validator = validator;
         }
 
-        public HttpResponse Login() => this.View();
-        public HttpResponse Register() => this.View();
+        public HttpResponse Login()
+        {
+            if (this.User.IsAuthenticated)
+            {
+                return Redirect("/Users/Login");
+            }
+            return this.View();
+        }
+
+        public HttpResponse Register()
+        {
+            if (this.User.IsAuthenticated)
+            {
+                return Redirect("/Users/Login");
+            }
+            return this.View();
+        }
 
         [HttpPost]
         public HttpResponse Login(LoginFormModel model)

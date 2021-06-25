@@ -21,8 +21,22 @@
             this.passwordHasher = passwordHasher;
         }
 
-        public HttpResponse Register() => View();
-        public HttpResponse Login() => View();
+        public HttpResponse Login()
+        {
+            if (this.User.IsAuthenticated)
+            {
+                return Redirect("/Repositories/All");
+            }
+            return this.View();
+        }
+        public HttpResponse Register()
+        {
+            if (this.User.IsAuthenticated)
+            {
+                return Redirect("/Repositories/All");
+            }
+            return this.View();
+        }
 
         [Authorize]
         public HttpResponse Logout()

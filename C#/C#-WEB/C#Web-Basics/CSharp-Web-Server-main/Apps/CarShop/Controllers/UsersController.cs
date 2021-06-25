@@ -22,7 +22,15 @@
         }
 
         public HttpResponse Register()
-            => View();
+        {
+            if (this.User.IsAuthenticated)
+            {
+                return Redirect("/Cars/All");
+            }
+
+            return this.View();
+        }
+
         [HttpPost]
         public HttpResponse Register(RegisterUserFormModel model)
         {
@@ -61,7 +69,13 @@
 
 
         public HttpResponse Login()
-            => View();
+        {
+            if (this.User.IsAuthenticated)
+            {
+                return Redirect("/Cars/All");
+            }
+            return this.View();
+        }
         [HttpPost]
         public HttpResponse Login(LoginUserFormModel model)
         {

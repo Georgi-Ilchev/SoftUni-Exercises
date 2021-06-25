@@ -21,7 +21,14 @@ namespace SharedTrip.Controllers
             this.passwordHasher = passwordHasher;
         }
 
-        public HttpResponse Login() => this.View();
+        public HttpResponse Login()
+        {
+            if (this.User.IsAuthenticated)
+            {
+                return Redirect("/Trips/All");
+            }
+            return this.View();
+        }
 
         [HttpPost]
         public HttpResponse Login(LoginFormModel model)
@@ -43,7 +50,14 @@ namespace SharedTrip.Controllers
             return Redirect("/Trips/All");
         }
 
-        public HttpResponse Register() => this.View();
+        public HttpResponse Register()
+        {
+            if (this.User.IsAuthenticated)
+            {
+                return Redirect("/Trips/All");
+            }
+            return this.View();
+        }
 
         [HttpPost]
         public HttpResponse Register(RegisterFormModel model)

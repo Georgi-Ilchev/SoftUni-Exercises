@@ -19,7 +19,14 @@
             this.passwordHasher = passwordHasher;
         }
 
-        public HttpResponse Login() => this.View();
+        public HttpResponse Login() 
+        {
+            //if (this.User.IsAuthenticated)
+            //{
+            //    return Redirect("/");
+            //}
+            return this.View();
+        }
         public HttpResponse Register() => this.View();
 
         [Authorize]

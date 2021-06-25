@@ -98,5 +98,9 @@
         protected string GetUserId() =>
             this.Request.Session.Contains(UserSessionKey) ?
             this.Request.Session[UserSessionKey] : null;
+
+        //protected bool IsUserSignedIn() =>
+        //    this.Request.Session.Contains(UserSessionKey) &&
+        //    this.Request.Session[UserSessionKey] != null;
     }
 }
