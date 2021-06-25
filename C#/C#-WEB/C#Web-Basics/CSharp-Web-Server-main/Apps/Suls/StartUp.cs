@@ -20,6 +20,7 @@ namespace Suls
                     .Add<IViewEngine, CompilationViewEngine>()
                     .Add<IValidator, Validator>()
                     .Add<IPasswordHasher, PasswordHasher>()
+                    .Add<ISubmissionsService, SubmissionsService>()
                     .Add<SulsDbContext>())
                 .WithConfiguration<SulsDbContext>(c => c.Database.Migrate())
                 .Start();
