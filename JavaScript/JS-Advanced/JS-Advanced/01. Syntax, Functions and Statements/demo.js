@@ -200,3 +200,128 @@ function solve8(input) {
 }
 
 solve8([1, 2, 3]);
+
+//1. Echo Function
+function echo(word){
+    console.log(word.length);
+    console.log(word);
+}
+
+echo('Hello, JavaScript!');
+
+//2. String Length
+function stringLength(first, second, third){
+    let length = first.length + second.length + third.length;
+    let average = Math.floor(length / 3);
+
+    console.log(length);
+    console.log(average);
+}
+
+stringLength('chocolate', 'ice cream', 'cake');
+
+//3. Largest Number
+function largestNumber(first, second, third){
+    let result = Math.max(first, second, third);
+
+    console.log(`The largest number is ${result}.`);
+}
+
+//4. Circle Area
+function circleArea(input){
+    let inputType = typeof(input)
+
+    if (inputType === 'number') {
+        let result = Math.pow(input, 2) * Math.PI;
+        console.log(result.toFixed(2));
+    } else {
+        console.log(`We can not calculate the circle area, because we receive a ${inputType}.`);
+    }
+}
+
+circleArea(5);
+circleArea('name');
+
+//5. Math Operations
+function mathOperations(num1, num2, operation){
+    let result;
+
+    switch (operation) {
+        case "+": result = num1 + num2; break;
+        case "-": result = num1 - num2; break;
+        case "*": result = num1 * num2; break;
+        case "/": result = num1 / num2; break;
+        case "%": result = num1 % num2; break;
+        case "**": result = num1 ** num2; break;
+    }
+
+    console.log(result);
+}
+
+//6. Sum of Numbers N…M
+function sumOfNumbers(num1AsString, num2AsString){
+    let num1 = Number(num1AsString);
+    let num2 = Number(num2AsString);
+    let sum = 0;
+
+    for (let i = num1; i <= num2; i++) {
+        sum += i;
+    }
+
+    console.log(sum);
+}
+
+//7. Day of Week
+function dayOfWeek(day){
+    let result;
+
+    switch (day) {
+        case "Monday": result = 1; break;
+        case "Tuesday": result = 2; break;
+        case "Wednesday": result = 3; break;
+        case "Thursday": result = 4; break;
+        case "Friday": result = 5; break;
+        case "Saturday": result = 6; break;
+        case "Sunday": result = 7; break;
+        default: result = "error";
+    }
+    console.log(result);
+}
+
+//8. Days in a month
+function daysInAMonth(month, year){
+    var days = new Date(year, month, 0).getDate();
+    console.log(days);
+}
+
+daysInAMonth(1, 2012);
+daysInAMonth(2, 2021);
+
+//9. Square of Stars
+function squareOfStars(starsCount){
+    if (starsCount == null) {
+        starsCount = 5;
+    }
+    for (let row = 0; row < starsCount; row++) {
+        console.log(`${'* '.repeat(starsCount)}`);
+    }
+}
+
+squareOfStars(0);
+
+//10. Aggregate Elements
+function aggregateElements(input){
+    let elements = input.map(Number);
+
+    aggregate(elements, 0, (a, b) => a+b);
+    aggregate(elements, 0, (a, b) => a + 1 / b);
+    aggregate(elements, "", (a, b) => a+b);
+
+    function aggregate(arr, initVal, func){
+        let val = initVal;
+        for (let i = 0; i < arr.length; i++) {
+            val = func(val, arr[i]);
+        }
+        console.log(val);
+    }
+}
