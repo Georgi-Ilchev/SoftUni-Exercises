@@ -15,7 +15,7 @@ function solve2(first, second) {
     second = Math.abs(second);
 
     while (second) {
-        var current = second;
+        let current = second;
         second = first % second;
         first = current;
     }
@@ -79,8 +79,8 @@ function solve4(steps, footLength, speed) {
     let seconds = Math.ceil(time % 60);
 
     console.log(`${hours < 10 ? 0 : ""}${hours}:${mins < 10 ? 0 : ""}${mins}:${seconds < 10 ? 0 : ""}${seconds}`);
-
 };
+
 solve4(4000, 0.60, 5);
 solve4(2564, 0.70, 5.5);
 
@@ -240,3 +240,243 @@ function solve10(text) {
 };
 solve9('Hi, how are you?');
 solve9('hello')
+
+//1. Fruit
+function fruit(fruit, weight, price) {
+    const weightInKg = weight / 1000
+    const sum = weightInKg * price;
+
+    console.log(`I need $${sum.toFixed(2)} to buy ${weightInKg.toFixed(2)} kilograms ${fruit}.`);
+}
+
+fruit('orange', 2500, 1.80)
+
+//2. Greatest Common Divisor - GCD
+function gcd(first, second) {
+    first = Math.abs(first);
+    second = Math.abs(second);
+
+    while (second) {
+        let current = second;
+        second = first % second;
+        first = current;
+    }
+    console.log(first);
+}
+
+//3. Same Numbers
+function sameNumbers(numInt) {
+    const numStr = numInt.toString();
+    let result = parseInt(numStr[0]);
+    let isSame = true;
+
+    for (let i = 1; i < numStr.length; i++) {
+        result += parseInt(numStr[i]);
+
+        if (numStr[i] != numStr[i - 1]) {
+            isSame = false;
+        }
+    }
+    console.log(isSame);
+    console.log(result);
+}
+
+sameNumbers(2222222);
+sameNumbers(1234);
+
+//4. Previous Day
+function previousDay(year, month, day) {
+    let date = new Date(year, month - 1, day);
+    let previousDay = new Date(date);
+
+    previousDay.setDate(previousDay.getDate() - 1);
+
+    console.log(`${previousDay.getFullYear()}-${previousDay.getMonth() + 1}-${previousDay.getDate()}`);
+}
+
+//5. Time to Walk
+function timeToWalk(steps, footLength, speed) {
+    let distance = steps * footLength;
+    let speedForMeter = speed / 3.6;
+    let rest = Math.floor(distance / 500);
+
+    let time = distance / speedForMeter + rest * 60;
+
+    let hours = Math.floor(time / 3600);
+    let minutes = Math.floor(time / 60);
+    let seconds = Math.ceil(time % 60);
+
+    console.log(`${hours < 10 ? 0 : ""}${hours}:${minutes < 10 ? 0 : ""}${minutes}:${seconds < 10 ? 0 : ""}${seconds}`);
+}
+
+//6. Road Radar
+function roadRadar(speed, area) {
+    switch (area) {
+        case "motorway":
+            const motorwayLimit = 130;
+            if (speed <= motorwayLimit) {
+                console.log(`Driving ${speed} km/h in a ${motorwayLimit} zone`);
+            } else {
+                let status = speeding(speed, motorwayLimit);
+                let overSpeed = speed - motorwayLimit;
+                console.log(`The speed is ${overSpeed} km/h faster than the allowed speed of ${motorwayLimit} - ${status}`);
+            } break;
+
+        case "interstate":
+            const interstateLimit = 90;
+            if (speed <= interstateLimit) {
+                console.log(`Driving ${speed} km/h in a ${interstateLimit} zone`);
+            } else {
+                let status = speeding(speed, interstateLimit);
+                let overSpeed = speed - interstateLimit;
+                console.log(`The speed is ${overSpeed} km/h faster than the allowed speed of ${interstateLimit} - ${status}`);
+            } break;
+
+        case "city":
+            const cityLimit = 50;
+            if (speed <= cityLimit) {
+                console.log(`Driving ${speed} km/h in a ${cityLimit} zone`);
+            } else {
+                let status = speeding(speed, cityLimit);
+                let overSpeed = speed - cityLimit;
+                console.log(`The speed is ${overSpeed} km/h faster than the allowed speed of ${cityLimit} - ${status}`);
+            } break;
+
+        case "residential":
+            const residentialLimit = 20;
+            if (speed <= residentialLimit) {
+                console.log(`Driving ${speed} km/h in a ${residentialLimit} zone`);
+            } else {
+                let status = speeding(speed, residentialLimit);
+                let overSpeed = speed - residentialLimit;
+                console.log(`The speed is ${overSpeed} km/h faster than the allowed speed of ${residentialLimit} - ${status}`);
+            } break;
+    }
+
+    function speeding(currentSpeed, areaLimit) {
+        let overSpeed = currentSpeed - areaLimit;
+        if (overSpeed <= 20) {
+            return (`speeding`);
+        } else if (overSpeed > 20 && overSpeed <= 40) {
+            return (`excessive speeding`);
+        } else {
+            return (`reckless driving`);
+        }
+    }
+}
+
+roadRadar(21, "residential");
+
+//7. Cooking by Numbers
+function cookingByNumbers(number, op1, op2, op3, op4, op5) {
+    // let number = Number(input[0]);
+
+    // for (let i = 1; i < input.length; i++) {
+    //     switch (input[i]) {
+    //         case 'chop': 
+    //             number /= 2;
+    //             console.log(number);
+    //             break;
+    //         case 'dice': 
+    //             number = Math.sqrt(number);
+    //             console.log(number);
+    //             break;
+    //         case 'spice': 
+    //             number += 1;
+    //             console.log(number);
+    //             break;
+    //         case 'bake':
+    //             number *= 3;
+    //             console.log(number);
+    //             break;
+    //         case 'fillet':
+    //             number *= 0.8;
+    //             console.log(number.toFixed(1));
+    //             break;
+    //         default:
+    //             break;
+    //     }
+    // }
+
+    number = Number(number);
+
+    let chop = function (n) {
+        return n / 2;
+    }
+
+    let dice = function (n) {
+        return Math.sqrt(n);
+    }
+
+    let spice = function (n) {
+        return n + 1;
+    }
+
+    let bake = function (n) {
+        return n * 3;
+    }
+
+    let fillet = function (n) {
+        return n * 0.8;
+    }
+
+    const arr = [op1, op2, op3, op4, op5];
+    let result = number;
+
+    for (let i = 0; i < arr.length; i++) {
+        switch (arr[i]) {
+            case 'chop':
+                result = chop(result);
+                console.log(result);
+                break;
+            case 'dice':
+                result = dice(result);
+                console.log(result);
+                break;
+            case 'spice':
+                result = spice(result);
+                console.log(result);
+                break;
+            case 'bake':
+                result = bake(result);
+                console.log(result);
+                break;
+            case 'fillet':
+                result = fillet(result);
+                console.log(result);
+                break;
+            default:
+                break;
+        }
+    }
+}
+
+cookingByNumbers('32', 'chop', 'chop', 'chop', 'chop', 'chop');
+cookingByNumbers('9', 'dice', 'spice', 'chop', 'bake', 'fillet')
+
+//8. Validity Checker
+function validityChecker(x1, y1, x2, y2) {
+    console.log(`{${x1}, ${y1}} to {0, 0} is ${checkValidity(isValid(x1, y1, 0, 0))}`);
+    console.log(`{${x2}, ${y2}} to {0, 0} is ${checkValidity(isValid(x2, y2, 0, 0))}`);
+    console.log(`{${x1}, ${y1}} to {${x2}, ${y2}} is ${checkValidity(isValid(x1, y1, x2, y2))}`);
+
+    function isValid(x1, y1, x2, y2) {
+        let value = Math.sqrt((x2 - x1) ** 2 + (y2 - y1) ** 2);
+        return Number.isInteger(value);
+    }
+
+    function checkValidity(validity) {
+        return validity ? 'valid' : 'invalid';
+    }
+}
+
+validityChecker(3, 0, 0, 4);
+
+//9. *Words Uppercase
+function wordsUppercase(text) {
+    let result = text.toUpperCase()
+        .match(/\w+/g)
+        .join(', ');
+
+    console.log(result);
+}
