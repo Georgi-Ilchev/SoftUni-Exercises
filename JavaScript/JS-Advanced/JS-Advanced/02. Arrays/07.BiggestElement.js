@@ -86,3 +86,14 @@ solve3([[3, 5, 7, 12],
 [-1, 4, 33, 2],
 [8, 3, 0, 4]]
 );
+
+
+function biggestElement(matrix) {
+    let maxNumber = matrix
+        .map(row => Math.max(...row));
+
+    return (Math.max(...maxNumber));
+}
+
+biggestElement([[20, 50, 10],
+[8, 33, 145]])

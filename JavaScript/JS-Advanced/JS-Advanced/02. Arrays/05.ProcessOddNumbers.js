@@ -21,3 +21,13 @@ function solve1(input) {
 };
 solve1([10, 15, 20, 25]);
 solve1([3, 0, 10, 4, 7, 3]);
+
+
+function oddPositions(array) {
+    let result = array
+        .filter((x, i) => i % 2 == 1)
+        .map(x => x * 2)
+        .reverse();
+
+    return result.join(' ');
+}

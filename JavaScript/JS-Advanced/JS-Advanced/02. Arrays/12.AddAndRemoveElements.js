@@ -33,3 +33,23 @@ function solve1(input) {
 solve1(['add', 'add', 'add', 'add']);
 solve1(['add', 'add', 'remove', 'add', 'add']);
 solve1(['remove', 'remove', 'remove']);
+
+function addOrRemoveElements(commands) {
+    let result = [];
+    let initialNumber = 1;
+
+    for (const command of commands) {
+        if (command == 'add') {
+            result.push(initialNumber);
+        } else {
+            result.pop(initialNumber);
+        }
+        initialNumber++;
+    }
+
+    if (result.length == 0) {
+        console.log('Empty');
+    } else {
+        console.log(result.join('\n').trim());
+    }
+}

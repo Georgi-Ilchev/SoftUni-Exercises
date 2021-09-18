@@ -7,5 +7,15 @@ function solve(input) {
     console.log(sum);
 };
 
-solve(['20', '30', '40']);
-solve(['5', '10']);
+// solve(['20', '30', '40']);
+// solve(['5', '10']);
+
+
+function sumFirstLast(array) {
+    let first = Number(array.shift());
+    let last = Number(array.pop());
+
+    return first + last;
+}
+
+sumFirstLast(['20', '30', '40']);

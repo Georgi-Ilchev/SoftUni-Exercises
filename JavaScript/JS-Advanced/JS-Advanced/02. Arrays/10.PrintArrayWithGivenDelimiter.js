@@ -4,5 +4,11 @@ function solve(input) {
     console.log(input.join(delimiter));
 };
 
-solve(['One', 'Two', 'Three', 'Four', 'Five', '-']);
-solve(['How about no?', 'I', 'will', 'not', 'do', 'it!', '_']);
+// solve(['One', 'Two', 'Three', 'Four', 'Five', '-']);
+// solve(['How about no?', 'I', 'will', 'not', 'do', 'it!', '_']);
+
+function arrayWithDelimiter(array, delimiter) {
+    console.log(array.join(delimiter));
+}
+
+arrayWithDelimiter(['One', 'Two', 'Three', 'Four', 'Five'], '-');

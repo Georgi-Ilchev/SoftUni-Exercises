@@ -26,3 +26,17 @@ function solve1(input) {
 solve1(['alpha', 'beta', 'gamma']);
 solve1(['Isacc', 'Theodor', 'Jack', 'Harrison', 'George']);
 solve1(['test', 'Deny', 'omen', 'Default']);
+
+function sortingArray(array) {
+    array.sort((a, b) => {
+        if (a.length > b.length) {
+            return 1;
+        } else if (a.length === b.length) {
+            return a.localeCompare(b);
+        } else {
+            return -1;
+        }
+    })
+
+    console.log(array.join('\n'));
+}

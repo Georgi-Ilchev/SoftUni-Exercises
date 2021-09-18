@@ -7,3 +7,11 @@ function solve(input) {
 };
 solve([30, 15, 50, 5]);
 solve([3, 0, 10, 4, 7, 3]);
+
+function smallestTwoNumbers(array) {
+    array.sort(function (a, b) {
+        return a - b;
+    })
+
+    console.log(`${array[0]} ${array[1]}`);
+}
