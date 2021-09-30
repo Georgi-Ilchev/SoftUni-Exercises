@@ -13,7 +13,7 @@ function solve() {
     quickCheck.addEventListener('click', checkResult);
     clear.addEventListener('click', clearInput);
 
-    function checkResult() {
+    function checkResult(ev) {
         let matrix = [
             [inputs[0].value, inputs[1].value, inputs[2].value],
             [inputs[3].value, inputs[4].value, inputs[5].value],
@@ -40,11 +40,11 @@ function solve() {
         } else {
             table.style.border = '2px solid red';
             output.style.color = 'red';
-            output.textContent = 'NOP! You are not done yet...';
+            output.textContent = 'NOP! You are not done yet...'
         }
     }
 
-    function clearInput() {
+    function clearInput(ev) {
         [...inputs].forEach(input => input.value = '');
         output.textContent = '';
         table.style.border = 'none';
