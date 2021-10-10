@@ -1,0 +1,14 @@
+{
+  "name": "09.-classes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01.person.js",
+  "scripts": {
+    "test": "mocha 15.string-builder.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4"
+  }
+}
