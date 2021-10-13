@@ -4,11 +4,29 @@
     }
 
     Array.prototype.skip = function (number) {
-        return this.slice(number);
+        //1
+        // return this.slice(number);
+
+        //2
+        const result = [];
+        for (let i = number; i < this.length; i++) {
+            result.push(this[i]);
+        }
+
+        return result;
     }
 
     Array.prototype.take = function (number) {
-        return this.slice(0, number);
+        //1
+        // return this.slice(0, number);
+
+        //2
+        const result = [];
+        for (let i = 0; i < number; i++) {
+            result.push(this[i]);
+        }
+
+        return result;
     }
 
     Array.prototype.sum = function () {

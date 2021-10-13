@@ -1,5 +1,4 @@
 function extensibleObject() {
-
     let proto = {};
     let extensibleObject = Object.create(proto);
 

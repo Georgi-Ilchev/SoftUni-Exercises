@@ -23,7 +23,11 @@
     };
 
     String.prototype.isEmpty = function () {
-        return this.toString() === '' ? true : false;
+        //1
+        // return this.toString() === '' ? true : false;
+
+        //2
+        return this.length == 0;
     };
 
     String.prototype.truncate = function (n) {
@@ -90,11 +94,17 @@
         // return replacedStr;
 
         //2
-        params.forEach((el, i) => {
-            if (str.includes(`{${i}}`)) {
-                str = str.replace(`{${i}}`, el);
-            }
-        })
+        // params.forEach((el, i) => {
+        //     if (str.includes(`{${i}}`)) {
+        //         str = str.replace(`{${i}}`, el);
+        //     }
+        // })
+        // return str;
+
+        //3
+        for (let i = 0; i < params.length; i++) {
+            str = str.replace(`{${i}}`, params[i]);
+        }
         return str;
     };
 })();

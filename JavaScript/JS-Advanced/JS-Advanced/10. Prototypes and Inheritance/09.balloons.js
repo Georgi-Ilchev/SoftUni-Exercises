@@ -1,14 +1,14 @@
-function baloons() {
+function balloons() {
     class Balloon {
-        constructor(color, gasWeight) {
+        constructor(color, hasWeight) {
             this.color = color;
-            this.gasWeight = gasWeight;
+            this.hasWeight = hasWeight;
         }
     }
 
     class PartyBalloon extends Balloon {
-        constructor(color, gasWeight, ribbonColor, ribbonLength) {
-            super(color, gasWeight);
+        constructor(color, hasWeight, ribbonColor, ribbonLength) {
+            super(color, hasWeight);
             this._ribbon = { color: ribbonColor, length: ribbonLength };
         }
 
@@ -18,8 +18,8 @@ function baloons() {
     }
 
     class BirthdayBalloon extends PartyBalloon {
-        constructor(color, gasWeight, ribbonColor, ribbonLength, text) {
-            super(color, gasWeight, ribbonColor, ribbonLength);
+        constructor(color, hasWeight, ribbonColor, ribbonLength, text) {
+            super(color, hasWeight, ribbonColor, ribbonLength);
             this._text = text;
         }
 
