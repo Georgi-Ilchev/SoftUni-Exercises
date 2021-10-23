@@ -1,0 +1,16 @@
+{
+  "name": "28.ChristmasMovies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "christmasMovies.js",
+  "scripts": {
+    "test": "mocha christmasMovies.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.3"
+  }
+}
