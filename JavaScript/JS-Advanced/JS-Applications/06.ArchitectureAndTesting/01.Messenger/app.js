@@ -5,7 +5,6 @@ function attachEvents() {
 
         await sendMessage({author, content});
 
-        document.getElementById('author').value = '';
         document.getElementById('content').value = '';
     });
 
