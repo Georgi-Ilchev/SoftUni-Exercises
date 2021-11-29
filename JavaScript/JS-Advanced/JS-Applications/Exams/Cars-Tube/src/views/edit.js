@@ -1,5 +1,6 @@
 import { editCar, getCarById } from '../api/data.js';
 import { html } from '../lib.js';
+import { getUserData } from '../util.js';
 
 const editTemplate = (car, onSubmit) => html`
 <section id="edit-listing">
@@ -29,6 +30,13 @@ const editTemplate = (car, onSubmit) => html`
 
 export async function editPage(ctx) {
     const car = await getCarById(ctx.params.id);
+    const userData = getUserData();
+
+    if (car._ownerId != userData.id) {
+        ctx.page.redirect('/details/' + car._id);
+        return;
+    }
+
     ctx.render(editTemplate(car, onSubmit));
 
     async function onSubmit(ev) {
