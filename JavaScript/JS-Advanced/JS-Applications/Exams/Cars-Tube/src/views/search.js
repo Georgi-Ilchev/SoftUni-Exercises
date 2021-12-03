@@ -1,4 +1,4 @@
-import { editCar, searchCar } from '../api/data.js';
+import { searchCar } from '../api/data.js';
 import { html } from '../lib.js';
 
 const searchTemplate = (cars, search, params = '') => html`
