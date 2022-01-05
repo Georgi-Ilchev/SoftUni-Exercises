@@ -1,4 +1,6 @@
 const { Router } = require('express');
+const productService = require('../services/productService.js');
+
 const router = Router();
 
 //GET
@@ -16,8 +18,10 @@ router.get('/details/:productId', (req, res) => {
 
 //POST
 router.post('/create', (req, res) => {
-    console.log(req.body);
+    // VALIDATE INPUTS !!!
+    let data = req.body;
 
+    productService.create(data);
     res.redirect('/');
 });
 
