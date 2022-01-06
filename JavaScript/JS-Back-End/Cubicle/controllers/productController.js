@@ -21,11 +21,22 @@ router.get('/details/:productId', (req, res) => {
 });
 
 //POST
-router.post('/create', validateProduct, (req, res) => {
-    let data = req.body;
-    productService.create(data);
+//1 and 2 -> productService
+// router.post('/create', validateProduct, (req, res) => {
+//     let data = req.body;
+//     productService.create(data);
 
-    res.redirect('/');
+//     res.redirect('/');
+// });
+
+//3
+router.post('/create', validateProduct, (req, res) => {
+    productService.create(req.body, (err) => {
+        if (err) {
+            return res.status(500).end();
+        }
+        res.redirect('/');
+    });
 });
 
 module.exports = router;
