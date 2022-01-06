@@ -6,7 +6,9 @@ const router = Router();
 
 //GET
 router.get('/', (req, res) => {
-    let products = productService.getAll();
+    //req.query => search
+    let products = productService.getAll(req.query);
+    
     res.render('home', { title: 'Browse', products });
 });
 
@@ -21,6 +23,7 @@ router.get('/details/:productId', (req, res) => {
 });
 
 //POST
+
 //1 and 2 -> productService
 // router.post('/create', validateProduct, (req, res) => {
 //     let data = req.body;
@@ -38,5 +41,12 @@ router.post('/create', validateProduct, (req, res) => {
         res.redirect('/');
     });
 });
+
+//4 - not working
+// router.post('/create', validateProduct, (req, res) => {
+//     productService.create(req.body)
+//         .then(() => res.redirect('/'))
+//         .catch(() => res.status(500).end())
+// });
 
 module.exports = router;
