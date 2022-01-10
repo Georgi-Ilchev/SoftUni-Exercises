@@ -30,7 +30,7 @@ module.exports = {
             }
         });
 
-        //3 - not working
+        //3
         // productsData.push(product);
         // fs.writeFile(
         //     path.join(__dirname, '../config/products.json'),
@@ -38,7 +38,7 @@ module.exports = {
         //     () => { }
         // );
 
-        //4 - not working
+        //4
         // productsData.push(product);
         // return fs.writeFile(
         //     path.join(__dirname, '../config/products.json'),

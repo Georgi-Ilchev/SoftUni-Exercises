@@ -24,15 +24,15 @@ router.get('/details/:productId', (req, res) => {
 
 //POST
 
-//1 and 2 -> productService
-router.post('/create', validateProduct, (req, res) => {
-    let data = req.body;
-    productService.create(data);
+//1 and 2 -> models - Cube || data - productData
+// router.post('/create', validateProduct, (req, res) => {
+//     let data = req.body;
+//     productService.create(data);
 
-    res.redirect('/');
-});
+//     res.redirect('/');
+// });
 
-//3 - not working
+//3
 // router.post('/create', validateProduct, (req, res) => {
 //     productService.create(req.body, (err) => {
 //         if (err) {
@@ -42,11 +42,11 @@ router.post('/create', validateProduct, (req, res) => {
 //     });
 // });
 
-//4 - not working
-// router.post('/create', validateProduct, (req, res) => {
-//     productService.create(req.body)
-//         .then(() => res.redirect('/'))
-//         .catch(() => res.status(500).end())
-// });
+//4
+router.post('/create', validateProduct, (req, res) => {
+    productService.create(req.body)
+        .then(() => res.redirect('/'))
+        .catch(() => res.status(500).end())
+});
 
 module.exports = router;
