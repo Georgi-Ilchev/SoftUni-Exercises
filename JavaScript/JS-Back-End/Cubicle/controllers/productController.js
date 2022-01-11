@@ -4,25 +4,24 @@ const { validateProduct } = require('./helpers/productHelpers.js');
 
 const router = Router();
 
-//GET
 router.get('/', (req, res) => {
     //req.query => search
-    let products = productService.getAll(req.query);
-
-    res.render('home', { title: 'Browse', products });
+    productService.getAll(req.query)
+        .then(products => {
+            res.render('home', { title: 'Browse', products });
+        })
+        .catch(() => res.status(404).end())
 });
 
 router.get('/create', (req, res) => {
     res.render('create', { title: 'Create' });
 });
 
-router.get('/details/:productId', (req, res) => {
-    let product = productService.getOne(req.params.productId);
+router.get('/details/:productId', async (req, res) => {
+    let product = await productService.getOne(req.params.productId);
 
     res.render('details', { title: 'Details', product });
 });
-
-//POST
 
 //1 and 2 -> models - Cube || data - productData
 // router.post('/create', validateProduct, (req, res) => {

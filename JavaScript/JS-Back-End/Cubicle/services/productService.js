@@ -1,10 +1,10 @@
 const Cube = require('../models/Cube.js');
 const productData = require('../data/productData.js');
 
-
-function getAll(query) {
-    let products = productData.getAll(); //with data layer
+async function getAll(query) {
+    //let products = productData.getAll(); //with data layer
     //let products = Cube.getAll();
+    let products = await Cube.find({}).lean();
 
     if (query.search) {
         products = products.filter(x => x.name.toLowerCase().includes(query.search));
@@ -22,14 +22,15 @@ function getAll(query) {
 }
 
 function getOne(id) {
-    return productData.getOne(id); //with data layer
+    //return productData.getOne(id); //with data layer
     // return Cube.getOne(id);
+    return Cube.findById(id).lean();
 }
 
 function create(data) {
+    // Validate incoming data
     let cube = new Cube(data);
 
-    // return productData.create(cube); with data layer
     return cube.save();
 }
 
