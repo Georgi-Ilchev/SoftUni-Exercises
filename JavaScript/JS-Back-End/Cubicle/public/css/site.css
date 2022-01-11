@@ -105,10 +105,18 @@ button, main a.btn {
     color: white;
 }
 
+.details a.btn{
+    width: 20%;
+}
+
 button:hover {
     background-color: #0B2133;
     color: white;
     cursor: pointer;
+}
+
+a.btn:hover{
+    text-decoration: underline;
 }
 
 a {
@@ -157,6 +165,7 @@ form label {
 
 input[type=text],
 input[type=number],
+input[type=password],
 select,
 textarea {
     width: 100%;
@@ -250,9 +259,23 @@ footer {
     font-size: 20px;
 }
 
+#notifications {
+    margin: 0 auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+    width: 50%;
+    padding: 0.5%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    background: rgb(231, 118, 118);
+    color: white;
+    border-radius: 5px;
+    text-decoration: underline;
+}
+
 /*Animations & Transitions
 */
-
 
 @-webkit-keyframes fadeOut {
     from {
