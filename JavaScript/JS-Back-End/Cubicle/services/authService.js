@@ -3,8 +3,6 @@ const { SALT_ROUNDS, SECRET } = require('../config');
 const jwt = require('jsonwebtoken');
 const User = require('../models/User.js');
 
-const saltRounds = 10;
-
 const login = async ({ username, password }) => {
     let user = await User.findOne({ username });
 
