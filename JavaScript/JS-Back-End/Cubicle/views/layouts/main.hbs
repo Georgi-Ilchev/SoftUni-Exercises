@@ -11,17 +11,22 @@
 <body>
     <div class="container">
         <header>
+            {{#if error}}
+            <div id="notifications">
+                <p id="notification-message">{{error.message}}</p>
+            </div>
+            {{/if}}
             <ul>
                 <li><img class="logo" src="/images/logo.png"></li>
                 <li><a href="/products">Browse</a></li>
                 <li><a href="/about">About</a></li>
                 {{#if isAuthenticated}}
-                    <li><a href="/products/create">Add a Cube</a></li>
-                    <li><a href="/accessories/create">Add Accessory</a></li>
-                    <li><a href="/auth/logout">Logout</a></li>
+                <li><a href="/products/create">Add a Cube</a></li>
+                <li><a href="/accessories/create">Add Accessory</a></li>
+                <li><a href="/auth/logout">Logout</a></li>
                 {{else}}
-                    <li><a href="/auth/login">Login</a></li>
-                    <li><a href="/auth/register">Register</a></li>
+                <li><a href="/auth/login">Login</a></li>
+                <li><a href="/auth/register">Register</a></li>
                 {{/if}}
             </ul>
         </header>

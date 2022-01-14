@@ -28,10 +28,11 @@ const register = async ({ username, password }) => {
         throw { message: 'Username already exist!' }
     }
 
-    let salt = await bcrypt.genSalt(SALT_ROUNDS);
-    let hash = await bcrypt.hash(password, salt);
+    //1
+    // let salt = await bcrypt.genSalt(SALT_ROUNDS);
+    // let hash = await bcrypt.hash(password, salt);
 
-    const user = new User({ username, password: hash });
+    const user = new User({ username, password /*: hash */ });
     return await user.save();
 };
 
