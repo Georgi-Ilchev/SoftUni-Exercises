@@ -47,17 +47,50 @@ router.post('/:productId/attach', isAuthenticated, (req, res) => {
 router.get('/:productId/edit', isAuthenticated, async (req, res) => {
     productService.getOne(req.params.productId)
         .then(product => {
-            res.render('editCube', product);
+            if (req.user._id != product.creator) {
+                res.redirect('/products');
+            } else {
+                res.render('editCube', product);
+            }
         });
 });
 
 router.post('/:productId/edit', isAuthenticated, validateProduct, (req, res) => {
-    productService.updateOne(req.params.productId, req.body)
-        .then(response => {
-            res.redirect(`/products/details/${req.params.productId}`);
-        })
-        .catch(error => {
+    productService.getOne(req.params.productId)
+        .then(product => {
+            if (req.user._id != product.creator) {
+                return res.redirect('/products');
+            }
 
+            return productService.updateOne(req.params.productId, req.body);
+        })
+        .then(response => res.redirect(`/products/details/${req.params.productId}`))
+        .catch(error => {
+        });
+});
+
+router.get('/:productId/delete', isAuthenticated, async (req, res) => {
+    productService.getOne(req.params.productId)
+        .then(product => {
+            if (req.user._id != product.creator) {
+                res.redirect('/products');
+            } else {
+                res.render('deleteCube', product);
+            }
+        });
+});
+
+router.post('/:productId/delete', isAuthenticated, (req, res) => {
+    productService.getOne(req.params.productId)
+        .then(product => {
+            if (req.user._id != product.creator) {
+                return res.redirect('/products');
+            }
+
+            return productService.deleteOne(req.params.productId);
+        })
+        .then(response => res.redirect('/products'))
+        .catch(error => {
         });
 });
 
@@ -66,7 +99,7 @@ router.post('/:productId/edit', isAuthenticated, validateProduct, (req, res) => 
 //     let data = req.body;
 //     productService.create(data);
 
-//     res.redirect('/');
+//     res.redirect('/products');
 // });
 
 //3
@@ -75,11 +108,8 @@ router.post('/:productId/edit', isAuthenticated, validateProduct, (req, res) => 
 //         if (err) {
 //             return res.status(500).end();
 //         }
-//         res.redirect('/');
+//         res.redirect('/products');
 //     });
 // });
-
-//4
-
 
 module.exports = router;
