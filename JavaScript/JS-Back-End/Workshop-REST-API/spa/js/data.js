@@ -1,11 +1,11 @@
 import { beginRequest, endRequest } from './notification.js';
 
 function host(endpoint) {
-    return `https://api.backendless.com/6E45D00C-101E-5BF9-FF2C-B81247B4DD00/58BC7FA0-B5E4-41B8-B687-679E1059FB9A/${endpoint}`;
+    return `http://localhost:5000/api/${endpoint}`;
 }
 
 const endpoints = {
-    REGISTER: 'users/register',
+    REGISTER: 'auth/register',
     LOGIN: 'users/login',
     LOGOUT: 'users/logout',
     MOVIES: 'data/movies',
@@ -107,7 +107,7 @@ export async function getMovies(search, page) {
     const token = localStorage.getItem('userToken');
 
     let result;
-    const pagingQuery = `pageSize=9&offset=${(page-1)*9}`;
+    const pagingQuery = `pageSize=9&offset=${(page - 1) * 9}`;
 
     if (!search) {
         result = (await fetch(host(endpoints.MOVIES + '?' + pagingQuery), {
