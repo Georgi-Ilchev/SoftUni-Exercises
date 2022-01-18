@@ -6,11 +6,11 @@ function host(endpoint) {
 
 const endpoints = {
     REGISTER: 'auth/register',
-    LOGIN: 'users/login',
-    LOGOUT: 'users/logout',
-    MOVIES: 'data/movies',
-    MOVIE_BY_ID: 'data/movies/',
-    MOVIE_COUNT: 'data/movies/count'
+    LOGIN: 'auth/login',
+    LOGOUT: 'auth/logout',
+    MOVIES: 'movies',
+    MOVIE_BY_ID: 'movies/',
+    MOVIE_COUNT: 'movies/count'
 };
 
 export async function register(username, password) {
@@ -46,9 +46,9 @@ export async function login(username, password) {
         })
     })).json();
 
-    localStorage.setItem('userToken', result['user-token']);
+    localStorage.setItem('userToken', result.token);
     localStorage.setItem('username', result.username);
-    localStorage.setItem('userId', result.objectId);
+    localStorage.setItem('userId', result._id);
 
     endRequest();
 
@@ -155,7 +155,7 @@ export async function createMovie(movie) {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
-            'user-token': token
+            'Authorization': `Bearer ${token}`
         },
         body: JSON.stringify(movie)
     })).json();
@@ -214,7 +214,7 @@ export async function getMovieByOwner() {
     const result = (await fetch(host(endpoints.MOVIES + `?where=ownerId%3D%27${ownerId}%27`), {
         headers: {
             'Content-Type': 'application/json',
-            'user-token': token
+            'Authorization': `Bearer ${token}`
         }
     })).json();
 
