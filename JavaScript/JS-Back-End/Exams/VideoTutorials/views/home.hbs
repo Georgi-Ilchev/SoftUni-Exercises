@@ -1,0 +1,36 @@
+<main>
+    {{#if isAuth}}
+    <h1 class="text-center">Courses</h1>
+    <section>
+        <a href="/course/create" class="btn btn-warning ">Create Course</a>
+        <form class="search float-right" method="GET">
+            <label>Search: </label>
+            <input type="text" name="search">
+            <input type="submit" class="btn btn-info" value="Search">
+        </form>
+    </section>
+    {{else}}
+    <div class="jumbotron jumbotron-fluid">
+        <div class="container">
+            <h1 class="display-4">Video Tutorials</h1>
+            <p class="lead">Start Self-Study Today: It'll Change Your Life</p>
+        </div>
+    </div>
+
+    <h1 class="text-center">Top Courses</h1>
+    {{/if}}
+
+    {{#if courses}}
+    <div class="container mt-3">
+        <div class="row ">
+            {{#each courses}}
+            <div class="card-deck d-flex justify-content-center">
+                {{>course isAuth=../isAuth}}
+            </div>
+            {{/each}}
+        </div>
+    </div>
+    {{else}}
+    <h3 class="text-center">No courses...</h3>
+    {{/if}}
+</main>
