@@ -3,12 +3,12 @@
         {
             "id": 1,
             "content": "Some content here",
-            "authror": "Pesho"
+            "author": "Pesho"
         },
         {
             "id": 2,
             "content": "Some content here2",
-            "authror": "Gosho"
+            "author": "Gosho"
         }
     ]
 }
