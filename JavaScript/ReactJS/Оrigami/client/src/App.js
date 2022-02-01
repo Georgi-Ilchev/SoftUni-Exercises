@@ -1,10 +1,13 @@
 import { Component } from 'react';
+import { Route, Link, NavLink, Redirect, Routes } from 'react-router-dom';
 
 import * as postService from './services/postService.js';
 
 import Header from './components/Header/Header.js';
 import Menu from './components/Menu/Menu.js';
 import Main from './components/Main/Main.js';
+import About from './components/About/About.js';
+import NotFound from './components/NotFound/NotFound.js';
 import style from './App.module.css';
 
 // function App() {
@@ -56,12 +59,14 @@ class App extends Component {
                 <Header />
 
                 <div className={style.container}>
-                    <Menu
-                        onMenuItemClick={this.onMenuItemClick}
-                    />
-                    <Main
-                        posts={this.getPosts()}
-                    />
+                    <Menu onMenuItemClick={this.onMenuItemClick} />
+
+                    <Routes>
+                        <Route path="/" element={<Main posts={this.getPosts()} />} />
+                        <Route path="/about" element={<About />} />
+                        <Route path="/about/:id" element={<About />} />
+                        <Route path="*" element={<NotFound />} />
+                    </Routes>
                 </div>
             </div >
         );

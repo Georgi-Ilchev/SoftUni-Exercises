@@ -5,3 +5,7 @@
     padding: 0;
     font-family: 'Indie- Flower', cursive;
 }
+
+.active-nav-item{
+    background-color: lightsalmon;
+}
